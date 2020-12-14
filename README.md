@@ -1,20 +1,25 @@
 ### Hi there 👋
 
 - 😄 Pronouns: he/him
+- 🌱 I’m currently learning
+  - [k8s](https://kubernetes.io/)
+  - [prometheus](https://prometheus.io/)
+  - [proxmox](https://proxmox.com/en/)
+  - [ceph](https://ceph.io/)
 
 <!--
 **pgmac/pgmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-Articles I've added to my [GetPocket](https://getpocket.com/) list
+
+### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [k6.io - Performance testing for developers, like unit-testing, for performance](https://k6.io)
 * [Ceph performance](https://yourcmc.ru/wiki/Ceph_performance)
@@ -26,3 +31,4 @@ Articles I've added to my [GetPocket](https://getpocket.com/) list
 * [Unimog - Cloudflare’s edge load balancer](https://blog.cloudflare.com/unimog-cloudflares-edge-load-balancer/)
 * [Have You Tried Building Your Own TV Channels in Plex?](https://gizmodo.com/have-you-tried-building-your-own-tv-channels-in-plex-1844703597)
 * [Comparison of Open Source API Analytics and Monitoring Tools](https://dzone.com/articles/comparison-of-open-source-api-analytics-and-monito)
+* [Samba 4.1.14 upgrade problem](https://pgmac.net.au/technology/2014/12/07/samba-4.1.14-upgrade-problem.html)
