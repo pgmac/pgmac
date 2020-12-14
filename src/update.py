@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 from pocket import Pocket, PocketException
+import feedparser
 from pprint import pprint
 
 
@@ -19,7 +20,7 @@ def pocket_pop():
         access_token=acctok
     )
 
-    retstr = "Articles I've added to my [GetPocket](https://getpocket.com/) list\n\n"
+    retstr = "\n### Articles I've added to my [GetPocket](https://getpocket.com/) list\n\n"
 
     try:
         articles = p.retrieve(offset=0, count=10)
@@ -28,6 +29,19 @@ def pocket_pop():
             retstr += "* [{}]({})\n".format(url['resolved_title'], url['resolved_url'])
     except PocketException as e:
         print(e.message)
+
+    return retstr
+
+
+def pgmac_pop(l_url):
+    retstr = "\n### My Blog Posts"
+    try:
+        articles = feedparser.parse(l_url)
+        for article in articles['entries']:
+            print("{} {}".format(article['title'], article['link']))
+            retstr = "* [{}]({})\n".format(article['title'], article['link'])
+    except:
+        pass
 
     return retstr
 
@@ -46,6 +60,7 @@ readme = ""
 if __name__ == "__main__":
     readme = add_file("src/HEADER.md")
     readme += pocket_pop()
+    readme += pgmac_pop('https://pgmac.net.au/feed.xml')
     readme += add_file("src/FOOTER.md")
     print(readme)
     write_file(readme, "README.md")
