@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 Pronouns: he/him
+- 😄 Pronouns: me/us
 - 🌱 I’m currently learning
   - [k8s](https://kubernetes.io/)
   - [prometheus](https://prometheus.io/)
