@@ -25,7 +25,7 @@ jobs:
         cat README.md
     - name: Commit and push if README changed
       run: |-
-        cd main
+        cd src
         git diff
         git config --global user.email "readme-bot@pgmac.dev"
         git config --global user.name "README-bot"
