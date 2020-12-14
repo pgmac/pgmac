@@ -19,19 +19,33 @@ def pocket_pop():
         access_token=acctok
     )
 
+    retstr = "Articles I've added to my [GetPocket](https://getpocket.com/) list\n\n"
+
     try:
         articles = p.retrieve(offset=0, count=10)
         for url in articles['list'].values():
-            print("{}\n{}\n".format(url['resolved_title'], url['resolved_url']))
+            # print("* [{}]({})\n".format(url['resolved_title'], url['resolved_url']))
+            retstr += "* [{}]({})\n".format(url['resolved_title'], url['resolved_url'])
     except PocketException as e:
         print(e.message)
 
+    return retstr
+
 
 def add_file(l_file):
-    print(open(l_file, "r").read())
+    return open(l_file, "r").read()
 
 
+def write_file(l_string, l_file):
+    with open(l_file, "w") as f:
+        f.write(l_string)
+    f.close()
+
+
+readme = ""
 if __name__ == "__main__":
-    add_file("src/HEADER.md")
-    pocket_pop()
-    add_file("src/FOOTER.md")
+    readme = add_file("src/HEADER.md")
+    readme += pocket_pop()
+    readme += add_file("src/FOOTER.md")
+    print(readme)
+    write_file(readme, "README.md")
