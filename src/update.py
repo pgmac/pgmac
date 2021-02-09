@@ -39,7 +39,7 @@ def pgmac_pop(l_url):
         articles = feedparser.parse(l_url)
         for article in articles['entries']:
             print("{} {}".format(article['title'], article['link']))
-            retstr = "* [{}]({})\n".format(article['title'], article['link'])
+            retstr += "* [{}]({})\n".format(article['title'], article['link'])
     except:
         pass
 
