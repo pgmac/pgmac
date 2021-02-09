@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 * [Create animated gif from a set of jpeg images](http://stackoverflow.com/questions/3688870/create-animated-gif-from-a-set-of-jpeg-images)
 * [Staaldraad](https://staaldraad.github.io/2017/12/20/netstat-without-netstat/)
 
-### My Blog Posts* [Windows Server Virtual Interface with a configured VLAN with a custom MAC](https://pgmac.net.au/technology/2019/12/23/windows-vlan.html)
+### My Blog Posts
+
+* [Windows Server Virtual Interface with a configured VLAN with a custom MAC](https://pgmac.net.au/technology/2019/12/23/windows-vlan.html)
 * [The Source](https://pgmac.net.au/technology/2019/02/25/the-source.html)
 * [AWS Internet access from a Private subnet](https://pgmac.net.au/technology/2018/09/03/aws-internet-private-subnets.html)
 * [Quick SSL/TLS certificate check](https://pgmac.net.au/technology/2018/04/09/ssl-tls-check.html)
