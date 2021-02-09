@@ -34,7 +34,7 @@ def pocket_pop():
 
 
 def pgmac_pop(l_url):
-    retstr = "\n### My Blog Posts"
+    retstr = "\n### My Blog Posts\n\n"
     try:
         articles = feedparser.parse(l_url)
         for article in articles['entries']:
