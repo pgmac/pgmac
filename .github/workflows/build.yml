@@ -6,6 +6,9 @@ on:
       - master
   schedule:
     - cron: "0 20 * * *"
+  workflow_dispatch:
+    tags:
+      description: "Update README.md"
 
 jobs:
   build:
