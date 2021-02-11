@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [NetworkPolicy Editor: Create, Visualize, and Share Kubernetes NetworkPolicies](https://cilium.io/blog/2021/02/10/network-policy-editor)
 * [helloSystem is a FreeBSD Distro Modelled after Mac OS X (Off Topic)](https://www.omgubuntu.co.uk/2021/02/hello-system-freebsd-os)
 * [Filmulator version 0.11.0](https://filmulator.org/v0-11-0/)
 * [Open Collective](https://opencollective.com/open-web-docs/updates/introducing-open-web-docs)
@@ -27,7 +28,6 @@ Here are some ideas to get you started:
 * [Bluetooth trackball Mark II](https://blog.jfedor.org/2021/01/bluetooth-trackball-mark-ii.html)
 * [Minesweeper automates root cause analysis as a first-line defense against bugs](https://engineering.fb.com/2021/02/09/developer-tools/minesweeper/)
 * [Introducing Clerk: All of user management, not just authentication](https://clerk.dev/blog/all-of-user-management-not-just-authentication)
-* [The documentation system — Documentation system documentation](https://documentation.divio.com/)
 
 ### My Blog Posts
 
@@ -41,3 +41,27 @@ Here are some ideas to get you started:
 * [The hiccup cure](https://pgmac.net.au/no%20laughing%20matter/2017/05/28/the-hiccup-cure.html)
 * [JVC Everio MOD files to MPG](https://pgmac.net.au/technology/2015/03/18/jvc-everio-mod-to-mpg.html)
 * [Samba 4.1.14 upgrade problem](https://pgmac.net.au/technology/2014/12/07/samba-4.1.14-upgrade-problem.html)
+### Things I'm star-ing
+
+* [Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC)
+  Manages, configures, extracts and monitors Microsoft 365 tenant configurations
+* [kubenurse](https://github.com/postfinance/kubenurse)
+  Kubernetes network monitoring
+* [soldat](https://github.com/Soldat/soldat)
+  Soldat is a unique 2D (side-view) multiplayer action game
+* [radare2](https://github.com/radareorg/radare2)
+  UNIX-like reverse engineering framework and command-line toolset
+* [packetsifterTool](https://github.com/packetsifter/packetsifterTool)
+  PacketSifter is a tool/script that is designed to aid analysts in sifting through a packet capture (pcap) to find noteworthy traffic. Packetsifter accepts a pcap as an argument and outputs several files.
+* [k0s](https://github.com/k0sproject/k0s)
+  k0s - Zero Friction Kubernetes
+* [gitpod](https://github.com/gitpod-io/gitpod)
+  Gitpod automates the provisioning of ready-to-code development environments. 
+* [Amethyst](https://github.com/ianyh/Amethyst)
+  Automatic tiling window manager for macOS à la xmonad.
+* [Ombi](https://github.com/Ombi-app/Ombi)
+  Want a Movie or TV Show on Plex or Emby? Use Ombi!
+* [onefetch](https://github.com/o2sh/onefetch)
+  Git repository summary on your terminal
+* [nr-basic](https://github.com/xssfox/nr-basic)
+  Auto downgrade NR accounts after inactivity
