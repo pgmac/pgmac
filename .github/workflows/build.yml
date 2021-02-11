@@ -3,10 +3,6 @@ name: Build README.md
 on:
   workflow_dispatch:
     inputs:
-      logLevel:
-        description: "Update README.md"
-        required: true
-        default: 'warning'
       tags:
         description: "Update README.md"
         required: false
