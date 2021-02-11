@@ -2,6 +2,7 @@
 
 from pocket import Pocket, PocketException
 import feedparser
+import requests
 from pprint import pprint
 
 
@@ -46,6 +47,22 @@ def pgmac_pop(l_url):
     return retstr
 
 
+def github_stars(l_user="pgmac", max=10):
+    # retarr = "\n### {}'s GitHub Stars".format(l_user)
+    retarr = []
+    r = requests.get("https://api.github.com/users/{}/starred".format(l_user))
+    if r.status_code == 200:
+        for idx, ghstar in enumerate(r.json()):
+            if idx > max:
+                break
+            stararr = {}
+            stararr['name'] = ghstar['name']
+            stararr['url'] = ghstar['html_url']
+            stararr['desc'] = ghstar['description']
+            retarr.append(stararr)
+
+    return retarr
+
 def add_file(l_file):
     return open(l_file, "r").read()
 
@@ -61,6 +78,9 @@ if __name__ == "__main__":
     readme = add_file("src/HEADER.md")
     readme += pocket_pop()
     readme += pgmac_pop('https://pgmac.net.au/feed.xml')
+    readme += "### Things I'm star-ing\n\n"
+    for star in github_stars('pgmac'):
+        readme += "* [{}]({})\n  {}\n".format(star["name"], star["url"], star["desc"])
     readme += add_file("src/FOOTER.md")
     print(readme)
     write_file(readme, "README.md")
