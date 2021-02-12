@@ -60,6 +60,7 @@ A table of things ...
                 <li>Random and Directed Google searches</li>
             </ul>
         </td>
+        <td>&nbsp;</td>
     </tr>
 </table>
 <!--
