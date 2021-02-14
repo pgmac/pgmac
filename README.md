@@ -78,6 +78,7 @@ Here are some ideas to get you started:
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [The worst of the two worlds: Excel meets Outlook](https://adepts.of0x.cc/VBA-Outlook/)
 * [Calvin & Hobbes Search Engine : by Bing](https://michaelyingling.com/random/calvin_and_hobbes/)
 * [NetworkPolicy Editor: Create, Visualize, and Share Kubernetes NetworkPolicies](https://cilium.io/blog/2021/02/10/network-policy-editor)
 * [helloSystem is a FreeBSD Distro Modelled after Mac OS X (Off Topic)](https://www.omgubuntu.co.uk/2021/02/hello-system-freebsd-os)
@@ -87,7 +88,6 @@ Here are some ideas to get you started:
 * [Why I Still Use RSS](https://atthis.link/blog/2021/rss.html)
 * [Soldat/soldat](https://github.com/Soldat/soldat)
 * [Bluetooth trackball Mark II](https://blog.jfedor.org/2021/01/bluetooth-trackball-mark-ii.html)
-* [Minesweeper automates root cause analysis as a first-line defense against bugs](https://engineering.fb.com/2021/02/09/developer-tools/minesweeper/)
 
 ### My Blog Posts
 
