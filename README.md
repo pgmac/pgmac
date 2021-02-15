@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [The worst of the two worlds: Excel meets Outlook](https://adepts.of0x.cc/VBA-Outlook/)
-* [Calvin & Hobbes Search Engine : by Bing](https://michaelyingling.com/random/calvin_and_hobbes/)
+* [Calvin & Hobbes Search Engine : by Bing](http://michaelyingling.com/random/calvin_and_hobbes/)
 * [NetworkPolicy Editor: Create, Visualize, and Share Kubernetes NetworkPolicies](https://cilium.io/blog/2021/02/10/network-policy-editor)
 * [helloSystem is a FreeBSD Distro Modelled after Mac OS X (Off Topic)](https://www.omgubuntu.co.uk/2021/02/hello-system-freebsd-os)
 * [Filmulator version 0.11.0](https://filmulator.org/v0-11-0/)
@@ -103,6 +103,12 @@ Here are some ideas to get you started:
 * [Samba 4.1.14 upgrade problem](https://pgmac.net.au/technology/2014/12/07/samba-4.1.14-upgrade-problem.html)
 ### Things I'm star-ing
 
+* [Kubernetes_Security_Specialist_Study_Guide](https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide)
+  None
+* [security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator)
+  The Kubernetes Security Profiles Operator
+* [launch](https://github.com/system76/launch)
+  System76 Launch Configurable Keyboard
 * [Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC)
   Manages, configures, extracts and monitors Microsoft 365 tenant configurations
 * [kubenurse](https://github.com/postfinance/kubenurse)
@@ -119,9 +125,3 @@ Here are some ideas to get you started:
   Gitpod automates the provisioning of ready-to-code development environments. 
 * [Amethyst](https://github.com/ianyh/Amethyst)
   Automatic tiling window manager for macOS à la xmonad.
-* [Ombi](https://github.com/Ombi-app/Ombi)
-  Want a Movie or TV Show on Plex or Emby? Use Ombi!
-* [onefetch](https://github.com/o2sh/onefetch)
-  Git repository summary on your terminal
-* [nr-basic](https://github.com/xssfox/nr-basic)
-  Auto downgrade NR accounts after inactivity
