@@ -58,6 +58,7 @@ A table of things ...
                 </li>
                 <li>Twitter</li>
                 <li>Random and Directed Google searches</li>
+                <li>Co-workers</li>
             </ul>
         </td>
         <td>&nbsp;</td>
