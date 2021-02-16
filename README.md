@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Rich](https://github.com/willmcgugan/rich)
 * [The worst of the two worlds: Excel meets Outlook](https://adepts.of0x.cc/VBA-Outlook/)
 * [Calvin & Hobbes Search Engine : by Bing](http://michaelyingling.com/random/calvin_and_hobbes/)
 * [NetworkPolicy Editor: Create, Visualize, and Share Kubernetes NetworkPolicies](https://cilium.io/blog/2021/02/10/network-policy-editor)
@@ -88,7 +89,6 @@ Here are some ideas to get you started:
 * [See Open MCT in Action](https://nasa.github.io/openmct/)
 * [Why I Still Use RSS](https://atthis.link/blog/2021/rss.html)
 * [Soldat/soldat](https://github.com/Soldat/soldat)
-* [Bluetooth trackball Mark II](https://blog.jfedor.org/2021/01/bluetooth-trackball-mark-ii.html)
 
 ### My Blog Posts
 
@@ -104,6 +104,10 @@ Here are some ideas to get you started:
 * [Samba 4.1.14 upgrade problem](https://pgmac.net.au/technology/2014/12/07/samba-4.1.14-upgrade-problem.html)
 ### Things I'm star-ing
 
+* [rich](https://github.com/willmcgugan/rich)
+  Rich is a Python library for rich text and beautiful formatting in the terminal.
+* [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)
+  Sourcetrail - free and open-source interactive source explorer
 * [Kubernetes_Security_Specialist_Study_Guide](https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide)
   None
 * [security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator)
@@ -122,7 +126,3 @@ Here are some ideas to get you started:
   PacketSifter is a tool/script that is designed to aid analysts in sifting through a packet capture (pcap) to find noteworthy traffic. Packetsifter accepts a pcap as an argument and outputs several files.
 * [k0s](https://github.com/k0sproject/k0s)
   k0s - Zero Friction Kubernetes
-* [gitpod](https://github.com/gitpod-io/gitpod)
-  Gitpod automates the provisioning of ready-to-code development environments. 
-* [Amethyst](https://github.com/ianyh/Amethyst)
-  Automatic tiling window manager for macOS à la xmonad.
