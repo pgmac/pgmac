@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 * [helloSystem is a FreeBSD Distro Modelled after Mac OS X (Off Topic)](https://www.omgubuntu.co.uk/2021/02/hello-system-freebsd-os)
 * [Filmulator version 0.11.0](https://filmulator.org/v0-11-0/)
 * [Open Collective](https://opencollective.com/open-web-docs/updates/introducing-open-web-docs)
-* [See Open MCT in Action](https://nasa.github.io/openmct/)
+* [See Open MCT in Action](https://nasa.github.io/openmct)
 * [Why I Still Use RSS](https://atthis.link/blog/2021/rss.html)
 * [Soldat/soldat](https://github.com/Soldat/soldat)
 
