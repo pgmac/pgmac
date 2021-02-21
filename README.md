@@ -104,6 +104,8 @@ Here are some ideas to get you started:
 * [Samba 4.1.14 upgrade problem](https://pgmac.net.au/technology/2014/12/07/samba-4.1.14-upgrade-problem.html)
 ### Things I'm star-ing
 
+* [3mux](https://github.com/aaronjanse/3mux)
+  Terminal multiplexer inspired by i3
 * [rich](https://github.com/willmcgugan/rich)
   Rich is a Python library for rich text and beautiful formatting in the terminal.
 * [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)
@@ -124,5 +126,3 @@ Here are some ideas to get you started:
   UNIX-like reverse engineering framework and command-line toolset
 * [packetsifterTool](https://github.com/packetsifter/packetsifterTool)
   PacketSifter is a tool/script that is designed to aid analysts in sifting through a packet capture (pcap) to find noteworthy traffic. Packetsifter accepts a pcap as an argument and outputs several files.
-* [k0s](https://github.com/k0sproject/k0s)
-  k0s - Zero Friction Kubernetes
