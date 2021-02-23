@@ -78,7 +78,7 @@ if __name__ == "__main__":
     readme = add_file("src/HEADER.md")
     readme += pocket_pop()
     readme += pgmac_pop('https://pgmac.net.au/feed.xml')
-    readme += "### Things I'm star-ing\n\n"
+    readme += "\n### Things I'm star-ing\n\n"
     for star in github_stars('pgmac'):
         readme += "* [{}]({})\n  {}\n".format(star["name"], star["url"], star["desc"])
     readme += add_file("src/FOOTER.md")
