@@ -82,5 +82,5 @@ if __name__ == "__main__":
     for star in github_stars('pgmac'):
         readme += "* [{}]({})\n  {}\n".format(star["name"], star["url"], star["desc"])
     readme += add_file("src/FOOTER.md")
-    print(readme)
+    # print(readme)
     write_file(readme, "README.md")
