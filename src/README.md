@@ -11,5 +11,5 @@ python -m pip install --upgrade pip
 **Pocket-API**
 
 ```
-pip install pocket-api
+pip install -r src/requirements.txt
 ```
