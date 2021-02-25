@@ -105,6 +105,8 @@ Here are some ideas to get you started:
 
 ### Things I'm star-ing
 
+* [ghostwriter](https://github.com/wereturtle/ghostwriter)
+  ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
 * [3mux](https://github.com/aaronjanse/3mux)
   Terminal multiplexer inspired by i3
 * [rich](https://github.com/willmcgugan/rich)
@@ -125,5 +127,3 @@ Here are some ideas to get you started:
   Soldat is a unique 2D (side-view) multiplayer action game
 * [radare2](https://github.com/radareorg/radare2)
   UNIX-like reverse engineering framework and command-line toolset
-* [packetsifterTool](https://github.com/packetsifter/packetsifterTool)
-  PacketSifter is a tool/script that is designed to aid analysts in sifting through a packet capture (pcap) to find noteworthy traffic. Packetsifter accepts a pcap as an argument and outputs several files.
