@@ -105,6 +105,8 @@ Here are some ideas to get you started:
 
 ### Things I'm star-ing
 
+* [cosmopolitan](https://github.com/jart/cosmopolitan)
+  fast portable static native textmode containers
 * [ghostwriter](https://github.com/wereturtle/ghostwriter)
   ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
 * [3mux](https://github.com/aaronjanse/3mux)
@@ -125,5 +127,3 @@ Here are some ideas to get you started:
   Kubernetes network monitoring
 * [soldat](https://github.com/Soldat/soldat)
   Soldat is a unique 2D (side-view) multiplayer action game
-* [radare2](https://github.com/radareorg/radare2)
-  UNIX-like reverse engineering framework and command-line toolset
