@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Multi-User Dungeons (MUDs): What Are They? And How to Play](https://medium.com/@williamson.f93/multi-user-dungeons-muds-what-are-they-and-how-to-play-af3ec0f29f4a)
 * [Rich](https://github.com/willmcgugan/rich)
 * [The worst of the two worlds: Excel meets Outlook](https://adepts.of0x.cc/VBA-Outlook/)
 * [Calvin & Hobbes Search Engine : by Bing](http://michaelyingling.com/random/calvin_and_hobbes/)
@@ -88,7 +89,6 @@ Here are some ideas to get you started:
 * [Open Collective](https://opencollective.com/open-web-docs/updates/introducing-open-web-docs)
 * [See Open MCT in Action](https://nasa.github.io/openmct)
 * [Why I Still Use RSS](https://atthis.link/blog/2021/rss.html)
-* [Soldat/soldat](https://github.com/Soldat/soldat)
 
 ### My Blog Posts
 
