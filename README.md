@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Testing HashiCorp Terraform](https://www.hashicorp.com/blog/testing-hashicorp-terraform)
 * [www.supermicro.com - /wftp/driver/VGA/ASPEED/](https://www.supermicro.com/wdl/driver/VGA/ASPEED/)
 * [Multi-User Dungeons (MUDs): What Are They? And How to Play](https://medium.com/@williamson.f93/multi-user-dungeons-muds-what-are-they-and-how-to-play-af3ec0f29f4a)
 * [Rich](https://github.com/willmcgugan/rich)
@@ -88,7 +89,6 @@ Here are some ideas to get you started:
 * [helloSystem is a FreeBSD Distro Modelled after Mac OS X (Off Topic)](https://www.omgubuntu.co.uk/2021/02/hello-system-freebsd-os)
 * [Filmulator version 0.11.0](https://filmulator.org/v0-11-0/)
 * [Open Collective](https://opencollective.com/open-web-docs/updates/introducing-open-web-docs)
-* [See Open MCT in Action](https://nasa.github.io/openmct)
 
 ### My Blog Posts
 
