@@ -105,6 +105,8 @@ Here are some ideas to get you started:
 
 ### Things I'm star-ing
 
+* [rumble](https://github.com/RumbleDB/rumble)
+  ⛈️ Rumble 1.11.0 "Banyan Tree"🌳  for Apache Spark | Run queries on your large-scale, messy JSON-like data (JSON, text, CSV, Parquet, ROOT, AVRO, SVM...) | No install required (just a jar to download) | Declarative Machine Learning and more
 * [cosmopolitan](https://github.com/jart/cosmopolitan)
   fast portable static native textmode containers
 * [ghostwriter](https://github.com/wereturtle/ghostwriter)
@@ -125,5 +127,3 @@ Here are some ideas to get you started:
   Manages, configures, extracts and monitors Microsoft 365 tenant configurations
 * [kubenurse](https://github.com/postfinance/kubenurse)
   Kubernetes network monitoring
-* [soldat](https://github.com/Soldat/soldat)
-  Soldat is a unique 2D (side-view) multiplayer action game
