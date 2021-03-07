@@ -99,9 +99,9 @@ Here are some ideas to get you started:
 * [Think Feel Love Believe](https://pgmac.net.au/family/2017/11/03/think-feel-love-believe.html)
 * [How-To extend a Logical Volume using LVM on Linux](https://pgmac.net.au/technology/2017/11/02/lmv-extend.html)
 * [Manual cert-bot renewals for certificates hosted on a Sophos UTM](https://pgmac.net.au/technology/2017/08/30/cert-bot-renewal-sophos-utm.html)
+* [History](https://pgmac.net.au/language/2017/08/19/history.html)
 * [The hiccup cure](https://pgmac.net.au/no%20laughing%20matter/2017/05/28/the-hiccup-cure.html)
 * [JVC Everio MOD files to MPG](https://pgmac.net.au/technology/2015/03/18/jvc-everio-mod-to-mpg.html)
-* [Samba 4.1.14 upgrade problem](https://pgmac.net.au/technology/2014/12/07/samba-4.1.14-upgrade-problem.html)
 
 ### Things I'm star-ing
 
