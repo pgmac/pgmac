@@ -79,6 +79,9 @@ Here are some ideas to get you started:
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Track your family calendar with a Raspberry Pi and a low-power display](https://opensource.com/article/21/3/family-calendar-raspberry-pi)
+* [5 Steps to Successful DevOps Culture](https://devops.com/five-steps-to-successful-devops-culture/)
+* [Sponsor authelia/authelia](https://github.com/authelia/authelia)
 * [Testing HashiCorp Terraform](https://www.hashicorp.com/blog/testing-hashicorp-terraform)
 * [www.supermicro.com - /wftp/driver/VGA/ASPEED/](https://www.supermicro.com/wdl/driver/VGA/ASPEED/)
 * [Multi-User Dungeons (MUDs): What Are They? And How to Play](https://medium.com/@williamson.f93/multi-user-dungeons-muds-what-are-they-and-how-to-play-af3ec0f29f4a)
@@ -86,9 +89,6 @@ Here are some ideas to get you started:
 * [The worst of the two worlds: Excel meets Outlook](https://adepts.of0x.cc/VBA-Outlook/)
 * [Calvin & Hobbes Search Engine : by Bing](http://michaelyingling.com/random/calvin_and_hobbes/)
 * [NetworkPolicy Editor: Create, Visualize, and Share Kubernetes NetworkPolicies](https://cilium.io/blog/2021/02/10/network-policy-editor)
-* [helloSystem is a FreeBSD Distro Modelled after Mac OS X (Off Topic)](https://www.omgubuntu.co.uk/2021/02/hello-system-freebsd-os)
-* [Filmulator version 0.11.0](https://filmulator.org/v0-11-0/)
-* [Open Collective](https://opencollective.com/open-web-docs/updates/introducing-open-web-docs)
 
 ### My Blog Posts
 
@@ -105,6 +105,8 @@ Here are some ideas to get you started:
 
 ### Things I'm star-ing
 
+* [eks-rolling-update](https://github.com/hellofresh/eks-rolling-update)
+  EKS Rolling Update is a utility for updating the launch configuration of worker nodes in an EKS cluster.
 * [rumble](https://github.com/RumbleDB/rumble)
   ⛈️ Rumble 1.11.0 "Banyan Tree"🌳  for Apache Spark | Run queries on your large-scale, messy JSON-like data (JSON, text, CSV, Parquet, ROOT, AVRO, SVM...) | No install required (just a jar to download) | Declarative Machine Learning and more
 * [cosmopolitan](https://github.com/jart/cosmopolitan)
@@ -125,5 +127,3 @@ Here are some ideas to get you started:
   System76 Launch Configurable Keyboard
 * [Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC)
   Manages, configures, extracts and monitors Microsoft 365 tenant configurations
-* [kubenurse](https://github.com/postfinance/kubenurse)
-  Kubernetes network monitoring
