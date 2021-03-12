@@ -105,6 +105,8 @@ Here are some ideas to get you started:
 
 ### Things I'm star-ing
 
+* [vim-clutch](https://github.com/alevchuk/vim-clutch)
+  A hardware pedal for improved text editing in Vim
 * [eks-rolling-update](https://github.com/hellofresh/eks-rolling-update)
   EKS Rolling Update is a utility for updating the launch configuration of worker nodes in an EKS cluster.
 * [rumble](https://github.com/RumbleDB/rumble)
@@ -125,5 +127,3 @@ Here are some ideas to get you started:
   The Kubernetes Security Profiles Operator
 * [launch](https://github.com/system76/launch)
   System76 Launch Configurable Keyboard
-* [Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC)
-  Manages, configures, extracts and monitors Microsoft 365 tenant configurations
