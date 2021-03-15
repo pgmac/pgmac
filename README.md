@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [security.txt: Proposed standard for defining security policies](https://securitytxt.org/)
 * [Track your family calendar with a Raspberry Pi and a low-power display](https://opensource.com/article/21/3/family-calendar-raspberry-pi)
 * [5 Steps to Successful DevOps Culture](https://devops.com/five-steps-to-successful-devops-culture/)
 * [Sponsor authelia/authelia](https://github.com/authelia/authelia)
@@ -88,7 +89,6 @@ Here are some ideas to get you started:
 * [Rich](https://github.com/willmcgugan/rich)
 * [The worst of the two worlds: Excel meets Outlook](https://adepts.of0x.cc/VBA-Outlook/)
 * [Calvin & Hobbes Search Engine : by Bing](http://michaelyingling.com/random/calvin_and_hobbes/)
-* [NetworkPolicy Editor: Create, Visualize, and Share Kubernetes NetworkPolicies](https://cilium.io/blog/2021/02/10/network-policy-editor)
 
 ### My Blog Posts
 
