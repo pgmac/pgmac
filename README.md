@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Focalboard: Open source alternative to Trello, Asana, and Notion](https://www.focalboard.com/)
 * [security.txt: Proposed standard for defining security policies](https://securitytxt.org/)
 * [Track your family calendar with a Raspberry Pi and a low-power display](https://opensource.com/article/21/3/family-calendar-raspberry-pi)
 * [5 Steps to Successful DevOps Culture](https://devops.com/five-steps-to-successful-devops-culture/)
@@ -88,7 +89,6 @@ Here are some ideas to get you started:
 * [Multi-User Dungeons (MUDs): What Are They? And How to Play](https://medium.com/@williamson.f93/multi-user-dungeons-muds-what-are-they-and-how-to-play-af3ec0f29f4a)
 * [Rich](https://github.com/willmcgugan/rich)
 * [The worst of the two worlds: Excel meets Outlook](https://adepts.of0x.cc/VBA-Outlook/)
-* [Calvin & Hobbes Search Engine : by Bing](http://michaelyingling.com/random/calvin_and_hobbes/)
 
 ### My Blog Posts
 
@@ -105,6 +105,8 @@ Here are some ideas to get you started:
 
 ### Things I'm star-ing
 
+* [Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+  Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
 * [vim-clutch](https://github.com/alevchuk/vim-clutch)
   A hardware pedal for improved text editing in Vim
 * [eks-rolling-update](https://github.com/hellofresh/eks-rolling-update)
@@ -125,5 +127,3 @@ Here are some ideas to get you started:
   None
 * [security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator)
   The Kubernetes Security Profiles Operator
-* [launch](https://github.com/system76/launch)
-  System76 Launch Configurable Keyboard
