@@ -105,6 +105,8 @@ Here are some ideas to get you started:
 
 ### Things I'm star-ing
 
+* [kspan](https://github.com/weaveworks-experiments/kspan)
+  Turning Kubernetes Events into spans
 * [Docker-OSX](https://github.com/sickcodes/Docker-OSX)
   Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
 * [vim-clutch](https://github.com/alevchuk/vim-clutch)
@@ -125,5 +127,3 @@ Here are some ideas to get you started:
   Sourcetrail - free and open-source interactive source explorer
 * [Kubernetes_Security_Specialist_Study_Guide](https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide)
   None
-* [security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator)
-  The Kubernetes Security Profiles Operator
