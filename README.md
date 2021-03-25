@@ -105,6 +105,8 @@ Here are some ideas to get you started:
 
 ### Things I'm star-ing
 
+* [aws-vault](https://github.com/99designs/aws-vault)
+  A vault for securely storing and accessing AWS credentials in development environments
 * [kspan](https://github.com/weaveworks-experiments/kspan)
   Turning Kubernetes Events into spans
 * [Docker-OSX](https://github.com/sickcodes/Docker-OSX)
@@ -125,5 +127,3 @@ Here are some ideas to get you started:
   Rich is a Python library for rich text and beautiful formatting in the terminal.
 * [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)
   Sourcetrail - free and open-source interactive source explorer
-* [Kubernetes_Security_Specialist_Study_Guide](https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide)
-  None
