@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Open Source Security Foundation (OpenSSF)](https://openssf.org/)
 * [Focalboard: Open source alternative to Trello, Asana, and Notion](https://www.focalboard.com/)
 * [security.txt: Proposed standard for defining security policies](https://securitytxt.org/)
 * [Track your family calendar with a Raspberry Pi and a low-power display](https://opensource.com/article/21/3/family-calendar-raspberry-pi)
@@ -88,7 +89,6 @@ Here are some ideas to get you started:
 * [www.supermicro.com - /wftp/driver/VGA/ASPEED/](https://www.supermicro.com/wdl/driver/VGA/ASPEED/)
 * [Multi-User Dungeons (MUDs): What Are They? And How to Play](https://medium.com/@williamson.f93/multi-user-dungeons-muds-what-are-they-and-how-to-play-af3ec0f29f4a)
 * [Rich](https://github.com/willmcgugan/rich)
-* [The worst of the two worlds: Excel meets Outlook](https://adepts.of0x.cc/VBA-Outlook/)
 
 ### My Blog Posts
 
@@ -105,6 +105,8 @@ Here are some ideas to get you started:
 
 ### Things I'm star-ing
 
+* [wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers)
+  The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers.
 * [aws-vault](https://github.com/99designs/aws-vault)
   A vault for securely storing and accessing AWS credentials in development environments
 * [kspan](https://github.com/weaveworks-experiments/kspan)
@@ -125,5 +127,3 @@ Here are some ideas to get you started:
   Terminal multiplexer inspired by i3
 * [rich](https://github.com/willmcgugan/rich)
   Rich is a Python library for rich text and beautiful formatting in the terminal.
-* [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)
-  Sourcetrail - free and open-source interactive source explorer
