@@ -105,6 +105,8 @@ Here are some ideas to get you started:
 
 ### Things I'm star-ing
 
+* [malwoverview](https://github.com/alexandreborges/malwoverview)
+  Malwoverview is a first response tool used for threat hunting and offers intel information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, ThreatCrowd, Valhalla, Malware Bazaar, ThreatFox and it is able to scan Android devices against VT and HA.
 * [wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers)
   The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers.
 * [aws-vault](https://github.com/99designs/aws-vault)
@@ -125,5 +127,3 @@ Here are some ideas to get you started:
   ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
 * [3mux](https://github.com/aaronjanse/3mux)
   Terminal multiplexer inspired by i3
-* [rich](https://github.com/willmcgugan/rich)
-  Rich is a Python library for rich text and beautiful formatting in the terminal.
