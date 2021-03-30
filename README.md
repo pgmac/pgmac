@@ -105,6 +105,8 @@ Here are some ideas to get you started:
 
 ### Things I'm star-ing
 
+* [innernet](https://github.com/tonarino/innernet)
+  A private network system that uses WireGuard under the hood.
 * [malwoverview](https://github.com/alexandreborges/malwoverview)
   Malwoverview is a first response tool used for threat hunting and offers intel information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, ThreatCrowd, Valhalla, Malware Bazaar, ThreatFox and it is able to scan Android devices against VT and HA.
 * [wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers)
@@ -125,5 +127,3 @@ Here are some ideas to get you started:
   fast portable static native textmode containers
 * [ghostwriter](https://github.com/wereturtle/ghostwriter)
   ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
-* [3mux](https://github.com/aaronjanse/3mux)
-  Terminal multiplexer inspired by i3
