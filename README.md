@@ -105,6 +105,8 @@ Here are some ideas to get you started:
 
 ### Things I'm star-ing
 
+* [cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python)
+  Hypermodern Python Cookiecutter
 * [innernet](https://github.com/tonarino/innernet)
   A private network system that uses WireGuard under the hood.
 * [malwoverview](https://github.com/alexandreborges/malwoverview)
@@ -125,5 +127,3 @@ Here are some ideas to get you started:
   ⛈️ Rumble 1.11.0 "Banyan Tree"🌳  for Apache Spark | Run queries on your large-scale, messy JSON-like data (JSON, text, CSV, Parquet, ROOT, AVRO, SVM...) | No install required (just a jar to download) | Declarative Machine Learning and more
 * [cosmopolitan](https://github.com/jart/cosmopolitan)
   fast portable static native textmode containers
-* [ghostwriter](https://github.com/wereturtle/ghostwriter)
-  ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
