@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [X.Org says it's saving a packet with Packet after migrating freedesktop.org off Google Kubernetes Engine](https://www.theregister.com/2021/04/01/freedesktoporg_migration_from_google/)
 * [Open Source Security Foundation (OpenSSF)](https://openssf.org/)
 * [Focalboard: Open source alternative to Trello, Asana, and Notion](https://www.focalboard.com/)
 * [security.txt: Proposed standard for defining security policies](https://securitytxt.org/)
@@ -88,7 +89,6 @@ Here are some ideas to get you started:
 * [Testing HashiCorp Terraform](https://www.hashicorp.com/blog/testing-hashicorp-terraform)
 * [www.supermicro.com - /wftp/driver/VGA/ASPEED/](https://www.supermicro.com/wdl/driver/VGA/ASPEED/)
 * [Multi-User Dungeons (MUDs): What Are They? And How to Play](https://medium.com/@williamson.f93/multi-user-dungeons-muds-what-are-they-and-how-to-play-af3ec0f29f4a)
-* [Rich](https://github.com/willmcgugan/rich)
 
 ### My Blog Posts
 
