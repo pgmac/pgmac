@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [4 Open Source Tools to Add to Your Security Arsenal](https://www.darkreading.com/application-security/4-open-source-tools-to-add-to-your-security-arsenal/a/d-id/1340487)
 * [X.Org says it's saving a packet with Packet after migrating freedesktop.org off Google Kubernetes Engine](https://www.theregister.com/2021/04/01/freedesktoporg_migration_from_google/)
 * [Open Source Security Foundation (OpenSSF)](https://openssf.org/)
 * [Focalboard: Open source alternative to Trello, Asana, and Notion](https://www.focalboard.com/)
@@ -88,7 +89,6 @@ Here are some ideas to get you started:
 * [Sponsor authelia/authelia](https://github.com/authelia/authelia)
 * [Testing HashiCorp Terraform](https://www.hashicorp.com/blog/testing-hashicorp-terraform)
 * [www.supermicro.com - /wftp/driver/VGA/ASPEED/](https://www.supermicro.com/wdl/driver/VGA/ASPEED/)
-* [Multi-User Dungeons (MUDs): What Are They? And How to Play](https://medium.com/@williamson.f93/multi-user-dungeons-muds-what-are-they-and-how-to-play-af3ec0f29f4a)
 
 ### My Blog Posts
 
@@ -105,6 +105,8 @@ Here are some ideas to get you started:
 
 ### Things I'm star-ing
 
+* [cryptpad](https://github.com/xwiki-labs/cryptpad)
+  Collaboration suite, end-to-end encrypted and open-source.
 * [cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python)
   Hypermodern Python Cookiecutter
 * [innernet](https://github.com/tonarino/innernet)
@@ -125,5 +127,3 @@ Here are some ideas to get you started:
   EKS Rolling Update is a utility for updating the launch configuration of worker nodes in an EKS cluster.
 * [rumble](https://github.com/RumbleDB/rumble)
   ⛈️ Rumble 1.11.0 "Banyan Tree"🌳  for Apache Spark | Run queries on your large-scale, messy JSON-like data (JSON, text, CSV, Parquet, ROOT, AVRO, SVM...) | No install required (just a jar to download) | Declarative Machine Learning and more
-* [cosmopolitan](https://github.com/jart/cosmopolitan)
-  fast portable static native textmode containers
