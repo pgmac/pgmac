@@ -105,6 +105,10 @@ Here are some ideas to get you started:
 
 ### Things I'm star-ing
 
+* [agent](https://github.com/buildkite/agent)
+  The Buildkite Agent is an open-source toolkit written in Golang for securely running build jobs on any device or network
+* [cli](https://github.com/buildkite/cli)
+  A command line interface for Buildkite.
 * [cryptpad](https://github.com/xwiki-labs/cryptpad)
   Collaboration suite, end-to-end encrypted and open-source.
 * [cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python)
@@ -123,7 +127,3 @@ Here are some ideas to get you started:
   Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
 * [vim-clutch](https://github.com/alevchuk/vim-clutch)
   A hardware pedal for improved text editing in Vim
-* [eks-rolling-update](https://github.com/hellofresh/eks-rolling-update)
-  EKS Rolling Update is a utility for updating the launch configuration of worker nodes in an EKS cluster.
-* [rumble](https://github.com/RumbleDB/rumble)
-  ⛈️ Rumble 1.11.0 "Banyan Tree"🌳  for Apache Spark | Run queries on your large-scale, messy JSON-like data (JSON, text, CSV, Parquet, ROOT, AVRO, SVM...) | No install required (just a jar to download) | Declarative Machine Learning and more
