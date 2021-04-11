@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Python resources for everybody](https://learnbyexample.github.io/py_resources/)
 * [4 Open Source Tools to Add to Your Security Arsenal](https://www.darkreading.com/application-security/4-open-source-tools-to-add-to-your-security-arsenal/a/d-id/1340487)
 * [X.Org says it's saving a packet with Packet after migrating freedesktop.org off Google Kubernetes Engine](https://www.theregister.com/2021/04/01/freedesktoporg_migration_from_google/)
 * [Open Source Security Foundation (OpenSSF)](https://openssf.org/)
@@ -88,7 +89,6 @@ Here are some ideas to get you started:
 * [5 Steps to Successful DevOps Culture](https://devops.com/five-steps-to-successful-devops-culture/)
 * [Sponsor authelia/authelia](https://github.com/authelia/authelia)
 * [Testing HashiCorp Terraform](https://www.hashicorp.com/blog/testing-hashicorp-terraform)
-* [www.supermicro.com - /wftp/driver/VGA/ASPEED/](https://www.supermicro.com/wdl/driver/VGA/ASPEED/)
 
 ### My Blog Posts
 
