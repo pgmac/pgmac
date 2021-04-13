@@ -105,6 +105,10 @@ Here are some ideas to get you started:
 
 ### Things I'm star-ing
 
+* [opencve](https://github.com/opencve/opencve)
+  CVE Alerting Platform
+* [vulnerablecode](https://github.com/nexB/vulnerablecode)
+  A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode 
 * [agent](https://github.com/buildkite/agent)
   The Buildkite Agent is an open-source toolkit written in Golang for securely running build jobs on any device or network
 * [cli](https://github.com/buildkite/cli)
@@ -123,7 +127,3 @@ Here are some ideas to get you started:
   A vault for securely storing and accessing AWS credentials in development environments
 * [kspan](https://github.com/weaveworks-experiments/kspan)
   Turning Kubernetes Events into spans
-* [Docker-OSX](https://github.com/sickcodes/Docker-OSX)
-  Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
-* [vim-clutch](https://github.com/alevchuk/vim-clutch)
-  A hardware pedal for improved text editing in Vim
