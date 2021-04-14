@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [the standard unix password manager](https://www.passwordstore.org/)
 * [Python resources for everybody](https://learnbyexample.github.io/py_resources/)
 * [4 Open Source Tools to Add to Your Security Arsenal](https://www.darkreading.com/application-security/4-open-source-tools-to-add-to-your-security-arsenal/a/d-id/1340487)
 * [X.Org says it's saving a packet with Packet after migrating freedesktop.org off Google Kubernetes Engine](https://www.theregister.com/2021/04/01/freedesktoporg_migration_from_google/)
@@ -88,7 +89,6 @@ Here are some ideas to get you started:
 * [Track your family calendar with a Raspberry Pi and a low-power display](https://opensource.com/article/21/3/family-calendar-raspberry-pi)
 * [5 Steps to Successful DevOps Culture](https://devops.com/five-steps-to-successful-devops-culture/)
 * [Sponsor authelia/authelia](https://github.com/authelia/authelia)
-* [Testing HashiCorp Terraform](https://www.hashicorp.com/blog/testing-hashicorp-terraform)
 
 ### My Blog Posts
 
@@ -105,6 +105,14 @@ Here are some ideas to get you started:
 
 ### Things I'm star-ing
 
+* [examples](https://github.com/kubernetes/examples)
+  Kubernetes application example tutorials
+* [secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver)
+  Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.  
+* [aws-efs-csi-driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver)
+  CSI Driver for Amazon EFS https://aws.amazon.com/efs/
+* [containers-roadmap](https://github.com/aws/containers-roadmap)
+  This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). 
 * [opencve](https://github.com/opencve/opencve)
   CVE Alerting Platform
 * [vulnerablecode](https://github.com/nexB/vulnerablecode)
@@ -119,11 +127,3 @@ Here are some ideas to get you started:
   Hypermodern Python Cookiecutter
 * [innernet](https://github.com/tonarino/innernet)
   A private network system that uses WireGuard under the hood.
-* [malwoverview](https://github.com/alexandreborges/malwoverview)
-  Malwoverview is a first response tool used for threat hunting and offers intel information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, ThreatCrowd, Valhalla, Malware Bazaar, ThreatFox and it is able to scan Android devices against VT and HA.
-* [wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers)
-  The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers.
-* [aws-vault](https://github.com/99designs/aws-vault)
-  A vault for securely storing and accessing AWS credentials in development environments
-* [kspan](https://github.com/weaveworks-experiments/kspan)
-  Turning Kubernetes Events into spans
