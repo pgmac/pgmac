@@ -105,6 +105,8 @@ Here are some ideas to get you started:
 
 ### Things I'm star-ing
 
+* [cloudflared](https://github.com/cloudflare/cloudflared)
+  Argo Tunnel client
 * [examples](https://github.com/kubernetes/examples)
   Kubernetes application example tutorials
 * [secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver)
@@ -125,5 +127,3 @@ Here are some ideas to get you started:
   Collaboration suite, end-to-end encrypted and open-source.
 * [cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python)
   Hypermodern Python Cookiecutter
-* [innernet](https://github.com/tonarino/innernet)
-  A private network system that uses WireGuard under the hood.
