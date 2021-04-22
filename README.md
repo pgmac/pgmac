@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Evolving Kubernetes networking with the Gateway API](https://kubernetes.io/blog/2021/04/22/evolving-kubernetes-networking-with-the-gateway-api/)
 * [the standard unix password manager](https://www.passwordstore.org/)
 * [Python resources for everybody](https://learnbyexample.github.io/py_resources/)
 * [4 Open Source Tools to Add to Your Security Arsenal](https://www.darkreading.com/application-security/4-open-source-tools-to-add-to-your-security-arsenal/a/d-id/1340487)
@@ -88,7 +89,6 @@ Here are some ideas to get you started:
 * [security.txt: Proposed standard for defining security policies](https://securitytxt.org/)
 * [Track your family calendar with a Raspberry Pi and a low-power display](https://opensource.com/article/21/3/family-calendar-raspberry-pi)
 * [5 Steps to Successful DevOps Culture](https://devops.com/five-steps-to-successful-devops-culture/)
-* [Sponsor authelia/authelia](https://github.com/authelia/authelia)
 
 ### My Blog Posts
 
@@ -105,6 +105,8 @@ Here are some ideas to get you started:
 
 ### Things I'm star-ing
 
+* [grype](https://github.com/anchore/grype)
+  A vulnerability scanner for container images and filesystems
 * [cloudflared](https://github.com/cloudflare/cloudflared)
   Argo Tunnel client
 * [examples](https://github.com/kubernetes/examples)
@@ -125,5 +127,3 @@ Here are some ideas to get you started:
   A command line interface for Buildkite.
 * [cryptpad](https://github.com/xwiki-labs/cryptpad)
   Collaboration suite, end-to-end encrypted and open-source.
-* [cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python)
-  Hypermodern Python Cookiecutter
