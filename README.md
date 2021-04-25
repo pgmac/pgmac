@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Show HN : MarkShow – Create Slideshows with Markdown : Hacker News](https://news.ycombinator.com/item?id=26931098)
 * [Evolving Kubernetes networking with the Gateway API](https://kubernetes.io/blog/2021/04/22/evolving-kubernetes-networking-with-the-gateway-api/)
 * [the standard unix password manager](https://www.passwordstore.org/)
 * [Python resources for everybody](https://learnbyexample.github.io/py_resources/)
@@ -88,7 +89,6 @@ Here are some ideas to get you started:
 * [Focalboard: Open source alternative to Trello, Asana, and Notion](https://www.focalboard.com/)
 * [security.txt: Proposed standard for defining security policies](https://securitytxt.org/)
 * [Track your family calendar with a Raspberry Pi and a low-power display](https://opensource.com/article/21/3/family-calendar-raspberry-pi)
-* [5 Steps to Successful DevOps Culture](https://devops.com/five-steps-to-successful-devops-culture/)
 
 ### My Blog Posts
 
