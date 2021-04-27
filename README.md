@@ -67,6 +67,9 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Swimlanes.io – generated editable sequence diagrams : Hacker News](https://news.ycombinator.com/item?id=26956728)
+* [](https://github.com/karmada-io/karmada)
+* [Simple and secure remote access](https://www.boundaryproject.io/)
 * [Show HN : MarkShow – Create Slideshows with Markdown : Hacker News](https://news.ycombinator.com/item?id=26931098)
 * [Evolving Kubernetes networking with the Gateway API](https://kubernetes.io/blog/2021/04/22/evolving-kubernetes-networking-with-the-gateway-api/)
 * [the standard unix password manager](https://www.passwordstore.org/)
@@ -74,9 +77,6 @@ A table of things ...
 * [4 Open Source Tools to Add to Your Security Arsenal](https://www.darkreading.com/application-security/4-open-source-tools-to-add-to-your-security-arsenal/a/d-id/1340487)
 * [X.Org says it's saving a packet with Packet after migrating freedesktop.org off Google Kubernetes Engine](https://www.theregister.com/2021/04/01/freedesktoporg_migration_from_google/)
 * [Open Source Security Foundation (OpenSSF)](https://openssf.org/)
-* [Focalboard: Open source alternative to Trello, Asana, and Notion](https://www.focalboard.com/)
-* [security.txt: Proposed standard for defining security policies](https://securitytxt.org/)
-* [Track your family calendar with a Raspberry Pi and a low-power display](https://opensource.com/article/21/3/family-calendar-raspberry-pi)
 
 ### My Blog Posts
 
@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [karmada](https://github.com/karmada-io/karmada)
+  Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
 * [grype](https://github.com/anchore/grype)
   A vulnerability scanner for container images and filesystems
 * [cloudflared](https://github.com/cloudflare/cloudflared)
@@ -113,5 +115,3 @@ A table of things ...
   The Buildkite Agent is an open-source toolkit written in Golang for securely running build jobs on any device or network
 * [cli](https://github.com/buildkite/cli)
   A command line interface for Buildkite.
-* [cryptpad](https://github.com/xwiki-labs/cryptpad)
-  Collaboration suite, end-to-end encrypted and open-source.
