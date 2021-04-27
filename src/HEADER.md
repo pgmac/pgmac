@@ -50,7 +50,7 @@ A table of things ...
                     RSS Feeds
                     <ul>
                         <li><a href="http://fetchrss.com/rss/5b4e9e358a93f8cc058b4567960404014.xml">SysDig</a></li>
-                        <li><a href="https://aws.amazon.com/new/feed/"></a>Amazone AWS News</li>
+                        <li><a href="https://aws.amazon.com/new/feed/">Amazon AWS News</a></li>
                         <li><a href="https://cloudblog.withgoogle.com/rss/">Google Cloud</a></li>
                         <li><a href="https://cloudblog.withgoogle.com/products/containers-kubernetes/rss/">k8s/containes in Google</a></li>
                         <li><a href="https://kubernetes.io/feed.xml">k8s</a></li>
