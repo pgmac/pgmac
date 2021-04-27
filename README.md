@@ -79,16 +79,16 @@ Here are some ideas to get you started:
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [Testing HashiCorp Terraform](https://www.hashicorp.com/blog/testing-hashicorp-terraform)
-* [www.supermicro.com - /wftp/driver/VGA/ASPEED/](https://www.supermicro.com/wdl/driver/VGA/ASPEED/)
-* [Multi-User Dungeons (MUDs): What Are They? And How to Play](https://medium.com/@williamson.f93/multi-user-dungeons-muds-what-are-they-and-how-to-play-af3ec0f29f4a)
-* [Rich](https://github.com/willmcgugan/rich)
-* [The worst of the two worlds: Excel meets Outlook](https://adepts.of0x.cc/VBA-Outlook/)
-* [Calvin & Hobbes Search Engine : by Bing](http://michaelyingling.com/random/calvin_and_hobbes/)
-* [NetworkPolicy Editor: Create, Visualize, and Share Kubernetes NetworkPolicies](https://cilium.io/blog/2021/02/10/network-policy-editor)
-* [helloSystem is a FreeBSD Distro Modelled after Mac OS X (Off Topic)](https://www.omgubuntu.co.uk/2021/02/hello-system-freebsd-os)
-* [Filmulator version 0.11.0](https://filmulator.org/v0-11-0/)
-* [Open Collective](https://opencollective.com/open-web-docs/updates/introducing-open-web-docs)
+* [Show HN : MarkShow – Create Slideshows with Markdown : Hacker News](https://news.ycombinator.com/item?id=26931098)
+* [Evolving Kubernetes networking with the Gateway API](https://kubernetes.io/blog/2021/04/22/evolving-kubernetes-networking-with-the-gateway-api/)
+* [the standard unix password manager](https://www.passwordstore.org/)
+* [Python resources for everybody](https://learnbyexample.github.io/py_resources/)
+* [4 Open Source Tools to Add to Your Security Arsenal](https://www.darkreading.com/application-security/4-open-source-tools-to-add-to-your-security-arsenal/a/d-id/1340487)
+* [X.Org says it's saving a packet with Packet after migrating freedesktop.org off Google Kubernetes Engine](https://www.theregister.com/2021/04/01/freedesktoporg_migration_from_google/)
+* [Open Source Security Foundation (OpenSSF)](https://openssf.org/)
+* [Focalboard: Open source alternative to Trello, Asana, and Notion](https://www.focalboard.com/)
+* [security.txt: Proposed standard for defining security policies](https://securitytxt.org/)
+* [Track your family calendar with a Raspberry Pi and a low-power display](https://opensource.com/article/21/3/family-calendar-raspberry-pi)
 
 ### My Blog Posts
 
@@ -99,31 +99,31 @@ Here are some ideas to get you started:
 * [Think Feel Love Believe](https://pgmac.net.au/family/2017/11/03/think-feel-love-believe.html)
 * [How-To extend a Logical Volume using LVM on Linux](https://pgmac.net.au/technology/2017/11/02/lmv-extend.html)
 * [Manual cert-bot renewals for certificates hosted on a Sophos UTM](https://pgmac.net.au/technology/2017/08/30/cert-bot-renewal-sophos-utm.html)
+* [History](https://pgmac.net.au/language/2017/08/19/history.html)
 * [The hiccup cure](https://pgmac.net.au/no%20laughing%20matter/2017/05/28/the-hiccup-cure.html)
 * [JVC Everio MOD files to MPG](https://pgmac.net.au/technology/2015/03/18/jvc-everio-mod-to-mpg.html)
-* [Samba 4.1.14 upgrade problem](https://pgmac.net.au/technology/2014/12/07/samba-4.1.14-upgrade-problem.html)
 
 ### Things I'm star-ing
 
-* [rumble](https://github.com/RumbleDB/rumble)
-  ⛈️ Rumble 1.11.0 "Banyan Tree"🌳  for Apache Spark | Run queries on your large-scale, messy JSON-like data (JSON, text, CSV, Parquet, ROOT, AVRO, SVM...) | No install required (just a jar to download) | Declarative Machine Learning and more
-* [cosmopolitan](https://github.com/jart/cosmopolitan)
-  fast portable static native textmode containers
-* [ghostwriter](https://github.com/wereturtle/ghostwriter)
-  ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
-* [3mux](https://github.com/aaronjanse/3mux)
-  Terminal multiplexer inspired by i3
-* [rich](https://github.com/willmcgugan/rich)
-  Rich is a Python library for rich text and beautiful formatting in the terminal.
-* [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)
-  Sourcetrail - free and open-source interactive source explorer
-* [Kubernetes_Security_Specialist_Study_Guide](https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide)
-  None
-* [security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator)
-  The Kubernetes Security Profiles Operator
-* [launch](https://github.com/system76/launch)
-  System76 Launch Configurable Keyboard
-* [Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC)
-  Manages, configures, extracts and monitors Microsoft 365 tenant configurations
-* [kubenurse](https://github.com/postfinance/kubenurse)
-  Kubernetes network monitoring
+* [grype](https://github.com/anchore/grype)
+  A vulnerability scanner for container images and filesystems
+* [cloudflared](https://github.com/cloudflare/cloudflared)
+  Argo Tunnel client
+* [examples](https://github.com/kubernetes/examples)
+  Kubernetes application example tutorials
+* [secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver)
+  Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.  
+* [aws-efs-csi-driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver)
+  CSI Driver for Amazon EFS https://aws.amazon.com/efs/
+* [containers-roadmap](https://github.com/aws/containers-roadmap)
+  This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). 
+* [opencve](https://github.com/opencve/opencve)
+  CVE Alerting Platform
+* [vulnerablecode](https://github.com/nexB/vulnerablecode)
+  A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode 
+* [agent](https://github.com/buildkite/agent)
+  The Buildkite Agent is an open-source toolkit written in Golang for securely running build jobs on any device or network
+* [cli](https://github.com/buildkite/cli)
+  A command line interface for Buildkite.
+* [cryptpad](https://github.com/xwiki-labs/cryptpad)
+  Collaboration suite, end-to-end encrypted and open-source.
