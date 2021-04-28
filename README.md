@@ -67,7 +67,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [Swimlanes.io – generated editable sequence diagrams : Hacker News](https://news.ycombinator.com/item?id=26956728)
+* [Swimlanes.io – generated editable sequence diagrams : Hacker News](http://news.ycombinator.com/item?id=26956728)
 * [](https://github.com/karmada-io/karmada)
 * [Simple and secure remote access](https://www.boundaryproject.io/)
 * [Show HN : MarkShow – Create Slideshows with Markdown : Hacker News](https://news.ycombinator.com/item?id=26931098)
