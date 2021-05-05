@@ -67,6 +67,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Quick and dirty Python: masscan](https://isc.sans.edu/forums/diary/Quick+and+dirty+Python+masscan/27384/)
 * [UNIX Magic Poster by Gary Overcare](https://archive.org/details/unix-magic-poster-gary-overcare-1)
 * [Access an alternate internet with OpenNIC](https://opensource.com/article/21/4/opennic-internet)
 * [Swimlanes.io – generated editable sequence diagrams : Hacker News](http://news.ycombinator.com/item?id=26956728)
@@ -76,7 +77,6 @@ A table of things ...
 * [Evolving Kubernetes networking with the Gateway API](https://kubernetes.io/blog/2021/04/22/evolving-kubernetes-networking-with-the-gateway-api/)
 * [the standard unix password manager](https://www.passwordstore.org/)
 * [Python resources for everybody](https://learnbyexample.github.io/py_resources/)
-* [4 Open Source Tools to Add to Your Security Arsenal](https://www.darkreading.com/application-security/4-open-source-tools-to-add-to-your-security-arsenal/a/d-id/1340487)
 
 ### My Blog Posts
 
@@ -93,6 +93,12 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [pixie](https://github.com/pixie-labs/pixie)
+  Instant Kubernetes-Native Application Observability
+* [masscan](https://github.com/robertdavidgraham/masscan)
+  TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+* [kubestriker](https://github.com/vchinnipilli/kubestriker)
+  A Blazing fast Security Auditing tool for Kubernetes
 * [karmada](https://github.com/karmada-io/karmada)
   Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
 * [grype](https://github.com/anchore/grype)
@@ -109,9 +115,3 @@ A table of things ...
   This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). 
 * [opencve](https://github.com/opencve/opencve)
   CVE Alerting Platform
-* [vulnerablecode](https://github.com/nexB/vulnerablecode)
-  A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode 
-* [agent](https://github.com/buildkite/agent)
-  The Buildkite Agent is an open-source toolkit written in Golang for securely running build jobs on any device or network
-* [cli](https://github.com/buildkite/cli)
-  A command line interface for Buildkite.
