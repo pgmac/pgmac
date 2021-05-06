@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [python-cheatsheet](https://github.com/gto76/python-cheatsheet)
+  Comprehensive Python Cheatsheet
 * [pixie](https://github.com/pixie-labs/pixie)
   Instant Kubernetes-Native Application Observability
 * [masscan](https://github.com/robertdavidgraham/masscan)
@@ -113,5 +115,3 @@ A table of things ...
   CSI Driver for Amazon EFS https://aws.amazon.com/efs/
 * [containers-roadmap](https://github.com/aws/containers-roadmap)
   This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). 
-* [opencve](https://github.com/opencve/opencve)
-  CVE Alerting Platform
