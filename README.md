@@ -70,7 +70,7 @@ A table of things ...
 * [Quick and dirty Python: masscan](https://isc.sans.edu/forums/diary/Quick+and+dirty+Python+masscan/27384/)
 * [UNIX Magic Poster by Gary Overcare](https://archive.org/details/unix-magic-poster-gary-overcare-1)
 * [Access an alternate internet with OpenNIC](https://opensource.com/article/21/4/opennic-internet)
-* [Swimlanes.io – generated editable sequence diagrams : Hacker News](http://news.ycombinator.com/item?id=26956728)
+* [Swimlanes.io – generated editable sequence diagrams : Hacker News](https://news.ycombinator.com/item?id=26956728)
 * [](https://github.com/karmada-io/karmada)
 * [Simple and secure remote access](https://www.boundaryproject.io/)
 * [Show HN : MarkShow – Create Slideshows with Markdown : Hacker News](https://news.ycombinator.com/item?id=26931098)
@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [smithy](https://github.com/awslabs/smithy)
+  Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
 * [python-cheatsheet](https://github.com/gto76/python-cheatsheet)
   Comprehensive Python Cheatsheet
 * [pixie](https://github.com/pixie-labs/pixie)
@@ -113,5 +115,3 @@ A table of things ...
   Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.  
 * [aws-efs-csi-driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver)
   CSI Driver for Amazon EFS https://aws.amazon.com/efs/
-* [containers-roadmap](https://github.com/aws/containers-roadmap)
-  This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). 
