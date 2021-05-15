@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [Quake3e](https://github.com/ec-/Quake3e)
+  Improved Quake III Arena engine
 * [smithy](https://github.com/awslabs/smithy)
   Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
 * [python-cheatsheet](https://github.com/gto76/python-cheatsheet)
@@ -113,5 +115,3 @@ A table of things ...
   Kubernetes application example tutorials
 * [secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver)
   Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.  
-* [aws-efs-csi-driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver)
-  CSI Driver for Amazon EFS https://aws.amazon.com/efs/
