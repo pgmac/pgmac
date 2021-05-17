@@ -93,6 +93,10 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [lima](https://github.com/AkihiroSuda/lima)
+  Lima: Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac")
+* [vcluster](https://github.com/loft-sh/vcluster)
+  vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
 * [Quake3e](https://github.com/ec-/Quake3e)
   Improved Quake III Arena engine
 * [smithy](https://github.com/awslabs/smithy)
@@ -111,7 +115,3 @@ A table of things ...
   A vulnerability scanner for container images and filesystems
 * [cloudflared](https://github.com/cloudflare/cloudflared)
   Argo Tunnel client
-* [examples](https://github.com/kubernetes/examples)
-  Kubernetes application example tutorials
-* [secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver)
-  Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.  
