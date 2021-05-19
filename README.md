@@ -94,7 +94,7 @@ A table of things ...
 ### Things I'm star-ing
 
 * [lima](https://github.com/AkihiroSuda/lima)
-  Lima: Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac")
+  Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
 * [vcluster](https://github.com/loft-sh/vcluster)
   vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
 * [Quake3e](https://github.com/ec-/Quake3e)
