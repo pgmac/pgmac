@@ -67,6 +67,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Improving your monitoring setup by integrating Cloudflare’s analytics data into Prometheus and Grafana](https://blog.cloudflare.com/improving-your-monitoring-setup-by-integrating-cloudflares-analytics-data-into-prometheus-and-grafana/)
+* [What is Nyxt?](https://nyxt.atlas.engineer/article/release-2.0.0.org)
 * [Quick and dirty Python: masscan](https://isc.sans.edu/forums/diary/Quick+and+dirty+Python+masscan/27384/)
 * [UNIX Magic Poster by Gary Overcare](https://archive.org/details/unix-magic-poster-gary-overcare-1)
 * [Access an alternate internet with OpenNIC](https://opensource.com/article/21/4/opennic-internet)
@@ -75,8 +77,6 @@ A table of things ...
 * [Simple and secure remote access](https://www.boundaryproject.io/)
 * [Show HN : MarkShow – Create Slideshows with Markdown : Hacker News](https://news.ycombinator.com/item?id=26931098)
 * [Evolving Kubernetes networking with the Gateway API](https://kubernetes.io/blog/2021/04/22/evolving-kubernetes-networking-with-the-gateway-api/)
-* [the standard unix password manager](https://www.passwordstore.org/)
-* [Python resources for everybody](https://learnbyexample.github.io/py_resources/)
 
 ### My Blog Posts
 
