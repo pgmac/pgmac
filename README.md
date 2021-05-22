@@ -67,6 +67,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Past and Future Turtles: The Evolution of the Logo Programming Language (Part 1)](https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/)
 * [Improving your monitoring setup by integrating Cloudflare’s analytics data into Prometheus and Grafana](https://blog.cloudflare.com/improving-your-monitoring-setup-by-integrating-cloudflares-analytics-data-into-prometheus-and-grafana/)
 * [What is Nyxt?](https://nyxt.atlas.engineer/article/release-2.0.0.org)
 * [Quick and dirty Python: masscan](https://isc.sans.edu/forums/diary/Quick+and+dirty+Python+masscan/27384/)
@@ -76,7 +77,6 @@ A table of things ...
 * [](https://github.com/karmada-io/karmada)
 * [Simple and secure remote access](https://www.boundaryproject.io/)
 * [Show HN : MarkShow – Create Slideshows with Markdown : Hacker News](https://news.ycombinator.com/item?id=26931098)
-* [Evolving Kubernetes networking with the Gateway API](https://kubernetes.io/blog/2021/04/22/evolving-kubernetes-networking-with-the-gateway-api/)
 
 ### My Blog Posts
 
