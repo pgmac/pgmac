@@ -93,6 +93,10 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets)
+  Integrate external secret management systems with Kubernetes
+* [aws-secret-sidecar-injector](https://github.com/aws-samples/aws-secret-sidecar-injector)
+  Kubernetes mutating webhook to fetch secrets from AWS Secrets Manager
 * [lima](https://github.com/AkihiroSuda/lima)
   Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
 * [vcluster](https://github.com/loft-sh/vcluster)
@@ -111,7 +115,3 @@ A table of things ...
   A Blazing fast Security Auditing tool for Kubernetes
 * [karmada](https://github.com/karmada-io/karmada)
   Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
-* [grype](https://github.com/anchore/grype)
-  A vulnerability scanner for container images and filesystems
-* [cloudflared](https://github.com/cloudflare/cloudflared)
-  Argo Tunnel client
