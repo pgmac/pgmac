@@ -67,6 +67,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Introducing gpg-tui, a Terminal User Interface for GnuPG](http://orhun.dev/blog/introducing-gpg-tui/)
 * [ZAP](http://www.zaproxy.org/)
 * [How to use AWS Secrets & Configuration Provider with your Kubernetes Secrets Store CSI driver](https://aws.amazon.com/blogs/security/how-to-use-aws-secrets-configuration-provider-with-kubernetes-secrets-store-csi-driver/)
 * [Past and Future Turtles: The Evolution of the Logo Programming Language (Part 1)](https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/)
@@ -76,7 +77,6 @@ A table of things ...
 * [UNIX Magic Poster by Gary Overcare](https://archive.org/details/unix-magic-poster-gary-overcare-1)
 * [Access an alternate internet with OpenNIC](https://opensource.com/article/21/4/opennic-internet)
 * [Swimlanes.io – generated editable sequence diagrams : Hacker News](https://news.ycombinator.com/item?id=26956728)
-* [](https://github.com/karmada-io/karmada)
 
 ### My Blog Posts
 
@@ -93,6 +93,10 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [git-bug](https://github.com/MichaelMure/git-bug)
+  Distributed, offline-first bug tracker embedded in git, with bridges
+* [gpg-tui](https://github.com/orhun/gpg-tui)
+  Manage your GnuPG keys with ease! 🔐
 * [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets)
   Integrate external secret management systems with Kubernetes
 * [aws-secret-sidecar-injector](https://github.com/aws-samples/aws-secret-sidecar-injector)
@@ -111,7 +115,3 @@ A table of things ...
   Instant Kubernetes-Native Application Observability
 * [masscan](https://github.com/robertdavidgraham/masscan)
   TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
-* [kubestriker](https://github.com/vchinnipilli/kubestriker)
-  A Blazing fast Security Auditing tool for Kubernetes
-* [karmada](https://github.com/karmada-io/karmada)
-  Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
