@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [awsls](https://github.com/jckuester/awsls)
+  A list command for AWS resources
 * [git-bug](https://github.com/MichaelMure/git-bug)
   Distributed, offline-first bug tracker embedded in git, with bridges
 * [gpg-tui](https://github.com/orhun/gpg-tui)
@@ -113,5 +115,3 @@ A table of things ...
   Comprehensive Python Cheatsheet
 * [pixie](https://github.com/pixie-labs/pixie)
   Instant Kubernetes-Native Application Observability
-* [masscan](https://github.com/robertdavidgraham/masscan)
-  TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
