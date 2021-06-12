@@ -67,6 +67,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Wire your data with datablocks](https://datablocks.pro)
 * [Introducing gpg-tui, a Terminal User Interface for GnuPG](http://orhun.dev/blog/introducing-gpg-tui/)
 * [ZAP](http://www.zaproxy.org/)
 * [How to use AWS Secrets & Configuration Provider with your Kubernetes Secrets Store CSI driver](https://aws.amazon.com/blogs/security/how-to-use-aws-secrets-configuration-provider-with-kubernetes-secrets-store-csi-driver/)
@@ -76,7 +77,6 @@ A table of things ...
 * [Quick and dirty Python: masscan](https://isc.sans.edu/forums/diary/Quick+and+dirty+Python+masscan/27384/)
 * [UNIX Magic Poster by Gary Overcare](https://archive.org/details/unix-magic-poster-gary-overcare-1)
 * [Access an alternate internet with OpenNIC](https://opensource.com/article/21/4/opennic-internet)
-* [Swimlanes.io – generated editable sequence diagrams : Hacker News](https://news.ycombinator.com/item?id=26956728)
 
 ### My Blog Posts
 
