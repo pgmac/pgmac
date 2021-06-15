@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [popeye](https://github.com/derailed/popeye)
+  👀 A Kubernetes cluster resource sanitizer
 * [awsls](https://github.com/jckuester/awsls)
   A list command for AWS resources
 * [git-bug](https://github.com/MichaelMure/git-bug)
@@ -113,5 +115,3 @@ A table of things ...
   Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
 * [python-cheatsheet](https://github.com/gto76/python-cheatsheet)
   Comprehensive Python Cheatsheet
-* [pixie](https://github.com/pixie-labs/pixie)
-  Instant Kubernetes-Native Application Observability
