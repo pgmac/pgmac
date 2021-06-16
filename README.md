@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [gofish](https://github.com/fishworks/gofish)
+  Keep your fish fresh! :tropical_fish:
 * [popeye](https://github.com/derailed/popeye)
   👀 A Kubernetes cluster resource sanitizer
 * [awsls](https://github.com/jckuester/awsls)
@@ -113,5 +115,3 @@ A table of things ...
   Improved Quake III Arena engine
 * [smithy](https://github.com/awslabs/smithy)
   Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
-* [python-cheatsheet](https://github.com/gto76/python-cheatsheet)
-  Comprehensive Python Cheatsheet
