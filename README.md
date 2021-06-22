@@ -67,6 +67,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Maybe it’s time we re-think docs](https://kathykorevec.medium.com/building-a-better-place-for-docs-197f92765409)
 * [Wire your data with datablocks](https://datablocks.pro)
 * [Introducing gpg-tui, a Terminal User Interface for GnuPG](http://orhun.dev/blog/introducing-gpg-tui/)
 * [ZAP](http://www.zaproxy.org/)
@@ -76,7 +77,6 @@ A table of things ...
 * [What is Nyxt?](https://nyxt.atlas.engineer/article/release-2.0.0.org)
 * [Quick and dirty Python: masscan](https://isc.sans.edu/forums/diary/Quick+and+dirty+Python+masscan/27384/)
 * [UNIX Magic Poster by Gary Overcare](https://archive.org/details/unix-magic-poster-gary-overcare-1)
-* [Access an alternate internet with OpenNIC](https://opensource.com/article/21/4/opennic-internet)
 
 ### My Blog Posts
 
