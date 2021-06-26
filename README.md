@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [osv](https://github.com/google/osv)
+  Open source vulnerability DB and triage service.
 * [gofish](https://github.com/fishworks/gofish)
   Keep your fish fresh! :tropical_fish:
 * [popeye](https://github.com/derailed/popeye)
@@ -113,5 +115,3 @@ A table of things ...
   vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
 * [Quake3e](https://github.com/ec-/Quake3e)
   Improved Quake III Arena engine
-* [smithy](https://github.com/awslabs/smithy)
-  Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
