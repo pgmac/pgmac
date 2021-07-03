@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [scorecard](https://github.com/ossf/scorecard)
+  Security Scorecards - Security health metrics for Open Source
 * [osv](https://github.com/google/osv)
   Open source vulnerability DB and triage service.
 * [gofish](https://github.com/fishworks/gofish)
@@ -113,5 +115,3 @@ A table of things ...
   Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
 * [vcluster](https://github.com/loft-sh/vcluster)
   vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
-* [Quake3e](https://github.com/ec-/Quake3e)
-  Improved Quake III Arena engine
