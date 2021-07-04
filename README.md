@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [kics](https://github.com/Checkmarx/kics)
+  Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
 * [scorecard](https://github.com/ossf/scorecard)
   Security Scorecards - Security health metrics for Open Source
 * [osv](https://github.com/google/osv)
@@ -113,5 +115,3 @@ A table of things ...
   Kubernetes mutating webhook to fetch secrets from AWS Secrets Manager
 * [lima](https://github.com/AkihiroSuda/lima)
   Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
-* [vcluster](https://github.com/loft-sh/vcluster)
-  vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
