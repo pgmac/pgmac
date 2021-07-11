@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [bpytop](https://github.com/aristocratos/bpytop)
+  Linux/OSX/FreeBSD resource monitor
 * [kics](https://github.com/Checkmarx/kics)
   Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
 * [scorecard](https://github.com/ossf/scorecard)
@@ -113,5 +115,3 @@ A table of things ...
   Integrate external secret management systems with Kubernetes
 * [aws-secret-sidecar-injector](https://github.com/aws-samples/aws-secret-sidecar-injector)
   Kubernetes mutating webhook to fetch secrets from AWS Secrets Manager
-* [lima](https://github.com/AkihiroSuda/lima)
-  Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
