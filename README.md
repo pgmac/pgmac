@@ -67,6 +67,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [A Better Way to Provision Kubernetes Using Terraform](https://thenewstack.io/a-better-way-to-provision-kubernetes-using-terraform/)
 * [Some reorg in order to help and allow other to contribute easier & Adding Branded Clusters support by enabling a Node to be used as a Cluster #439](https://github.com/mingrammer/diagrams/pull/439)
 * [Maybe it’s time we re-think docs](https://kathykorevec.medium.com/building-a-better-place-for-docs-197f92765409)
 * [Wire your data with datablocks](https://datablocks.pro)
@@ -76,7 +77,6 @@ A table of things ...
 * [Past and Future Turtles: The Evolution of the Logo Programming Language (Part 1)](https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/)
 * [Improving your monitoring setup by integrating Cloudflare’s analytics data into Prometheus and Grafana](https://blog.cloudflare.com/improving-your-monitoring-setup-by-integrating-cloudflares-analytics-data-into-prometheus-and-grafana/)
 * [What is Nyxt?](https://nyxt.atlas.engineer/article/release-2.0.0.org)
-* [Quick and dirty Python: masscan](https://isc.sans.edu/forums/diary/Quick+and+dirty+Python+masscan/27384/)
 
 ### My Blog Posts
 
