@@ -67,6 +67,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Netcat - All you need to know](https://blog.ikuamike.io/posts/2021/netcat/)
 * [Looking Glass](https://looking-glass.io/)
 * [A Better Way to Provision Kubernetes Using Terraform](https://thenewstack.io/a-better-way-to-provision-kubernetes-using-terraform/)
 * [Some reorg in order to help and allow other to contribute easier & Adding Branded Clusters support by enabling a Node to be used as a Cluster #439](https://github.com/mingrammer/diagrams/pull/439)
@@ -76,7 +77,6 @@ A table of things ...
 * [The ZAP Homepage](https://www.zaproxy.org/)
 * [How to use AWS Secrets & Configuration Provider with your Kubernetes Secrets Store CSI driver](https://aws.amazon.com/blogs/security/how-to-use-aws-secrets-configuration-provider-with-kubernetes-secrets-store-csi-driver/)
 * [Past and Future Turtles: The Evolution of the Logo Programming Language (Part 1)](https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/)
-* [Improving your monitoring setup by integrating Cloudflare’s analytics data into Prometheus and Grafana](https://blog.cloudflare.com/improving-your-monitoring-setup-by-integrating-cloudflares-analytics-data-into-prometheus-and-grafana/)
 
 ### My Blog Posts
 
