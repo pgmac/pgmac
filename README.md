@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit)
+  Chaos Engineering Experiments Automation & Orchestration
 * [bpytop](https://github.com/aristocratos/bpytop)
   Linux/OSX/FreeBSD resource monitor
 * [kics](https://github.com/Checkmarx/kics)
@@ -113,5 +115,3 @@ A table of things ...
   Manage your GnuPG keys with ease! 🔐
 * [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets)
   Integrate external secret management systems with Kubernetes
-* [aws-secret-sidecar-injector](https://github.com/aws-samples/aws-secret-sidecar-injector)
-  Kubernetes mutating webhook to fetch secrets from AWS Secrets Manager
