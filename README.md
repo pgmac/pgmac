@@ -93,6 +93,12 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [chaoskube](https://github.com/linki/chaoskube)
+  chaoskube periodically kills random pods in your Kubernetes cluster.
+* [secrets-store-csi-driver-provider-gcp](https://github.com/GoogleCloudPlatform/secrets-store-csi-driver-provider-gcp)
+  Google Secret Manager provider for the Secret Store CSI Driver.
+* [maestral](https://github.com/SamSchott/maestral)
+  Open-source Dropbox client for macOS and Linux
 * [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit)
   Chaos Engineering Experiments Automation & Orchestration
 * [bpytop](https://github.com/aristocratos/bpytop)
@@ -109,9 +115,3 @@ A table of things ...
   👀 A Kubernetes cluster resource sanitizer
 * [awsls](https://github.com/jckuester/awsls)
   A list command for AWS resources
-* [git-bug](https://github.com/MichaelMure/git-bug)
-  Distributed, offline-first bug tracker embedded in git, with bridges
-* [gpg-tui](https://github.com/orhun/gpg-tui)
-  Manage your GnuPG keys with ease! 🔐
-* [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets)
-  Integrate external secret management systems with Kubernetes
