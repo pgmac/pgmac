@@ -67,6 +67,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [C++ is Good for the Economy, It Creates Jobs!](https://harmful.cat-v.org/software/c++/)
 * [](https://getpocket.com/my-list)
 * [Netcat - All you need to know](https://blog.ikuamike.io/posts/2021/netcat/)
 * [Looking Glass](https://looking-glass.io/)
@@ -76,7 +77,6 @@ A table of things ...
 * [Wire your data with datablocks](https://datablocks.pro)
 * [Introducing gpg-tui, a Terminal User Interface for GnuPG](http://orhun.dev/blog/introducing-gpg-tui/)
 * [The ZAP Homepage](https://www.zaproxy.org/)
-* [How to use AWS Secrets & Configuration Provider with your Kubernetes Secrets Store CSI driver](https://aws.amazon.com/blogs/security/how-to-use-aws-secrets-configuration-provider-with-kubernetes-secrets-store-csi-driver/)
 
 ### My Blog Posts
 
