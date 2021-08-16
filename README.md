@@ -67,6 +67,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [TheOldNet Browser Proxy Instructions](http://theoldnet.com/docs/httpproxy/index.html)
 * [C++ is Good for the Economy, It Creates Jobs!](https://harmful.cat-v.org/software/c++/)
 * [](https://getpocket.com/my-list)
 * [Netcat - All you need to know](https://blog.ikuamike.io/posts/2021/netcat/)
@@ -76,7 +77,6 @@ A table of things ...
 * [Maybe it’s time we re-think docs](https://kathykorevec.medium.com/building-a-better-place-for-docs-197f92765409)
 * [Wire your data with datablocks](https://datablocks.pro)
 * [Introducing gpg-tui, a Terminal User Interface for GnuPG](http://orhun.dev/blog/introducing-gpg-tui/)
-* [The ZAP Homepage](https://www.zaproxy.org/)
 
 ### My Blog Posts
 
