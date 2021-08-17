@@ -67,16 +67,16 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Endless Sky, an open source space trading and combat game.](https://endless-sky.github.io/)
+* [Tutorial](https://alda.io/tutorial/)
+* [Welcome to Widelands.org](https://www.widelands.org/)
+* [A Free And Open Source Real-Time Strategy Game](https://wz2100.net/)
 * [TheOldNet Browser Proxy Instructions](http://theoldnet.com/docs/httpproxy/index.html)
 * [C++ is Good for the Economy, It Creates Jobs!](https://harmful.cat-v.org/software/c++/)
 * [](https://getpocket.com/my-list)
 * [Netcat - All you need to know](https://blog.ikuamike.io/posts/2021/netcat/)
 * [Looking Glass](https://looking-glass.io/)
 * [A Better Way to Provision Kubernetes Using Terraform](https://thenewstack.io/a-better-way-to-provision-kubernetes-using-terraform/)
-* [Some reorg in order to help and allow other to contribute easier & Adding Branded Clusters support by enabling a Node to be used as a Cluster #439](https://github.com/mingrammer/diagrams/pull/439)
-* [Maybe it’s time we re-think docs](https://kathykorevec.medium.com/building-a-better-place-for-docs-197f92765409)
-* [Wire your data with datablocks](https://datablocks.pro)
-* [Introducing gpg-tui, a Terminal User Interface for GnuPG](http://orhun.dev/blog/introducing-gpg-tui/)
 
 ### My Blog Posts
 
