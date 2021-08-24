@@ -67,6 +67,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Home | Ploopy](https://www.ploopy.co)
 * [Endless Sky, an open source space trading and combat game.](https://endless-sky.github.io/)
 * [Tutorial](https://alda.io/tutorial/)
 * [Welcome to Widelands.org](https://www.widelands.org/)
@@ -76,7 +77,6 @@ A table of things ...
 * [](https://getpocket.com/my-list)
 * [Netcat - All you need to know](https://blog.ikuamike.io/posts/2021/netcat/)
 * [Looking Glass](https://looking-glass.io/)
-* [A Better Way to Provision Kubernetes Using Terraform](https://thenewstack.io/a-better-way-to-provision-kubernetes-using-terraform/)
 
 ### My Blog Posts
 
