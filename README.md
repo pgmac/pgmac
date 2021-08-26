@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [miller](https://github.com/johnkerl/miller)
+  Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 * [chaoskube](https://github.com/linki/chaoskube)
   chaoskube periodically kills random pods in your Kubernetes cluster.
 * [secrets-store-csi-driver-provider-gcp](https://github.com/GoogleCloudPlatform/secrets-store-csi-driver-provider-gcp)
@@ -113,5 +115,3 @@ A table of things ...
   Keep your fish fresh! :tropical_fish:
 * [popeye](https://github.com/derailed/popeye)
   👀 A Kubernetes cluster resource sanitizer
-* [awsls](https://github.com/jckuester/awsls)
-  A list command for AWS resources
