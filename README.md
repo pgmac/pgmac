@@ -67,6 +67,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Zero trust 1.0](https://www.ncsc.gov.uk/blog-post/zero-trust-1-0)
 * [Home | Ploopy](https://www.ploopy.co)
 * [Endless Sky, an open source space trading and combat game.](https://endless-sky.github.io/)
 * [Tutorial](https://alda.io/tutorial/)
@@ -76,7 +77,6 @@ A table of things ...
 * [C++ is Good for the Economy, It Creates Jobs!](https://harmful.cat-v.org/software/c++/)
 * [](https://getpocket.com/my-list)
 * [Netcat - All you need to know](https://blog.ikuamike.io/posts/2021/netcat/)
-* [Looking Glass](https://looking-glass.io/)
 
 ### My Blog Posts
 
