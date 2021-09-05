@@ -93,6 +93,12 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [public-apis](https://github.com/public-apis/public-apis)
+  A collective list of free APIs
+* [rancher](https://github.com/rancher/rancher)
+  Complete container management platform
+* [kubescape](https://github.com/armosec/kubescape)
+  kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/) 
 * [miller](https://github.com/johnkerl/miller)
   Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 * [chaoskube](https://github.com/linki/chaoskube)
@@ -109,9 +115,3 @@ A table of things ...
   Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
 * [scorecard](https://github.com/ossf/scorecard)
   Security Scorecards - Security health metrics for Open Source
-* [osv](https://github.com/google/osv)
-  Open source vulnerability DB and triage service.
-* [gofish](https://github.com/fishworks/gofish)
-  Keep your fish fresh! :tropical_fish:
-* [popeye](https://github.com/derailed/popeye)
-  👀 A Kubernetes cluster resource sanitizer
