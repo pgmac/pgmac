@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [git-cliff](https://github.com/orhun/git-cliff)
+  A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 * [public-apis](https://github.com/public-apis/public-apis)
   A collective list of free APIs
 * [rancher](https://github.com/rancher/rancher)
@@ -113,5 +115,3 @@ A table of things ...
   Linux/OSX/FreeBSD resource monitor
 * [kics](https://github.com/Checkmarx/kics)
   Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
-* [scorecard](https://github.com/ossf/scorecard)
-  Security Scorecards - Security health metrics for Open Source
