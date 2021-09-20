@@ -67,6 +67,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Serverless monitoringsimplified](https://cloudash.dev/)
 * [Headscale : Open-source implementation of the Tailscale control server : Hacker News](https://news.ycombinator.com/item?id=28572013)
 * [External Secrets Operator](https://external-secrets.io/)
 * [Zero trust 1.0](https://www.ncsc.gov.uk/blog-post/zero-trust-1-0)
@@ -76,7 +77,6 @@ A table of things ...
 * [Welcome to Widelands.org](https://www.widelands.org/)
 * [A Free And Open Source Real-Time Strategy Game](https://wz2100.net/)
 * [TheOldNet Browser Proxy Instructions](http://theoldnet.com/docs/httpproxy/index.html)
-* [C++ is Good for the Economy, It Creates Jobs!](https://harmful.cat-v.org/software/c++/)
 
 ### My Blog Posts
 
