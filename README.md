@@ -67,6 +67,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [The Open Book Project : open-hardware e-ink eBook reader : Hacker News](https://news.ycombinator.com/item?id=28611205)
 * [Serverless monitoringsimplified](https://cloudash.dev/)
 * [Headscale : Open-source implementation of the Tailscale control server : Hacker News](https://news.ycombinator.com/item?id=28572013)
 * [External Secrets Operator](https://external-secrets.io/)
@@ -76,7 +77,6 @@ A table of things ...
 * [Tutorial](https://alda.io/tutorial/)
 * [Welcome to Widelands.org](https://www.widelands.org/)
 * [A Free And Open Source Real-Time Strategy Game](https://wz2100.net/)
-* [TheOldNet Browser Proxy Instructions](http://theoldnet.com/docs/httpproxy/index.html)
 
 ### My Blog Posts
 
@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [The-Open-Book](https://github.com/joeycastillo/The-Open-Book)
+  None
 * [git-cliff](https://github.com/orhun/git-cliff)
   A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
 * [public-apis](https://github.com/public-apis/public-apis)
@@ -113,5 +115,3 @@ A table of things ...
   Chaos Engineering Experiments Automation & Orchestration
 * [bpytop](https://github.com/aristocratos/bpytop)
   Linux/OSX/FreeBSD resource monitor
-* [kics](https://github.com/Checkmarx/kics)
-  Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.
