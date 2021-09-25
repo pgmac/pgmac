@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [miniflare](https://github.com/cloudflare/miniflare)
+  🔥 Fully-local simulator for Cloudflare Workers
 * [The-Open-Book](https://github.com/joeycastillo/The-Open-Book)
   None
 * [git-cliff](https://github.com/orhun/git-cliff)
@@ -113,5 +115,3 @@ A table of things ...
   Open-source Dropbox client for macOS and Linux
 * [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit)
   Chaos Engineering Experiments Automation & Orchestration
-* [bpytop](https://github.com/aristocratos/bpytop)
-  Linux/OSX/FreeBSD resource monitor
