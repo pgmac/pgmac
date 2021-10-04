@@ -67,6 +67,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Best of 2020 in Tech [Talks]](https://copyconstruct.medium.com/best-of-2020-in-tech-talks-2f29002f4a92)
 * [The Open Book Project : open-hardware e-ink eBook reader : Hacker News](https://news.ycombinator.com/item?id=28611205)
 * [Serverless monitoringsimplified](https://cloudash.dev/)
 * [Headscale : Open-source implementation of the Tailscale control server : Hacker News](https://news.ycombinator.com/item?id=28572013)
@@ -76,7 +77,6 @@ A table of things ...
 * [Endless Sky, an open source space trading and combat game.](https://endless-sky.github.io/)
 * [Tutorial](https://alda.io/tutorial/)
 * [Welcome to Widelands.org](https://www.widelands.org/)
-* [A Free And Open Source Real-Time Strategy Game](https://wz2100.net/)
 
 ### My Blog Posts
 
