@@ -67,6 +67,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [How to replace estimations and guesses with a Monte Carlo simulation](https://news.ycombinator.com/item?id=28769331)
 * [Best of 2020 in Tech [Talks]](https://copyconstruct.medium.com/best-of-2020-in-tech-talks-2f29002f4a92)
 * [The Open Book Project : open-hardware e-ink eBook reader : Hacker News](https://news.ycombinator.com/item?id=28611205)
 * [Serverless monitoringsimplified](https://cloudash.dev/)
@@ -76,7 +77,6 @@ A table of things ...
 * [Home | Ploopy](https://www.ploopy.co)
 * [Endless Sky, an open source space trading and combat game.](https://endless-sky.github.io/)
 * [Tutorial](https://alda.io/tutorial/)
-* [Welcome to Widelands.org](https://www.widelands.org/)
 
 ### My Blog Posts
 
