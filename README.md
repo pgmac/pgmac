@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)
+  A Chaos Engineering Platform for Kubernetes.
 * [miniflare](https://github.com/cloudflare/miniflare)
   🔥 Fully-local simulator for Cloudflare Workers
 * [The-Open-Book](https://github.com/joeycastillo/The-Open-Book)
@@ -113,5 +115,3 @@ A table of things ...
   Google Secret Manager provider for the Secret Store CSI Driver.
 * [maestral](https://github.com/SamSchott/maestral)
   Open-source Dropbox client for macOS and Linux
-* [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit)
-  Chaos Engineering Experiments Automation & Orchestration
