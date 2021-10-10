@@ -67,6 +67,9 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Turbocharge ArgoCD with App of Apps Pattern and Kustomized Helm](https://medium.com/dzerolabs/turbocharge-argocd-with-app-of-apps-pattern-and-kustomized-helm-ea4993190e7c)
+* [Use Kustomize to post-render Helm charts in ArgoCD](https://dev.to/camptocamp-ops/use-kustomize-to-post-render-helm-charts-in-argocd-2ml6)
+* [soupault](https://soupault.app/)
 * [How to replace estimations and guesses with a Monte Carlo simulation](https://news.ycombinator.com/item?id=28769331)
 * [Best of 2020 in Tech [Talks]](https://copyconstruct.medium.com/best-of-2020-in-tech-talks-2f29002f4a92)
 * [The Open Book Project : open-hardware e-ink eBook reader : Hacker News](https://news.ycombinator.com/item?id=28611205)
@@ -74,9 +77,6 @@ A table of things ...
 * [Headscale : Open-source implementation of the Tailscale control server : Hacker News](https://news.ycombinator.com/item?id=28572013)
 * [External Secrets Operator](https://external-secrets.io/)
 * [Zero trust 1.0](https://www.ncsc.gov.uk/blog-post/zero-trust-1-0)
-* [Home | Ploopy](https://www.ploopy.co)
-* [Endless Sky, an open source space trading and combat game.](https://endless-sky.github.io/)
-* [Tutorial](https://alda.io/tutorial/)
 
 ### My Blog Posts
 
@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [syft](https://github.com/anchore/syft)
+  CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 * [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)
   A Chaos Engineering Platform for Kubernetes.
 * [miniflare](https://github.com/cloudflare/miniflare)
@@ -113,5 +115,3 @@ A table of things ...
   chaoskube periodically kills random pods in your Kubernetes cluster.
 * [secrets-store-csi-driver-provider-gcp](https://github.com/GoogleCloudPlatform/secrets-store-csi-driver-provider-gcp)
   Google Secret Manager provider for the Secret Store CSI Driver.
-* [maestral](https://github.com/SamSchott/maestral)
-  Open-source Dropbox client for macOS and Linux
