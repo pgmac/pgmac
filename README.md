@@ -67,6 +67,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Container security best practices](https://sysdig.com/blog/container-security-best-practices/)
 * [Turbocharge ArgoCD with App of Apps Pattern and Kustomized Helm](https://medium.com/dzerolabs/turbocharge-argocd-with-app-of-apps-pattern-and-kustomized-helm-ea4993190e7c)
 * [Use Kustomize to post-render Helm charts in ArgoCD](https://dev.to/camptocamp-ops/use-kustomize-to-post-render-helm-charts-in-argocd-2ml6)
 * [soupault](https://soupault.app/)
@@ -76,7 +77,6 @@ A table of things ...
 * [Serverless monitoringsimplified](https://cloudash.dev/)
 * [Headscale : Open-source implementation of the Tailscale control server : Hacker News](https://news.ycombinator.com/item?id=28572013)
 * [External Secrets Operator](https://external-secrets.io/)
-* [Zero trust 1.0](https://www.ncsc.gov.uk/blog-post/zero-trust-1-0)
 
 ### My Blog Posts
 
