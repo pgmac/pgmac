@@ -108,7 +108,7 @@ A table of things ...
 * [rancher](https://github.com/rancher/rancher)
   Complete container management platform
 * [kubescape](https://github.com/armosec/kubescape)
-  kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/) 
+  Kubescape is the first open-source tool for testing if Kubernetes is deployed securely according to multiple frameworks: regulatory, customized company policies and DevSecOps best practices, such as the  NSA-CISA and the MITRE ATT&CK®.
 * [miller](https://github.com/johnkerl/miller)
   Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 * [chaoskube](https://github.com/linki/chaoskube)
