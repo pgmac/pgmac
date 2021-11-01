@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [aide](https://github.com/aide/aide)
+  aide source code
 * [syft](https://github.com/anchore/syft)
   CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 * [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)
@@ -113,5 +115,3 @@ A table of things ...
   Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 * [chaoskube](https://github.com/linki/chaoskube)
   chaoskube periodically kills random pods in your Kubernetes cluster.
-* [secrets-store-csi-driver-provider-gcp](https://github.com/GoogleCloudPlatform/secrets-store-csi-driver-provider-gcp)
-  Google Secret Manager provider for the Secret Store CSI Driver.
