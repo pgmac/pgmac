@@ -67,6 +67,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Minimum Viable Secure Product](https://mvsp.dev/mvsp.en/index.html)
 * [Installing macOS 12 “Monterey” on Proxmox 7](https://www.nicksherlock.com/2021/10/installing-macos-12-monterey-on-proxmox-7/)
 * [Container security best practices](https://sysdig.com/blog/container-security-best-practices/)
 * [Turbocharge ArgoCD with App of Apps Pattern and Kustomized Helm](https://medium.com/dzerolabs/turbocharge-argocd-with-app-of-apps-pattern-and-kustomized-helm-ea4993190e7c)
@@ -76,7 +77,6 @@ A table of things ...
 * [Best of 2020 in Tech [Talks]](https://copyconstruct.medium.com/best-of-2020-in-tech-talks-2f29002f4a92)
 * [The Open Book Project : open-hardware e-ink eBook reader : Hacker News](https://news.ycombinator.com/item?id=28611205)
 * [Serverless monitoringsimplified](https://cloudash.dev/)
-* [Headscale : Open-source implementation of the Tailscale control server : Hacker News](https://news.ycombinator.com/item?id=28572013)
 
 ### My Blog Posts
 
