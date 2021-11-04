@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [jitsu](https://github.com/jitsucom/jitsu)
+  Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
 * [aide](https://github.com/aide/aide)
   aide source code
 * [syft](https://github.com/anchore/syft)
@@ -113,5 +115,3 @@ A table of things ...
   Kubescape is the first open-source tool for testing if Kubernetes is deployed securely according to multiple frameworks: regulatory, customized company policies and DevSecOps best practices, such as the  NSA-CISA and the MITRE ATT&CK®.
 * [miller](https://github.com/johnkerl/miller)
   Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-* [chaoskube](https://github.com/linki/chaoskube)
-  chaoskube periodically kills random pods in your Kubernetes cluster.
