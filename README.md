@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
+  A Kubernetes controller for Elastic Load Balancers
 * [argo-cd](https://github.com/argoproj/argo-cd)
   Declarative continuous deployment for Kubernetes.
 * [jitsu](https://github.com/jitsucom/jitsu)
@@ -113,5 +115,3 @@ A table of things ...
   A collective list of free APIs
 * [rancher](https://github.com/rancher/rancher)
   Complete container management platform
-* [kubescape](https://github.com/armosec/kubescape)
-  Kubescape is the first open-source tool for testing if Kubernetes is deployed securely according to multiple frameworks: regulatory, customized company policies and DevSecOps best practices, such as the  NSA-CISA and the MITRE ATT&CK®.
