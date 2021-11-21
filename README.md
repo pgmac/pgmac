@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [production-saas](https://github.com/cloudflare/production-saas)
+  (WIP) Example SaaS application built in public on the Cloudflare stack!
 * [appflowy](https://github.com/AppFlowy-IO/appflowy)
   AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 * [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
@@ -113,5 +115,3 @@ A table of things ...
   None
 * [git-cliff](https://github.com/orhun/git-cliff)
   A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
-* [public-apis](https://github.com/public-apis/public-apis)
-  A collective list of free APIs
