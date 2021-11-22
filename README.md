@@ -67,6 +67,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Federate Kubernetes with AWS IAM using OIDC · reecetech](https://reece.tech/posts/oidc-k8s-to-aws/)
 * [Minimum Viable Secure Product](https://mvsp.dev/mvsp.en/index.html)
 * [Installing macOS 12 “Monterey” on Proxmox 7](https://www.nicksherlock.com/2021/10/installing-macos-12-monterey-on-proxmox-7/)
 * [Container security best practices](https://sysdig.com/blog/container-security-best-practices/)
@@ -76,7 +77,6 @@ A table of things ...
 * [How to replace estimations and guesses with a Monte Carlo simulation](https://news.ycombinator.com/item?id=28769331)
 * [Best of 2020 in Tech [Talks]](https://copyconstruct.medium.com/best-of-2020-in-tech-talks-2f29002f4a92)
 * [The Open Book Project : open-hardware e-ink eBook reader : Hacker News](https://news.ycombinator.com/item?id=28611205)
-* [Serverless monitoringsimplified](https://cloudash.dev/)
 
 ### My Blog Posts
 
