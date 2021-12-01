@@ -67,6 +67,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Welcome](https://superset.apache.org/)
 * [Federate Kubernetes with AWS IAM using OIDC · reecetech](https://reece.tech/posts/oidc-k8s-to-aws/)
 * [Minimum Viable Secure Product](https://mvsp.dev/mvsp.en/index.html)
 * [Installing macOS 12 “Monterey” on Proxmox 7](https://www.nicksherlock.com/2021/10/installing-macos-12-monterey-on-proxmox-7/)
@@ -76,7 +77,6 @@ A table of things ...
 * [soupault](https://soupault.app/)
 * [How to replace estimations and guesses with a Monte Carlo simulation](https://news.ycombinator.com/item?id=28769331)
 * [Best of 2020 in Tech [Talks]](https://copyconstruct.medium.com/best-of-2020-in-tech-talks-2f29002f4a92)
-* [The Open Book Project : open-hardware e-ink eBook reader : Hacker News](https://news.ycombinator.com/item?id=28611205)
 
 ### My Blog Posts
 
@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [hubris](https://github.com/oxidecomputer/hubris)
+  A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
 * [production-saas](https://github.com/cloudflare/production-saas)
   (WIP) Example SaaS application built in public on the Cloudflare stack!
 * [appflowy](https://github.com/AppFlowy-IO/appflowy)
@@ -113,5 +115,3 @@ A table of things ...
   🔥 Fully-local simulator for Cloudflare Workers
 * [The-Open-Book](https://github.com/joeycastillo/The-Open-Book)
   None
-* [git-cliff](https://github.com/orhun/git-cliff)
-  A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ 
