@@ -67,6 +67,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [The free app that makes your Internet safer.](https://1.1.1.1)
+* [Flush Cache](https://developers.google.com/speed/public-dns/cache)
 * [Welcome](https://superset.apache.org/)
 * [Federate Kubernetes with AWS IAM using OIDC · reecetech](https://reece.tech/posts/oidc-k8s-to-aws/)
 * [Minimum Viable Secure Product](https://mvsp.dev/mvsp.en/index.html)
@@ -75,8 +77,6 @@ A table of things ...
 * [Turbocharge ArgoCD with App of Apps Pattern and Kustomized Helm](https://medium.com/dzerolabs/turbocharge-argocd-with-app-of-apps-pattern-and-kustomized-helm-ea4993190e7c)
 * [Use Kustomize to post-render Helm charts in ArgoCD](https://dev.to/camptocamp-ops/use-kustomize-to-post-render-helm-charts-in-argocd-2ml6)
 * [soupault](https://soupault.app/)
-* [How to replace estimations and guesses with a Monte Carlo simulation](https://news.ycombinator.com/item?id=28769331)
-* [Best of 2020 in Tech [Talks]](https://copyconstruct.medium.com/best-of-2020-in-tech-talks-2f29002f4a92)
 
 ### My Blog Posts
 
@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [slacktyping](https://github.com/will/slacktyping)
+  i'm typing when you're typing
 * [hubris](https://github.com/oxidecomputer/hubris)
   A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
 * [production-saas](https://github.com/cloudflare/production-saas)
@@ -113,5 +115,3 @@ A table of things ...
   A Chaos Engineering Platform for Kubernetes.
 * [miniflare](https://github.com/cloudflare/miniflare)
   🔥 Fully-local simulator for Cloudflare Workers
-* [The-Open-Book](https://github.com/joeycastillo/The-Open-Book)
-  None
