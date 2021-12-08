@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [external-secrets](https://github.com/external-secrets/external-secrets)
+  The External Secrets Kubernetes operator reads information from a third party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 * [slacktyping](https://github.com/will/slacktyping)
   i'm typing when you're typing
 * [hubris](https://github.com/oxidecomputer/hubris)
@@ -113,5 +115,3 @@ A table of things ...
   CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 * [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)
   A Chaos Engineering Platform for Kubernetes.
-* [miniflare](https://github.com/cloudflare/miniflare)
-  🔥 Fully-local simulator for Cloudflare Workers
