@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [aws-cdk](https://github.com/aws/aws-cdk)
+  The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 * [external-secrets](https://github.com/external-secrets/external-secrets)
   The External Secrets Kubernetes operator reads information from a third party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 * [slacktyping](https://github.com/will/slacktyping)
@@ -113,5 +115,3 @@ A table of things ...
   aide source code
 * [syft](https://github.com/anchore/syft)
   CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-* [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)
-  A Chaos Engineering Platform for Kubernetes.
