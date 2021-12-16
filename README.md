@@ -96,7 +96,7 @@ A table of things ...
 * [aws-cdk](https://github.com/aws/aws-cdk)
   The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 * [external-secrets](https://github.com/external-secrets/external-secrets)
-  The External Secrets Kubernetes operator reads information from a third party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+  External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 * [slacktyping](https://github.com/will/slacktyping)
   i'm typing when you're typing
 * [hubris](https://github.com/oxidecomputer/hubris)
