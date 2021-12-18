@@ -93,6 +93,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [passage](https://github.com/FiloSottile/passage)
+  A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
 * [aws-cdk](https://github.com/aws/aws-cdk)
   The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 * [external-secrets](https://github.com/external-secrets/external-secrets)
@@ -113,5 +115,3 @@ A table of things ...
   Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
 * [aide](https://github.com/aide/aide)
   aide source code
-* [syft](https://github.com/anchore/syft)
-  CLI tool and library for generating a Software Bill of Materials from container images and filesystems
