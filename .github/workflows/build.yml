@@ -27,6 +27,9 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r src/requirements.txt
     - name: Update README
+      env:
+         pocket_acctok: ${{ secrets.POCKET_ACCTOK }}
+         pocket_conskey: ${{ secrets.POCKET_CONSKEY }}
       run: |-
         python src/update.py
         cat README.md

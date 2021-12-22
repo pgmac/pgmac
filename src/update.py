@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 from pocket import Pocket, PocketException
+from os import environ
 import feedparser
 import requests
 from pprint import pprint
@@ -13,8 +14,8 @@ from pprint import pprint
 
 
 def pocket_pop():
-    conskey = "82886-5fc8d766c10eed195a362668"
-    acctok = "0f2a6d6d-096a-8586-ded1-15cef6"
+    conskey = environ.get("POCKET_CONSKEY")
+    acctok = environ.get("POCKET_ACCTOK")
 
     p = Pocket(
         consumer_key=conskey,
@@ -47,13 +48,12 @@ def pgmac_pop(l_url):
     return retstr
 
 
-def github_stars(l_user="pgmac", max=10):
-    # retarr = "\n### {}'s GitHub Stars".format(l_user)
+def github_stars(l_user="pgmac", l_max=10):
     retarr = []
     r = requests.get("https://api.github.com/users/{}/starred".format(l_user))
     if r.status_code == 200:
         for idx, ghstar in enumerate(r.json()):
-            if idx > max:
+            if idx > l_max:
                 break
             stararr = {}
             stararr['name'] = ghstar['name']
@@ -62,6 +62,13 @@ def github_stars(l_user="pgmac", max=10):
             retarr.append(stararr)
 
     return retarr
+
+def ghstars_pop(l_user="pgmac", l_max=10):
+    retstr = "\n### Things I'm star-ing\n\n"
+    for star in github_stars(l_user, l_max):
+        retstr += "* [{}]({})\n  {}\n".format(star["name"], star["url"], star["desc"])
+
+    return retstr
 
 def add_file(l_file):
     return open(l_file, "r").read()
@@ -77,10 +84,7 @@ readme = ""
 if __name__ == "__main__":
     readme = add_file("src/HEADER.md")
     readme += pocket_pop()
+    readme += ghstars_pop('pgmac')
     readme += pgmac_pop('https://pgmac.net.au/feed.xml')
-    readme += "\n### Things I'm star-ing\n\n"
-    for star in github_stars('pgmac'):
-        readme += "* [{}]({})\n  {}\n".format(star["name"], star["url"], star["desc"])
     readme += add_file("src/FOOTER.md")
-    # print(readme)
     write_file(readme, "README.md")
