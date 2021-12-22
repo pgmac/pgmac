@@ -4,9 +4,9 @@ A table of things ...
 
 <table>
     <tr>
-        <th>I'm currently learning 🌱</th>
-        <th>I'm working on ⛏</th>
-        <th>I'm working to improve on ✅</th>
+        <th>🌱<br/>I'm currently learning</th>
+        <th>⛏<br/> I'm working on</th>
+        <th>🚧<br/>I'm working to improve on</th>
     </tr>
     <tr>
         <td>
