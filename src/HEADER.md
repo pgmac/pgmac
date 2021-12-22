@@ -4,24 +4,22 @@ A table of things ...
 
 <table>
     <tr>
-        <th>🌱 I’m currently learning</th>
-        <th>⛏ I'm working on</th>
-        <th>✅ I'm working to improve on</th>
+        <th>I'm currently learning 🌱</th>
+        <th>I'm working on ⛏</th>
+        <th>I'm working to improve on ✅</th>
     </tr>
     <tr>
         <td>
             <ul>
                 <li><a href="https://kubernetes.io/">k8s</a></li>
+                <li><a href="https://argoproj.github.io/">k8s</a></li>
                 <li><a href="https://prometheus.io/">prometheus</a></li>
-                <li><a href="https://office365.com">Microsoft Office 365 (again)</a></li>
                 <li><a href="https://buildkite.com">BuildKite</a></li>
             </ul>
         </td>
         <td>
             <ul>
                 <li>[AWS](https://aws.amazon.com/) - always AWS</li>
-                <li>[Google Admin](https://admin.google.com/)</li>
-                <li>[Office 365](https://office365.com)</li>
             </ul>
         </td>
         <td>
