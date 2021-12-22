@@ -28,8 +28,8 @@ jobs:
         pip install -r src/requirements.txt
     - name: Update README
       env:
-         pocket_acctok: ${{ secrets.POCKET_ACCTOK }}
-         pocket_conskey: ${{ secrets.POCKET_CONSKEY }}
+         POCKET_ACCTOK: ${{ secrets.POCKET_ACCTOK }}
+         POCKET_CONSKEY: ${{ secrets.POCKET_CONSKEY }}
       run: |-
         python src/update.py
         cat README.md
