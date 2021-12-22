@@ -12,14 +12,14 @@ A table of things ...
         <td>
             <ul>
                 <li><a href="https://kubernetes.io/">k8s</a></li>
-                <li><a href="https://argoproj.github.io/">k8s</a></li>
+                <li><a href="https://argoproj.github.io/">ArgoCD</a></li>
                 <li><a href="https://prometheus.io/">prometheus</a></li>
                 <li><a href="https://buildkite.com">BuildKite</a></li>
             </ul>
         </td>
         <td>
             <ul>
-                <li>[AWS](https://aws.amazon.com/) - always AWS</li>
+                <li><a href="https://aws.amazon.com/">AWS</a> - always AWS</li>
             </ul>
         </td>
         <td>
