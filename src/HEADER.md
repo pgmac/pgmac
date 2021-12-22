@@ -36,7 +36,7 @@ A table of things ...
     </tr>
     <tr>
         <th>&nbsp;</th>
-        <th>␦ I get my knowledge and ideas from</th>
+        <th>🏫<br/>I get my knowledge and ideas from</th>
         <th>&nbsp;</th>
     </tr>
     <tr>
