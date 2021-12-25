@@ -65,6 +65,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [ADHD Accommodations Guide](https://adhdatwork.add.org/adhd-accommodation-guide/)
 * [The free app that makes your Internet safer.](https://1.1.1.1)
 * [Flush Cache](https://developers.google.com/speed/public-dns/cache)
 * [Welcome](https://superset.apache.org/)
@@ -74,7 +75,6 @@ A table of things ...
 * [Container security best practices](https://sysdig.com/blog/container-security-best-practices/)
 * [Turbocharge ArgoCD with App of Apps Pattern and Kustomized Helm](https://medium.com/dzerolabs/turbocharge-argocd-with-app-of-apps-pattern-and-kustomized-helm-ea4993190e7c)
 * [Use Kustomize to post-render Helm charts in ArgoCD](https://dev.to/camptocamp-ops/use-kustomize-to-post-render-helm-charts-in-argocd-2ml6)
-* [soupault](https://soupault.app/)
 
 ### Things I'm star-ing
 
