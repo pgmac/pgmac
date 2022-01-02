@@ -72,12 +72,14 @@ A table of things ...
 * [Federate Kubernetes with AWS IAM using OIDC · reecetech](https://reece.tech/posts/oidc-k8s-to-aws/)
 * [Minimum Viable Secure Product](https://mvsp.dev/mvsp.en/index.html)
 * [Installing macOS 12 “Monterey” on Proxmox 7](https://www.nicksherlock.com/2021/10/installing-macos-12-monterey-on-proxmox-7/)
-* [Container security best practices](https://sysdig.com/blog/container-security-best-practices/)
+* [Container security best practices: Comprehensive guide](https://sysdig.com/blog/container-security-best-practices/)
 * [Turbocharge ArgoCD with App of Apps Pattern and Kustomized Helm](https://medium.com/dzerolabs/turbocharge-argocd-with-app-of-apps-pattern-and-kustomized-helm-ea4993190e7c)
 * [Use Kustomize to post-render Helm charts in ArgoCD](https://dev.to/camptocamp-ops/use-kustomize-to-post-render-helm-charts-in-argocd-2ml6)
 
 ### Things I'm star-ing
 
+* [portmaster](https://github.com/safing/portmaster)
+  🏔 Love Freedom - ❌ Block Mass Surveillance
 * [passage](https://github.com/FiloSottile/passage)
   A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
 * [aws-cdk](https://github.com/aws/aws-cdk)
@@ -98,8 +100,6 @@ A table of things ...
   Declarative continuous deployment for Kubernetes.
 * [jitsu](https://github.com/jitsucom/jitsu)
   Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
-* [aide](https://github.com/aide/aide)
-  aide source code
 
 ### My Blog Posts
 
