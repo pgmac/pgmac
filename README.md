@@ -78,6 +78,10 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [jp](https://github.com/jmespath/jp)
+  Command line interface to JMESPath - http://jmespath.org
+* [fx](https://github.com/antonmedv/fx)
+  Command-line tool and terminal JSON viewer 🔥
 * [portmaster](https://github.com/safing/portmaster)
   🏔 Love Freedom - ❌ Block Mass Surveillance
 * [passage](https://github.com/FiloSottile/passage)
@@ -96,10 +100,6 @@ A table of things ...
   AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 * [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
   A Kubernetes controller for Elastic Load Balancers
-* [argo-cd](https://github.com/argoproj/argo-cd)
-  Declarative continuous deployment for Kubernetes.
-* [jitsu](https://github.com/jitsucom/jitsu)
-  Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
 
 ### My Blog Posts
 
