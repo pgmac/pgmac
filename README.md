@@ -78,6 +78,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [GitJournal](https://github.com/GitJournal/GitJournal)
+  Mobile first Note Taking integrated with Git
 * [jp](https://github.com/jmespath/jp)
   Command line interface to JMESPath - http://jmespath.org
 * [fx](https://github.com/antonmedv/fx)
@@ -98,8 +100,6 @@ A table of things ...
   (WIP) Example SaaS application built in public on the Cloudflare stack!
 * [appflowy](https://github.com/AppFlowy-IO/appflowy)
   AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-* [aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller)
-  A Kubernetes controller for Elastic Load Balancers
 
 ### My Blog Posts
 
