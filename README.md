@@ -78,6 +78,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [kubecraftadmin](https://github.com/erjadi/kubecraftadmin)
+  None
 * [GitJournal](https://github.com/GitJournal/GitJournal)
   Mobile first Note Taking integrated with Git
 * [jp](https://github.com/jmespath/jp)
@@ -98,8 +100,6 @@ A table of things ...
   A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
 * [production-saas](https://github.com/cloudflare/production-saas)
   (WIP) Example SaaS application built in public on the Cloudflare stack!
-* [appflowy](https://github.com/AppFlowy-IO/appflowy)
-  AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
 ### My Blog Posts
 
