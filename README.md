@@ -65,6 +65,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [SSH Bastion Host Best Practices](https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/)
 * [ADHD Accommodations Guide](https://adhdatwork.add.org/adhd-accommodation-guide/)
 * [The free app that makes your Internet safer.](https://1.1.1.1)
 * [Flush Cache](https://developers.google.com/speed/public-dns/cache)
@@ -74,7 +75,6 @@ A table of things ...
 * [Installing macOS 12 “Monterey” on Proxmox 7](https://www.nicksherlock.com/2021/10/installing-macos-12-monterey-on-proxmox-7/)
 * [Container security best practices: Comprehensive guide](https://sysdig.com/blog/container-security-best-practices/)
 * [Turbocharge ArgoCD with App of Apps Pattern and Kustomized Helm](https://medium.com/dzerolabs/turbocharge-argocd-with-app-of-apps-pattern-and-kustomized-helm-ea4993190e7c)
-* [Use Kustomize to post-render Helm charts in ArgoCD](https://dev.to/camptocamp-ops/use-kustomize-to-post-render-helm-charts-in-argocd-2ml6)
 
 ### Things I'm star-ing
 
@@ -103,3 +103,13 @@ A table of things ...
 
 ### My Blog Posts
 
+* [Windows Server Virtual Interface with a configured VLAN with a custom MAC](https://pgmac.net.au/technology/2019/12/23/windows-vlan.html)
+* [The Source](https://pgmac.net.au/technology/2019/02/25/the-source.html)
+* [AWS Internet access from a Private subnet](https://pgmac.net.au/technology/2018/09/03/aws-internet-private-subnets.html)
+* [Quick SSL/TLS certificate check](https://pgmac.net.au/technology/2018/04/09/ssl-tls-check.html)
+* [Think Feel Love Believe](https://pgmac.net.au/family/2017/11/03/think-feel-love-believe.html)
+* [How-To extend a Logical Volume using LVM on Linux](https://pgmac.net.au/technology/2017/11/02/lmv-extend.html)
+* [Manual cert-bot renewals for certificates hosted on a Sophos UTM](https://pgmac.net.au/technology/2017/08/30/cert-bot-renewal-sophos-utm.html)
+* [History](https://pgmac.net.au/language/2017/08/19/history.html)
+* [The hiccup cure](https://pgmac.net.au/no%20laughing%20matter/2017/05/28/the-hiccup-cure.html)
+* [JVC Everio MOD files to MPG](https://pgmac.net.au/technology/2015/03/18/jvc-everio-mod-to-mpg.html)
