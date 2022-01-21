@@ -78,6 +78,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [HOUDINI](https://github.com/cybersecsi/HOUDINI)
+  Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all.
 * [kubecraftadmin](https://github.com/erjadi/kubecraftadmin)
   None
 * [GitJournal](https://github.com/GitJournal/GitJournal)
@@ -98,8 +100,6 @@ A table of things ...
   i'm typing when you're typing
 * [hubris](https://github.com/oxidecomputer/hubris)
   A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
-* [production-saas](https://github.com/cloudflare/production-saas)
-  (WIP) Example SaaS application built in public on the Cloudflare stack!
 
 ### My Blog Posts
 
