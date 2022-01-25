@@ -78,6 +78,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [airyx](https://github.com/mszoek/airyx)
+  A BSD-based OS project that aims to provide an experience like and some compatibility with macOS
 * [HOUDINI](https://github.com/cybersecsi/HOUDINI)
   Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all.
 * [kubecraftadmin](https://github.com/erjadi/kubecraftadmin)
@@ -98,8 +100,6 @@ A table of things ...
   External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 * [slacktyping](https://github.com/will/slacktyping)
   i'm typing when you're typing
-* [hubris](https://github.com/oxidecomputer/hubris)
-  A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
 
 ### My Blog Posts
 
