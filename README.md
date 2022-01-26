@@ -78,6 +78,14 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)
+  Guide to using YubiKey for GPG and SSH
+* [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
+  Awesome list of open-source startup alternatives to well-known SaaS products 🚀
+* [nzb-notify](https://github.com/caronc/nzb-notify)
+  Push Notifications to a large number of supported services for NZBGet and SABnzbd (based on Apprise)
+* [topics](https://github.com/jkarlin/topics)
+  The Topics API
 * [airyx](https://github.com/mszoek/airyx)
   A BSD-based OS project that aims to provide an experience like and some compatibility with macOS
 * [HOUDINI](https://github.com/cybersecsi/HOUDINI)
@@ -92,14 +100,6 @@ A table of things ...
   Command-line tool and terminal JSON viewer 🔥
 * [portmaster](https://github.com/safing/portmaster)
   🏔 Love Freedom - ❌ Block Mass Surveillance
-* [passage](https://github.com/FiloSottile/passage)
-  A fork of password-store (https://www.passwordstore.org) that uses age (https://age-encryption.org) as backend.
-* [aws-cdk](https://github.com/aws/aws-cdk)
-  The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-* [external-secrets](https://github.com/external-secrets/external-secrets)
-  External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-* [slacktyping](https://github.com/will/slacktyping)
-  i'm typing when you're typing
 
 ### My Blog Posts
 
