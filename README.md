@@ -78,6 +78,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [stratus-red-team](https://github.com/DataDog/stratus-red-team)
+  :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud.
 * [Prowler](https://github.com/DennisTraub/Prowler)
   AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and DOZENS of additional checks including GDPR and HIPAA (+90). Official CIS for AWS guide: https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf
 * [YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)
@@ -98,8 +100,6 @@ A table of things ...
   Mobile first Note Taking integrated with Git
 * [jp](https://github.com/jmespath/jp)
   Command line interface to JMESPath - http://jmespath.org
-* [fx](https://github.com/antonmedv/fx)
-  Command-line tool and terminal JSON viewer 🔥
 
 ### My Blog Posts
 
