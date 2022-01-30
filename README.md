@@ -78,6 +78,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [docker-machine-for-mac](https://github.com/stenh0use/docker-machine-for-mac)
+  Docker Machine for Mac - an alternative to Docker for Mac
 * [stratus-red-team](https://github.com/DataDog/stratus-red-team)
   :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud.
 * [Prowler](https://github.com/DennisTraub/Prowler)
@@ -98,8 +100,6 @@ A table of things ...
   None
 * [GitJournal](https://github.com/GitJournal/GitJournal)
   Mobile first Note Taking integrated with Git
-* [jp](https://github.com/jmespath/jp)
-  Command line interface to JMESPath - http://jmespath.org
 
 ### My Blog Posts
 
