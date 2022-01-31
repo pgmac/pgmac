@@ -14,7 +14,7 @@ A table of things ...
                 <li><a href="https://kubernetes.io/">k8s</a></li>
                 <li><a href="https://argoproj.github.io/">ArgoCD</a></li>
                 <li><a href="https://prometheus.io/">prometheus</a></li>
-                <li><a href="https://buildkite.com">BuildKite</a></li>
+                <li><a href="https://aws.amazon.com/cdk/">AWS CDK</a></li>
             </ul>
         </td>
         <td>
