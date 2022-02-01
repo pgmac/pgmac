@@ -65,6 +65,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [How to explain an idea: a mega post](https://www.markpollard.net/how-to-explain-an-idea/)
 * [Tracing the path of network traffic in Kubernetes](https://learnk8s.io/kubernetes-network-packets)
 * [Open Jail : The Jailer Project Web Site](https://wisser.github.io/Jailer/)
 * [SSH Bastion Host Best Practices](https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/)
@@ -74,7 +75,6 @@ A table of things ...
 * [Welcome](https://superset.apache.org/)
 * [Federate Kubernetes with AWS IAM using OIDC · reecetech](https://reece.tech/posts/oidc-k8s-to-aws/)
 * [Minimum Viable Secure Product](https://mvsp.dev/mvsp.en/index.html)
-* [Installing macOS 12 “Monterey” on Proxmox 7](https://www.nicksherlock.com/2021/10/installing-macos-12-monterey-on-proxmox-7/)
 
 ### Things I'm star-ing
 
