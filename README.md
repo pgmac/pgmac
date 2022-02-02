@@ -65,6 +65,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Logseq: A Free & Open-Source App to Create Notes, Manage Tasks, Build Knowledge Graph, and More](https://itsfoss.com/logseq/)
 * [How to explain an idea: a mega post](https://www.markpollard.net/how-to-explain-an-idea/)
 * [Tracing the path of network traffic in Kubernetes](https://learnk8s.io/kubernetes-network-packets)
 * [Open Jail : The Jailer Project Web Site](https://wisser.github.io/Jailer/)
@@ -74,14 +75,13 @@ A table of things ...
 * [Flush Cache](https://developers.google.com/speed/public-dns/cache)
 * [Welcome](https://superset.apache.org/)
 * [Federate Kubernetes with AWS IAM using OIDC · reecetech](https://reece.tech/posts/oidc-k8s-to-aws/)
-* [Minimum Viable Secure Product](https://mvsp.dev/mvsp.en/index.html)
 
 ### Things I'm star-ing
 
 * [docker-machine-for-mac](https://github.com/stenh0use/docker-machine-for-mac)
   Docker Machine for Mac - an alternative to Docker for Mac
 * [stratus-red-team](https://github.com/DataDog/stratus-red-team)
-  :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud.
+  :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
 * [Prowler](https://github.com/DennisTraub/Prowler)
   AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and DOZENS of additional checks including GDPR and HIPAA (+90). Official CIS for AWS guide: https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf
 * [YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)
