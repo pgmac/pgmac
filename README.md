@@ -65,6 +65,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [How to build a CI/CD pipeline with GitHub Actions in four simple steps](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)
 * [Logseq: A Free & Open-Source App to Create Notes, Manage Tasks, Build Knowledge Graph, and More](https://itsfoss.com/logseq/)
 * [How to explain an idea: a mega post](https://www.markpollard.net/how-to-explain-an-idea/)
 * [Tracing the path of network traffic in Kubernetes](https://learnk8s.io/kubernetes-network-packets)
@@ -74,10 +75,11 @@ A table of things ...
 * [The free app that makes your Internet safer.](https://1.1.1.1)
 * [Flush Cache](https://developers.google.com/speed/public-dns/cache)
 * [Welcome](https://superset.apache.org/)
-* [Federate Kubernetes with AWS IAM using OIDC · reecetech](https://reece.tech/posts/oidc-k8s-to-aws/)
 
 ### Things I'm star-ing
 
+* [cert-manager](https://github.com/cert-manager/cert-manager)
+  Automatically provision and manage TLS certificates in Kubernetes
 * [docker-machine-for-mac](https://github.com/stenh0use/docker-machine-for-mac)
   Docker Machine for Mac - an alternative to Docker for Mac
 * [stratus-red-team](https://github.com/DataDog/stratus-red-team)
@@ -98,8 +100,6 @@ A table of things ...
   Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all.
 * [kubecraftadmin](https://github.com/erjadi/kubecraftadmin)
   None
-* [GitJournal](https://github.com/GitJournal/GitJournal)
-  Mobile first Note Taking integrated with Git
 
 ### My Blog Posts
 
