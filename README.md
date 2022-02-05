@@ -65,6 +65,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [](https://aws.amazon.com/blogs/security/how-to-build-a-multi-region-aws-security-hub-analytic-pipeline/)
 * [How to build a CI/CD pipeline with GitHub Actions in four simple steps](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)
 * [Logseq: A Free & Open-Source App to Create Notes, Manage Tasks, Build Knowledge Graph, and More](https://itsfoss.com/logseq/)
 * [How to explain an idea: a mega post](https://www.markpollard.net/how-to-explain-an-idea/)
@@ -74,10 +75,11 @@ A table of things ...
 * [ADHD Accommodations Guide](https://adhdatwork.add.org/adhd-accommodation-guide/)
 * [The free app that makes your Internet safer.](https://1.1.1.1)
 * [Flush Cache](https://developers.google.com/speed/public-dns/cache)
-* [Welcome](https://superset.apache.org/)
 
 ### Things I'm star-ing
 
+* [midarr-server](https://github.com/midarrlabs/midarr-server)
+  🔥Midarr, the next-generation media server.
 * [cert-manager](https://github.com/cert-manager/cert-manager)
   Automatically provision and manage TLS certificates in Kubernetes
 * [docker-machine-for-mac](https://github.com/stenh0use/docker-machine-for-mac)
@@ -98,8 +100,6 @@ A table of things ...
   A BSD-based OS project that aims to provide an experience like and some compatibility with macOS
 * [HOUDINI](https://github.com/cybersecsi/HOUDINI)
   Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all.
-* [kubecraftadmin](https://github.com/erjadi/kubecraftadmin)
-  None
 
 ### My Blog Posts
 
