@@ -78,6 +78,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [git-crypt](https://github.com/AGWA/git-crypt)
+  Transparent file encryption in git
 * [midarr-server](https://github.com/midarrlabs/midarr-server)
   🔥Midarr, the next-generation media server.
 * [cert-manager](https://github.com/cert-manager/cert-manager)
@@ -98,8 +100,6 @@ A table of things ...
   The Topics API
 * [airyx](https://github.com/mszoek/airyx)
   A BSD-based OS project that aims to provide an experience like and some compatibility with macOS
-* [HOUDINI](https://github.com/cybersecsi/HOUDINI)
-  Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all.
 
 ### My Blog Posts
 
