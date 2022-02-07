@@ -65,6 +65,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Continuous Security: The Next Evolution of CI/CD](https://devops.com/continuous-security-the-next-evolution-of-ci-cd/)
+* [How to keep up with CI/CD best practices](https://about.gitlab.com/blog/2022/02/03/how-to-keep-up-with-ci-cd-best-practices/)
 * [](https://aws.amazon.com/blogs/security/how-to-build-a-multi-region-aws-security-hub-analytic-pipeline/)
 * [How to build a CI/CD pipeline with GitHub Actions in four simple steps](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)
 * [Logseq: A Free & Open-Source App to Create Notes, Manage Tasks, Build Knowledge Graph, and More](https://itsfoss.com/logseq/)
@@ -73,8 +75,6 @@ A table of things ...
 * [Open Jail : The Jailer Project Web Site](https://wisser.github.io/Jailer/)
 * [SSH Bastion Host Best Practices](https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/)
 * [ADHD Accommodations Guide](https://adhdatwork.add.org/adhd-accommodation-guide/)
-* [The free app that makes your Internet safer.](https://1.1.1.1)
-* [Flush Cache](https://developers.google.com/speed/public-dns/cache)
 
 ### Things I'm star-ing
 
