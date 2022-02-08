@@ -65,16 +65,16 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [](http://www.spiderfoot.net/index.html)
 * [Continuous Security: The Next Evolution of CI/CD](https://devops.com/continuous-security-the-next-evolution-of-ci-cd/)
 * [How to keep up with CI/CD best practices](https://about.gitlab.com/blog/2022/02/03/how-to-keep-up-with-ci-cd-best-practices/)
 * [](https://aws.amazon.com/blogs/security/how-to-build-a-multi-region-aws-security-hub-analytic-pipeline/)
 * [How to build a CI/CD pipeline with GitHub Actions in four simple steps](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)
 * [Logseq: A Free & Open-Source App to Create Notes, Manage Tasks, Build Knowledge Graph, and More](https://itsfoss.com/logseq/)
-* [How to explain an idea: a mega post](https://www.markpollard.net/how-to-explain-an-idea/)
+* [How to explain an idea: a mega post](http://www.markpollard.net/how-to-explain-an-idea/)
 * [Tracing the path of network traffic in Kubernetes](https://learnk8s.io/kubernetes-network-packets)
 * [Open Jail : The Jailer Project Web Site](https://wisser.github.io/Jailer/)
 * [SSH Bastion Host Best Practices](https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/)
-* [ADHD Accommodations Guide](https://adhdatwork.add.org/adhd-accommodation-guide/)
 
 ### Things I'm star-ing
 
