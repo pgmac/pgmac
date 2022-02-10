@@ -78,6 +78,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [runner](https://github.com/actions/runner)
+  The Runner for GitHub Actions :rocket:
 * [git-crypt](https://github.com/AGWA/git-crypt)
   Transparent file encryption in git
 * [midarr-server](https://github.com/midarrlabs/midarr-server)
@@ -98,8 +100,6 @@ A table of things ...
   Push Notifications to a large number of supported services for NZBGet and SABnzbd (based on Apprise)
 * [topics](https://github.com/jkarlin/topics)
   The Topics API
-* [airyx](https://github.com/mszoek/airyx)
-  A BSD-based OS project that aims to provide an experience like and some compatibility with macOS
 
 ### My Blog Posts
 
