@@ -65,6 +65,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [How to start using reusable workflows with GitHub Actions](https://github.blog/2022-02-10-using-reusable-workflows-github-actions/)
 * [](http://www.spiderfoot.net/index.html)
 * [Continuous Security: The Next Evolution of CI/CD](https://devops.com/continuous-security-the-next-evolution-of-ci-cd/)
 * [How to keep up with CI/CD best practices](https://about.gitlab.com/blog/2022/02/03/how-to-keep-up-with-ci-cd-best-practices/)
@@ -74,7 +75,6 @@ A table of things ...
 * [How to explain an idea: a mega post](https://www.markpollard.net/how-to-explain-an-idea/)
 * [Tracing the path of network traffic in Kubernetes](https://learnk8s.io/kubernetes-network-packets)
 * [Open Jail : The Jailer Project Web Site](https://wisser.github.io/Jailer/)
-* [SSH Bastion Host Best Practices](https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/)
 
 ### Things I'm star-ing
 
