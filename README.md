@@ -65,6 +65,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [jless — a command-line JSON viewer](https://pauljuliusmartinez.github.io/)
 * [How to start using reusable workflows with GitHub Actions](https://github.blog/2022-02-10-using-reusable-workflows-github-actions/)
 * [](http://www.spiderfoot.net/index.html)
 * [Continuous Security: The Next Evolution of CI/CD](https://devops.com/continuous-security-the-next-evolution-of-ci-cd/)
@@ -74,10 +75,11 @@ A table of things ...
 * [Logseq: A Free & Open-Source App to Create Notes, Manage Tasks, Build Knowledge Graph, and More](https://itsfoss.com/logseq/)
 * [How to explain an idea: a mega post](https://www.markpollard.net/how-to-explain-an-idea/)
 * [Tracing the path of network traffic in Kubernetes](https://learnk8s.io/kubernetes-network-packets)
-* [Open Jail : The Jailer Project Web Site](https://wisser.github.io/Jailer/)
 
 ### Things I'm star-ing
 
+* [jless](https://github.com/PaulJuliusMartinez/jless)
+  A command-line pager for JSON data.
 * [runner](https://github.com/actions/runner)
   The Runner for GitHub Actions :rocket:
 * [git-crypt](https://github.com/AGWA/git-crypt)
@@ -98,8 +100,6 @@ A table of things ...
   Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 * [nzb-notify](https://github.com/caronc/nzb-notify)
   Push Notifications to a large number of supported services for NZBGet and SABnzbd (based on Apprise)
-* [topics](https://github.com/jkarlin/topics)
-  The Topics API
 
 ### My Blog Posts
 
