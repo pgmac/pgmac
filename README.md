@@ -78,6 +78,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [sops](https://github.com/mozilla/sops)
+  Simple and flexible tool for managing secrets
 * [jless](https://github.com/PaulJuliusMartinez/jless)
   A command-line pager for JSON data.
 * [runner](https://github.com/actions/runner)
@@ -98,8 +100,6 @@ A table of things ...
   Guide to using YubiKey for GPG and SSH
 * [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
   Awesome list of open-source startup alternatives to well-known SaaS products 🚀
-* [nzb-notify](https://github.com/caronc/nzb-notify)
-  Push Notifications to a large number of supported services for NZBGet and SABnzbd (based on Apprise)
 
 ### My Blog Posts
 
