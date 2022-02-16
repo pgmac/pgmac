@@ -78,6 +78,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [k6](https://github.com/grafana/k6)
+  A modern load testing tool, using Go and JavaScript - https://k6.io
 * [sops](https://github.com/mozilla/sops)
   Simple and flexible tool for managing secrets
 * [jless](https://github.com/PaulJuliusMartinez/jless)
@@ -98,8 +100,6 @@ A table of things ...
   AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and DOZENS of additional checks including GDPR and HIPAA (+90). Official CIS for AWS guide: https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf
 * [YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)
   Guide to using YubiKey for GPG and SSH
-* [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
-  Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 
 ### My Blog Posts
 
