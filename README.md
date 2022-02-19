@@ -78,6 +78,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [grist-core](https://github.com/gristlabs/grist-core)
+   Grist is the evolution of spreadsheets. 
 * [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
   📖 A collection of pure bash alternatives to external processes.
 * [ytcast](https://github.com/MarcoLucidi01/ytcast)
@@ -98,8 +100,6 @@ A table of things ...
   Automatically provision and manage TLS certificates in Kubernetes
 * [docker-machine-for-mac](https://github.com/stenh0use/docker-machine-for-mac)
   Docker Machine for Mac - an alternative to Docker for Mac
-* [stratus-red-team](https://github.com/DataDog/stratus-red-team)
-  :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
 
 ### My Blog Posts
 
