@@ -89,7 +89,7 @@ A table of things ...
 * [sops](https://github.com/mozilla/sops)
   Simple and flexible tool for managing secrets
 * [jless](https://github.com/PaulJuliusMartinez/jless)
-  A command-line pager for JSON data.
+  jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 * [runner](https://github.com/actions/runner)
   The Runner for GitHub Actions :rocket:
 * [git-crypt](https://github.com/AGWA/git-crypt)
