@@ -78,6 +78,12 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [advisory-database](https://github.com/github/advisory-database)
+  Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
+* [DevSecOps-Playbook](https://github.com/6mile/DevSecOps-Playbook)
+  None
+* [Team-Dependencies-Tracking](https://github.com/TeamTopologies/Team-Dependencies-Tracking)
+  Suggested tools and approaches to track team dependencies in an organization
 * [grist-core](https://github.com/gristlabs/grist-core)
    Grist is the evolution of spreadsheets. 
 * [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
@@ -94,12 +100,6 @@ A table of things ...
   The Runner for GitHub Actions :rocket:
 * [git-crypt](https://github.com/AGWA/git-crypt)
   Transparent file encryption in git
-* [midarr-server](https://github.com/midarrlabs/midarr-server)
-  🔥Midarr, the next-generation media server.
-* [cert-manager](https://github.com/cert-manager/cert-manager)
-  Automatically provision and manage TLS certificates in Kubernetes
-* [docker-machine-for-mac](https://github.com/stenh0use/docker-machine-for-mac)
-  Docker Machine for Mac - an alternative to Docker for Mac
 
 ### My Blog Posts
 
