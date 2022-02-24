@@ -65,6 +65,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [AWS CloudSaga - Simulate security events in AWS](https://github.com/awslabs/aws-cloudsaga)
+* [Missing some Tweet in this thread? You can try to force a refresh](https://threadreaderapp.com/thread/1496496087741480960.html)
 * [jless — a command-line JSON viewer](https://pauljuliusmartinez.github.io/)
 * [How to start using reusable workflows with GitHub Actions](https://github.blog/2022-02-10-using-reusable-workflows-github-actions/)
 * [](http://www.spiderfoot.net/index.html)
@@ -73,11 +75,11 @@ A table of things ...
 * [](https://aws.amazon.com/blogs/security/how-to-build-a-multi-region-aws-security-hub-analytic-pipeline/)
 * [How to build a CI/CD pipeline with GitHub Actions in four simple steps](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)
 * [Logseq: A Free & Open-Source App to Create Notes, Manage Tasks, Build Knowledge Graph, and More](https://itsfoss.com/logseq/)
-* [How to explain an idea: a mega post](https://www.markpollard.net/how-to-explain-an-idea/)
-* [Tracing the path of network traffic in Kubernetes](https://learnk8s.io/kubernetes-network-packets)
 
 ### Things I'm star-ing
 
+* [aws-cloudsaga](https://github.com/awslabs/aws-cloudsaga)
+  AWS CloudSaga - Simulate security events in AWS
 * [advisory-database](https://github.com/github/advisory-database)
   Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 * [DevSecOps-Playbook](https://github.com/6mile/DevSecOps-Playbook)
@@ -98,8 +100,6 @@ A table of things ...
   jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 * [runner](https://github.com/actions/runner)
   The Runner for GitHub Actions :rocket:
-* [git-crypt](https://github.com/AGWA/git-crypt)
-  Transparent file encryption in git
 
 ### My Blog Posts
 
