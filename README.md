@@ -78,6 +78,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [fetch](https://github.com/yashsinghcodes/fetch)
+  Fetch is use to get information about anything on the shell using Wikipedia.
 * [aws-cloudsaga](https://github.com/awslabs/aws-cloudsaga)
   AWS CloudSaga - Simulate security events in AWS
 * [advisory-database](https://github.com/github/advisory-database)
@@ -98,8 +100,6 @@ A table of things ...
   Simple and flexible tool for managing secrets
 * [jless](https://github.com/PaulJuliusMartinez/jless)
   jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
-* [runner](https://github.com/actions/runner)
-  The Runner for GitHub Actions :rocket:
 
 ### My Blog Posts
 
