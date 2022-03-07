@@ -65,6 +65,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [What is Bridgecrew?](https://docs.bridgecrew.io/docs/what-is-bridgecrew)
 * [AWS CloudSaga - Simulate security events in AWS](https://github.com/awslabs/aws-cloudsaga)
 * [Missing some Tweet in this thread? You can try to force a refresh](https://threadreaderapp.com/thread/1496496087741480960.html)
 * [jless — a command-line JSON viewer](https://pauljuliusmartinez.github.io/)
@@ -74,7 +75,6 @@ A table of things ...
 * [How to keep up with CI/CD best practices](https://about.gitlab.com/blog/2022/02/03/how-to-keep-up-with-ci-cd-best-practices/)
 * [](https://aws.amazon.com/blogs/security/how-to-build-a-multi-region-aws-security-hub-analytic-pipeline/)
 * [How to build a CI/CD pipeline with GitHub Actions in four simple steps](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)
-* [Logseq: A Free & Open-Source App to Create Notes, Manage Tasks, Build Knowledge Graph, and More](https://itsfoss.com/logseq/)
 
 ### Things I'm star-ing
 
