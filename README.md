@@ -78,6 +78,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [lapce](https://github.com/lapce/lapce)
+  Lightning-fast and Powerful Code Editor written in Rust
 * [LiveActionMap](https://github.com/kinshukdua/LiveActionMap)
   An attempt to map the areas with active conflict in Ukraine using open source twitter data.
 * [wik](https://github.com/yashsinghcodes/wik)
@@ -98,8 +100,6 @@ A table of things ...
   cast YouTube videos to your smart TV from command-line
 * [k6](https://github.com/grafana/k6)
   A modern load testing tool, using Go and JavaScript - https://k6.io
-* [sops](https://github.com/mozilla/sops)
-  Simple and flexible tool for managing secrets
 
 ### My Blog Posts
 
