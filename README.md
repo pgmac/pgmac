@@ -78,6 +78,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [high-assurance-rust](https://github.com/tnballo/high-assurance-rust)
+  A free book about developing secure and robust systems software.
 * [lapce](https://github.com/lapce/lapce)
   Lightning-fast and Powerful Code Editor written in Rust
 * [LiveActionMap](https://github.com/kinshukdua/LiveActionMap)
@@ -98,8 +100,6 @@ A table of things ...
   📖 A collection of pure bash alternatives to external processes.
 * [ytcast](https://github.com/MarcoLucidi01/ytcast)
   cast YouTube videos to your smart TV from command-line
-* [k6](https://github.com/grafana/k6)
-  A modern load testing tool, using Go and JavaScript - https://k6.io
 
 ### My Blog Posts
 
