@@ -78,6 +78,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [difftastic](https://github.com/Wilfred/difftastic)
+  a diff that understands syntax 🟥🟩
 * [high-assurance-rust](https://github.com/tnballo/high-assurance-rust)
   A free book about developing secure and robust systems software.
 * [lapce](https://github.com/lapce/lapce)
@@ -98,8 +100,6 @@ A table of things ...
    Grist is the evolution of spreadsheets. 
 * [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
   📖 A collection of pure bash alternatives to external processes.
-* [ytcast](https://github.com/MarcoLucidi01/ytcast)
-  cast YouTube videos to your smart TV from command-line
 
 ### My Blog Posts
 
