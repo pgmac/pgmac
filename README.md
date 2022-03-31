@@ -78,6 +78,10 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [scratch-gui](https://github.com/LLK/scratch-gui)
+  Graphical User Interface for creating and running Scratch 3.0 projects.
+* [traffcap](https://github.com/Centurix/traffcap)
+  A Requestbin like application for receiving and storing HTTP traffic. Uses FastAPI.
 * [difftastic](https://github.com/Wilfred/difftastic)
   a diff that understands syntax 🟥🟩
 * [high-assurance-rust](https://github.com/tnballo/high-assurance-rust)
@@ -96,10 +100,6 @@ A table of things ...
   None
 * [Team-Dependencies-Tracking](https://github.com/TeamTopologies/Team-Dependencies-Tracking)
   Suggested tools and approaches to track team dependencies in an organization
-* [grist-core](https://github.com/gristlabs/grist-core)
-   Grist is the evolution of spreadsheets. 
-* [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
-  📖 A collection of pure bash alternatives to external processes.
 
 ### My Blog Posts
 
