@@ -78,6 +78,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [mimir](https://github.com/grafana/mimir)
+  Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 * [scratch-gui](https://github.com/LLK/scratch-gui)
   Graphical User Interface for creating and running Scratch 3.0 projects.
 * [traffcap](https://github.com/Centurix/traffcap)
@@ -98,8 +100,6 @@ A table of things ...
   Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 * [DevSecOps-Playbook](https://github.com/6mile/DevSecOps-Playbook)
   None
-* [Team-Dependencies-Tracking](https://github.com/TeamTopologies/Team-Dependencies-Tracking)
-  Suggested tools and approaches to track team dependencies in an organization
 
 ### My Blog Posts
 
