@@ -78,6 +78,10 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [stackrox](https://github.com/stackrox/stackrox)
+  The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
+* [jo](https://github.com/jpmens/jo)
+  JSON output from a shell
 * [mimir](https://github.com/grafana/mimir)
   Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 * [scratch-gui](https://github.com/LLK/scratch-gui)
@@ -96,10 +100,6 @@ A table of things ...
   wik is use to get information about anything on the shell using Wikipedia.
 * [aws-cloudsaga](https://github.com/awslabs/aws-cloudsaga)
   AWS CloudSaga - Simulate security events in AWS
-* [advisory-database](https://github.com/github/advisory-database)
-  Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
-* [DevSecOps-Playbook](https://github.com/6mile/DevSecOps-Playbook)
-  None
 
 ### My Blog Posts
 
