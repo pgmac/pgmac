@@ -78,6 +78,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [magic-trace](https://github.com/janestreet/magic-trace)
+  magic-trace collects and displays high-resolution traces of what a process is doing
 * [stackrox](https://github.com/stackrox/stackrox)
   The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
 * [jo](https://github.com/jpmens/jo)
@@ -98,8 +100,6 @@ A table of things ...
   An attempt to map the areas with active conflict in Ukraine using open source twitter data.
 * [wik](https://github.com/yashsinghcodes/wik)
   wik is use to get information about anything on the shell using Wikipedia.
-* [aws-cloudsaga](https://github.com/awslabs/aws-cloudsaga)
-  AWS CloudSaga - Simulate security events in AWS
 
 ### My Blog Posts
 
