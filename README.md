@@ -65,6 +65,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [GitHub Actions Security Best Practices [cheat sheet included]](https://blog.gitguardian.com/github-actions-security-cheat-sheet/)
 * [The Big List of Engineering Management Resources - March 2022](https://practicallyleading.dev/the-big-list-of-engineering-management-resources-march-2022)
 * [](https://docs.bridgecrew.io/docs/what-is-bridgecrew)
 * [AWS CloudSaga - Simulate security events in AWS](https://github.com/awslabs/aws-cloudsaga)
@@ -74,10 +75,11 @@ A table of things ...
 * [](http://www.spiderfoot.net/index.html)
 * [Continuous Security: The Next Evolution of CI/CD](https://devops.com/continuous-security-the-next-evolution-of-ci-cd/)
 * [How to keep up with CI/CD best practices](https://about.gitlab.com/blog/2022/02/03/how-to-keep-up-with-ci-cd-best-practices/)
-* [](https://aws.amazon.com/blogs/security/how-to-build-a-multi-region-aws-security-hub-analytic-pipeline/)
 
 ### Things I'm star-ing
 
+* [Heimdall](https://github.com/linuxserver/Heimdall)
+  An Application dashboard and launcher
 * [magic-trace](https://github.com/janestreet/magic-trace)
   magic-trace collects and displays high-resolution traces of what a process is doing
 * [stackrox](https://github.com/stackrox/stackrox)
@@ -98,8 +100,6 @@ A table of things ...
   Lightning-fast and Powerful Code Editor written in Rust
 * [LiveActionMap](https://github.com/kinshukdua/LiveActionMap)
   An attempt to map the areas with active conflict in Ukraine using open source twitter data.
-* [wik](https://github.com/yashsinghcodes/wik)
-  wik is use to get information about anything on the shell using Wikipedia.
 
 ### My Blog Posts
 
