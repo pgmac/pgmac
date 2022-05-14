@@ -65,6 +65,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Enable SLO-as-Code with Nobl9 and GitLab](https://about.gitlab.com/blog/2022/05/09/enable-slos-as-code/)
+* [Nobl9 Shares SLO-as-Code Methodology](https://devops.com/nobl9-shares-slo-as-code-methodology/)
 * [GitHub Actions Security Best Practices [cheat sheet included]](https://blog.gitguardian.com/github-actions-security-cheat-sheet/)
 * [The Big List of Engineering Management Resources - March 2022](https://practicallyleading.dev/the-big-list-of-engineering-management-resources-march-2022)
 * [](https://docs.bridgecrew.io/docs/what-is-bridgecrew)
@@ -73,8 +75,6 @@ A table of things ...
 * [jless — a command-line JSON viewer](https://pauljuliusmartinez.github.io/)
 * [How to start using reusable workflows with GitHub Actions](https://github.blog/2022-02-10-using-reusable-workflows-github-actions/)
 * [](http://www.spiderfoot.net/index.html)
-* [Continuous Security: The Next Evolution of CI/CD](https://devops.com/continuous-security-the-next-evolution-of-ci-cd/)
-* [How to keep up with CI/CD best practices](https://about.gitlab.com/blog/2022/02/03/how-to-keep-up-with-ci-cd-best-practices/)
 
 ### Things I'm star-ing
 
