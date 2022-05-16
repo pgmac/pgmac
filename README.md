@@ -14,7 +14,7 @@ A table of things ...
                 <li><a href="https://kubernetes.io/">k8s</a></li>
                 <li><a href="https://argoproj.github.io/">ArgoCD</a></li>
                 <li><a href="https://prometheus.io/">prometheus</a></li>
-                <li><a href="https://buildkite.com">BuildKite</a></li>
+                <li><a href="https://aws.amazon.com/cdk/">AWS CDK</a></li>
             </ul>
         </td>
         <td>
@@ -65,41 +65,41 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [Tracing the path of network traffic in Kubernetes](https://learnk8s.io/kubernetes-network-packets)
-* [Open Jail : The Jailer Project Web Site](https://wisser.github.io/Jailer/)
-* [SSH Bastion Host Best Practices](https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/)
-* [ADHD Accommodations Guide](https://adhdatwork.add.org/adhd-accommodation-guide/)
-* [The free app that makes your Internet safer.](https://1.1.1.1)
-* [Flush Cache](https://developers.google.com/speed/public-dns/cache)
-* [Welcome](https://superset.apache.org/)
-* [Federate Kubernetes with AWS IAM using OIDC · reecetech](https://reece.tech/posts/oidc-k8s-to-aws/)
-* [Minimum Viable Secure Product](https://mvsp.dev/mvsp.en/index.html)
-* [Installing macOS 12 “Monterey” on Proxmox 7](https://www.nicksherlock.com/2021/10/installing-macos-12-monterey-on-proxmox-7/)
+* [Enable SLO-as-Code with Nobl9 and GitLab](https://about.gitlab.com/blog/2022/05/09/enable-slos-as-code/)
+* [Nobl9 Shares SLO-as-Code Methodology](https://devops.com/nobl9-shares-slo-as-code-methodology/)
+* [GitHub Actions Security Best Practices [cheat sheet included]](https://blog.gitguardian.com/github-actions-security-cheat-sheet/)
+* [The Big List of Engineering Management Resources - March 2022](https://practicallyleading.dev/the-big-list-of-engineering-management-resources-march-2022)
+* [](https://docs.bridgecrew.io/docs/what-is-bridgecrew)
+* [AWS CloudSaga - Simulate security events in AWS](https://github.com/awslabs/aws-cloudsaga)
+* [Missing some Tweet in this thread? You can try to force a refresh](https://threadreaderapp.com/thread/1496496087741480960.html)
+* [jless — a command-line JSON viewer](https://pauljuliusmartinez.github.io/)
+* [How to start using reusable workflows with GitHub Actions](https://github.blog/2022-02-10-using-reusable-workflows-github-actions/)
+* [](http://www.spiderfoot.net/index.html)
 
 ### Things I'm star-ing
 
-* [docker-machine-for-mac](https://github.com/stenh0use/docker-machine-for-mac)
-  Docker Machine for Mac - an alternative to Docker for Mac
-* [stratus-red-team](https://github.com/DataDog/stratus-red-team)
-  :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud.
-* [Prowler](https://github.com/DennisTraub/Prowler)
-  AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and DOZENS of additional checks including GDPR and HIPAA (+90). Official CIS for AWS guide: https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf
-* [YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)
-  Guide to using YubiKey for GPG and SSH
-* [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)
-  Awesome list of open-source startup alternatives to well-known SaaS products 🚀
-* [nzb-notify](https://github.com/caronc/nzb-notify)
-  Push Notifications to a large number of supported services for NZBGet and SABnzbd (based on Apprise)
-* [topics](https://github.com/jkarlin/topics)
-  The Topics API
-* [airyx](https://github.com/mszoek/airyx)
-  A BSD-based OS project that aims to provide an experience like and some compatibility with macOS
-* [HOUDINI](https://github.com/cybersecsi/HOUDINI)
-  Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all.
-* [kubecraftadmin](https://github.com/erjadi/kubecraftadmin)
-  None
-* [GitJournal](https://github.com/GitJournal/GitJournal)
-  Mobile first Note Taking integrated with Git
+* [Heimdall](https://github.com/linuxserver/Heimdall)
+  An Application dashboard and launcher
+* [magic-trace](https://github.com/janestreet/magic-trace)
+  magic-trace collects and displays high-resolution traces of what a process is doing
+* [stackrox](https://github.com/stackrox/stackrox)
+  The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
+* [jo](https://github.com/jpmens/jo)
+  JSON output from a shell
+* [mimir](https://github.com/grafana/mimir)
+  Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+* [scratch-gui](https://github.com/LLK/scratch-gui)
+  Graphical User Interface for creating and running Scratch 3.0 projects.
+* [traffcap](https://github.com/Centurix/traffcap)
+  A Requestbin like application for receiving and storing HTTP traffic. Uses FastAPI.
+* [difftastic](https://github.com/Wilfred/difftastic)
+  a diff that understands syntax 🟥🟩
+* [high-assurance-rust](https://github.com/tnballo/high-assurance-rust)
+  A free book about developing secure and robust systems software.
+* [lapce](https://github.com/lapce/lapce)
+  Lightning-fast and Powerful Code Editor written in Rust
+* [LiveActionMap](https://github.com/kinshukdua/LiveActionMap)
+  An attempt to map the areas with active conflict in Ukraine using open source twitter data.
 
 ### My Blog Posts
 
