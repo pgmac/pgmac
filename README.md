@@ -26,11 +26,17 @@ A table of things ...
             <ul>
                 <li>Technical Documentation</li>
                 <li>Time management</li>
-                <li>Project planning</li
-                ><li>Communication</li>
-                <li>People skills<ul>
-                <li>Managing</li>
-                <li>Helping/mentoring/coaching</li>
+                <li>Project planning</li>
+                <li>Communication</li>
+                <li>Lifting people up
+                    <ul>
+                      <li>Managing</li>
+                      <li>Helping/mentoring/coaching</li>
+                      <li><a href="https://valid.com/5-dysfunctions-of-a-team/">The 5 dysfunctions of a team</a></li>
+                      <li><a href="https://practicallyleading.dev/the-big-list-of-engineering-management-resources-march-2022">The Big List of Engineering Managements Resources - for March 2022</a></li>
+                      <li><a href="https://www.industriallogic.com/blog/agility-requires-balance/">Agility Requires Balance</a></li>
+                    </ul>
+                </li>
             </ul>
         </td>
     </tr>
@@ -43,9 +49,10 @@ A table of things ...
         <td>&nbsp;</td>
         <td>
             <ul>
+                <li>My network of friends and professionals</li>
+                <li>Co-workers</li>
                 <li><a href="https://news.ycombinator.com/">HackerNews</a></li>
-                <li>
-                    RSS Feeds
+                <li>RSS Feeds
                     <ul>
                         <li><a href="http://fetchrss.com/rss/5b4e9e358a93f8cc058b4567960404014.xml">SysDig</a></li>
                         <li><a href="https://aws.amazon.com/new/feed/">Amazon AWS News</a></li>
@@ -56,7 +63,6 @@ A table of things ...
                 </li>
                 <li>Twitter</li>
                 <li>Random and Directed Google searches</li>
-                <li>Co-workers</li>
             </ul>
         </td>
         <td>&nbsp;</td>
