@@ -71,6 +71,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [macOS VMs on Apple Silicon to use in CI and other automations](https://github.com/cirruslabs/tart)
 * [Enable SLO-as-Code with Nobl9 and GitLab](https://about.gitlab.com/blog/2022/05/09/enable-slos-as-code/)
 * [Nobl9 Shares SLO-as-Code Methodology](https://devops.com/nobl9-shares-slo-as-code-methodology/)
 * [GitHub Actions Security Best Practices [cheat sheet included]](https://blog.gitguardian.com/github-actions-security-cheat-sheet/)
@@ -80,10 +81,15 @@ A table of things ...
 * [Missing some Tweet in this thread? You can try to force a refresh](https://threadreaderapp.com/thread/1496496087741480960.html)
 * [jless — a command-line JSON viewer](https://pauljuliusmartinez.github.io/)
 * [How to start using reusable workflows with GitHub Actions](https://github.blog/2022-02-10-using-reusable-workflows-github-actions/)
-* [](http://www.spiderfoot.net/index.html)
 
 ### Things I'm star-ing
 
+* [tart](https://github.com/cirruslabs/tart)
+  macOS VMs on Apple Silicon to use in CI and other automations
+* [ripgrep](https://github.com/BurntSushi/ripgrep)
+  ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+* [fd](https://github.com/sharkdp/fd)
+  A simple, fast and user-friendly alternative to 'find'
 * [Heimdall](https://github.com/linuxserver/Heimdall)
   An Application dashboard and launcher
 * [magic-trace](https://github.com/janestreet/magic-trace)
@@ -100,12 +106,6 @@ A table of things ...
   A Requestbin like application for receiving and storing HTTP traffic. Uses FastAPI.
 * [difftastic](https://github.com/Wilfred/difftastic)
   a diff that understands syntax 🟥🟩
-* [high-assurance-rust](https://github.com/tnballo/high-assurance-rust)
-  A free book about developing secure and robust systems software.
-* [lapce](https://github.com/lapce/lapce)
-  Lightning-fast and Powerful Code Editor written in Rust
-* [LiveActionMap](https://github.com/kinshukdua/LiveActionMap)
-  An attempt to map the areas with active conflict in Ukraine using open source twitter data.
 
 ### My Blog Posts
 
