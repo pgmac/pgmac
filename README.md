@@ -105,7 +105,7 @@ A table of things ...
 * [traffcap](https://github.com/Centurix/traffcap)
   A Requestbin like application for receiving and storing HTTP traffic. Uses FastAPI.
 * [difftastic](https://github.com/Wilfred/difftastic)
-  a diff that understands syntax 🟥🟩
+  a structural diff that understands syntax 🟥🟩
 
 ### My Blog Posts
 
