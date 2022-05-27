@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [charts](https://github.com/buildkite/charts)
+  Buildkite Helm Charts repository
 * [shipyard](https://github.com/shipyard-run/shipyard)
   Modern cloud native development environments
 * [tart](https://github.com/cirruslabs/tart)
@@ -104,8 +106,6 @@ A table of things ...
   Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 * [scratch-gui](https://github.com/LLK/scratch-gui)
   Graphical User Interface for creating and running Scratch 3.0 projects.
-* [traffcap](https://github.com/Centurix/traffcap)
-  A Requestbin like application for receiving and storing HTTP traffic. Uses FastAPI.
 
 ### My Blog Posts
 
