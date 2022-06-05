@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [choose](https://github.com/chipsenkbeil/choose)
+  Fuzzy matcher for OS X that uses both std{in,out} and a native GUI
 * [charts](https://github.com/buildkite/charts)
   Buildkite Helm Charts repository
 * [shipyard](https://github.com/shipyard-run/shipyard)
@@ -104,8 +106,6 @@ A table of things ...
   JSON output from a shell
 * [mimir](https://github.com/grafana/mimir)
   Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-* [scratch-gui](https://github.com/LLK/scratch-gui)
-  Graphical User Interface for creating and running Scratch 3.0 projects.
 
 ### My Blog Posts
 
