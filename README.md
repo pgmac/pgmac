@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [entitlements-app](https://github.com/github/entitlements-app)
+  The Ruby Gem that Powers Entitlements - GitHub's Identity and Access Management System
 * [choose](https://github.com/chipsenkbeil/choose)
   Fuzzy matcher for OS X that uses both std{in,out} and a native GUI
 * [charts](https://github.com/buildkite/charts)
@@ -104,8 +106,6 @@ A table of things ...
   The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
 * [jo](https://github.com/jpmens/jo)
   JSON output from a shell
-* [mimir](https://github.com/grafana/mimir)
-  Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 
 ### My Blog Posts
 
