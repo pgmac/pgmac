@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
+  Bypass Paywalls web browser extension for Chrome and Firefox.
 * [entitlements-app](https://github.com/github/entitlements-app)
   The Ruby Gem that Powers Entitlements - GitHub's Identity and Access Management System
 * [choose](https://github.com/chipsenkbeil/choose)
@@ -104,8 +106,6 @@ A table of things ...
   magic-trace collects and displays high-resolution traces of what a process is doing
 * [stackrox](https://github.com/stackrox/stackrox)
   The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
-* [jo](https://github.com/jpmens/jo)
-  JSON output from a shell
 
 ### My Blog Posts
 
