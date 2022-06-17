@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [unix-history-repo](https://github.com/dspinellis/unix-history-repo)
+  Continuous Unix commit history from 1970 until today
 * [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
   Bypass Paywalls web browser extension for Chrome and Firefox.
 * [entitlements-app](https://github.com/github/entitlements-app)
@@ -104,8 +106,6 @@ A table of things ...
   An Application dashboard and launcher
 * [magic-trace](https://github.com/janestreet/magic-trace)
   magic-trace collects and displays high-resolution traces of what a process is doing
-* [stackrox](https://github.com/stackrox/stackrox)
-  The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
 
 ### My Blog Posts
 
