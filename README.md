@@ -30,6 +30,7 @@ A table of things ...
                 <li>Communication</li>
                 <li>Lifting people up
                     <ul>
+                      <li>Managing</li>
                       <li>Helping/mentoring/coaching</li>
                       <li><a href="https://valid.com/5-dysfunctions-of-a-team/">The 5 dysfunctions of a team</a></li>
                       <li><a href="https://practicallyleading.dev/the-big-list-of-engineering-management-resources-march-2022">The Big List of Engineering Managements Resources - for March 2022</a></li>
