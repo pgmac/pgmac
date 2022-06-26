@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [dsq](https://github.com/multiprocessio/dsq)
+  Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 * [unix-history-repo](https://github.com/dspinellis/unix-history-repo)
   Continuous Unix commit history from 1970 until today
 * [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
@@ -104,8 +106,6 @@ A table of things ...
   A simple, fast and user-friendly alternative to 'find'
 * [Heimdall](https://github.com/linuxserver/Heimdall)
   An Application dashboard and launcher
-* [magic-trace](https://github.com/janestreet/magic-trace)
-  magic-trace collects and displays high-resolution traces of what a process is doing
 
 ### My Blog Posts
 
