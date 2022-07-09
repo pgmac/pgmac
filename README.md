@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [vscode-infracost](https://github.com/infracost/vscode-infracost)
+  See cost estimates for Terraform right in your editor💰📉
 * [dsq](https://github.com/multiprocessio/dsq)
   Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 * [unix-history-repo](https://github.com/dspinellis/unix-history-repo)
@@ -104,8 +106,6 @@ A table of things ...
   ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 * [fd](https://github.com/sharkdp/fd)
   A simple, fast and user-friendly alternative to 'find'
-* [Heimdall](https://github.com/linuxserver/Heimdall)
-  An Application dashboard and launcher
 
 ### My Blog Posts
 
