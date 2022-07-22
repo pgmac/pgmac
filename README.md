@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [nebula](https://github.com/slackhq/nebula)
+  A scalable overlay networking tool with a focus on performance, simplicity and security
 * [vscode-infracost](https://github.com/infracost/vscode-infracost)
   See cost estimates for Terraform right in your editor💰📉
 * [dsq](https://github.com/multiprocessio/dsq)
@@ -104,8 +106,6 @@ A table of things ...
   macOS VMs on Apple Silicon to use in CI and other automations
 * [ripgrep](https://github.com/BurntSushi/ripgrep)
   ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-* [fd](https://github.com/sharkdp/fd)
-  A simple, fast and user-friendly alternative to 'find'
 
 ### My Blog Posts
 
