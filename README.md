@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [components](https://github.com/cloudscape-design/components)
+  React components for Cloudscape Design System
 * [nebula](https://github.com/slackhq/nebula)
   A scalable overlay networking tool with a focus on performance, simplicity and security
 * [vscode-infracost](https://github.com/infracost/vscode-infracost)
@@ -104,8 +106,6 @@ A table of things ...
   Modern cloud native development environments
 * [tart](https://github.com/cirruslabs/tart)
   macOS VMs on Apple Silicon to use in CI and other automations
-* [ripgrep](https://github.com/BurntSushi/ripgrep)
-  ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
 ### My Blog Posts
 
