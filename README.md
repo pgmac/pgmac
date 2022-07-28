@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [engineeringladders](https://github.com/jorgef/engineeringladders)
+  A framework for Engineering Managers
 * [components](https://github.com/cloudscape-design/components)
   React components for Cloudscape Design System
 * [nebula](https://github.com/slackhq/nebula)
@@ -104,8 +106,6 @@ A table of things ...
   Buildkite Helm Charts repository
 * [shipyard](https://github.com/shipyard-run/shipyard)
   Modern cloud native development environments
-* [tart](https://github.com/cirruslabs/tart)
-  macOS VMs on Apple Silicon to use in CI and other automations
 
 ### My Blog Posts
 
