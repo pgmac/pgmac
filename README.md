@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [OpenLens](https://github.com/MuhammedKalkan/OpenLens)
+  OpenLens Binary Build Repository
 * [engineeringladders](https://github.com/jorgef/engineeringladders)
   A framework for Engineering Managers
 * [components](https://github.com/cloudscape-design/components)
@@ -104,8 +106,6 @@ A table of things ...
   Fuzzy matcher for OS X that uses both std{in,out} and a native GUI
 * [charts](https://github.com/buildkite/charts)
   Buildkite Helm Charts repository
-* [shipyard](https://github.com/shipyard-run/shipyard)
-  Modern cloud native development environments
 
 ### My Blog Posts
 
