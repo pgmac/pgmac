@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [tabler](https://github.com/tabler/tabler)
+  Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 * [OpenLens](https://github.com/MuhammedKalkan/OpenLens)
   OpenLens Binary Build Repository
 * [engineeringladders](https://github.com/jorgef/engineeringladders)
@@ -104,8 +106,6 @@ A table of things ...
   The Ruby Gem that Powers Entitlements - GitHub's Identity and Access Management System
 * [choose](https://github.com/chipsenkbeil/choose)
   Fuzzy matcher for OS X that uses both std{in,out} and a native GUI
-* [charts](https://github.com/buildkite/charts)
-  Buildkite Helm Charts repository
 
 ### My Blog Posts
 
