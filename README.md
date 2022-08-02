@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [aussieplusplus](https://github.com/zackradisic/aussieplusplus)
+  Programming language from down under
 * [tabler](https://github.com/tabler/tabler)
   Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 * [OpenLens](https://github.com/MuhammedKalkan/OpenLens)
@@ -104,8 +106,6 @@ A table of things ...
   Bypass Paywalls web browser extension for Chrome and Firefox.
 * [entitlements-app](https://github.com/github/entitlements-app)
   The Ruby Gem that Powers Entitlements - GitHub's Identity and Access Management System
-* [choose](https://github.com/chipsenkbeil/choose)
-  Fuzzy matcher for OS X that uses both std{in,out} and a native GUI
 
 ### My Blog Posts
 
