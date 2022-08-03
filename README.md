@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources)
+  A Library of various cybersecurity resources
 * [aussieplusplus](https://github.com/zackradisic/aussieplusplus)
   Programming language from down under
 * [tabler](https://github.com/tabler/tabler)
@@ -104,8 +106,6 @@ A table of things ...
   Continuous Unix commit history from 1970 until today
 * [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
   Bypass Paywalls web browser extension for Chrome and Firefox.
-* [entitlements-app](https://github.com/github/entitlements-app)
-  The Ruby Gem that Powers Entitlements - GitHub's Identity and Access Management System
 
 ### My Blog Posts
 
