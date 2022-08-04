@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [AFFiNE](https://github.com/toeverything/AFFiNE)
+  There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 * [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources)
   A Library of various cybersecurity resources
 * [aussieplusplus](https://github.com/zackradisic/aussieplusplus)
@@ -104,8 +106,6 @@ A table of things ...
   Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 * [unix-history-repo](https://github.com/dspinellis/unix-history-repo)
   Continuous Unix commit history from 1970 until today
-* [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome)
-  Bypass Paywalls web browser extension for Chrome and Firefox.
 
 ### My Blog Posts
 
