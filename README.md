@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints)
+  Configure and deploy complete EKS clusters.
 * [AFFiNE](https://github.com/toeverything/AFFiNE)
   There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 * [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources)
@@ -104,8 +106,6 @@ A table of things ...
   See cost estimates for Terraform right in your editor💰📉
 * [dsq](https://github.com/multiprocessio/dsq)
   Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
-* [unix-history-repo](https://github.com/dspinellis/unix-history-repo)
-  Continuous Unix commit history from 1970 until today
 
 ### My Blog Posts
 
