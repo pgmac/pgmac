@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [ocsf-schema](https://github.com/ocsf/ocsf-schema)
+  OCSF Schema
 * [terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints)
   Configure and deploy complete EKS clusters.
 * [AFFiNE](https://github.com/toeverything/AFFiNE)
@@ -104,8 +106,6 @@ A table of things ...
   A scalable overlay networking tool with a focus on performance, simplicity and security
 * [vscode-infracost](https://github.com/infracost/vscode-infracost)
   See cost estimates for Terraform right in your editor💰📉
-* [dsq](https://github.com/multiprocessio/dsq)
-  Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 
 ### My Blog Posts
 
