@@ -84,6 +84,12 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [jira-cli](https://github.com/ankitpokhrel/jira-cli)
+  🔥 [WIP] Feature-rich interactive Jira command line.
+* [privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
+  Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
+* [rbac-police](https://github.com/PaloAltoNetworks/rbac-police)
+  Evaluate the RBAC permissions of serviceaccounts, pods and nodes in Kubernetes clusters through policies written in Rego
 * [ocsf-schema](https://github.com/ocsf/ocsf-schema)
   OCSF Schema
 * [terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints)
@@ -100,12 +106,6 @@ A table of things ...
   OpenLens Binary Build Repository
 * [engineeringladders](https://github.com/jorgef/engineeringladders)
   A framework for Engineering Managers
-* [components](https://github.com/cloudscape-design/components)
-  React components for Cloudscape Design System
-* [nebula](https://github.com/slackhq/nebula)
-  A scalable overlay networking tool with a focus on performance, simplicity and security
-* [vscode-infracost](https://github.com/infracost/vscode-infracost)
-  See cost estimates for Terraform right in your editor💰📉
 
 ### My Blog Posts
 
