@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [AWSGoat](https://github.com/ine-labs/AWSGoat)
+  AWSGoat : A Damn Vulnerable AWS Infrastructure
 * [jira-cli](https://github.com/ankitpokhrel/jira-cli)
   🔥 [WIP] Feature-rich interactive Jira command line.
 * [privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
@@ -104,8 +106,6 @@ A table of things ...
   Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 * [OpenLens](https://github.com/MuhammedKalkan/OpenLens)
   OpenLens Binary Build Repository
-* [engineeringladders](https://github.com/jorgef/engineeringladders)
-  A framework for Engineering Managers
 
 ### My Blog Posts
 
