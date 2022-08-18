@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [distroless](https://github.com/GoogleContainerTools/distroless)
+  🥑  Language focused docker images, minus the operating system.  
 * [AWSGoat](https://github.com/ine-labs/AWSGoat)
   AWSGoat : A Damn Vulnerable AWS Infrastructure
 * [jira-cli](https://github.com/ankitpokhrel/jira-cli)
@@ -104,8 +106,6 @@ A table of things ...
   Programming language from down under
 * [tabler](https://github.com/tabler/tabler)
   Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-* [OpenLens](https://github.com/MuhammedKalkan/OpenLens)
-  OpenLens Binary Build Repository
 
 ### My Blog Posts
 
