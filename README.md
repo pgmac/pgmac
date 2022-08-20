@@ -71,6 +71,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
 * [macOS VMs on Apple Silicon to use in CI and other automations](https://github.com/cirruslabs/tart)
 * [Enable SLO-as-Code with Nobl9 and GitLab](https://about.gitlab.com/blog/2022/05/09/enable-slos-as-code/)
 * [Nobl9 Shares SLO-as-Code Methodology](https://devops.com/nobl9-shares-slo-as-code-methodology/)
@@ -80,7 +81,6 @@ A table of things ...
 * [AWS CloudSaga - Simulate security events in AWS](https://github.com/awslabs/aws-cloudsaga)
 * [Missing some Tweet in this thread? You can try to force a refresh](https://threadreaderapp.com/thread/1496496087741480960.html)
 * [jless — a command-line JSON viewer](https://pauljuliusmartinez.github.io/)
-* [How to start using reusable workflows with GitHub Actions](https://github.blog/2022-02-10-using-reusable-workflows-github-actions/)
 
 ### Things I'm star-ing
 
