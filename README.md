@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [k8spacket](https://github.com/k8spacket/k8spacket)
+  k8spacket - packets traffic visualization for kubernetes
 * [distroless](https://github.com/GoogleContainerTools/distroless)
   🥑  Language focused docker images, minus the operating system.  
 * [AWSGoat](https://github.com/ine-labs/AWSGoat)
@@ -104,8 +106,6 @@ A table of things ...
   A Library of various cybersecurity resources
 * [aussieplusplus](https://github.com/zackradisic/aussieplusplus)
   Programming language from down under
-* [tabler](https://github.com/tabler/tabler)
-  Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ### My Blog Posts
 
