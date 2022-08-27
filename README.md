@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [secretive](https://github.com/maxgoedjen/secretive)
+  Store SSH keys in the Secure Enclave
 * [k8spacket](https://github.com/k8spacket/k8spacket)
   k8spacket - packets traffic visualization for kubernetes
 * [distroless](https://github.com/GoogleContainerTools/distroless)
@@ -104,8 +106,6 @@ A table of things ...
   There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 * [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources)
   A Library of various cybersecurity resources
-* [aussieplusplus](https://github.com/zackradisic/aussieplusplus)
-  Programming language from down under
 
 ### My Blog Posts
 
