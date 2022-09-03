@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [CyberChef](https://github.com/gchq/CyberChef)
+  The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 * [secretive](https://github.com/maxgoedjen/secretive)
   Store SSH keys in the Secure Enclave
 * [k8spacket](https://github.com/k8spacket/k8spacket)
@@ -104,8 +106,6 @@ A table of things ...
   Configure and deploy complete EKS clusters.
 * [AFFiNE](https://github.com/toeverything/AFFiNE)
   There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
-* [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources)
-  A Library of various cybersecurity resources
 
 ### My Blog Posts
 
