@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [oss-fuzz](https://github.com/google/oss-fuzz)
+  OSS-Fuzz - continuous fuzzing for open source software.
 * [CyberChef](https://github.com/gchq/CyberChef)
   The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 * [secretive](https://github.com/maxgoedjen/secretive)
@@ -104,8 +106,6 @@ A table of things ...
   OCSF Schema
 * [terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints)
   Configure and deploy complete EKS clusters.
-* [AFFiNE](https://github.com/toeverything/AFFiNE)
-  There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 
 ### My Blog Posts
 
