@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [penpot](https://github.com/penpot/penpot)
+  Penpot - The Open-Source design & prototyping platform
 * [oss-fuzz](https://github.com/google/oss-fuzz)
   OSS-Fuzz - continuous fuzzing for open source software.
 * [CyberChef](https://github.com/gchq/CyberChef)
@@ -104,8 +106,6 @@ A table of things ...
   Evaluate the RBAC permissions of serviceaccounts, pods and nodes in Kubernetes clusters through policies written in Rego
 * [ocsf-schema](https://github.com/ocsf/ocsf-schema)
   OCSF Schema
-* [terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints)
-  Configure and deploy complete EKS clusters.
 
 ### My Blog Posts
 
