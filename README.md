@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [shenyu](https://github.com/apache/shenyu)
+  Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
 * [penpot](https://github.com/penpot/penpot)
   Penpot - The Open-Source design & prototyping platform
 * [oss-fuzz](https://github.com/google/oss-fuzz)
@@ -104,8 +106,6 @@ A table of things ...
   Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 * [rbac-police](https://github.com/PaloAltoNetworks/rbac-police)
   Evaluate the RBAC permissions of serviceaccounts, pods and nodes in Kubernetes clusters through policies written in Rego
-* [ocsf-schema](https://github.com/ocsf/ocsf-schema)
-  OCSF Schema
 
 ### My Blog Posts
 
