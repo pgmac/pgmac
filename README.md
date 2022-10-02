@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [signoz](https://github.com/SigNoz/signoz)
+  SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 * [shenyu](https://github.com/apache/shenyu)
   Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
 * [penpot](https://github.com/penpot/penpot)
@@ -104,8 +106,6 @@ A table of things ...
   🔥 [WIP] Feature-rich interactive Jira command line.
 * [privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
   Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
-* [rbac-police](https://github.com/PaloAltoNetworks/rbac-police)
-  Evaluate the RBAC permissions of serviceaccounts, pods and nodes in Kubernetes clusters through policies written in Rego
 
 ### My Blog Posts
 
