@@ -71,6 +71,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Non-Pharmacological ADHD Treatment : Australian ADHD Clinical Practice Guideline](https://adhdguideline.aadpa.com.au/non-pharmacological/)
 * [Vulhub: Pre-Built Vulnerable Environments Based on Docker-Compose](https://news.ycombinator.com/item?id=32963636)
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
 * [macOS VMs on Apple Silicon to use in CI and other automations](https://github.com/cirruslabs/tart)
@@ -80,7 +81,6 @@ A table of things ...
 * [The Big List of Engineering Management Resources - March 2022](https://practicallyleading.dev/the-big-list-of-engineering-management-resources-march-2022)
 * [](https://docs.bridgecrew.io/docs/what-is-bridgecrew)
 * [AWS CloudSaga - Simulate security events in AWS](https://github.com/awslabs/aws-cloudsaga)
-* [Missing some Tweet in this thread? You can try to force a refresh](https://threadreaderapp.com/thread/1496496087741480960.html)
 
 ### Things I'm star-ing
 
