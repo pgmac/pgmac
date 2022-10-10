@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [hexapod](https://github.com/MakeYourPet/hexapod)
+  None
 * [signoz](https://github.com/SigNoz/signoz)
   SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 * [shenyu](https://github.com/apache/shenyu)
@@ -104,8 +106,6 @@ A table of things ...
   AWSGoat : A Damn Vulnerable AWS Infrastructure
 * [jira-cli](https://github.com/ankitpokhrel/jira-cli)
   🔥 [WIP] Feature-rich interactive Jira command line.
-* [privacy.sexy](https://github.com/undergroundwires/privacy.sexy)
-  Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 
 ### My Blog Posts
 
