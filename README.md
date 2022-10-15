@@ -84,6 +84,28 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [hexapod](https://github.com/MakeYourPet/hexapod)
+  None
+* [signoz](https://github.com/SigNoz/signoz)
+  SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
+* [shenyu](https://github.com/apache/shenyu)
+  Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
+* [penpot](https://github.com/penpot/penpot)
+  Penpot - The Open-Source design & prototyping platform
+* [oss-fuzz](https://github.com/google/oss-fuzz)
+  OSS-Fuzz - continuous fuzzing for open source software.
+* [CyberChef](https://github.com/gchq/CyberChef)
+  The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+* [secretive](https://github.com/maxgoedjen/secretive)
+  Store SSH keys in the Secure Enclave
+* [k8spacket](https://github.com/k8spacket/k8spacket)
+  k8spacket - packets traffic visualization for kubernetes
+* [distroless](https://github.com/GoogleContainerTools/distroless)
+  🥑  Language focused docker images, minus the operating system.  
+* [AWSGoat](https://github.com/ine-labs/AWSGoat)
+  AWSGoat : A Damn Vulnerable AWS Infrastructure
+* [jira-cli](https://github.com/ankitpokhrel/jira-cli)
+  🔥 [WIP] Feature-rich interactive Jira command line.
 
 ### My Blog Posts
 
