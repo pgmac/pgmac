@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [UTM](https://github.com/utmapp/UTM)
+  Virtual machines for iOS and macOS
 * [hexapod](https://github.com/MakeYourPet/hexapod)
   None
 * [signoz](https://github.com/SigNoz/signoz)
@@ -104,8 +106,6 @@ A table of things ...
   🥑  Language focused docker images, minus the operating system.  
 * [AWSGoat](https://github.com/ine-labs/AWSGoat)
   AWSGoat : A Damn Vulnerable AWS Infrastructure
-* [jira-cli](https://github.com/ankitpokhrel/jira-cli)
-  🔥 [WIP] Feature-rich interactive Jira command line.
 
 ### My Blog Posts
 
