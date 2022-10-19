@@ -71,6 +71,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [The UNIX Pipe Card Game](https://punkx.org/unix-pipe-game/)
 * [Non-Pharmacological ADHD Treatment : Australian ADHD Clinical Practice Guideline](https://adhdguideline.aadpa.com.au/non-pharmacological/)
 * [Vulhub: Pre-Built Vulnerable Environments Based on Docker-Compose](https://news.ycombinator.com/item?id=32963636)
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
@@ -80,10 +81,11 @@ A table of things ...
 * [GitHub Actions Security Best Practices [cheat sheet included]](https://blog.gitguardian.com/github-actions-security-cheat-sheet/)
 * [The Big List of Engineering Management Resources - March 2022](https://practicallyleading.dev/the-big-list-of-engineering-management-resources-march-2022)
 * [](https://docs.bridgecrew.io/docs/what-is-bridgecrew)
-* [AWS CloudSaga - Simulate security events in AWS](https://github.com/awslabs/aws-cloudsaga)
 
 ### Things I'm star-ing
 
+* [sparrow-manifest](https://github.com/AmbiML/sparrow-manifest)
+  Project Sparrow: Repo Materials
 * [UTM](https://github.com/utmapp/UTM)
   Virtual machines for iOS and macOS
 * [hexapod](https://github.com/MakeYourPet/hexapod)
@@ -104,8 +106,6 @@ A table of things ...
   k8spacket - packets traffic visualization for kubernetes
 * [distroless](https://github.com/GoogleContainerTools/distroless)
   🥑  Language focused docker images, minus the operating system.  
-* [AWSGoat](https://github.com/ine-labs/AWSGoat)
-  AWSGoat : A Damn Vulnerable AWS Infrastructure
 
 ### My Blog Posts
 
