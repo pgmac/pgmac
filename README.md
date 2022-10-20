@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [juice-shop](https://github.com/juice-shop/juice-shop)
+  OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 * [sparrow-manifest](https://github.com/AmbiML/sparrow-manifest)
   Project Sparrow: Repo Materials
 * [UTM](https://github.com/utmapp/UTM)
@@ -104,8 +106,6 @@ A table of things ...
   Store SSH keys in the Secure Enclave
 * [k8spacket](https://github.com/k8spacket/k8spacket)
   k8spacket - packets traffic visualization for kubernetes
-* [distroless](https://github.com/GoogleContainerTools/distroless)
-  🥑  Language focused docker images, minus the operating system.  
 
 ### My Blog Posts
 
