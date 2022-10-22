@@ -71,6 +71,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Restfox](https://restfox.dev)
 * [The UNIX Pipe Card Game](https://punkx.org/unix-pipe-game/)
 * [Non-Pharmacological ADHD Treatment : Australian ADHD Clinical Practice Guideline](https://adhdguideline.aadpa.com.au/non-pharmacological/)
 * [Vulhub: Pre-Built Vulnerable Environments Based on Docker-Compose](https://news.ycombinator.com/item?id=32963636)
@@ -80,7 +81,6 @@ A table of things ...
 * [Nobl9 Shares SLO-as-Code Methodology](https://devops.com/nobl9-shares-slo-as-code-methodology/)
 * [GitHub Actions Security Best Practices [cheat sheet included]](https://blog.gitguardian.com/github-actions-security-cheat-sheet/)
 * [The Big List of Engineering Management Resources - March 2022](https://practicallyleading.dev/the-big-list-of-engineering-management-resources-march-2022)
-* [](https://docs.bridgecrew.io/docs/what-is-bridgecrew)
 
 ### Things I'm star-ing
 
