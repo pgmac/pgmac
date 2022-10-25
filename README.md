@@ -71,6 +71,9 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Open Source at NC3 - LU](https://opensource.nc3.lu/)
+* [Introduction](https://asdf-vm.com/guide/introduction.html)
+* [For Everyone](https://sudo.pagerduty.com/for_everyone/)
 * [Restfox](https://restfox.dev)
 * [The UNIX Pipe Card Game](https://punkx.org/unix-pipe-game/)
 * [Non-Pharmacological ADHD Treatment : Australian ADHD Clinical Practice Guideline](https://adhdguideline.aadpa.com.au/non-pharmacological/)
@@ -78,12 +81,11 @@ A table of things ...
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
 * [macOS VMs on Apple Silicon to use in CI and other automations](https://github.com/cirruslabs/tart)
 * [Enable SLO-as-Code with Nobl9 and GitLab](https://about.gitlab.com/blog/2022/05/09/enable-slos-as-code/)
-* [Nobl9 Shares SLO-as-Code Methodology](https://devops.com/nobl9-shares-slo-as-code-methodology/)
-* [GitHub Actions Security Best Practices [cheat sheet included]](https://blog.gitguardian.com/github-actions-security-cheat-sheet/)
-* [The Big List of Engineering Management Resources - March 2022](https://practicallyleading.dev/the-big-list-of-engineering-management-resources-march-2022)
 
 ### Things I'm star-ing
 
+* [security-training](https://github.com/PagerDuty/security-training)
+  Public version of PagerDuty's employee security training courses. 
 * [juice-shop](https://github.com/juice-shop/juice-shop)
   OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 * [sparrow-manifest](https://github.com/AmbiML/sparrow-manifest)
@@ -104,8 +106,6 @@ A table of things ...
   The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 * [secretive](https://github.com/maxgoedjen/secretive)
   Store SSH keys in the Secure Enclave
-* [k8spacket](https://github.com/k8spacket/k8spacket)
-  k8spacket - packets traffic visualization for kubernetes
 
 ### My Blog Posts
 
