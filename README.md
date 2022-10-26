@@ -71,6 +71,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Launch HN: Idemeum (YC S21) – Passwordless access to apps and infrastructure](https://news.ycombinator.com/item?id=33346183)
 * [Open Source at NC3 - LU](https://opensource.nc3.lu/)
 * [Introduction](https://asdf-vm.com/guide/introduction.html)
 * [For Everyone](https://sudo.pagerduty.com/for_everyone/)
@@ -80,10 +81,11 @@ A table of things ...
 * [Vulhub: Pre-Built Vulnerable Environments Based on Docker-Compose](https://news.ycombinator.com/item?id=32963636)
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
 * [macOS VMs on Apple Silicon to use in CI and other automations](https://github.com/cirruslabs/tart)
-* [Enable SLO-as-Code with Nobl9 and GitLab](https://about.gitlab.com/blog/2022/05/09/enable-slos-as-code/)
 
 ### Things I'm star-ing
 
+* [topaz](https://github.com/aserto-dev/topaz)
+  Cloud-native authorization for modern applications and APIs
 * [security-training](https://github.com/PagerDuty/security-training)
   Public version of PagerDuty's employee security training courses. 
 * [juice-shop](https://github.com/juice-shop/juice-shop)
@@ -104,8 +106,6 @@ A table of things ...
   OSS-Fuzz - continuous fuzzing for open source software.
 * [CyberChef](https://github.com/gchq/CyberChef)
   The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-* [secretive](https://github.com/maxgoedjen/secretive)
-  Store SSH keys in the Secure Enclave
 
 ### My Blog Posts
 
