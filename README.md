@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [wakemeops](https://github.com/upciti/wakemeops)
+  A Debian repository for portable applications
 * [topaz](https://github.com/aserto-dev/topaz)
   Cloud-native authorization for modern applications and APIs
 * [security-training](https://github.com/PagerDuty/security-training)
@@ -104,8 +106,6 @@ A table of things ...
   Penpot - The Open-Source design & prototyping platform
 * [oss-fuzz](https://github.com/google/oss-fuzz)
   OSS-Fuzz - continuous fuzzing for open source software.
-* [CyberChef](https://github.com/gchq/CyberChef)
-  The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 
 ### My Blog Posts
 
