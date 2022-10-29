@@ -71,6 +71,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Free: Dastardly from Burp Suite](https://portswigger.net/blog/free-dastardly-from-burp-suite)
 * [Launch HN: Idemeum (YC S21) – Passwordless access to apps and infrastructure](https://news.ycombinator.com/item?id=33346183)
 * [Open Source at NC3 - LU](https://opensource.nc3.lu/)
 * [Introduction](https://asdf-vm.com/guide/introduction.html)
@@ -80,7 +81,6 @@ A table of things ...
 * [Non-Pharmacological ADHD Treatment : Australian ADHD Clinical Practice Guideline](https://adhdguideline.aadpa.com.au/non-pharmacological/)
 * [Vulhub: Pre-Built Vulnerable Environments Based on Docker-Compose](https://news.ycombinator.com/item?id=32963636)
 * [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
-* [macOS VMs on Apple Silicon to use in CI and other automations](https://github.com/cirruslabs/tart)
 
 ### Things I'm star-ing
 
