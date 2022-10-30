@@ -71,6 +71,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)
 * [Free: Dastardly from Burp Suite](https://portswigger.net/blog/free-dastardly-from-burp-suite)
 * [Launch HN: Idemeum (YC S21) – Passwordless access to apps and infrastructure](https://news.ycombinator.com/item?id=33346183)
 * [Open Source at NC3 - LU](https://opensource.nc3.lu/)
@@ -80,10 +81,11 @@ A table of things ...
 * [The UNIX Pipe Card Game](https://punkx.org/unix-pipe-game/)
 * [Non-Pharmacological ADHD Treatment : Australian ADHD Clinical Practice Guideline](https://adhdguideline.aadpa.com.au/non-pharmacological/)
 * [Vulhub: Pre-Built Vulnerable Environments Based on Docker-Compose](https://news.ycombinator.com/item?id=32963636)
-* [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
 
 ### Things I'm star-ing
 
+* [cloud-custodian](https://github.com/cloud-custodian/cloud-custodian)
+  Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 * [wakemeops](https://github.com/upciti/wakemeops)
   A Debian repository for portable applications
 * [topaz](https://github.com/aserto-dev/topaz)
@@ -104,8 +106,6 @@ A table of things ...
   Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
 * [penpot](https://github.com/penpot/penpot)
   Penpot - The Open-Source design & prototyping platform
-* [oss-fuzz](https://github.com/google/oss-fuzz)
-  OSS-Fuzz - continuous fuzzing for open source software.
 
 ### My Blog Posts
 
