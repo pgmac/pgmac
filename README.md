@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [prowler](https://github.com/prowler-cloud/prowler)
+  Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.
 * [ballerine](https://github.com/ballerine-io/ballerine)
   Ballerine is an open-source infrastructure for user identity and risk management
 * [cloud-custodian](https://github.com/cloud-custodian/cloud-custodian)
@@ -104,8 +106,6 @@ A table of things ...
   None
 * [signoz](https://github.com/SigNoz/signoz)
   SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
-* [shenyu](https://github.com/apache/shenyu)
-  Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
 
 ### My Blog Posts
 
