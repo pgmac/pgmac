@@ -71,6 +71,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Checkov scans cloud infrastructure configurations to find misconfigurations before they're deployed.](https://checkov.io/)
 * [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine)
 * [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)
 * [Free: Dastardly from Burp Suite](https://portswigger.net/blog/free-dastardly-from-burp-suite)
@@ -80,7 +81,6 @@ A table of things ...
 * [For Everyone](https://sudo.pagerduty.com/for_everyone/)
 * [Restfox](https://restfox.dev)
 * [The UNIX Pipe Card Game](https://punkx.org/unix-pipe-game/)
-* [Non-Pharmacological ADHD Treatment : Australian ADHD Clinical Practice Guideline](https://adhdguideline.aadpa.com.au/non-pharmacological/)
 
 ### Things I'm star-ing
 
