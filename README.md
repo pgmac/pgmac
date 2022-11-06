@@ -71,6 +71,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [How to mitigate OWASP vulnerabilities while staying in the flow](https://github.blog/2022-11-04-how-to-mitigate-owasp-vulnerabilities-while-staying-in-the-flow/)
 * [Checkov scans cloud infrastructure configurations to find misconfigurations before they're deployed.](https://checkov.io/)
 * [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine)
 * [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)
@@ -80,10 +81,11 @@ A table of things ...
 * [Introduction](https://asdf-vm.com/guide/introduction.html)
 * [For Everyone](https://sudo.pagerduty.com/for_everyone/)
 * [Restfox](https://restfox.dev)
-* [The UNIX Pipe Card Game](https://punkx.org/unix-pipe-game/)
 
 ### Things I'm star-ing
 
+* [tier](https://github.com/tierrun/tier)
+  Pricing As Code by @bmizerany @isaacs and @jevon
 * [phlare](https://github.com/grafana/phlare)
   🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
 * [prowler](https://github.com/prowler-cloud/prowler)
@@ -104,8 +106,6 @@ A table of things ...
   Project Sparrow: Repo Materials
 * [UTM](https://github.com/utmapp/UTM)
   Virtual machines for iOS and macOS
-* [hexapod](https://github.com/MakeYourPet/hexapod)
-  None
 
 ### My Blog Posts
 
