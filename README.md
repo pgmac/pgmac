@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [terrascan](https://github.com/tenable/terrascan)
+  Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 * [tier](https://github.com/tierrun/tier)
   Pricing As Code by @bmizerany @isaacs and @jevon
 * [phlare](https://github.com/grafana/phlare)
@@ -104,8 +106,6 @@ A table of things ...
   OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 * [sparrow-manifest](https://github.com/AmbiML/sparrow-manifest)
   Project Sparrow: Repo Materials
-* [UTM](https://github.com/utmapp/UTM)
-  Virtual machines for iOS and macOS
 
 ### My Blog Posts
 
