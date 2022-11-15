@@ -71,6 +71,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Install EKS-D with MicroK8s](https://discuss.kubernetes.io/t/install-eks-d-with-microk8s/21479)
 * [How to mitigate OWASP vulnerabilities while staying in the flow](https://github.blog/2022-11-04-how-to-mitigate-owasp-vulnerabilities-while-staying-in-the-flow/)
 * [Checkov scans cloud infrastructure configurations to find misconfigurations before they're deployed.](https://checkov.io/)
 * [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine)
@@ -80,10 +81,13 @@ A table of things ...
 * [Open Source at NC3 - LU](https://opensource.nc3.lu/)
 * [Introduction](https://asdf-vm.com/guide/introduction.html)
 * [For Everyone](https://sudo.pagerduty.com/for_everyone/)
-* [Restfox](https://restfox.dev)
 
 ### Things I'm star-ing
 
+* [spire](https://github.com/spiffe/spire)
+  The SPIFFE Runtime Environment
+* [spiffe](https://github.com/spiffe/spiffe)
+  The SPIFFE Project
 * [terrascan](https://github.com/tenable/terrascan)
   Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 * [tier](https://github.com/tierrun/tier)
@@ -102,10 +106,6 @@ A table of things ...
   Cloud-native authorization for modern applications and APIs
 * [security-training](https://github.com/PagerDuty/security-training)
   Public version of PagerDuty's employee security training courses. 
-* [juice-shop](https://github.com/juice-shop/juice-shop)
-  OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-* [sparrow-manifest](https://github.com/AmbiML/sparrow-manifest)
-  Project Sparrow: Repo Materials
 
 ### My Blog Posts
 
