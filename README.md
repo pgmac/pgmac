@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [vulnerable-code-snippets](https://github.com/yeswehack/vulnerable-code-snippets)
+  Twitter vulnerable snippets
 * [spire](https://github.com/spiffe/spire)
   The SPIFFE Runtime Environment
 * [spiffe](https://github.com/spiffe/spiffe)
@@ -91,7 +93,7 @@ A table of things ...
 * [terrascan](https://github.com/tenable/terrascan)
   Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 * [tier](https://github.com/tierrun/tier)
-  Pricing As Code by @bmizerany @isaacs and @jevon
+  CLI Power Tools for @stripe by @bmizerany @isaacs and @jevon
 * [phlare](https://github.com/grafana/phlare)
   🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
 * [prowler](https://github.com/prowler-cloud/prowler)
@@ -104,8 +106,6 @@ A table of things ...
   A Debian repository for portable applications
 * [topaz](https://github.com/aserto-dev/topaz)
   Cloud-native authorization for modern applications and APIs
-* [security-training](https://github.com/PagerDuty/security-training)
-  Public version of PagerDuty's employee security training courses. 
 
 ### My Blog Posts
 
