@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [kubeshark](https://github.com/kubeshark/kubeshark)
+  The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes
 * [vulnerable-code-snippets](https://github.com/yeswehack/vulnerable-code-snippets)
   Twitter vulnerable snippets
 * [spire](https://github.com/spiffe/spire)
@@ -104,8 +106,6 @@ A table of things ...
   Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 * [wakemeops](https://github.com/upciti/wakemeops)
   A Debian repository for portable applications
-* [topaz](https://github.com/aserto-dev/topaz)
-  Cloud-native authorization for modern applications and APIs
 
 ### My Blog Posts
 
