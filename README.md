@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [asciigraph](https://github.com/guptarohit/asciigraph)
+  Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 * [kubeshark](https://github.com/kubeshark/kubeshark)
   The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes
 * [vulnerable-code-snippets](https://github.com/yeswehack/vulnerable-code-snippets)
@@ -104,8 +106,6 @@ A table of things ...
   Ballerine is an open-source infrastructure for user identity and risk management
 * [cloud-custodian](https://github.com/cloud-custodian/cloud-custodian)
   Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
-* [wakemeops](https://github.com/upciti/wakemeops)
-  A Debian repository for portable applications
 
 ### My Blog Posts
 
