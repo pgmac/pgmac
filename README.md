@@ -71,6 +71,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Run and Test HTTP Requests](https://hurl.dev/)
 * [Install EKS-D with MicroK8s](https://discuss.kubernetes.io/t/install-eks-d-with-microk8s/21479)
 * [How to mitigate OWASP vulnerabilities while staying in the flow](https://github.blog/2022-11-04-how-to-mitigate-owasp-vulnerabilities-while-staying-in-the-flow/)
 * [Checkov scans cloud infrastructure configurations to find misconfigurations before they're deployed.](https://checkov.io/)
@@ -80,10 +81,11 @@ A table of things ...
 * [Launch HN: Idemeum (YC S21) – Passwordless access to apps and infrastructure](https://news.ycombinator.com/item?id=33346183)
 * [Open Source at NC3 - LU](https://opensource.nc3.lu/)
 * [Introduction](https://asdf-vm.com/guide/introduction.html)
-* [For Everyone](https://sudo.pagerduty.com/for_everyone/)
 
 ### Things I'm star-ing
 
+* [hurl](https://github.com/Orange-OpenSource/hurl)
+  Hurl, run and test HTTP requests with plain text.
 * [asciigraph](https://github.com/guptarohit/asciigraph)
   Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 * [kubeshark](https://github.com/kubeshark/kubeshark)
@@ -104,8 +106,6 @@ A table of things ...
   Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.
 * [ballerine](https://github.com/ballerine-io/ballerine)
   Ballerine is an open-source infrastructure for user identity and risk management
-* [cloud-custodian](https://github.com/cloud-custodian/cloud-custodian)
-  Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 
 ### My Blog Posts
 
