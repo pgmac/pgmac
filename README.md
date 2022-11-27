@@ -105,7 +105,7 @@ A table of things ...
 * [prowler](https://github.com/prowler-cloud/prowler)
   Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.
 * [ballerine](https://github.com/ballerine-io/ballerine)
-  Ballerine is an open-source infrastructure for user identity and risk management
+  Ballerine is an open-source infrastructure for user identity, KYC, and risk management
 
 ### My Blog Posts
 
