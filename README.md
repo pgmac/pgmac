@@ -71,6 +71,9 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Spotify’s Vulnerability Management Platform](https://engineering.atspotify.com/2022/11/spotifys-vulnerability-management-platform/)
+* [Spotify Introduces Kitsune Vulnerability Management Platform](https://www.infoq.com/news/2022/11/spotify-kitsune-platform/)
+* [Git Notes: git's coolest, most unloved­ feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
 * [Run and Test HTTP Requests](https://hurl.dev/)
 * [Install EKS-D with MicroK8s](https://discuss.kubernetes.io/t/install-eks-d-with-microk8s/21479)
 * [How to mitigate OWASP vulnerabilities while staying in the flow](https://github.blog/2022-11-04-how-to-mitigate-owasp-vulnerabilities-while-staying-in-the-flow/)
@@ -78,12 +81,11 @@ A table of things ...
 * [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine)
 * [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)
 * [Free: Dastardly from Burp Suite](https://portswigger.net/blog/free-dastardly-from-burp-suite)
-* [Launch HN: Idemeum (YC S21) – Passwordless access to apps and infrastructure](https://news.ycombinator.com/item?id=33346183)
-* [Open Source at NC3 - LU](https://opensource.nc3.lu/)
-* [Introduction](https://asdf-vm.com/guide/introduction.html)
 
 ### Things I'm star-ing
 
+* [proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)
+  Compatibility tool for Steam Play based on Wine and additional components
 * [hurl](https://github.com/Orange-OpenSource/hurl)
   Hurl, run and test HTTP requests with plain text.
 * [asciigraph](https://github.com/guptarohit/asciigraph)
@@ -104,8 +106,6 @@ A table of things ...
   🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
 * [prowler](https://github.com/prowler-cloud/prowler)
   Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.
-* [ballerine](https://github.com/ballerine-io/ballerine)
-  Ballerine is an open-source infrastructure for user identity, KYC, and risk management
 
 ### My Blog Posts
 
