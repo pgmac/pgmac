@@ -84,6 +84,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [chain-bench](https://github.com/aquasecurity/chain-bench)
+  An open-source tool for auditing your software supply chain stack for security compliance based on a new CIS Software Supply Chain benchmark.
 * [proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)
   Compatibility tool for Steam Play based on Wine and additional components
 * [hurl](https://github.com/Orange-OpenSource/hurl)
@@ -101,11 +103,9 @@ A table of things ...
 * [terrascan](https://github.com/tenable/terrascan)
   Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 * [tier](https://github.com/tierrun/tier)
-  CLI Power Tools for @stripe by @bmizerany @isaacs and @jevon
+  Pricing As Code. One tool to manage your entire pricing stack. By @bmizerany @isaacs and @jevon
 * [phlare](https://github.com/grafana/phlare)
   🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
-* [prowler](https://github.com/prowler-cloud/prowler)
-  Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.
 
 ### My Blog Posts
 
