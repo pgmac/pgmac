@@ -71,19 +71,21 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [](https://tcude.net/using-terraform-with-proxmox/)
 * [Spotify’s Vulnerability Management Platform](https://engineering.atspotify.com/2022/11/spotifys-vulnerability-management-platform/)
 * [Spotify Introduces Kitsune Vulnerability Management Platform](https://www.infoq.com/news/2022/11/spotify-kitsune-platform/)
-* [Git Notes: git's coolest, most unloved­ feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
+* [Git Notes: git's coolest, most unloved­ feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature)
 * [Run and Test HTTP Requests](https://hurl.dev/)
 * [Install EKS-D with MicroK8s](https://discuss.kubernetes.io/t/install-eks-d-with-microk8s/21479)
 * [How to mitigate OWASP vulnerabilities while staying in the flow](https://github.blog/2022-11-04-how-to-mitigate-owasp-vulnerabilities-while-staying-in-the-flow/)
 * [Checkov scans cloud infrastructure configurations to find misconfigurations before they're deployed.](https://checkov.io/)
 * [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine)
 * [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)
-* [Free: Dastardly from Burp Suite](https://portswigger.net/blog/free-dastardly-from-burp-suite)
 
 ### Things I'm star-ing
 
+* [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
+  Terraform provider plugin for proxmox
 * [chain-bench](https://github.com/aquasecurity/chain-bench)
   An open-source tool for auditing your software supply chain stack for security compliance based on a new CIS Software Supply Chain benchmark.
 * [proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)
@@ -104,8 +106,6 @@ A table of things ...
   Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 * [tier](https://github.com/tierrun/tier)
   Pricing As Code. One tool to manage your entire pricing stack. By @bmizerany @isaacs and @jevon
-* [phlare](https://github.com/grafana/phlare)
-  🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
 
 ### My Blog Posts
 
