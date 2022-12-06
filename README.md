@@ -71,6 +71,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Can LEGO City Powered Up trains be automated?](https://bricks.stackexchange.com/questions/17587/can-lego-city-powered-up-trains-be-automated)
 * [](https://tcude.net/using-terraform-with-proxmox/)
 * [Spotify’s Vulnerability Management Platform](https://engineering.atspotify.com/2022/11/spotifys-vulnerability-management-platform/)
 * [Spotify Introduces Kitsune Vulnerability Management Platform](https://www.infoq.com/news/2022/11/spotify-kitsune-platform/)
@@ -80,7 +81,6 @@ A table of things ...
 * [How to mitigate OWASP vulnerabilities while staying in the flow](https://github.blog/2022-11-04-how-to-mitigate-owasp-vulnerabilities-while-staying-in-the-flow/)
 * [Checkov scans cloud infrastructure configurations to find misconfigurations before they're deployed.](https://checkov.io/)
 * [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine)
-* [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)
 
 ### Things I'm star-ing
 
