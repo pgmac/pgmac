@@ -15,11 +15,14 @@ A table of things ...
                 <li><a href="https://argoproj.github.io/">ArgoCD</a></li>
                 <li><a href="https://prometheus.io/">prometheus</a></li>
                 <li><a href="https://aws.amazon.com/cdk/">AWS CDK</a></li>
+                <li>Secure Code Analysis</li>
+                <li>Development Environment Protections</li>
             </ul>
         </td>
         <td>
             <ul>
                 <li><a href="https://aws.amazon.com/">AWS</a> - always AWS</li>
+                <li>Application Security</li>
             </ul>
         </td>
         <td>
@@ -84,6 +87,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [legitify](https://github.com/Legit-Labs/legitify)
+  Detect and remediate misconfigurations and security risks across all your GitHub assets
 * [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
   Terraform provider plugin for proxmox
 * [chain-bench](https://github.com/aquasecurity/chain-bench)
@@ -104,8 +109,6 @@ A table of things ...
   The SPIFFE Project
 * [terrascan](https://github.com/tenable/terrascan)
   Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-* [tier](https://github.com/tierrun/tier)
-  Pricing As Code. One tool to manage your entire pricing stack. By @bmizerany @isaacs and @jevon
 
 ### My Blog Posts
 
