@@ -15,11 +15,14 @@ A table of things ...
                 <li><a href="https://argoproj.github.io/">ArgoCD</a></li>
                 <li><a href="https://prometheus.io/">prometheus</a></li>
                 <li><a href="https://aws.amazon.com/cdk/">AWS CDK</a></li>
+                <li>Secure Code Analysis</li>
+                <li>Development Environment Protections</li>
             </ul>
         </td>
         <td>
             <ul>
                 <li><a href="https://aws.amazon.com/">AWS</a> - always AWS</li>
+                <li>Application Security</li>
             </ul>
         </td>
         <td>
