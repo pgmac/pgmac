@@ -87,6 +87,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
+  A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
 * [legitify](https://github.com/Legit-Labs/legitify)
   Detect and remediate misconfigurations and security risks across all your GitHub assets
 * [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
@@ -107,8 +109,6 @@ A table of things ...
   The SPIFFE Runtime Environment
 * [spiffe](https://github.com/spiffe/spiffe)
   The SPIFFE Project
-* [terrascan](https://github.com/tenable/terrascan)
-  Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 
 ### My Blog Posts
 
