@@ -87,6 +87,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [featbit](https://github.com/featbit/featbit)
+  A scalable, high-performance, and 100% open-source Feature management software that empowers all teams to deliver, control, experiment with, and monetize their software.
 * [infisical](https://github.com/Infisical/infisical)
   ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
 * [bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
@@ -107,8 +109,6 @@ A table of things ...
   The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes
 * [vulnerable-code-snippets](https://github.com/yeswehack/vulnerable-code-snippets)
   Twitter vulnerable snippets
-* [spire](https://github.com/spiffe/spire)
-  The SPIFFE Runtime Environment
 
 ### My Blog Posts
 
