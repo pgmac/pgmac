@@ -87,6 +87,28 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [featbit](https://github.com/featbit/featbit)
+  A scalable, high-performance, and 100% open-source Feature management software that empowers all teams to deliver, control, experiment with, and monetize their software.
+* [infisical](https://github.com/Infisical/infisical)
+  ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
+* [bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
+  A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
+* [legitify](https://github.com/Legit-Labs/legitify)
+  Detect and remediate misconfigurations and security risks across all your GitHub assets
+* [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
+  Terraform provider plugin for proxmox
+* [chain-bench](https://github.com/aquasecurity/chain-bench)
+  An open-source tool for auditing your software supply chain stack for security compliance based on a new CIS Software Supply Chain benchmark.
+* [proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)
+  Compatibility tool for Steam Play based on Wine and additional components
+* [hurl](https://github.com/Orange-OpenSource/hurl)
+  Hurl, run and test HTTP requests with plain text.
+* [asciigraph](https://github.com/guptarohit/asciigraph)
+  Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
+* [kubeshark](https://github.com/kubeshark/kubeshark)
+  The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes
+* [vulnerable-code-snippets](https://github.com/yeswehack/vulnerable-code-snippets)
+  Twitter vulnerable snippets
 
 ### My Blog Posts
 
