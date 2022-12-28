@@ -87,6 +87,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [DevSecOps](https://github.com/sottlmarek/DevSecOps)
+  Ultimate DevSecOps library
 * [featbit](https://github.com/featbit/featbit)
   A scalable, high-performance, and 100% open-source Feature management software that empowers all teams to deliver, control, experiment with, and monetize their software.
 * [infisical](https://github.com/Infisical/infisical)
@@ -107,8 +109,6 @@ A table of things ...
   Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 * [kubeshark](https://github.com/kubeshark/kubeshark)
   The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes
-* [vulnerable-code-snippets](https://github.com/yeswehack/vulnerable-code-snippets)
-  Twitter vulnerable snippets
 
 ### My Blog Posts
 
