@@ -90,7 +90,7 @@ A table of things ...
 * [DevSecOps](https://github.com/sottlmarek/DevSecOps)
   Ultimate DevSecOps library
 * [featbit](https://github.com/featbit/featbit)
-  A scalable, high-performance, and 100% open-source Feature management software that empowers all teams to deliver, control, experiment with, and monetize their software.
+  A scalable, high-performance, and 100% open-source platform that empowers all teams to manage Feature Flags, Experimentations, Entitlement, etc.
 * [infisical](https://github.com/Infisical/infisical)
   ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
 * [bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
