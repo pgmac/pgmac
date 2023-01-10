@@ -87,6 +87,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [cdc-file-transfer](https://github.com/google/cdc-file-transfer)
+  Tools for synching and streaming files from Windows to Linux
 * [DevSecOps](https://github.com/sottlmarek/DevSecOps)
   Ultimate DevSecOps library
 * [featbit](https://github.com/featbit/featbit)
@@ -107,8 +109,6 @@ A table of things ...
   Hurl, run and test HTTP requests with plain text.
 * [asciigraph](https://github.com/guptarohit/asciigraph)
   Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
-* [kubeshark](https://github.com/kubeshark/kubeshark)
-  The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes
 
 ### My Blog Posts
 
