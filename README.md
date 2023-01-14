@@ -94,7 +94,7 @@ A table of things ...
 * [featbit](https://github.com/featbit/featbit)
   A scalable, high-performance, and 100% open-source platform that empowers all teams to manage Feature Flags, Experimentations, Entitlement, etc.
 * [infisical](https://github.com/Infisical/infisical)
-  ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
+  ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
 * [bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
   A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
 * [legitify](https://github.com/Legit-Labs/legitify)
