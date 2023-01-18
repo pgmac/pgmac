@@ -87,6 +87,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [Sentinel-Queries](https://github.com/reprise99/Sentinel-Queries)
+  Collection of KQL queries
 * [cdc-file-transfer](https://github.com/google/cdc-file-transfer)
   Tools for synching and streaming files from Windows to Linux
 * [DevSecOps](https://github.com/sottlmarek/DevSecOps)
@@ -107,8 +109,6 @@ A table of things ...
   Compatibility tool for Steam Play based on Wine and additional components
 * [hurl](https://github.com/Orange-OpenSource/hurl)
   Hurl, run and test HTTP requests with plain text.
-* [asciigraph](https://github.com/guptarohit/asciigraph)
-  Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 
 ### My Blog Posts
 
