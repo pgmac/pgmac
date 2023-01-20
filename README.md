@@ -74,6 +74,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [](https://www.cyberciti.biz/security/how-to-set-up-ssh-keys-with-yubikey-as-two-factor-authentication-u2f-fido2/)
 * [Announcing OSV-Scanner: Vulnerability Scanner for Open Source](https://security.googleblog.com/2022/12/announcing-osv-scanner-vulnerability.html)
 * [Five things I’ve learnt from building cybersecurity for high-growth companies](https://www.smartcompany.com.au/opinion/five-lessons-building-cybersecurity-high-growth-companies/)
 * [Can LEGO City Powered Up trains be automated?](https://bricks.stackexchange.com/questions/17587/can-lego-city-powered-up-trains-be-automated)
@@ -83,7 +84,6 @@ A table of things ...
 * [Git Notes: git's coolest, most unloved­ feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature)
 * [Run and Test HTTP Requests](https://hurl.dev/)
 * [Install EKS-D with MicroK8s](https://discuss.kubernetes.io/t/install-eks-d-with-microk8s/21479)
-* [How to mitigate OWASP vulnerabilities while staying in the flow](https://github.blog/2022-11-04-how-to-mitigate-owasp-vulnerabilities-while-staying-in-the-flow/)
 
 ### Things I'm star-ing
 
