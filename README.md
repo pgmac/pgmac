@@ -87,28 +87,6 @@ A table of things ...
 
 ### Things I'm star-ing
 
-* [Sentinel-Queries](https://github.com/reprise99/Sentinel-Queries)
-  Collection of KQL queries
-* [cdc-file-transfer](https://github.com/google/cdc-file-transfer)
-  Tools for synching and streaming files from Windows to Linux
-* [DevSecOps](https://github.com/sottlmarek/DevSecOps)
-  Ultimate DevSecOps library
-* [featbit](https://github.com/featbit/featbit)
-  A 100% open-source feature flags management platform
-* [infisical](https://github.com/Infisical/infisical)
-  ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
-* [bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
-  A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
-* [legitify](https://github.com/Legit-Labs/legitify)
-  Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
-* [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
-  Terraform provider plugin for proxmox
-* [chain-bench](https://github.com/aquasecurity/chain-bench)
-  An open-source tool for auditing your software supply chain stack for security compliance based on a new CIS Software Supply Chain benchmark.
-* [proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)
-  Compatibility tool for Steam Play based on Wine and additional components
-* [hurl](https://github.com/Orange-OpenSource/hurl)
-  Hurl, run and test HTTP requests with plain text.
 
 ### My Blog Posts
 
