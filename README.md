@@ -88,7 +88,7 @@ A table of things ...
 ### Things I'm star-ing
 
 * [shell_gpt](https://github.com/TheR1D/shell_gpt)
-  A command-line interface (CLI) productivity tool powered by OpenAI's GPT-3 text-davinci-003 model, will help you accomplish your tasks faster and more efficiently.
+  A command-line interface (CLI) productivity tool powered by OpenAI's GPT-3 models, will help you accomplish your tasks faster and more efficiently.
 * [Sentinel-Queries](https://github.com/reprise99/Sentinel-Queries)
   Collection of KQL queries
 * [cdc-file-transfer](https://github.com/google/cdc-file-transfer)
