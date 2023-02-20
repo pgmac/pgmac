@@ -87,6 +87,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [Beta](https://github.com/DidierStevens/Beta)
+  Beta versions of my software
 * [shell_gpt](https://github.com/TheR1D/shell_gpt)
   A command-line interface (CLI) productivity tool powered by OpenAI's GPT-3 models, will help you accomplish your tasks faster and more efficiently.
 * [Sentinel-Queries](https://github.com/reprise99/Sentinel-Queries)
@@ -107,8 +109,6 @@ A table of things ...
   Terraform provider plugin for proxmox
 * [chain-bench](https://github.com/aquasecurity/chain-bench)
   An open-source tool for auditing your software supply chain stack for security compliance based on a new CIS Software Supply Chain benchmark.
-* [proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)
-  Compatibility tool for Steam Play based on Wine and additional components
 
 ### My Blog Posts
 
