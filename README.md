@@ -74,6 +74,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Index of /stuff/NLP](https://rmccurdy.com/stuff/NLP/)
 * [CMU CS Academy](https://academy.cs.cmu.edu/)
 * [](https://www.cyberciti.biz/security/how-to-set-up-ssh-keys-with-yubikey-as-two-factor-authentication-u2f-fido2/)
 * [Announcing OSV-Scanner: Vulnerability Scanner for Open Source](https://security.googleblog.com/2022/12/announcing-osv-scanner-vulnerability.html)
@@ -83,7 +84,6 @@ A table of things ...
 * [Spotify’s Vulnerability Management Platform](https://engineering.atspotify.com/2022/11/spotifys-vulnerability-management-platform/)
 * [Spotify Introduces Kitsune Vulnerability Management Platform](https://www.infoq.com/news/2022/11/spotify-kitsune-platform/)
 * [Git Notes: git's coolest, most unloved­ feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature)
-* [Run and Test HTTP Requests](https://hurl.dev/)
 
 ### Things I'm star-ing
 
