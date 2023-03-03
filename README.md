@@ -90,7 +90,7 @@ A table of things ...
 * [Beta](https://github.com/DidierStevens/Beta)
   Beta versions of my software
 * [shell_gpt](https://github.com/TheR1D/shell_gpt)
-  A command-line interface (CLI) productivity tool powered by OpenAI's GPT-3 models, will help you accomplish your tasks faster and more efficiently.
+  A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
 * [Sentinel-Queries](https://github.com/reprise99/Sentinel-Queries)
   Collection of KQL queries
 * [cdc-file-transfer](https://github.com/google/cdc-file-transfer)
