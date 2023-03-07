@@ -74,6 +74,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [The Open Source Security Platform](https://wazuh.com/)
+* [Securing cloud workloads with Wazuh - an open source, SIEM and XDR platform](https://www.bleepingcomputer.com/news/security/securing-cloud-workloads-with-wazuh-an-open-source-siem-and-xdr-platform/)
 * [Index of /stuff/NLP](https://rmccurdy.com/stuff/NLP/)
 * [CMU CS Academy](https://academy.cs.cmu.edu/)
 * [](https://www.cyberciti.biz/security/how-to-set-up-ssh-keys-with-yubikey-as-two-factor-authentication-u2f-fido2/)
@@ -82,8 +84,6 @@ A table of things ...
 * [Can LEGO City Powered Up trains be automated?](https://bricks.stackexchange.com/questions/17587/can-lego-city-powered-up-trains-be-automated)
 * [](https://tcude.net/using-terraform-with-proxmox/)
 * [Spotify’s Vulnerability Management Platform](https://engineering.atspotify.com/2022/11/spotifys-vulnerability-management-platform/)
-* [Spotify Introduces Kitsune Vulnerability Management Platform](https://www.infoq.com/news/2022/11/spotify-kitsune-platform/)
-* [Git Notes: git's coolest, most unloved­ feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature)
 
 ### Things I'm star-ing
 
@@ -98,7 +98,7 @@ A table of things ...
 * [DevSecOps](https://github.com/sottlmarek/DevSecOps)
   Ultimate DevSecOps library
 * [featbit](https://github.com/featbit/featbit)
-  A free and 100% open-source feature flags management platform - Scalable and Fast
+  A free and 100% open-source feature flag management platform - Scalable and Fast
 * [infisical](https://github.com/Infisical/infisical)
   ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 * [bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
