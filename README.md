@@ -74,6 +74,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Evaluate the security of your Active Directory.](https://www.purple-knight.com/)
+* [Home](https://www.pingcastle.com/)
 * [The Open Source Security Platform](https://wazuh.com/)
 * [Securing cloud workloads with Wazuh - an open source, SIEM and XDR platform](https://www.bleepingcomputer.com/news/security/securing-cloud-workloads-with-wazuh-an-open-source-siem-and-xdr-platform/)
 * [Index of /stuff/NLP](https://rmccurdy.com/stuff/NLP/)
@@ -82,8 +84,6 @@ A table of things ...
 * [Announcing OSV-Scanner: Vulnerability Scanner for Open Source](https://security.googleblog.com/2022/12/announcing-osv-scanner-vulnerability.html)
 * [Five things I’ve learnt from building cybersecurity for high-growth companies](https://www.smartcompany.com.au/opinion/five-lessons-building-cybersecurity-high-growth-companies/)
 * [Can LEGO City Powered Up trains be automated?](https://bricks.stackexchange.com/questions/17587/can-lego-city-powered-up-trains-be-automated)
-* [](https://tcude.net/using-terraform-with-proxmox/)
-* [Spotify’s Vulnerability Management Platform](https://engineering.atspotify.com/2022/11/spotifys-vulnerability-management-platform/)
 
 ### Things I'm star-ing
 
