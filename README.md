@@ -87,6 +87,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [mountpoint-s3](https://github.com/awslabs/mountpoint-s3)
+  A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 * [Beta](https://github.com/DidierStevens/Beta)
   Beta versions of my software
 * [shell_gpt](https://github.com/TheR1D/shell_gpt)
@@ -107,8 +109,6 @@ A table of things ...
   Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
 * [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
   Terraform provider plugin for proxmox
-* [chain-bench](https://github.com/aquasecurity/chain-bench)
-  An open-source tool for auditing your software supply chain stack for security compliance based on a new CIS Software Supply Chain benchmark.
 
 ### My Blog Posts
 
