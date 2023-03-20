@@ -87,6 +87,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [chatblade](https://github.com/npiv/chatblade)
+  A CLI Swiss Army Knife for ChatGPT
 * [mountpoint-s3](https://github.com/awslabs/mountpoint-s3)
   A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 * [Beta](https://github.com/DidierStevens/Beta)
@@ -107,8 +109,6 @@ A table of things ...
   A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
 * [legitify](https://github.com/Legit-Labs/legitify)
   Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
-* [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
-  Terraform provider plugin for proxmox
 
 ### My Blog Posts
 
