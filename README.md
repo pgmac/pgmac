@@ -102,7 +102,7 @@ A table of things ...
 * [DevSecOps](https://github.com/sottlmarek/DevSecOps)
   Ultimate DevSecOps library
 * [featbit](https://github.com/featbit/featbit)
-  A free and 100% open-source feature flag management platform - Scalable and Fast
+  A scalable, fast and 100% open-source feature flag & experimentation management platform
 * [infisical](https://github.com/Infisical/infisical)
   ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 * [bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
