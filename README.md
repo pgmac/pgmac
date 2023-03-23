@@ -74,6 +74,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Providing Terraform with that Ansible Magic](https://www.ansible.com/blog/providing-terraform-with-that-ansible-magic)
 * [How to Yubikey: a configuration cheatsheet](https://debugging.works/blog/yubikey-cheatsheet/)
 * [Evaluate the security of your Active Directory.](https://www.purple-knight.com/)
 * [Home](https://www.pingcastle.com/)
@@ -83,7 +84,6 @@ A table of things ...
 * [CMU CS Academy](https://academy.cs.cmu.edu/)
 * [](https://www.cyberciti.biz/security/how-to-set-up-ssh-keys-with-yubikey-as-two-factor-authentication-u2f-fido2/)
 * [Announcing OSV-Scanner: Vulnerability Scanner for Open Source](https://security.googleblog.com/2022/12/announcing-osv-scanner-vulnerability.html)
-* [Five things I’ve learnt from building cybersecurity for high-growth companies](https://www.smartcompany.com.au/opinion/five-lessons-building-cybersecurity-high-growth-companies/)
 
 ### Things I'm star-ing
 
