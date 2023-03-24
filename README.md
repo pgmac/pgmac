@@ -74,6 +74,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [New CISA tool detects hacking activity in Microsoft cloud services](https://www.bleepingcomputer.com/news/security/new-cisa-tool-detects-hacking-activity-in-microsoft-cloud-services/)
 * [Providing Terraform with that Ansible Magic](https://www.ansible.com/blog/providing-terraform-with-that-ansible-magic)
 * [How to Yubikey: a configuration cheatsheet](https://debugging.works/blog/yubikey-cheatsheet/)
 * [Evaluate the security of your Active Directory.](https://www.purple-knight.com/)
@@ -83,10 +84,11 @@ A table of things ...
 * [Index of /stuff/NLP](https://rmccurdy.com/stuff/NLP/)
 * [CMU CS Academy](https://academy.cs.cmu.edu/)
 * [](https://www.cyberciti.biz/security/how-to-set-up-ssh-keys-with-yubikey-as-two-factor-authentication-u2f-fido2/)
-* [Announcing OSV-Scanner: Vulnerability Scanner for Open Source](https://security.googleblog.com/2022/12/announcing-osv-scanner-vulnerability.html)
 
 ### Things I'm star-ing
 
+* [decider](https://github.com/cisagov/decider)
+  A web application that assists network defenders, analysts, and researcher in the process of mapping adversary behaviors to the MITRE ATT&CK® framework.
 * [chatblade](https://github.com/npiv/chatblade)
   A CLI Swiss Army Knife for ChatGPT
 * [mountpoint-s3](https://github.com/awslabs/mountpoint-s3)
@@ -107,8 +109,6 @@ A table of things ...
   ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 * [bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
   A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
-* [legitify](https://github.com/Legit-Labs/legitify)
-  Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
 
 ### My Blog Posts
 
