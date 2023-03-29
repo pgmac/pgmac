@@ -88,7 +88,7 @@ A table of things ...
 ### Things I'm star-ing
 
 * [decider](https://github.com/cisagov/decider)
-  A web application that assists network defenders, analysts, and researcher in the process of mapping adversary behaviors to the MITRE ATT&CK® framework.
+  A web application that assists network defenders, analysts, and researchers in the process of mapping adversary behaviors to the MITRE ATT&CK® framework.
 * [chatblade](https://github.com/npiv/chatblade)
   A CLI Swiss Army Knife for ChatGPT
 * [mountpoint-s3](https://github.com/awslabs/mountpoint-s3)
