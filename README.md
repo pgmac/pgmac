@@ -87,6 +87,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [Folia](https://github.com/PaperMC/Folia)
+  Fork of Paper which adds regionised multithreading to the dedicated server.
 * [decider](https://github.com/cisagov/decider)
   A web application that assists network defenders, analysts, and researchers in the process of mapping adversary behaviors to the MITRE ATT&CK® framework.
 * [chatblade](https://github.com/npiv/chatblade)
@@ -107,8 +109,6 @@ A table of things ...
   A scalable, fast and 100% open-source feature flag & experimentation management platform
 * [infisical](https://github.com/Infisical/infisical)
   ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
-* [bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
-  A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
 
 ### My Blog Posts
 
