@@ -87,6 +87,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [tabby](https://github.com/TabbyML/tabby)
+  Self-hosted AI coding assistant
 * [Folia](https://github.com/PaperMC/Folia)
   Fork of Paper which adds regionised multithreading to the dedicated server.
 * [decider](https://github.com/cisagov/decider)
@@ -107,8 +109,6 @@ A table of things ...
   Ultimate DevSecOps library
 * [featbit](https://github.com/featbit/featbit)
   A scalable, fast and 100% open-source feature flag & experimentation management platform
-* [infisical](https://github.com/Infisical/infisical)
-  ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 
 ### My Blog Posts
 
