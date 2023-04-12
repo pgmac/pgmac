@@ -87,6 +87,10 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [wpunix](https://github.com/taviso/wpunix)
+  WordPerfect for UNIX Character Terminals
+* [wordgrinder](https://github.com/davidgiven/wordgrinder)
+  A word processor which gets the hell out of your way and lets you get some work done.
 * [tabby](https://github.com/TabbyML/tabby)
   Self-hosted AI coding assistant
 * [Folia](https://github.com/PaperMC/Folia)
@@ -105,10 +109,6 @@ A table of things ...
   Collection of KQL queries
 * [cdc-file-transfer](https://github.com/google/cdc-file-transfer)
   Tools for synching and streaming files from Windows to Linux
-* [DevSecOps](https://github.com/sottlmarek/DevSecOps)
-  Ultimate DevSecOps library
-* [featbit](https://github.com/featbit/featbit)
-  A scalable, fast and 100% open-source feature flag & experimentation management platform
 
 ### My Blog Posts
 
