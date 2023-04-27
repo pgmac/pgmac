@@ -87,28 +87,6 @@ A table of things ...
 
 ### Things I'm star-ing
 
-* [wpunix](https://github.com/taviso/wpunix)
-  WordPerfect for UNIX Character Terminals
-* [wordgrinder](https://github.com/davidgiven/wordgrinder)
-  A word processor which gets the hell out of your way and lets you get some work done.
-* [tabby](https://github.com/TabbyML/tabby)
-  Self-hosted AI coding assistant
-* [Folia](https://github.com/PaperMC/Folia)
-  Fork of Paper which adds regionised multithreading to the dedicated server.
-* [decider](https://github.com/cisagov/decider)
-  A web application that assists network defenders, analysts, and researchers in the process of mapping adversary behaviors to the MITRE ATT&CK® framework.
-* [chatblade](https://github.com/npiv/chatblade)
-  A CLI Swiss Army Knife for ChatGPT
-* [mountpoint-s3](https://github.com/awslabs/mountpoint-s3)
-  A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
-* [Beta](https://github.com/DidierStevens/Beta)
-  Beta versions of my software
-* [shell_gpt](https://github.com/TheR1D/shell_gpt)
-  A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
-* [Sentinel-Queries](https://github.com/reprise99/Sentinel-Queries)
-  Collection of KQL queries
-* [cdc-file-transfer](https://github.com/google/cdc-file-transfer)
-  Tools for synching and streaming files from Windows to Linux
 
 ### My Blog Posts
 
