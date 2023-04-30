@@ -74,6 +74,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Cleaning Up Confluence Chaos: A Python and BERTopic Quest](https://towardsdatascience.com/cleaning-up-confluence-chaos-a-python-and-bertopic-quest-d3aafc2ed736)
 * [New CISA tool detects hacking activity in Microsoft cloud services](https://www.bleepingcomputer.com/news/security/new-cisa-tool-detects-hacking-activity-in-microsoft-cloud-services/)
 * [Providing Terraform with that Ansible Magic](https://www.ansible.com/blog/providing-terraform-with-that-ansible-magic)
 * [How to Yubikey: a configuration cheatsheet](https://debugging.works/blog/yubikey-cheatsheet/)
@@ -83,7 +84,6 @@ A table of things ...
 * [Securing cloud workloads with Wazuh - an open source, SIEM and XDR platform](https://www.bleepingcomputer.com/news/security/securing-cloud-workloads-with-wazuh-an-open-source-siem-and-xdr-platform/)
 * [Index of /stuff/NLP](https://rmccurdy.com/stuff/NLP/)
 * [CMU CS Academy](https://academy.cs.cmu.edu/)
-* [](https://www.cyberciti.biz/security/how-to-set-up-ssh-keys-with-yubikey-as-two-factor-authentication-u2f-fido2/)
 
 ### Things I'm star-ing
 
