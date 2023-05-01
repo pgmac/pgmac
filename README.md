@@ -87,6 +87,12 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [PentestGPT](https://github.com/GreyDGL/PentestGPT)
+  A GPT-empowered penetration testing tool
+* [minetest_game](https://github.com/minetest/minetest_game)
+  Minetest Game - The default game for the Minetest engine [https://github.com/minetest/minetest/]
+* [minetest](https://github.com/minetest/minetest)
+  Minetest is an open source voxel game engine with easy modding and game creation
 * [wpunix](https://github.com/taviso/wpunix)
   WordPerfect for UNIX Character Terminals
 * [wordgrinder](https://github.com/davidgiven/wordgrinder)
@@ -103,12 +109,6 @@ A table of things ...
   A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 * [Beta](https://github.com/DidierStevens/Beta)
   Beta versions of my software
-* [shell_gpt](https://github.com/TheR1D/shell_gpt)
-  A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
-* [Sentinel-Queries](https://github.com/reprise99/Sentinel-Queries)
-  Collection of KQL queries
-* [cdc-file-transfer](https://github.com/google/cdc-file-transfer)
-  Tools for synching and streaming files from Windows to Linux
 
 ### My Blog Posts
 
