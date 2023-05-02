@@ -87,6 +87,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [wrk](https://github.com/wg/wrk)
+  Modern HTTP benchmarking tool
 * [PentestGPT](https://github.com/GreyDGL/PentestGPT)
   A GPT-empowered penetration testing tool
 * [minetest_game](https://github.com/minetest/minetest_game)
@@ -107,8 +109,6 @@ A table of things ...
   A CLI Swiss Army Knife for ChatGPT
 * [mountpoint-s3](https://github.com/awslabs/mountpoint-s3)
   A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
-* [Beta](https://github.com/DidierStevens/Beta)
-  Beta versions of my software
 
 ### My Blog Posts
 
