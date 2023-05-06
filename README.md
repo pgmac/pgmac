@@ -74,6 +74,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Atuin](https://github.com/ellie/atuin)
 * [Pixies keep switching off my morning alarm, says Google Pixel owner](https://www.theregister.com/2023/05/04/pixies_google_pixel_alarm/)
 * [Cleaning Up Confluence Chaos: A Python and BERTopic Quest](https://towardsdatascience.com/cleaning-up-confluence-chaos-a-python-and-bertopic-quest-d3aafc2ed736)
 * [New CISA tool detects hacking activity in Microsoft cloud services](https://www.bleepingcomputer.com/news/security/new-cisa-tool-detects-hacking-activity-in-microsoft-cloud-services/)
@@ -83,10 +84,11 @@ A table of things ...
 * [Home](https://www.pingcastle.com/)
 * [The Open Source Security Platform](https://wazuh.com/)
 * [Securing cloud workloads with Wazuh - an open source, SIEM and XDR platform](https://www.bleepingcomputer.com/news/security/securing-cloud-workloads-with-wazuh-an-open-source-siem-and-xdr-platform/)
-* [Index of /stuff/NLP](https://rmccurdy.com/stuff/NLP/)
 
 ### Things I'm star-ing
 
+* [atuin](https://github.com/ellie/atuin)
+  🐢 Magical shell history
 * [wrk](https://github.com/wg/wrk)
   Modern HTTP benchmarking tool
 * [PentestGPT](https://github.com/GreyDGL/PentestGPT)
@@ -107,8 +109,6 @@ A table of things ...
   A web application that assists network defenders, analysts, and researchers in the process of mapping adversary behaviors to the MITRE ATT&CK® framework.
 * [chatblade](https://github.com/npiv/chatblade)
   A CLI Swiss Army Knife for ChatGPT
-* [mountpoint-s3](https://github.com/awslabs/mountpoint-s3)
-  A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 
 ### My Blog Posts
 
