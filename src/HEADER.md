@@ -13,7 +13,6 @@ A table of things ...
             <ul>
                 <li>Building and Running a Security Operations Centre</li>
                 <li><a href="https://kubernetes.io/">k8s</a></li>
-                <li><a href="https://kubernetes.io/">k8s</a></li>
                 <li><a href="https://argoproj.github.io/">ArgoCD</a></li>
                 <li><a href="https://prometheus.io/">prometheus</a></li>
                 <li>Secure Code Analysis</li>
