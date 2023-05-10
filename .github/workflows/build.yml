@@ -13,7 +13,8 @@ on:
     - cron: "0 20 * * *"
 
 jobs:
-  build:
+  build_readme:
+    name: Build README.md
     runs-on: self-hosted
     steps:
     - name: Checkout the repo
