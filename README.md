@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Open-Source auth provider](https://github.com/supertokens/supertokens-core)
 * [Atuin](https://github.com/ellie/atuin)
 * [Pixies keep switching off my morning alarm, says Google Pixel owner](https://www.theregister.com/2023/05/04/pixies_google_pixel_alarm/)
 * [Cleaning Up Confluence Chaos: A Python and BERTopic Quest](https://towardsdatascience.com/cleaning-up-confluence-chaos-a-python-and-bertopic-quest-d3aafc2ed736)
@@ -84,10 +85,11 @@ A table of things ...
 * [Evaluate the security of your Active Directory.](https://www.purple-knight.com/)
 * [Home](https://www.pingcastle.com/)
 * [The Open Source Security Platform](https://wazuh.com/)
-* [Securing cloud workloads with Wazuh - an open source, SIEM and XDR platform](https://www.bleepingcomputer.com/news/security/securing-cloud-workloads-with-wazuh-an-open-source-siem-and-xdr-platform/)
 
 ### Things I'm star-ing
 
+* [supertokens-core](https://github.com/supertokens/supertokens-core)
+  Open source alternative to Auth0 / Firebase Auth / AWS Cognito 
 * [atuin](https://github.com/ellie/atuin)
   🐢 Magical shell history
 * [wrk](https://github.com/wg/wrk)
@@ -108,8 +110,6 @@ A table of things ...
   Fork of Paper which adds regionised multithreading to the dedicated server.
 * [decider](https://github.com/cisagov/decider)
   A web application that assists network defenders, analysts, and researchers in the process of mapping adversary behaviors to the MITRE ATT&CK® framework.
-* [chatblade](https://github.com/npiv/chatblade)
-  A CLI Swiss Army Knife for ChatGPT
 
 ### My Blog Posts
 
