@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  A list of Free Software network services and web applications which can be hosted on your own servers
 * [supertokens-core](https://github.com/supertokens/supertokens-core)
   Open source alternative to Auth0 / Firebase Auth / AWS Cognito 
 * [atuin](https://github.com/ellie/atuin)
@@ -108,8 +110,6 @@ A table of things ...
   Self-hosted AI coding assistant
 * [Folia](https://github.com/PaperMC/Folia)
   Fork of Paper which adds regionised multithreading to the dedicated server.
-* [decider](https://github.com/cisagov/decider)
-  A web application that assists network defenders, analysts, and researchers in the process of mapping adversary behaviors to the MITRE ATT&CK® framework.
 
 ### My Blog Posts
 
