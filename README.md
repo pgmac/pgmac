@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Diving into a secret macOS tool - networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
 * [Open-Source auth provider](https://github.com/supertokens/supertokens-core)
 * [Atuin](https://github.com/ellie/atuin)
 * [Pixies keep switching off my morning alarm, says Google Pixel owner](https://www.theregister.com/2023/05/04/pixies_google_pixel_alarm/)
@@ -84,7 +85,6 @@ A table of things ...
 * [How to Yubikey: a configuration cheatsheet](https://debugging.works/blog/yubikey-cheatsheet/)
 * [Evaluate the security of your Active Directory.](https://www.purple-knight.com/)
 * [Home](https://www.pingcastle.com/)
-* [The Open Source Security Platform](https://wazuh.com/)
 
 ### Things I'm star-ing
 
