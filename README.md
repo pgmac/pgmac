@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [security-stack-mappings](https://github.com/center-for-threat-informed-defense/security-stack-mappings)
+  This project empowers defenders with independent data on which native security controls of leading technology platforms are most useful in defending against the adversary TTPs they care about.
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
   A list of Free Software network services and web applications which can be hosted on your own servers
 * [supertokens-core](https://github.com/supertokens/supertokens-core)
@@ -108,8 +110,6 @@ A table of things ...
   A word processor which gets the hell out of your way and lets you get some work done.
 * [tabby](https://github.com/TabbyML/tabby)
   Self-hosted AI coding assistant
-* [Folia](https://github.com/PaperMC/Folia)
-  Fork of Paper which adds regionised multithreading to the dedicated server.
 
 ### My Blog Posts
 
