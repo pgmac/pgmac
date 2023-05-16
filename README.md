@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [toverainc/willow](https://github.com/toverainc/willow)
 * [Diving into a secret macOS tool - networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
 * [Open-Source auth provider](https://github.com/supertokens/supertokens-core)
 * [Atuin](https://github.com/ellie/atuin)
@@ -84,10 +85,11 @@ A table of things ...
 * [Providing Terraform with that Ansible Magic](https://www.ansible.com/blog/providing-terraform-with-that-ansible-magic)
 * [How to Yubikey: a configuration cheatsheet](https://debugging.works/blog/yubikey-cheatsheet/)
 * [Evaluate the security of your Active Directory.](https://www.purple-knight.com/)
-* [Home](https://www.pingcastle.com/)
 
 ### Things I'm star-ing
 
+* [willow](https://github.com/toverainc/willow)
+  Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
 * [security-stack-mappings](https://github.com/center-for-threat-informed-defense/security-stack-mappings)
   This project empowers defenders with independent data on which native security controls of leading technology platforms are most useful in defending against the adversary TTPs they care about.
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
@@ -108,8 +110,6 @@ A table of things ...
   WordPerfect for UNIX Character Terminals
 * [wordgrinder](https://github.com/davidgiven/wordgrinder)
   A word processor which gets the hell out of your way and lets you get some work done.
-* [tabby](https://github.com/TabbyML/tabby)
-  Self-hosted AI coding assistant
 
 ### My Blog Posts
 
