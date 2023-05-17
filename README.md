@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Rekt Network - Get Rekt](https://rekt.network/)
 * [toverainc/willow](https://github.com/toverainc/willow)
 * [Diving into a secret macOS tool - networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
 * [Open-Source auth provider](https://github.com/supertokens/supertokens-core)
@@ -84,7 +85,6 @@ A table of things ...
 * [New CISA tool detects hacking activity in Microsoft cloud services](https://www.bleepingcomputer.com/news/security/new-cisa-tool-detects-hacking-activity-in-microsoft-cloud-services/)
 * [Providing Terraform with that Ansible Magic](https://www.ansible.com/blog/providing-terraform-with-that-ansible-magic)
 * [How to Yubikey: a configuration cheatsheet](https://debugging.works/blog/yubikey-cheatsheet/)
-* [Evaluate the security of your Active Directory.](https://www.purple-knight.com/)
 
 ### Things I'm star-ing
 
