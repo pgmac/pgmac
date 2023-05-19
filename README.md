@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Microsoft Portals Site](https://msportals.io/)
 * [Rekt Network - Get Rekt](https://rekt.network/)
 * [toverainc/willow](https://github.com/toverainc/willow)
 * [Diving into a secret macOS tool - networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
@@ -84,10 +85,11 @@ A table of things ...
 * [Cleaning Up Confluence Chaos: A Python and BERTopic Quest](https://towardsdatascience.com/cleaning-up-confluence-chaos-a-python-and-bertopic-quest-d3aafc2ed736)
 * [New CISA tool detects hacking activity in Microsoft cloud services](https://www.bleepingcomputer.com/news/security/new-cisa-tool-detects-hacking-activity-in-microsoft-cloud-services/)
 * [Providing Terraform with that Ansible Magic](https://www.ansible.com/blog/providing-terraform-with-that-ansible-magic)
-* [How to Yubikey: a configuration cheatsheet](https://debugging.works/blog/yubikey-cheatsheet/)
 
 ### Things I'm star-ing
 
+* [sniffnet](https://github.com/GyulyVGC/sniffnet)
+  Application to comfortably monitor your network traffic
 * [willow](https://github.com/toverainc/willow)
   Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
 * [security-stack-mappings](https://github.com/center-for-threat-informed-defense/security-stack-mappings)
@@ -108,8 +110,6 @@ A table of things ...
   Minetest is an open source voxel game engine with easy modding and game creation
 * [wpunix](https://github.com/taviso/wpunix)
   WordPerfect for UNIX Character Terminals
-* [wordgrinder](https://github.com/davidgiven/wordgrinder)
-  A word processor which gets the hell out of your way and lets you get some work done.
 
 ### My Blog Posts
 
