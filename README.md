@@ -80,7 +80,7 @@ A table of things ...
 * [toverainc/willow](https://github.com/toverainc/willow)
 * [Diving into a secret macOS tool - networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
 * [Open-Source auth provider](https://github.com/supertokens/supertokens-core)
-* [Atuin](https://github.com/ellie/atuin)
+* [ellie/atuin](https://github.com/ellie/atuin)
 * [Pixies keep switching off my morning alarm, says Google Pixel owner](https://www.theregister.com/2023/05/04/pixies_google_pixel_alarm/)
 * [Cleaning Up Confluence Chaos: A Python and BERTopic Quest](https://towardsdatascience.com/cleaning-up-confluence-chaos-a-python-and-bertopic-quest-d3aafc2ed736)
 * [New CISA tool detects hacking activity in Microsoft cloud services](https://www.bleepingcomputer.com/news/security/new-cisa-tool-detects-hacking-activity-in-microsoft-cloud-services/)
@@ -89,7 +89,7 @@ A table of things ...
 ### Things I'm star-ing
 
 * [sniffnet](https://github.com/GyulyVGC/sniffnet)
-  Application to comfortably monitor your network traffic
+  Application to comfortably monitor your Internet traffic
 * [willow](https://github.com/toverainc/willow)
   Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
 * [security-stack-mappings](https://github.com/center-for-threat-informed-defense/security-stack-mappings)
