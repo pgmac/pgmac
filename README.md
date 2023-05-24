@@ -89,7 +89,7 @@ A table of things ...
 ### Things I'm star-ing
 
 * [sniffnet](https://github.com/GyulyVGC/sniffnet)
-  Application to comfortably monitor your Internet traffic
+  Application to comfortably monitor your Internet traffic 🕵️
 * [willow](https://github.com/toverainc/willow)
   Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
 * [security-stack-mappings](https://github.com/center-for-threat-informed-defense/security-stack-mappings)
