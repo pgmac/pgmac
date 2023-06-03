@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [fq](https://github.com/wader/fq)
+  jq for binary formats - tool, language and decoders for working with binary and text formats
 * [sniffnet](https://github.com/GyulyVGC/sniffnet)
   Application to comfortably monitor your Internet traffic 🕵️‍♂️
 * [willow](https://github.com/toverainc/willow)
@@ -108,8 +110,6 @@ A table of things ...
   Minetest Game - The default game for the Minetest engine [https://github.com/minetest/minetest/]
 * [minetest](https://github.com/minetest/minetest)
   Minetest is an open source voxel game engine with easy modding and game creation
-* [wpunix](https://github.com/taviso/wpunix)
-  WordPerfect for UNIX Character Terminals
 
 ### My Blog Posts
 
