@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [helm-charts](https://github.com/cloudflare/helm-charts)
+  None
 * [fq](https://github.com/wader/fq)
   jq for binary formats - tool, language and decoders for working with binary and text formats
 * [sniffnet](https://github.com/GyulyVGC/sniffnet)
@@ -108,8 +110,6 @@ A table of things ...
   A GPT-empowered penetration testing tool
 * [minetest_game](https://github.com/minetest/minetest_game)
   Minetest Game - The default game for the Minetest engine [https://github.com/minetest/minetest/]
-* [minetest](https://github.com/minetest/minetest)
-  Minetest is an open source voxel game engine with easy modding and game creation
 
 ### My Blog Posts
 
