@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 * [20 cybersecurity projects on GitHub you should check out](https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/)
 * [Overview](https://docs.dissect.tools/en/latest/overview/index.html)
 * [Microsoft Portals Site](https://msportals.io/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Open-Source auth provider](https://github.com/supertokens/supertokens-core)
 * [ellie/atuin](https://github.com/ellie/atuin)
 * [Pixies keep switching off my morning alarm, says Google Pixel owner](https://www.theregister.com/2023/05/04/pixies_google_pixel_alarm/)
-* [Cleaning Up Confluence Chaos: A Python and BERTopic Quest](https://towardsdatascience.com/cleaning-up-confluence-chaos-a-python-and-bertopic-quest-d3aafc2ed736)
 
 ### Things I'm star-ing
 
