@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [intel-one-mono](https://github.com/intel/intel-one-mono)
+  Intel One Mono font repository
 * [helm-charts](https://github.com/cloudflare/helm-charts)
   None
 * [fq](https://github.com/wader/fq)
@@ -108,8 +110,6 @@ A table of things ...
   Modern HTTP benchmarking tool
 * [PentestGPT](https://github.com/GreyDGL/PentestGPT)
   A GPT-empowered penetration testing tool
-* [minetest_game](https://github.com/minetest/minetest_game)
-  Minetest Game - The default game for the Minetest engine [https://github.com/minetest/minetest/]
 
 ### My Blog Posts
 
