@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [threat-composer](https://github.com/awslabs/threat-composer)
+  A threat modeling tool to help humans to reduce time-to-value when threat modeling
 * [intel-one-mono](https://github.com/intel/intel-one-mono)
   Intel One Mono font repository
 * [helm-charts](https://github.com/cloudflare/helm-charts)
@@ -108,8 +110,6 @@ A table of things ...
   🐢 Magical shell history
 * [wrk](https://github.com/wg/wrk)
   Modern HTTP benchmarking tool
-* [PentestGPT](https://github.com/GreyDGL/PentestGPT)
-  A GPT-empowered penetration testing tool
 
 ### My Blog Posts
 
