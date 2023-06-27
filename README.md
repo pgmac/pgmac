@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Apache Camel](https://camel.apache.org/)
 * [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 * [20 cybersecurity projects on GitHub you should check out](https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/)
 * [Overview](https://docs.dissect.tools/en/latest/overview/index.html)
@@ -84,7 +85,6 @@ A table of things ...
 * [Diving into a secret macOS tool - networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
 * [Open-Source auth provider](https://github.com/supertokens/supertokens-core)
 * [ellie/atuin](https://github.com/ellie/atuin)
-* [Pixies keep switching off my morning alarm, says Google Pixel owner](https://www.theregister.com/2023/05/04/pixies_google_pixel_alarm/)
 
 ### Things I'm star-ing
 
