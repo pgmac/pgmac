@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Linux Intrusion Detection & Incident Response](https://sandflysecurity.com/)
 * [Advanced macOS Command-Line Tools](https://saurabhs.org/advanced-macos-commands)
 * [Apache Camel](https://camel.apache.org/)
 * [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Rekt Network - Get Rekt](https://rekt.network/)
 * [toverainc/willow](https://github.com/toverainc/willow)
 * [Diving into a secret macOS tool - networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
-* [Open-Source auth provider](https://github.com/supertokens/supertokens-core)
 
 ### Things I'm star-ing
 
