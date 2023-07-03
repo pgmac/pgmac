@@ -88,6 +88,10 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [actions-runner-controller](https://github.com/actions/actions-runner-controller)
+  Kubernetes controller for GitHub Actions self-hosted runners
+* [harden-runner](https://github.com/step-security/harden-runner)
+  Security agent for GitHub-hosted runner: block egress traffic & detect code overwrite to prevent breaches
 * [threat-composer](https://github.com/awslabs/threat-composer)
   A threat modeling tool to help humans to reduce time-to-value when threat modeling
 * [intel-one-mono](https://github.com/intel/intel-one-mono)
@@ -106,10 +110,6 @@ A table of things ...
   A list of Free Software network services and web applications which can be hosted on your own servers
 * [supertokens-core](https://github.com/supertokens/supertokens-core)
   Open source alternative to Auth0 / Firebase Auth / AWS Cognito 
-* [atuin](https://github.com/ellie/atuin)
-  🐢 Magical shell history
-* [wrk](https://github.com/wg/wrk)
-  Modern HTTP benchmarking tool
 
 ### My Blog Posts
 
