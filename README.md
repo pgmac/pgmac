@@ -91,7 +91,7 @@ A table of things ...
 * [actions-runner-controller](https://github.com/actions/actions-runner-controller)
   Kubernetes controller for GitHub Actions self-hosted runners
 * [harden-runner](https://github.com/step-security/harden-runner)
-  Security agent for GitHub-hosted runner: block egress traffic & detect code overwrite to prevent breaches
+  Security agent for GitHub-hosted runner: filter egress traffic & detect code tampering to prevent breaches
 * [threat-composer](https://github.com/awslabs/threat-composer)
   A threat modeling tool to help humans to reduce time-to-value when threat modeling
 * [intel-one-mono](https://github.com/intel/intel-one-mono)
