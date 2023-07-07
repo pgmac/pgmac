@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Understanding Cybersecurity Frameworks: NIST, ISO, and More](https://www.thefinalhop.com/understanding-cybersecurity-frameworks-nist-iso-and-more/)
 * [Linux Intrusion Detection & Incident Response](https://sandflysecurity.com/)
 * [Advanced macOS Command-Line Tools](https://saurabhs.org/advanced-macos-commands)
 * [Apache Camel](https://camel.apache.org/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Microsoft Portals Site](https://msportals.io/)
 * [Rekt Network - Get Rekt](https://rekt.network/)
 * [toverainc/willow](https://github.com/toverainc/willow)
-* [Diving into a secret macOS tool - networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
 
 ### Things I'm star-ing
 
