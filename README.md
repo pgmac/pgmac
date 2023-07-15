@@ -88,6 +88,10 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
+  An evolving how-to guide for securing a Linux server.
+* [dangerzone](https://github.com/freedomofpress/dangerzone)
+  Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 * [actions-runner-controller](https://github.com/actions/actions-runner-controller)
   Kubernetes controller for GitHub Actions self-hosted runners
 * [harden-runner](https://github.com/step-security/harden-runner)
@@ -106,10 +110,6 @@ A table of things ...
   Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
 * [security-stack-mappings](https://github.com/center-for-threat-informed-defense/security-stack-mappings)
   This project empowers defenders with independent data on which native security controls of leading technology platforms are most useful in defending against the adversary TTPs they care about.
-* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-  A list of Free Software network services and web applications which can be hosted on your own servers
-* [supertokens-core](https://github.com/supertokens/supertokens-core)
-  Open source alternative to Auth0 / Firebase Auth / AWS Cognito 
 
 ### My Blog Posts
 
