@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [helm-secrets](https://github.com/jkroepke/helm-secrets)
+  A helm plugin that help manage secrets with Git workflow and store them anywhere
 * [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
   An evolving how-to guide for securing a Linux server.
 * [dangerzone](https://github.com/freedomofpress/dangerzone)
@@ -108,8 +110,6 @@ A table of things ...
   Application to comfortably monitor your Internet traffic 🕵️‍♂️
 * [willow](https://github.com/toverainc/willow)
   Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
-* [security-stack-mappings](https://github.com/center-for-threat-informed-defense/security-stack-mappings)
-  This project empowers defenders with independent data on which native security controls of leading technology platforms are most useful in defending against the adversary TTPs they care about.
 
 ### My Blog Posts
 
