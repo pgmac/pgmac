@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Free Tools for Cloud Environments](https://www.cisa.gov/resources-tools/resources/free-tools-cloud-environments)
 * [The Whiteboard for Engineering Teams](https://www.eraser.io/home)
 * [Understanding Cybersecurity Frameworks: NIST, ISO, and More](https://www.thefinalhop.com/understanding-cybersecurity-frameworks-nist-iso-and-more/)
 * [Linux Intrusion Detection & Incident Response](https://sandflysecurity.com/)
@@ -84,7 +85,6 @@ A table of things ...
 * [20 cybersecurity projects on GitHub you should check out](https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/)
 * [Overview](https://docs.dissect.tools/en/latest/overview/index.html)
 * [Microsoft Portals Site](https://msportals.io/)
-* [Rekt Network - Get Rekt](https://rekt.network/)
 
 ### Things I'm star-ing
 
@@ -97,7 +97,7 @@ A table of things ...
 * [actions-runner-controller](https://github.com/actions/actions-runner-controller)
   Kubernetes controller for GitHub Actions self-hosted runners
 * [harden-runner](https://github.com/step-security/harden-runner)
-  Security agent for GitHub-hosted runner: filter egress traffic & detect code tampering to prevent breaches
+  Harden-Runner GitHub Action provides Runtime Security for GitHub-Hosted runners and self-hosted Actions Runner Controller (ARC) environments. Filter egress traffic & detect code tampering to prevent breaches.
 * [threat-composer](https://github.com/awslabs/threat-composer)
   A threat modeling tool to help humans to reduce time-to-value when threat modeling
 * [intel-one-mono](https://github.com/intel/intel-one-mono)
