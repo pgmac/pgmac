@@ -97,7 +97,7 @@ A table of things ...
 * [actions-runner-controller](https://github.com/actions/actions-runner-controller)
   Kubernetes controller for GitHub Actions self-hosted runners
 * [harden-runner](https://github.com/step-security/harden-runner)
-  Harden-Runner GitHub Action delivers Runtime Security for GitHub-hosted and ARC runners. It employs Egress Traffic Filtering and Code Tampering Detection to prevent breaches
+  Security Observability and Runtime Enforcement for GitHub-Hosted and ARC Runners. Filter Egress Traffic and Detect Code Tampering to Prevent Breaches
 * [threat-composer](https://github.com/awslabs/threat-composer)
   A threat modeling tool to help humans to reduce time-to-value when threat modeling
 * [intel-one-mono](https://github.com/intel/intel-one-mono)
