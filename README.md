@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Deceptive defense: best practices for identity based honeytokens in Microsoft Defender for Identity](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/deceptive-defense-best-practices-for-identity-based-honeytokens/ba-p/3851641)
+* [Know. Before it matters](https://canarytokens.org)
 * [Free Tools for Cloud Environments](https://www.cisa.gov/resources-tools/resources/free-tools-cloud-environments)
 * [The Whiteboard for Engineering Teams](https://www.eraser.io/home)
 * [Understanding Cybersecurity Frameworks: NIST, ISO, and More](https://www.thefinalhop.com/understanding-cybersecurity-frameworks-nist-iso-and-more/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Apache Camel](https://camel.apache.org/)
 * [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 * [20 cybersecurity projects on GitHub you should check out](https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/)
-* [Overview](https://docs.dissect.tools/en/latest/overview/index.html)
-* [Microsoft Portals Site](https://msportals.io/)
 
 ### Things I'm star-ing
 
@@ -97,7 +97,7 @@ A table of things ...
 * [actions-runner-controller](https://github.com/actions/actions-runner-controller)
   Kubernetes controller for GitHub Actions self-hosted runners
 * [harden-runner](https://github.com/step-security/harden-runner)
-  Security Observability and Runtime Enforcement for GitHub-Hosted and ARC Runners. Filter Egress Traffic and Detect Code Tampering to Prevent Breaches
+  Runtime Security for GitHub-Hosted and ARC Runners. Filter Egress Traffic and Detect Code Tampering to Prevent Breaches
 * [threat-composer](https://github.com/awslabs/threat-composer)
   A threat modeling tool to help humans to reduce time-to-value when threat modeling
 * [intel-one-mono](https://github.com/intel/intel-one-mono)
