@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [databag](https://github.com/balzack/databag)
+  A tiny self-hosted federated messenger for the decentralized web.
 * [helm-secrets](https://github.com/jkroepke/helm-secrets)
   A helm plugin that help manage secrets with Git workflow and store them anywhere
 * [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
@@ -97,7 +99,7 @@ A table of things ...
 * [actions-runner-controller](https://github.com/actions/actions-runner-controller)
   Kubernetes controller for GitHub Actions self-hosted runners
 * [harden-runner](https://github.com/step-security/harden-runner)
-  Runtime Security for GitHub-Hosted and ARC Runners. Filter Egress Traffic and Detect Code Tampering to Prevent Breaches
+  Runtime Security for GitHub-Hosted and ARC Runners
 * [threat-composer](https://github.com/awslabs/threat-composer)
   A threat modeling tool to help humans to reduce time-to-value when threat modeling
 * [intel-one-mono](https://github.com/intel/intel-one-mono)
@@ -108,8 +110,6 @@ A table of things ...
   jq for binary formats - tool, language and decoders for working with binary and text formats
 * [sniffnet](https://github.com/GyulyVGC/sniffnet)
   Application to comfortably monitor your Internet traffic 🕵️‍♂️
-* [willow](https://github.com/toverainc/willow)
-  Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
 
 ### My Blog Posts
 
