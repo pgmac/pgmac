@@ -89,7 +89,7 @@ A table of things ...
 ### Things I'm star-ing
 
 * [databag](https://github.com/balzack/databag)
-  A tiny self-hosted federated messenger for the decentralized web.
+  A tiny selfhosted federated messenger for the decentralized web.
 * [helm-secrets](https://github.com/jkroepke/helm-secrets)
   A helm plugin that help manage secrets with Git workflow and store them anywhere
 * [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
