@@ -99,7 +99,7 @@ A table of things ...
 * [actions-runner-controller](https://github.com/actions/actions-runner-controller)
   Kubernetes controller for GitHub Actions self-hosted runners
 * [harden-runner](https://github.com/step-security/harden-runner)
-  Runtime Security for GitHub-Hosted and ARC Runners
+  Runtime Security for GitHub-Hosted and Actions Runner Controller (ARC) Runners
 * [threat-composer](https://github.com/awslabs/threat-composer)
   A threat modeling tool to help humans to reduce time-to-value when threat modeling
 * [intel-one-mono](https://github.com/intel/intel-one-mono)
