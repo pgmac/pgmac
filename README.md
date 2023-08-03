@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [cnappgoat](https://github.com/ermetic-research/cnappgoat)
+  CNAPPgoat is an open source project designed to modularly provision vulnerable-by-design components in cloud environments.
 * [databag](https://github.com/balzack/databag)
   A tiny selfhosted federated messenger for the decentralized web.
 * [helm-secrets](https://github.com/jkroepke/helm-secrets)
@@ -108,8 +110,6 @@ A table of things ...
   None
 * [fq](https://github.com/wader/fq)
   jq for binary formats - tool, language and decoders for working with binary and text formats
-* [sniffnet](https://github.com/GyulyVGC/sniffnet)
-  Application to comfortably monitor your Internet traffic 🕵️‍♂️
 
 ### My Blog Posts
 
