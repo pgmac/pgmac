@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Best practices for organizations and teams using GitHub Enterprise Cloud](https://github.blog/2023-08-02-best-practices-for-organizations-and-teams-using-github-enterprise-cloud/)
 * [Deceptive defense: best practices for identity based honeytokens in Microsoft Defender for Identity](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/deceptive-defense-best-practices-for-identity-based-honeytokens/ba-p/3851641)
 * [Know. Before it matters](https://canarytokens.org)
 * [Free Tools for Cloud Environments](https://www.cisa.gov/resources-tools/resources/free-tools-cloud-environments)
@@ -84,7 +85,6 @@ A table of things ...
 * [Advanced macOS Command-Line Tools](https://saurabhs.org/advanced-macos-commands)
 * [Apache Camel](https://camel.apache.org/)
 * [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
-* [20 cybersecurity projects on GitHub you should check out](https://www.helpnetsecurity.com/2023/06/08/github-cybersecurity-projects/)
 
 ### Things I'm star-ing
 
