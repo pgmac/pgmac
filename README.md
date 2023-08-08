@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [noclip](https://noclip.website/)
 * [Terraform best practices for reliability at any scale](https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale)
 * [IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face)
 * [Best practices for organizations and teams using GitHub Enterprise Cloud](https://github.blog/2023-08-02-best-practices-for-organizations-and-teams-using-github-enterprise-cloud/)
@@ -84,7 +85,6 @@ A table of things ...
 * [The Whiteboard for Engineering Teams](https://www.eraser.io/home)
 * [Understanding Cybersecurity Frameworks: NIST, ISO, and More](https://www.thefinalhop.com/understanding-cybersecurity-frameworks-nist-iso-and-more/)
 * [Linux Intrusion Detection & Incident Response](https://sandflysecurity.com/)
-* [Advanced macOS Command-Line Tools](https://saurabhs.org/advanced-macos-commands)
 
 ### Things I'm star-ing
 
