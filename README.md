@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [wazuh-ansible](https://github.com/wazuh/wazuh-ansible)
+  Wazuh - Ansible playbook
 * [renovate](https://github.com/renovatebot/renovate)
   Universal dependency update tool that fits into your workflows.
 * [cnappgoat](https://github.com/ermetic-research/cnappgoat)
@@ -108,8 +110,6 @@ A table of things ...
   A threat modeling tool to help humans to reduce time-to-value when threat modeling
 * [intel-one-mono](https://github.com/intel/intel-one-mono)
   Intel One Mono font repository
-* [helm-charts](https://github.com/cloudflare/helm-charts)
-  None
 
 ### My Blog Posts
 
