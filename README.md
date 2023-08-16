@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [The Modern Virtual Networking Platform](https://www.netmaker.io/)
 * [noclip](https://noclip.website/#)
 * [Terraform best practices for reliability at any scale](https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale)
 * [IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face)
@@ -84,7 +85,6 @@ A table of things ...
 * [Free Tools for Cloud Environments](https://www.cisa.gov/resources-tools/resources/free-tools-cloud-environments)
 * [The Whiteboard for Engineering Teams](https://www.eraser.io/home)
 * [Understanding Cybersecurity Frameworks: NIST, ISO, and More](https://www.thefinalhop.com/understanding-cybersecurity-frameworks-nist-iso-and-more/)
-* [Linux Intrusion Detection & Incident Response](https://sandflysecurity.com/)
 
 ### Things I'm star-ing
 
