@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Fart Proudly](https://en.wikipedia.org/wiki/Fart_Proudly)
 * [The Modern Virtual Networking Platform](https://www.netmaker.io/)
 * [noclip](https://noclip.website/#)
 * [Terraform best practices for reliability at any scale](https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale)
@@ -84,10 +85,13 @@ A table of things ...
 * [Know. Before it matters](https://canarytokens.org)
 * [Free Tools for Cloud Environments](https://www.cisa.gov/resources-tools/resources/free-tools-cloud-environments)
 * [The Whiteboard for Engineering Teams](https://www.eraser.io/home)
-* [Understanding Cybersecurity Frameworks: NIST, ISO, and More](https://www.thefinalhop.com/understanding-cybersecurity-frameworks-nist-iso-and-more/)
 
 ### Things I'm star-ing
 
+* [Top10](https://github.com/OWASP/Top10)
+  Official OWASP Top 10 Document Repository
+* [www-project-kubernetes-top-ten](https://github.com/OWASP/www-project-kubernetes-top-ten)
+  OWASP Foundation Web Respository
 * [wazuh-ansible](https://github.com/wazuh/wazuh-ansible)
   Wazuh - Ansible playbook
 * [renovate](https://github.com/renovatebot/renovate)
@@ -106,10 +110,6 @@ A table of things ...
   Kubernetes controller for GitHub Actions self-hosted runners
 * [harden-runner](https://github.com/step-security/harden-runner)
   Runtime Security for GitHub-Hosted and Actions Runner Controller (ARC) Runners
-* [threat-composer](https://github.com/awslabs/threat-composer)
-  A simple threat modeling tool to help humans to reduce time-to-value when threat modeling
-* [intel-one-mono](https://github.com/intel/intel-one-mono)
-  Intel One Mono font repository
 
 ### My Blog Posts
 
