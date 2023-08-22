@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae)
 * [Jazz² Resurrection](http://deat.tk/jazz2/)
 * [Fart Proudly](https://en.wikipedia.org/wiki/Fart_Proudly)
 * [The Modern Virtual Networking Platform](https://www.netmaker.io/)
@@ -84,10 +85,11 @@ A table of things ...
 * [Best practices for organizations and teams using GitHub Enterprise Cloud](https://github.blog/2023-08-02-best-practices-for-organizations-and-teams-using-github-enterprise-cloud/)
 * [Deceptive defense: best practices for identity based honeytokens in Microsoft Defender for Identity](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/deceptive-defense-best-practices-for-identity-based-honeytokens/ba-p/3851641)
 * [Know. Before it matters](https://canarytokens.org)
-* [Free Tools for Cloud Environments](https://www.cisa.gov/resources-tools/resources/free-tools-cloud-environments)
 
 ### Things I'm star-ing
 
+* [aurae](https://github.com/aurae-runtime/aurae)
+  Distributed systems runtime daemon written in Rust.
 * [whisper](https://github.com/openai/whisper)
   Robust Speech Recognition via Large-Scale Weak Supervision
 * [Top10](https://github.com/OWASP/Top10)
@@ -108,8 +110,6 @@ A table of things ...
   An evolving how-to guide for securing a Linux server.
 * [dangerzone](https://github.com/freedomofpress/dangerzone)
   Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
-* [actions-runner-controller](https://github.com/actions/actions-runner-controller)
-  Kubernetes controller for GitHub Actions self-hosted runners
 
 ### My Blog Posts
 
