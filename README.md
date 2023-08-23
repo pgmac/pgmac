@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Ad Blocker Test](https://d3ward.github.io/toolz/adblock.html)
 * [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae)
 * [Jazz² Resurrection](http://deat.tk/jazz2/)
 * [Fart Proudly](https://en.wikipedia.org/wiki/Fart_Proudly)
@@ -84,7 +85,6 @@ A table of things ...
 * [IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face)
 * [Best practices for organizations and teams using GitHub Enterprise Cloud](https://github.blog/2023-08-02-best-practices-for-organizations-and-teams-using-github-enterprise-cloud/)
 * [Deceptive defense: best practices for identity based honeytokens in Microsoft Defender for Identity](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/deceptive-defense-best-practices-for-identity-based-honeytokens/ba-p/3851641)
-* [Know. Before it matters](https://canarytokens.org)
 
 ### Things I'm star-ing
 
