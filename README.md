@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [8 open-source OSINT tools you should try](https://www.helpnetsecurity.com/2023/08/22/open-source-osint-tools/)
 * [Ad Blocker Test](https://d3ward.github.io/toolz/adblock.html)
 * [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae)
 * [Jazz² Resurrection](http://deat.tk/jazz2/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Terraform best practices for reliability at any scale](https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale)
 * [IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face)
 * [Best practices for organizations and teams using GitHub Enterprise Cloud](https://github.blog/2023-08-02-best-practices-for-organizations-and-teams-using-github-enterprise-cloud/)
-* [Deceptive defense: best practices for identity based honeytokens in Microsoft Defender for Identity](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/deceptive-defense-best-practices-for-identity-based-honeytokens/ba-p/3851641)
 
 ### Things I'm star-ing
 
