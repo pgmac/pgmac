@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [securityonion](https://github.com/Security-Onion-Solutions/securityonion)
+  Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. It also includes other tools such as Playbook, osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.
 * [aurae](https://github.com/aurae-runtime/aurae)
   Distributed systems runtime daemon written in Rust.
 * [whisper](https://github.com/openai/whisper)
@@ -108,8 +110,6 @@ A table of things ...
   A helm plugin that help manage secrets with Git workflow and store them anywhere
 * [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
   An evolving how-to guide for securing a Linux server.
-* [dangerzone](https://github.com/freedomofpress/dangerzone)
-  Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 
 ### My Blog Posts
 
