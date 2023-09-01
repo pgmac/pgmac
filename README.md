@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [boundary](https://github.com/hashicorp/boundary)
+  Boundary enables identity-based access management for dynamic infrastructure. 
 * [helm-charts](https://github.com/renovatebot/helm-charts)
   None
 * [securityonion](https://github.com/Security-Onion-Solutions/securityonion)
@@ -108,8 +110,6 @@ A table of things ...
   CNAPPgoat is an open source project designed to modularly provision vulnerable-by-design components in cloud environments.
 * [databag](https://github.com/balzack/databag)
   A tiny selfhosted federated messenger for the decentralized web.
-* [helm-secrets](https://github.com/jkroepke/helm-secrets)
-  A helm plugin that help manage secrets with Git workflow and store them anywhere
 
 ### My Blog Posts
 
