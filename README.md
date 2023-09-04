@@ -75,8 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [Certbot Instructions](https://certbot-prod.eff.org/instructions?ws=other&os=ubuntufocal)
+* [Amiga Samplers : Budget dance music in 1990 : Hacker News](https://news.ycombinator.com/item?id=37376675)
 * [8 open-source OSINT tools you should try](https://www.helpnetsecurity.com/2023/08/22/open-source-osint-tools/)
+* [Certbot Instructions](https://certbot-prod.eff.org/instructions?ws=other&os=ubuntufocal)
 * [Ad Blocker Test](https://d3ward.github.io/toolz/adblock.html)
 * [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae)
 * [Jazz² Resurrection](http://deat.tk/jazz2/)
@@ -84,7 +85,6 @@ A table of things ...
 * [The Modern Virtual Networking Platform](https://www.netmaker.io/)
 * [noclip](https://noclip.website/#)
 * [Terraform best practices for reliability at any scale](https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale)
-* [IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face)
 
 ### Things I'm star-ing
 
