@@ -88,6 +88,10 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [open-resume](https://github.com/xitanggg/open-resume)
+  OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
+* [reaper](https://github.com/ghostsecurity/reaper)
+  💀 Don't fear the Reaper 👻
 * [boundary](https://github.com/hashicorp/boundary)
   Boundary enables identity-based access management for dynamic infrastructure. 
 * [helm-charts](https://github.com/renovatebot/helm-charts)
@@ -106,10 +110,6 @@ A table of things ...
   Wazuh - Ansible playbook
 * [renovate](https://github.com/renovatebot/renovate)
   Universal dependency update tool that fits into your workflows.
-* [cnappgoat](https://github.com/ermetic-research/cnappgoat)
-  CNAPPgoat is an open source project designed to modularly provision vulnerable-by-design components in cloud environments.
-* [databag](https://github.com/balzack/databag)
-  A tiny selfhosted federated messenger for the decentralized web.
 
 ### My Blog Posts
 
