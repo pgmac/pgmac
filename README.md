@@ -89,7 +89,7 @@ A table of things ...
 ### Things I'm star-ing
 
 * [unit](https://github.com/nginx/unit)
-   NGINX Unit – universal web app server – a lightweight and versatile open source server project that works as a reverse proxy, serves static assets, and runs applications in multiple languages. 
+  NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming language runtimes.
 * [open-resume](https://github.com/xitanggg/open-resume)
   OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 * [reaper](https://github.com/ghostsecurity/reaper)
