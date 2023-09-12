@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [17 free AWS cybersecurity courses you can take right now](https://www.helpnetsecurity.com/2023/09/12/free-aws-cybersecurity-courses/)
 * [Amiga Samplers : Budget dance music in 1990 : Hacker News](https://news.ycombinator.com/item?id=37376675)
 * [8 open-source OSINT tools you should try](https://www.helpnetsecurity.com/2023/08/22/open-source-osint-tools/)
 * [Certbot Instructions](https://certbot-prod.eff.org/instructions?ws=other&os=ubuntufocal)
@@ -84,10 +85,11 @@ A table of things ...
 * [Fart Proudly](https://en.wikipedia.org/wiki/Fart_Proudly)
 * [The Modern Virtual Networking Platform](https://www.netmaker.io/)
 * [noclip](https://noclip.website/#)
-* [Terraform best practices for reliability at any scale](https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale)
 
 ### Things I'm star-ing
 
+* [quiet](https://github.com/TryQuiet/quiet)
+  A private, p2p alternative to Slack and Discord built on Tor & IPFS
 * [unit](https://github.com/nginx/unit)
   NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming language runtimes.
 * [open-resume](https://github.com/xitanggg/open-resume)
@@ -108,8 +110,6 @@ A table of things ...
   Official OWASP Top 10 Document Repository
 * [www-project-kubernetes-top-ten](https://github.com/OWASP/www-project-kubernetes-top-ten)
   OWASP Foundation Web Respository
-* [wazuh-ansible](https://github.com/wazuh/wazuh-ansible)
-  Wazuh - Ansible playbook
 
 ### My Blog Posts
 
