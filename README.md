@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [hyperdx](https://github.com/hyperdxio/hyperdx)
+  Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.
 * [quiet](https://github.com/TryQuiet/quiet)
   A private, p2p alternative to Slack and Discord built on Tor & IPFS
 * [unit](https://github.com/nginx/unit)
@@ -108,8 +110,6 @@ A table of things ...
   Robust Speech Recognition via Large-Scale Weak Supervision
 * [Top10](https://github.com/OWASP/Top10)
   Official OWASP Top 10 Document Repository
-* [www-project-kubernetes-top-ten](https://github.com/OWASP/www-project-kubernetes-top-ten)
-  OWASP Foundation Web Respository
 
 ### My Blog Posts
 
