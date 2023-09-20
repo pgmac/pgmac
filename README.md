@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [opentofu](https://github.com/opentofu/opentofu)
+  OpenTofu lets you declaratively manage your cloud infrastructure.
 * [hyperdx](https://github.com/hyperdxio/hyperdx)
   Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.
 * [quiet](https://github.com/TryQuiet/quiet)
@@ -108,8 +110,6 @@ A table of things ...
   Distributed systems runtime daemon written in Rust.
 * [whisper](https://github.com/openai/whisper)
   Robust Speech Recognition via Large-Scale Weak Supervision
-* [Top10](https://github.com/OWASP/Top10)
-  Official OWASP Top 10 Document Repository
 
 ### My Blog Posts
 
