@@ -88,6 +88,10 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [SeaGOAT](https://github.com/kantord/SeaGOAT)
+  local-first semantic code search engine
+* [public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers)
+  A list of public iPerf3 servers...
 * [opentofu](https://github.com/opentofu/opentofu)
   OpenTofu lets you declaratively manage your cloud infrastructure.
 * [hyperdx](https://github.com/hyperdxio/hyperdx)
@@ -106,10 +110,6 @@ A table of things ...
   None
 * [securityonion](https://github.com/Security-Onion-Solutions/securityonion)
   Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. It also includes other tools such as Playbook, osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.
-* [aurae](https://github.com/aurae-runtime/aurae)
-  Distributed systems runtime daemon written in Rust.
-* [whisper](https://github.com/openai/whisper)
-  Robust Speech Recognition via Large-Scale Weak Supervision
 
 ### My Blog Posts
 
