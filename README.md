@@ -113,6 +113,7 @@ A table of things ...
 
 ### My Blog Posts
 
+* [Windows Server Virtual Interface with a configured VLAN with a custom MAC](https://pgmac.net.au/family/2023/09/24/telling-stories.html)
 * [Windows Server Virtual Interface with a configured VLAN with a custom MAC](https://pgmac.net.au/technology/2019/12/23/windows-vlan.html)
 * [The Source](https://pgmac.net.au/technology/2019/02/25/the-source.html)
 * [AWS Internet access from a Private subnet](https://pgmac.net.au/technology/2018/09/03/aws-internet-private-subnets.html)
@@ -122,4 +123,3 @@ A table of things ...
 * [Manual cert-bot renewals for certificates hosted on a Sophos UTM](https://pgmac.net.au/technology/2017/08/30/cert-bot-renewal-sophos-utm.html)
 * [History](https://pgmac.net.au/language/2017/08/19/history.html)
 * [The hiccup cure](https://pgmac.net.au/no%20laughing%20matter/2017/05/28/the-hiccup-cure.html)
-* [JVC Everio MOD files to MPG](https://pgmac.net.au/technology/2015/03/18/jvc-everio-mod-to-mpg.html)
