@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [macOS Containers](https://macoscontainers.org/)
 * [2023 H1 IRAP report is now available on AWS Artifact for Australian customers](https://aws.amazon.com/blogs/security/2023-h1-irap-report-is-now-available-on-aws-artifact-for-australian-customers/)
 * [17 free AWS cybersecurity courses you can take right now](https://www.helpnetsecurity.com/2023/09/12/free-aws-cybersecurity-courses/)
 * [Amiga Samplers : Budget dance music in 1990 : Hacker News](https://news.ycombinator.com/item?id=37376675)
@@ -84,10 +85,11 @@ A table of things ...
 * [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae)
 * [Jazz² Resurrection](http://deat.tk/jazz2/)
 * [Fart Proudly](https://en.wikipedia.org/wiki/Fart_Proudly)
-* [The Modern Virtual Networking Platform](https://www.netmaker.io/)
 
 ### Things I'm star-ing
 
+* [IoCs](https://github.com/sophoslabs/IoCs)
+  Sophos-originated indicators-of-compromise from published reports
 * [SeaGOAT](https://github.com/kantord/SeaGOAT)
   local-first semantic code search engine
 * [public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers)
@@ -108,8 +110,6 @@ A table of things ...
   Boundary enables identity-based access management for dynamic infrastructure. 
 * [helm-charts](https://github.com/renovatebot/helm-charts)
   None
-* [securityonion](https://github.com/Security-Onion-Solutions/securityonion)
-  Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, and case management. It also includes other tools such as Playbook, osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.
 
 ### My Blog Posts
 
