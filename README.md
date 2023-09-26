@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [2023 H1 IRAP report is now available on AWS Artifact for Australian customers](https://aws.amazon.com/blogs/security/2023-h1-irap-report-is-now-available-on-aws-artifact-for-australian-customers/)
 * [17 free AWS cybersecurity courses you can take right now](https://www.helpnetsecurity.com/2023/09/12/free-aws-cybersecurity-courses/)
 * [Amiga Samplers : Budget dance music in 1990 : Hacker News](https://news.ycombinator.com/item?id=37376675)
 * [8 open-source OSINT tools you should try](https://www.helpnetsecurity.com/2023/08/22/open-source-osint-tools/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Jazz² Resurrection](http://deat.tk/jazz2/)
 * [Fart Proudly](https://en.wikipedia.org/wiki/Fart_Proudly)
 * [The Modern Virtual Networking Platform](https://www.netmaker.io/)
-* [noclip](https://noclip.website/#)
 
 ### Things I'm star-ing
 
