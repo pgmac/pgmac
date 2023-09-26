@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [vizro](https://github.com/mckinsey/vizro)
+  Vizro is a toolkit for creating modular data visualization applications.
 * [IoCs](https://github.com/sophoslabs/IoCs)
   Sophos-originated indicators-of-compromise from published reports
 * [SeaGOAT](https://github.com/kantord/SeaGOAT)
@@ -108,8 +110,6 @@ A table of things ...
   💀 Don't fear the Reaper 👻
 * [boundary](https://github.com/hashicorp/boundary)
   Boundary enables identity-based access management for dynamic infrastructure. 
-* [helm-charts](https://github.com/renovatebot/helm-charts)
-  None
 
 ### My Blog Posts
 
