@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Overview](https://github.com/ONLYOFFICE/CommunityServer)
 * [macOS Containers](https://macoscontainers.org/)
 * [2023 H1 IRAP report is now available on AWS Artifact for Australian customers](https://aws.amazon.com/blogs/security/2023-h1-irap-report-is-now-available-on-aws-artifact-for-australian-customers/)
 * [17 free AWS cybersecurity courses you can take right now](https://www.helpnetsecurity.com/2023/09/12/free-aws-cybersecurity-courses/)
@@ -84,10 +85,15 @@ A table of things ...
 * [Ad Blocker Test](https://d3ward.github.io/toolz/adblock.html)
 * [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae)
 * [Jazz² Resurrection](http://deat.tk/jazz2/)
-* [Fart Proudly](https://en.wikipedia.org/wiki/Fart_Proudly)
 
 ### Things I'm star-ing
 
+* [Kubernetes-Docs](https://github.com/ONLYOFFICE/Kubernetes-Docs)
+  ONLYOFFICE Docs for Kubernetes
+* [ControlPanel](https://github.com/ONLYOFFICE/ControlPanel)
+  Tools for administrating self-hosted ONLYOFFICE.
+* [CommunityServer](https://github.com/ONLYOFFICE/CommunityServer)
+  Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.
 * [vizro](https://github.com/mckinsey/vizro)
   Vizro is a toolkit for creating modular data visualization applications.
 * [IoCs](https://github.com/sophoslabs/IoCs)
@@ -104,12 +110,6 @@ A table of things ...
   A private, p2p alternative to Slack and Discord built on Tor & IPFS
 * [unit](https://github.com/nginx/unit)
   NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming language runtimes.
-* [open-resume](https://github.com/xitanggg/open-resume)
-  OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
-* [reaper](https://github.com/ghostsecurity/reaper)
-  💀 Don't fear the Reaper 👻
-* [boundary](https://github.com/hashicorp/boundary)
-  Boundary enables identity-based access management for dynamic infrastructure. 
 
 ### My Blog Posts
 
