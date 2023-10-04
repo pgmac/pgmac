@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [chalk](https://github.com/crashappsec/chalk)
+   Total visibility of your software engineering lifecycle
 * [Kubernetes-Docs](https://github.com/ONLYOFFICE/Kubernetes-Docs)
   ONLYOFFICE Docs for Kubernetes
 * [ControlPanel](https://github.com/ONLYOFFICE/ControlPanel)
@@ -108,8 +110,6 @@ A table of things ...
   Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.
 * [quiet](https://github.com/TryQuiet/quiet)
   A private, p2p alternative to Slack and Discord built on Tor & IPFS
-* [unit](https://github.com/nginx/unit)
-  NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming language runtimes.
 
 ### My Blog Posts
 
