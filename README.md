@@ -89,7 +89,7 @@ A table of things ...
 ### Things I'm star-ing
 
 * [chalk](https://github.com/crashappsec/chalk)
-   Total visibility of your software engineering lifecycle
+  Telemetry and observability for CI through production
 * [Kubernetes-Docs](https://github.com/ONLYOFFICE/Kubernetes-Docs)
   ONLYOFFICE Docs for Kubernetes
 * [ControlPanel](https://github.com/ONLYOFFICE/ControlPanel)
