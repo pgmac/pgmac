@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [efrecon/pgbackup](https://github.com/efrecon/pgbackup)
 * [Overview](https://github.com/ONLYOFFICE/CommunityServer)
 * [macOS Containers](https://macoscontainers.org/)
 * [2023 H1 IRAP report is now available on AWS Artifact for Australian customers](https://aws.amazon.com/blogs/security/2023-h1-irap-report-is-now-available-on-aws-artifact-for-australian-customers/)
@@ -84,10 +85,13 @@ A table of things ...
 * [Certbot Instructions](https://certbot-prod.eff.org/instructions?ws=other&os=ubuntufocal)
 * [Ad Blocker Test](https://d3ward.github.io/toolz/adblock.html)
 * [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae)
-* [Jazz² Resurrection](http://deat.tk/jazz2/)
 
 ### Things I'm star-ing
 
+* [pgbackup](https://github.com/efrecon/pgbackup)
+  Dockerized local and offline backing up of PostgresQL with rotation and compression.
+* [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+  A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 * [chalk](https://github.com/crashappsec/chalk)
   Telemetry and observability for CI through production
 * [Kubernetes-Docs](https://github.com/ONLYOFFICE/Kubernetes-Docs)
@@ -106,10 +110,6 @@ A table of things ...
   A list of public iPerf3 servers...
 * [opentofu](https://github.com/opentofu/opentofu)
   OpenTofu lets you declaratively manage your cloud infrastructure.
-* [hyperdx](https://github.com/hyperdxio/hyperdx)
-  Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.
-* [quiet](https://github.com/TryQuiet/quiet)
-  A private, p2p alternative to Slack and Discord built on Tor & IPFS
 
 ### My Blog Posts
 
