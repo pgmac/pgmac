@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [obligator](https://github.com/anderspitman/obligator)
+  Simple and opinionated OpenID Connect server designed for self-hosters
 * [pgbackup](https://github.com/efrecon/pgbackup)
   Dockerized local and offline backing up of PostgresQL with rotation and compression.
 * [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
@@ -108,8 +110,6 @@ A table of things ...
   local-first semantic code search engine
 * [public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers)
   A list of public iPerf3 servers...
-* [opentofu](https://github.com/opentofu/opentofu)
-  OpenTofu lets you declaratively manage your cloud infrastructure.
 
 ### My Blog Posts
 
