@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [LibRedirect](https://libredirect.github.io/)
+* [Invidious](https://invidious.io/)
 * [efrecon/pgbackup](https://github.com/efrecon/pgbackup)
 * [Overview](https://github.com/ONLYOFFICE/CommunityServer)
 * [macOS Containers](https://macoscontainers.org/)
@@ -83,11 +85,11 @@ A table of things ...
 * [Amiga Samplers : Budget dance music in 1990 : Hacker News](https://news.ycombinator.com/item?id=37376675)
 * [8 open-source OSINT tools you should try](https://www.helpnetsecurity.com/2023/08/22/open-source-osint-tools/)
 * [Certbot Instructions](https://certbot-prod.eff.org/instructions?ws=other&os=ubuntufocal)
-* [Ad Blocker Test](https://d3ward.github.io/toolz/adblock.html)
-* [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae)
 
 ### Things I'm star-ing
 
+* [Piped](https://github.com/TeamPiped/Piped)
+  An alternative privacy-friendly YouTube frontend which is efficient by design.
 * [obligator](https://github.com/anderspitman/obligator)
   Simple and opinionated OpenID Connect server designed for self-hosters
 * [pgbackup](https://github.com/efrecon/pgbackup)
@@ -108,8 +110,6 @@ A table of things ...
   Sophos-originated indicators-of-compromise from published reports
 * [SeaGOAT](https://github.com/kantord/SeaGOAT)
   local-first semantic code search engine
-* [public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers)
-  A list of public iPerf3 servers...
 
 ### My Blog Posts
 
