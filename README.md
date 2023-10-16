@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [ssh-audit](https://github.com/jtesta/ssh-audit)
+  SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 * [Piped](https://github.com/TeamPiped/Piped)
   An alternative privacy-friendly YouTube frontend which is efficient by design.
 * [obligator](https://github.com/anderspitman/obligator)
@@ -108,8 +110,6 @@ A table of things ...
   Vizro is a toolkit for creating modular data visualization applications.
 * [IoCs](https://github.com/sophoslabs/IoCs)
   Sophos-originated indicators-of-compromise from published reports
-* [SeaGOAT](https://github.com/kantord/SeaGOAT)
-  local-first semantic code search engine
 
 ### My Blog Posts
 
