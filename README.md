@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Introduction to OpenRefine](https://openrefine.org/)
 * [LibRedirect](https://libredirect.github.io/)
 * [Invidious](https://invidious.io/)
 * [efrecon/pgbackup](https://github.com/efrecon/pgbackup)
@@ -84,7 +85,6 @@ A table of things ...
 * [17 free AWS cybersecurity courses you can take right now](https://www.helpnetsecurity.com/2023/09/12/free-aws-cybersecurity-courses/)
 * [Amiga Samplers : Budget dance music in 1990 : Hacker News](https://news.ycombinator.com/item?id=37376675)
 * [8 open-source OSINT tools you should try](https://www.helpnetsecurity.com/2023/08/22/open-source-osint-tools/)
-* [Certbot Instructions](https://certbot-prod.eff.org/instructions?ws=other&os=ubuntufocal)
 
 ### Things I'm star-ing
 
