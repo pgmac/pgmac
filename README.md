@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [wirehole](https://github.com/IAmStoxe/wirehole)
+  WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
 * [raven](https://github.com/CycodeLabs/raven)
   None
 * [eksup](https://github.com/clowdhaus/eksup)
@@ -108,8 +110,6 @@ A table of things ...
   ONLYOFFICE Docs for Kubernetes
 * [ControlPanel](https://github.com/ONLYOFFICE/ControlPanel)
   Tools for administrating self-hosted ONLYOFFICE.
-* [CommunityServer](https://github.com/ONLYOFFICE/CommunityServer)
-  Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.
 
 ### My Blog Posts
 
