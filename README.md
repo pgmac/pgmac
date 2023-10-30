@@ -105,7 +105,7 @@ A table of things ...
 * [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
   A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 * [chalk](https://github.com/crashappsec/chalk)
-  Observability for the software development lifecycle. 
+  X-ray vision for the software development lifecycle. 
 * [Kubernetes-Docs](https://github.com/ONLYOFFICE/Kubernetes-Docs)
   ONLYOFFICE Docs for Kubernetes
 * [ControlPanel](https://github.com/ONLYOFFICE/ControlPanel)
