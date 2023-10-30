@@ -91,7 +91,7 @@ A table of things ...
 * [wirehole](https://github.com/IAmStoxe/wirehole)
   WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
 * [raven](https://github.com/CycodeLabs/raven)
-  None
+  RAVEN (Risk Analysis and Vulnerability Enumeration for CI/CD)
 * [eksup](https://github.com/clowdhaus/eksup)
   EKS cluster upgrade guidance
 * [ssh-audit](https://github.com/jtesta/ssh-audit)
