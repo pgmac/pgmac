@@ -98,7 +98,7 @@ A table of things ...
   SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 * [Piped](https://github.com/TeamPiped/Piped)
   An alternative privacy-friendly YouTube frontend which is efficient by design.
-* [obligator](https://github.com/anderspitman/obligator)
+* [obligator](https://github.com/lastlogin-io/obligator)
   Simple and opinionated OpenID Connect server designed for self-hosters
 * [pgbackup](https://github.com/efrecon/pgbackup)
   Dockerized local and offline backing up of PostgresQL with rotation and compression.
