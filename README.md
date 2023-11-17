@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Security best practices for authors of GitHub Actions](https://github.blog/2023-11-16-security-best-practices-for-authors-of-github-actions/)
 * [Raven: Open-source CI/CD pipeline security scanner](https://www.helpnetsecurity.com/2023/10/27/raven-open-source-security-scanner/)
 * [Introduction to OpenRefine](https://openrefine.org/)
 * [LibRedirect](https://libredirect.github.io/)
@@ -84,7 +85,6 @@ A table of things ...
 * [macOS Containers](https://macoscontainers.org/)
 * [2023 H1 IRAP report is now available on AWS Artifact for Australian customers](https://aws.amazon.com/blogs/security/2023-h1-irap-report-is-now-available-on-aws-artifact-for-australian-customers/)
 * [17 free AWS cybersecurity courses you can take right now](https://www.helpnetsecurity.com/2023/09/12/free-aws-cybersecurity-courses/)
-* [Amiga Samplers : Budget dance music in 1990 : Hacker News](https://news.ycombinator.com/item?id=37376675)
 
 ### Things I'm star-ing
 
