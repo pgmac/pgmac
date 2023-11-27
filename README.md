@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [packetfence](https://github.com/inverse-inc/packetfence)
+  PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence can be used to effectively secure networks small to very large heterogeneous networks.
 * [wirehole](https://github.com/IAmStoxe/wirehole)
   WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
 * [raven](https://github.com/CycodeLabs/raven)
@@ -108,8 +110,6 @@ A table of things ...
   X-ray vision for the software development lifecycle. 
 * [Kubernetes-Docs](https://github.com/ONLYOFFICE/Kubernetes-Docs)
   ONLYOFFICE Docs for Kubernetes
-* [ControlPanel](https://github.com/ONLYOFFICE/ControlPanel)
-  Tools for administrating self-hosted ONLYOFFICE.
 
 ### My Blog Posts
 
