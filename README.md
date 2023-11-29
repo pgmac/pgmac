@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents)
+  A curated list of GPT agents for cybersecurity
 * [packetfence](https://github.com/inverse-inc/packetfence)
   PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence can be used to effectively secure networks small to very large heterogeneous networks.
 * [wirehole](https://github.com/IAmStoxe/wirehole)
@@ -108,8 +110,6 @@ A table of things ...
   A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 * [chalk](https://github.com/crashappsec/chalk)
   X-ray vision for the software development lifecycle. 
-* [Kubernetes-Docs](https://github.com/ONLYOFFICE/Kubernetes-Docs)
-  ONLYOFFICE Docs for Kubernetes
 
 ### My Blog Posts
 
