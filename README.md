@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [threat-dragon](https://github.com/OWASP/threat-dragon)
+  An open source threat modeling tool from OWASP
 * [Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents)
   A curated list of GPT agents for cybersecurity
 * [packetfence](https://github.com/inverse-inc/packetfence)
@@ -108,8 +110,6 @@ A table of things ...
   Dockerized local and offline backing up of PostgresQL with rotation and compression.
 * [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
   A community-supported supercharged version of paperless: scan, index and archive all your physical documents
-* [chalk](https://github.com/crashappsec/chalk)
-  X-ray vision for the software development lifecycle. 
 
 ### My Blog Posts
 
