@@ -113,7 +113,7 @@ A table of things ...
 
 ### My Blog Posts
 
-* [The sleepy prince](https://pgmac.net.au/family/2023/09/24/the-sleepy-prince.html)
+* [The Sleepy Prince](https://pgmac.net.au/family/2023/09/24/the-sleepy-prince.html)
 * [Telling stories](https://pgmac.net.au/family/2023/09/24/telling-stories.html)
 * [Windows Server Virtual Interface with a configured VLAN with a custom MAC](https://pgmac.net.au/technology/2019/12/23/windows-vlan.html)
 * [The Source](https://pgmac.net.au/technology/2019/02/25/the-source.html)
