@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [HPI](https://github.com/karlicoss/HPI)
+  Human Programming Interface 🧑👽🤖
 * [threat-dragon](https://github.com/OWASP/threat-dragon)
   An open source threat modeling tool from OWASP
 * [Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents)
@@ -108,8 +110,6 @@ A table of things ...
   Simple and opinionated OpenID Connect server designed for self-hosters
 * [pgbackup](https://github.com/efrecon/pgbackup)
   Dockerized local and offline backing up of PostgresQL with rotation and compression.
-* [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
-  A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 
 ### My Blog Posts
 
