@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [Maintainerr](https://github.com/jorenn92/Maintainerr)
+  Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
 * [HPI](https://github.com/karlicoss/HPI)
   Human Programming Interface 🧑👽🤖
 * [threat-dragon](https://github.com/OWASP/threat-dragon)
@@ -108,8 +110,6 @@ A table of things ...
   An alternative privacy-friendly YouTube frontend which is efficient by design.
 * [obligator](https://github.com/lastlogin-io/obligator)
   Simple and opinionated OpenID Connect server designed for self-hosters
-* [pgbackup](https://github.com/efrecon/pgbackup)
-  Dockerized local and offline backing up of PostgresQL with rotation and compression.
 
 ### My Blog Posts
 
