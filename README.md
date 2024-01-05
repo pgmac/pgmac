@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [15 open-source cybersecurity tools you’ll wish you’d known earlier](https://www.helpnetsecurity.com/2024/01/04/open-source-cybersecurity-tools/)
 * [SSH over HTTPS](https://trofi.github.io/posts/295-ssh-over-https.html)
 * [Security best practices for authors of GitHub Actions](https://github.blog/2023-11-16-security-best-practices-for-authors-of-github-actions/)
 * [Raven: Open-source CI/CD pipeline security scanner](https://www.helpnetsecurity.com/2023/10/27/raven-open-source-security-scanner/)
@@ -84,7 +85,6 @@ A table of things ...
 * [efrecon/pgbackup](https://github.com/efrecon/pgbackup)
 * [Overview](https://github.com/ONLYOFFICE/CommunityServer)
 * [macOS Containers](https://macoscontainers.org/)
-* [2023 H1 IRAP report is now available on AWS Artifact for Australian customers](https://aws.amazon.com/blogs/security/2023-h1-irap-report-is-now-available-on-aws-artifact-for-australian-customers/)
 
 ### Things I'm star-ing
 
