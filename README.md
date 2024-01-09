@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [wagoodman/dive](https://github.com/wagoodman/dive)
 * [15 open-source cybersecurity tools you’ll wish you’d known earlier](https://www.helpnetsecurity.com/2024/01/04/open-source-cybersecurity-tools/)
 * [SSH over HTTPS](https://trofi.github.io/posts/295-ssh-over-https.html)
 * [Security best practices for authors of GitHub Actions](https://github.blog/2023-11-16-security-best-practices-for-authors-of-github-actions/)
@@ -84,10 +85,11 @@ A table of things ...
 * [Invidious](https://invidious.io/)
 * [efrecon/pgbackup](https://github.com/efrecon/pgbackup)
 * [Overview](https://github.com/ONLYOFFICE/CommunityServer)
-* [macOS Containers](https://macoscontainers.org/)
 
 ### Things I'm star-ing
 
+* [go-containerregistry](https://github.com/google/go-containerregistry)
+  Go library and CLIs for working with container registries
 * [Maintainerr](https://github.com/jorenn92/Maintainerr)
   Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
 * [HPI](https://github.com/karlicoss/HPI)
@@ -108,8 +110,6 @@ A table of things ...
   SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 * [Piped](https://github.com/TeamPiped/Piped)
   An alternative privacy-friendly YouTube frontend which is efficient by design.
-* [obligator](https://github.com/lastlogin-io/obligator)
-  Simple and opinionated OpenID Connect server designed for self-hosters
 
 ### My Blog Posts
 
