@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [oasis](https://github.com/oasislinux/oasis)
+  a small statically-linked linux system
 * [go-containerregistry](https://github.com/google/go-containerregistry)
   Go library and CLIs for working with container registries
 * [Maintainerr](https://github.com/jorenn92/Maintainerr)
@@ -108,8 +110,6 @@ A table of things ...
   EKS cluster upgrade guidance
 * [ssh-audit](https://github.com/jtesta/ssh-audit)
   SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
-* [Piped](https://github.com/TeamPiped/Piped)
-  An alternative privacy-friendly YouTube frontend which is efficient by design.
 
 ### My Blog Posts
 
