@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Proxmox Kubernetes Install with Talos Linux](https://www.virtualizationhowto.com/2024/01/proxmox-kubernetes-install-with-talos-linux/)
 * [Tart](https://tart.run/)
 * [wagoodman/dive](https://github.com/wagoodman/dive)
 * [15 open-source cybersecurity tools you’ll wish you’d known earlier](https://www.helpnetsecurity.com/2024/01/04/open-source-cybersecurity-tools/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Introduction to OpenRefine](https://openrefine.org/)
 * [LibRedirect](https://libredirect.github.io/)
 * [Invidious](https://invidious.io/)
-* [efrecon/pgbackup](https://github.com/efrecon/pgbackup)
 
 ### Things I'm star-ing
 
