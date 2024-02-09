@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm)
+  VirtualBox with KVM Backend
 * [oasis](https://github.com/oasislinux/oasis)
   a small statically-linked linux system
 * [go-containerregistry](https://github.com/google/go-containerregistry)
@@ -108,8 +110,6 @@ A table of things ...
   CI/CD Security Analyzer
 * [eksup](https://github.com/clowdhaus/eksup)
   EKS cluster upgrade guidance
-* [ssh-audit](https://github.com/jtesta/ssh-audit)
-  SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 
 ### My Blog Posts
 
