@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [toolong](https://github.com/Textualize/toolong)
+  A terminal application to view, tail, merge, and search log files (plus JSONL).
 * [virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm)
   VirtualBox with KVM Backend
 * [oasis](https://github.com/oasislinux/oasis)
@@ -108,8 +110,6 @@ A table of things ...
   WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
 * [raven](https://github.com/CycodeLabs/raven)
   CI/CD Security Analyzer
-* [eksup](https://github.com/clowdhaus/eksup)
-  EKS cluster upgrade guidance
 
 ### My Blog Posts
 
