@@ -88,6 +88,12 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [nrpe](https://github.com/NagiosEnterprises/nrpe)
+  NRPE Agent
+* [nagioscore](https://github.com/NagiosEnterprises/nagioscore)
+  Nagios Core
+* [Docker-Nagios](https://github.com/JasonRivers/Docker-Nagios)
+  Docker image for Nagios
 * [toolong](https://github.com/Textualize/toolong)
   A terminal application to view, tail, merge, and search log files (plus JSONL).
 * [virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm)
@@ -104,12 +110,6 @@ A table of things ...
   An open source threat modeling tool from OWASP
 * [Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents)
   A curated list of GPT agents for cybersecurity
-* [packetfence](https://github.com/inverse-inc/packetfence)
-  PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence can be used to effectively secure networks small to very large heterogeneous networks.
-* [wirehole](https://github.com/IAmStoxe/wirehole)
-  WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
-* [raven](https://github.com/CycodeLabs/raven)
-  CI/CD Security Analyzer
 
 ### My Blog Posts
 
