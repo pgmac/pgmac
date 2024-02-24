@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [unmanic](https://github.com/Unmanic/unmanic)
+  Unmanic - Library Optimiser
 * [nrpe](https://github.com/NagiosEnterprises/nrpe)
   NRPE Agent
 * [nagioscore](https://github.com/NagiosEnterprises/nagioscore)
@@ -108,8 +110,6 @@ A table of things ...
   Human Programming Interface 🧑👽🤖
 * [threat-dragon](https://github.com/OWASP/threat-dragon)
   An open source threat modeling tool from OWASP
-* [Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents)
-  A curated list of GPT agents for cybersecurity
 
 ### My Blog Posts
 
