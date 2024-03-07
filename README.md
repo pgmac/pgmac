@@ -99,7 +99,7 @@ A table of things ...
 * [toolong](https://github.com/Textualize/toolong)
   A terminal application to view, tail, merge, and search log files (plus JSONL).
 * [virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm)
-  VirtualBox with KVM Backend. With our current development model, we cannot easily accept pull requests here. If you'd like to contribute, feel free to reach out to us, we are happy to find a solution.
+  KVM Backend for VirtualBox. With our current development model, we cannot easily accept pull requests here. If you'd like to contribute, feel free to reach out to us, we are happy to find a solution.
 * [oasis](https://github.com/oasislinux/oasis)
   a small statically-linked linux system
 * [go-containerregistry](https://github.com/google/go-containerregistry)
