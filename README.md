@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [CloudGrappler](https://github.com/Permiso-io-tools/CloudGrappler)
+  None
 * [unmanic](https://github.com/Unmanic/unmanic)
   Unmanic - Library Optimiser
 * [nrpe](https://github.com/NagiosEnterprises/nrpe)
@@ -108,8 +110,6 @@ A table of things ...
   Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
 * [HPI](https://github.com/karlicoss/HPI)
   Human Programming Interface 🧑👽🤖
-* [threat-dragon](https://github.com/OWASP/threat-dragon)
-  An open source threat modeling tool from OWASP
 
 ### My Blog Posts
 
