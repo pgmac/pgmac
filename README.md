@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [metasearch](https://github.com/duolingo/metasearch)
+  Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 * [CloudGrappler](https://github.com/Permiso-io-tools/CloudGrappler)
   None
 * [unmanic](https://github.com/Unmanic/unmanic)
@@ -108,8 +110,6 @@ A table of things ...
   Go library and CLIs for working with container registries
 * [Maintainerr](https://github.com/jorenn92/Maintainerr)
   Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
-* [HPI](https://github.com/karlicoss/HPI)
-  Human Programming Interface 🧑👽🤖
 
 ### My Blog Posts
 
