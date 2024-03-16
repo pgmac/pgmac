@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [bsol](https://github.com/harishnkr/bsol)
+  grub2 blue-screen-of-life theme 
 * [metasearch](https://github.com/duolingo/metasearch)
   Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 * [CloudGrappler](https://github.com/Permiso-io-tools/CloudGrappler)
@@ -108,8 +110,6 @@ A table of things ...
   a small statically-linked linux system
 * [go-containerregistry](https://github.com/google/go-containerregistry)
   Go library and CLIs for working with container registries
-* [Maintainerr](https://github.com/jorenn92/Maintainerr)
-  Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
 
 ### My Blog Posts
 
