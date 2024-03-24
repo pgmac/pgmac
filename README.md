@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [lapdev](https://github.com/lapce/lapdev)
+  Self-Hosted Remote Dev Environment
 * [bsol](https://github.com/harishnkr/bsol)
   grub2 blue-screen-of-life theme 
 * [metasearch](https://github.com/duolingo/metasearch)
@@ -108,8 +110,6 @@ A table of things ...
   KVM Backend for VirtualBox. With our current development model, we cannot easily accept pull requests here. If you'd like to contribute, feel free to reach out to us, we are happy to find a solution.
 * [oasis](https://github.com/oasislinux/oasis)
   a small statically-linked linux system
-* [go-containerregistry](https://github.com/google/go-containerregistry)
-  Go library and CLIs for working with container registries
 
 ### My Blog Posts
 
