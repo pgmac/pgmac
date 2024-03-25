@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [tracecat](https://github.com/TracecatHQ/tracecat)
+  😼 The AI-native, open source alternative to Tines / Splunk SOAR.
 * [monolith](https://github.com/Y2Z/monolith)
   ⬛️ CLI tool for saving complete web pages as a single HTML file
 * [lapdev](https://github.com/lapce/lapdev)
@@ -108,8 +110,6 @@ A table of things ...
   Docker image for Nagios
 * [toolong](https://github.com/Textualize/toolong)
   A terminal application to view, tail, merge, and search log files (plus JSONL).
-* [virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm)
-  KVM Backend for VirtualBox. With our current development model, we cannot easily accept pull requests here. If you'd like to contribute, feel free to reach out to us, we are happy to find a solution.
 
 ### My Blog Posts
 
