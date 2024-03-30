@@ -89,7 +89,7 @@ A table of things ...
 ### Things I'm star-ing
 
 * [tracecat](https://github.com/TracecatHQ/tracecat)
-  😼 The AI-native, open source alternative to Tines / Splunk SOAR.
+  😼 The open source alternative to Tines / Splunk SOAR.
 * [monolith](https://github.com/Y2Z/monolith)
   ⬛️ CLI tool for saving complete web pages as a single HTML file
 * [lapdev](https://github.com/lapce/lapdev)
