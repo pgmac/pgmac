@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [dependency-track](https://github.com/DependencyTrack/dependency-track)
+  Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 * [tracecat](https://github.com/TracecatHQ/tracecat)
   😼 The open source alternative to Tines / Splunk SOAR.
 * [monolith](https://github.com/Y2Z/monolith)
@@ -108,8 +110,6 @@ A table of things ...
   Nagios Core
 * [Docker-Nagios](https://github.com/JasonRivers/Docker-Nagios)
   Docker image for Nagios
-* [toolong](https://github.com/Textualize/toolong)
-  A terminal application to view, tail, merge, and search log files (plus JSONL).
 
 ### My Blog Posts
 
