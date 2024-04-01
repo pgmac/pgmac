@@ -91,7 +91,7 @@ A table of things ...
 * [dependency-track](https://github.com/DependencyTrack/dependency-track)
   Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 * [tracecat](https://github.com/TracecatHQ/tracecat)
-  😼 The open source alternative to Tines / Splunk SOAR.
+  😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.
 * [monolith](https://github.com/Y2Z/monolith)
   ⬛️ CLI tool for saving complete web pages as a single HTML file
 * [lapdev](https://github.com/lapce/lapdev)
