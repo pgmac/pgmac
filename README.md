@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [wireproxy](https://github.com/pufferffish/wireproxy)
+  Wireguard client that exposes itself as a socks5 proxy
 * [dependency-track](https://github.com/DependencyTrack/dependency-track)
   Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 * [tracecat](https://github.com/TracecatHQ/tracecat)
@@ -108,8 +110,6 @@ A table of things ...
   NRPE Agent
 * [nagioscore](https://github.com/NagiosEnterprises/nagioscore)
   Nagios Core
-* [Docker-Nagios](https://github.com/JasonRivers/Docker-Nagios)
-  Docker image for Nagios
 
 ### My Blog Posts
 
