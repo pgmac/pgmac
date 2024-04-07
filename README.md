@@ -88,6 +88,10 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [chisel](https://github.com/jpillora/chisel)
+  A fast TCP/UDP tunnel over HTTP
+* [ligolo-ng](https://github.com/nicocha30/ligolo-ng)
+  An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
 * [wireproxy](https://github.com/pufferffish/wireproxy)
   Wireguard client that exposes itself as a socks5 proxy
 * [dependency-track](https://github.com/DependencyTrack/dependency-track)
@@ -106,10 +110,6 @@ A table of things ...
   None
 * [unmanic](https://github.com/Unmanic/unmanic)
   Unmanic - Library Optimiser
-* [nrpe](https://github.com/NagiosEnterprises/nrpe)
-  NRPE Agent
-* [nagioscore](https://github.com/NagiosEnterprises/nagioscore)
-  Nagios Core
 
 ### My Blog Posts
 
