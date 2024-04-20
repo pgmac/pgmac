@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [protobom](https://github.com/bom-squad/protobom)
+  A universal SBOM representation in protocol buffers
 * [Descent3](https://github.com/kevinbentley/Descent3)
   Descent 3 by Outrage Entertainment
 * [chisel](https://github.com/jpillora/chisel)
@@ -108,8 +110,6 @@ A table of things ...
   grub2 blue-screen-of-life theme 
 * [metasearch](https://github.com/duolingo/metasearch)
   Search aggregator for Slack, Google Docs, GitHub, and more :mag:
-* [CloudGrappler](https://github.com/Permiso-io-tools/CloudGrappler)
-  None
 
 ### My Blog Posts
 
