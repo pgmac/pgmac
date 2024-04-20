@@ -90,7 +90,7 @@ A table of things ...
 
 * [protobom](https://github.com/bom-squad/protobom)
   A universal SBOM representation in protocol buffers
-* [Descent3](https://github.com/kevinbentley/Descent3)
+* [Descent3](https://github.com/DescentDevelopers/Descent3)
   Descent 3 by Outrage Entertainment
 * [chisel](https://github.com/jpillora/chisel)
   A fast TCP/UDP tunnel over HTTP
