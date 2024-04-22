@@ -88,7 +88,7 @@ A table of things ...
 
 ### Things I'm star-ing
 
-* [protobom](https://github.com/bom-squad/protobom)
+* [protobom](https://github.com/protobom/protobom)
   A universal SBOM representation in protocol buffers
 * [Descent3](https://github.com/DescentDevelopers/Descent3)
   Descent 3 by Outrage Entertainment
