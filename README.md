@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [](https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=INCLUDE&q=fipo.co)
 * [Proxmox Kubernetes Install with Talos Linux](https://www.virtualizationhowto.com/2024/01/proxmox-kubernetes-install-with-talos-linux/)
 * [Tart](https://tart.run/)
 * [wagoodman/dive](https://github.com/wagoodman/dive)
@@ -84,7 +85,6 @@ A table of things ...
 * [Raven: Open-source CI/CD pipeline security scanner](https://www.helpnetsecurity.com/2023/10/27/raven-open-source-security-scanner/)
 * [Introduction to OpenRefine](https://openrefine.org/)
 * [LibRedirect](https://libredirect.github.io/)
-* [Invidious](https://invidious.io/)
 
 ### Things I'm star-ing
 
