@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)
+  CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 * [protobom](https://github.com/protobom/protobom)
   A universal SBOM representation in protocol buffers
 * [Descent3](https://github.com/DescentDevelopers/Descent3)
@@ -108,8 +110,6 @@ A table of things ...
   Self-Hosted Remote Dev Environment
 * [bsol](https://github.com/harishnkr/bsol)
   grub2 blue-screen-of-life theme 
-* [metasearch](https://github.com/duolingo/metasearch)
-  Search aggregator for Slack, Google Docs, GitHub, and more :mag:
 
 ### My Blog Posts
 
