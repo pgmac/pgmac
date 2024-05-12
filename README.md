@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [OpenSecurity Training Platform](https://training.opensecurity.com/landing?s=09)
 * [Monitoring energy usage with smart plugs, Prometheus and Grafana](https://ounapuu.ee/posts/2024/05/02/smartplugs/)
 * [](https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=INCLUDE&q=fipo.co)
 * [Proxmox Kubernetes Install with Talos Linux](https://www.virtualizationhowto.com/2024/01/proxmox-kubernetes-install-with-talos-linux/)
@@ -84,7 +85,6 @@ A table of things ...
 * [SSH over HTTPS](https://trofi.github.io/posts/295-ssh-over-https.html)
 * [Security best practices for authors of GitHub Actions](https://github.blog/2023-11-16-security-best-practices-for-authors-of-github-actions/)
 * [Raven: Open-source CI/CD pipeline security scanner](https://www.helpnetsecurity.com/2023/10/27/raven-open-source-security-scanner/)
-* [Introduction to OpenRefine](https://openrefine.org/)
 
 ### Things I'm star-ing
 
