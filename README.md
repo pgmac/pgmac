@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [quarylabs/quary](https://github.com/quarylabs/quary)
 * [OpenSecurity Training Platform](https://training.opensecurity.com/landing?s=09)
 * [Monitoring energy usage with smart plugs, Prometheus and Grafana](https://ounapuu.ee/posts/2024/05/02/smartplugs/)
 * [](https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=INCLUDE&q=fipo.co)
@@ -84,7 +85,6 @@ A table of things ...
 * [15 open-source cybersecurity tools you’ll wish you’d known earlier](https://www.helpnetsecurity.com/2024/01/04/open-source-cybersecurity-tools/)
 * [SSH over HTTPS](https://trofi.github.io/posts/295-ssh-over-https.html)
 * [Security best practices for authors of GitHub Actions](https://github.blog/2023-11-16-security-best-practices-for-authors-of-github-actions/)
-* [Raven: Open-source CI/CD pipeline security scanner](https://www.helpnetsecurity.com/2023/10/27/raven-open-source-security-scanner/)
 
 ### Things I'm star-ing
 
