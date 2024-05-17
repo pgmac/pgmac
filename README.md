@@ -113,6 +113,7 @@ A table of things ...
 
 ### My Blog Posts
 
+* [Going Exploring](https://pgmac.net.au/family/2024/05/16/going-exploring.html)
 * [Pruning microk8s containerd when k8s garbage collection fails](https://pgmac.net.au/technology/2023/12/26/microk8s-garbage-collection.html)
 * [Extending/resizing a logical volume file system](https://pgmac.net.au/technology/2023/12/26/lvm-filesystem-extend.html)
 * [The Sleepy Prince](https://pgmac.net.au/family/2023/09/24/the-sleepy-prince.html)
@@ -122,4 +123,3 @@ A table of things ...
 * [AWS Internet access from a Private subnet](https://pgmac.net.au/technology/2018/09/03/aws-internet-private-subnets.html)
 * [Quick SSL/TLS certificate check](https://pgmac.net.au/technology/2018/04/09/ssl-tls-check.html)
 * [Think Feel Love Believe](https://pgmac.net.au/family/2017/11/03/think-feel-love-believe.html)
-* [How-To extend a Logical Volume using LVM on Linux](https://pgmac.net.au/technology/2017/11/02/lmv-extend.html)
