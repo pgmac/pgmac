@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [dep-scan](https://github.com/owasp-dep-scan/dep-scan)
+  OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container images are supported as the input, and the tool is ideal for integration.
 * [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)
   CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 * [protobom](https://github.com/protobom/protobom)
@@ -108,8 +110,6 @@ A table of things ...
   ⬛️ CLI tool for saving complete web pages as a single HTML file
 * [lapdev](https://github.com/lapce/lapdev)
   Self-Hosted Remote Dev Environment
-* [bsol](https://github.com/harishnkr/bsol)
-  grub2 blue-screen-of-life theme 
 
 ### My Blog Posts
 
