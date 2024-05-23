@@ -88,6 +88,10 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [authentik](https://github.com/goauthentik/authentik)
+  The authentication glue you need.
+* [authelia](https://github.com/authelia/authelia)
+  The Single Sign-On Multi-Factor portal for web apps
 * [dep-scan](https://github.com/owasp-dep-scan/dep-scan)
   OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container images are supported as the input, and the tool is ideal for integration.
 * [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)
@@ -106,10 +110,6 @@ A table of things ...
   Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 * [tracecat](https://github.com/TracecatHQ/tracecat)
   😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.
-* [monolith](https://github.com/Y2Z/monolith)
-  ⬛️ CLI tool for saving complete web pages as a single HTML file
-* [lapdev](https://github.com/lapce/lapdev)
-  Self-Hosted Remote Dev Environment
 
 ### My Blog Posts
 
