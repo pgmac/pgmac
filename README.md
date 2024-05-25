@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [guac](https://github.com/guacsec/guac)
+  GUAC aggregates software security metadata into a high fidelity graph database.
 * [authentik](https://github.com/goauthentik/authentik)
   The authentication glue you need.
 * [authelia](https://github.com/authelia/authelia)
@@ -108,8 +110,6 @@ A table of things ...
   Wireguard client that exposes itself as a socks5 proxy
 * [dependency-track](https://github.com/DependencyTrack/dependency-track)
   Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
-* [tracecat](https://github.com/TracecatHQ/tracecat)
-  😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.
 
 ### My Blog Posts
 
