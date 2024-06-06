@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [blocky](https://github.com/0xERR0R/blocky)
+  Fast and lightweight DNS proxy as ad-blocker for local network with many features
 * [guac](https://github.com/guacsec/guac)
   GUAC aggregates software security metadata into a high fidelity graph database.
 * [authentik](https://github.com/goauthentik/authentik)
@@ -108,8 +110,6 @@ A table of things ...
   An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
 * [wireproxy](https://github.com/pufferffish/wireproxy)
   Wireguard client that exposes itself as a socks5 proxy
-* [dependency-track](https://github.com/DependencyTrack/dependency-track)
-  Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 
 ### My Blog Posts
 
