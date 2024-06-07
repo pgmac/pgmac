@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [sbom-utility](https://github.com/CycloneDX/sbom-utility)
+  Utility that provides an API platform for validating, querying and managing BOM data
 * [blocky](https://github.com/0xERR0R/blocky)
   Fast and lightweight DNS proxy as ad-blocker for local network with many features
 * [guac](https://github.com/guacsec/guac)
@@ -108,8 +110,6 @@ A table of things ...
   A fast TCP/UDP tunnel over HTTP
 * [ligolo-ng](https://github.com/nicocha30/ligolo-ng)
   An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
-* [wireproxy](https://github.com/pufferffish/wireproxy)
-  Wireguard client that exposes itself as a socks5 proxy
 
 ### My Blog Posts
 
