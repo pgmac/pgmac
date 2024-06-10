@@ -113,6 +113,7 @@ A table of things ...
 
 ### My Blog Posts
 
+* [Microk8s Control Plane API Load Balancing](https://pgmac.net.au/tech/2024/06/09/microk8s-api-load-balancing.html)
 * [Going Exploring](https://pgmac.net.au/family/2024/05/16/going-exploring.html)
 * [Pruning microk8s containerd when k8s garbage collection fails](https://pgmac.net.au/technology/2023/12/26/microk8s-garbage-collection.html)
 * [Extending/resizing a logical volume file system](https://pgmac.net.au/technology/2023/12/26/lvm-filesystem-extend.html)
@@ -122,4 +123,3 @@ A table of things ...
 * [The Source](https://pgmac.net.au/technology/2019/02/25/the-source.html)
 * [AWS Internet access from a Private subnet](https://pgmac.net.au/technology/2018/09/03/aws-internet-private-subnets.html)
 * [Quick SSL/TLS certificate check](https://pgmac.net.au/technology/2018/04/09/ssl-tls-check.html)
-* [Think Feel Love Believe](https://pgmac.net.au/family/2017/11/03/think-feel-love-believe.html)
