@@ -88,6 +88,12 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [nagiostv-react](https://github.com/chriscareycode/nagiostv-react)
+  Monitor your Nagios server on a wall mounted TV (or a phone or desktop). Installation instructions are below in the README.md
+* [ncpa](https://github.com/NagiosEnterprises/ncpa)
+  Nagios Cross-Platform Agent
+* [nagios-plugins](https://github.com/nagios-plugins/nagios-plugins)
+  Nagios Plugins
 * [sbom-utility](https://github.com/CycloneDX/sbom-utility)
   Utility that provides an API platform for validating, querying and managing BOM data
 * [blocky](https://github.com/0xERR0R/blocky)
@@ -104,12 +110,6 @@ A table of things ...
   CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 * [protobom](https://github.com/protobom/protobom)
   A universal SBOM representation in protocol buffers
-* [Descent3](https://github.com/DescentDevelopers/Descent3)
-  Descent 3 by Outrage Entertainment
-* [chisel](https://github.com/jpillora/chisel)
-  A fast TCP/UDP tunnel over HTTP
-* [ligolo-ng](https://github.com/nicocha30/ligolo-ng)
-  An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
 
 ### My Blog Posts
 
