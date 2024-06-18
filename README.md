@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [nicanorflavier/spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
 * [Open source project management software](https://www.openproject.org/)
 * [quarylabs/quary](https://github.com/quarylabs/quary)
 * [OpenSecurity Training Platform](https://training.opensecurity.com/landing?s=09)
@@ -84,10 +85,11 @@ A table of things ...
 * [Tart](https://tart.run/)
 * [wagoodman/dive](https://github.com/wagoodman/dive)
 * [15 open-source cybersecurity tools you’ll wish you’d known earlier](https://www.helpnetsecurity.com/2024/01/04/open-source-cybersecurity-tools/)
-* [SSH over HTTPS](https://trofi.github.io/posts/295-ssh-over-https.html)
 
 ### Things I'm star-ing
 
+* [spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
+  Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer.
 * [nagiostv-react](https://github.com/chriscareycode/nagiostv-react)
   Monitor your Nagios server on a wall mounted TV (or a phone or desktop). Installation instructions are below in the README.md
 * [ncpa](https://github.com/NagiosEnterprises/ncpa)
@@ -108,8 +110,6 @@ A table of things ...
   OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container images are supported as the input, and the tool is ideal for integration.
 * [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)
   CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
-* [protobom](https://github.com/protobom/protobom)
-  A universal SBOM representation in protocol buffers
 
 ### My Blog Posts
 
