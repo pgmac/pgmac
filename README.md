@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [glasskube](https://github.com/glasskube/glasskube)
+  🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.
 * [spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
   Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer.
 * [nagiostv-react](https://github.com/chriscareycode/nagiostv-react)
@@ -108,8 +110,6 @@ A table of things ...
   The Single Sign-On Multi-Factor portal for web apps
 * [dep-scan](https://github.com/owasp-dep-scan/dep-scan)
   OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container images are supported as the input, and the tool is ideal for integration.
-* [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)
-  CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 
 ### My Blog Posts
 
