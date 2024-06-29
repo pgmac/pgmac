@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [kubectl](https://github.com/kubernetes/kubectl)
+  Issue tracker and mirror of kubectl code
 * [glasskube](https://github.com/glasskube/glasskube)
   🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.
 * [spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
@@ -108,8 +110,6 @@ A table of things ...
   The authentication glue you need.
 * [authelia](https://github.com/authelia/authelia)
   The Single Sign-On Multi-Factor portal for web apps
-* [dep-scan](https://github.com/owasp-dep-scan/dep-scan)
-  OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container images are supported as the input, and the tool is ideal for integration.
 
 ### My Blog Posts
 
