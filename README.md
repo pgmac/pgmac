@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [editor](https://github.com/istoph/editor)
+  The chr terminal editor is inspired by the turbo pascal editor using Turbo Vision from  the  year 1997.  For  the  keyboard  shortcut he should be similar gedit, to facilitate the transition from desktop to console editor.
 * [kubectl](https://github.com/kubernetes/kubectl)
   Issue tracker and mirror of kubectl code
 * [glasskube](https://github.com/glasskube/glasskube)
@@ -108,8 +110,6 @@ A table of things ...
   GUAC aggregates software security metadata into a high fidelity graph database.
 * [authentik](https://github.com/goauthentik/authentik)
   The authentication glue you need.
-* [authelia](https://github.com/authelia/authelia)
-  The Single Sign-On Multi-Factor portal for web apps
 
 ### My Blog Posts
 
