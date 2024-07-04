@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [secator](https://github.com/freelabz/secator)
+  secator - the pentester's swiss knife
 * [SmoothMQ](https://github.com/poundifdef/SmoothMQ)
   A drop-in replacement for SQS designed for great developer experience and efficiency. 
 * [editor](https://github.com/istoph/editor)
@@ -108,8 +110,6 @@ A table of things ...
   Utility that provides an API platform for validating, querying and managing BOM data
 * [blocky](https://github.com/0xERR0R/blocky)
   Fast and lightweight DNS proxy as ad-blocker for local network with many features
-* [guac](https://github.com/guacsec/guac)
-  GUAC aggregates software security metadata into a high fidelity graph database.
 
 ### My Blog Posts
 
