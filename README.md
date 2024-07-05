@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer)
+  Visualizes your Terraform
 * [secator](https://github.com/freelabz/secator)
   secator - the pentester's swiss knife
 * [SmoothMQ](https://github.com/poundifdef/SmoothMQ)
@@ -108,8 +110,6 @@ A table of things ...
   Nagios Plugins
 * [sbom-utility](https://github.com/CycloneDX/sbom-utility)
   Utility that provides an API platform for validating, querying and managing BOM data
-* [blocky](https://github.com/0xERR0R/blocky)
-  Fast and lightweight DNS proxy as ad-blocker for local network with many features
 
 ### My Blog Posts
 
