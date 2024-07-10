@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Introduction to Circos, Features and Uses // CIRCOS Circular Genome Data Visualization](http://circos.ca/)
+* [Researchers discover underwater submarine canyons in month-long survey of sea floor](https://www.abc.net.au/news/2024-07-10/underwater-canyons-super-highways-seafloor-research-science/104072182)
 * [nicanorflavier/spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
 * [Open source project management software](https://www.openproject.org/)
 * [quarylabs/quary](https://github.com/quarylabs/quary)
@@ -83,8 +85,6 @@ A table of things ...
 * [](https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=INCLUDE&q=fipo.co)
 * [Proxmox Kubernetes Install with Talos Linux](https://www.virtualizationhowto.com/2024/01/proxmox-kubernetes-install-with-talos-linux/)
 * [Tart](https://tart.run/)
-* [wagoodman/dive](https://github.com/wagoodman/dive)
-* [15 open-source cybersecurity tools you’ll wish you’d known earlier](https://www.helpnetsecurity.com/2024/01/04/open-source-cybersecurity-tools/)
 
 ### Things I'm star-ing
 
