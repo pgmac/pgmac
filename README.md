@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [tau](https://github.com/taubyte/tau)
+  Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 * [inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer)
   Visualizes your Terraform
 * [secator](https://github.com/freelabz/secator)
@@ -108,8 +110,6 @@ A table of things ...
   Nagios Cross-Platform Agent
 * [nagios-plugins](https://github.com/nagios-plugins/nagios-plugins)
   Nagios Plugins
-* [sbom-utility](https://github.com/CycloneDX/sbom-utility)
-  Utility that provides an API platform for validating, querying and managing BOM data
 
 ### My Blog Posts
 
