@@ -94,7 +94,7 @@ A table of things ...
   Visualizes your Terraform
 * [secator](https://github.com/freelabz/secator)
   secator - the pentester's swiss knife
-* [SmoothMQ](https://github.com/poundifdef/SmoothMQ)
+* [smoothmq](https://github.com/poundifdef/smoothmq)
   A drop-in replacement for SQS designed for great developer experience and efficiency. 
 * [editor](https://github.com/istoph/editor)
   The chr terminal editor is inspired by the turbo pascal editor using Turbo Vision from  the  year 1997.  For  the  keyboard  shortcut he should be similar gedit, to facilitate the transition from desktop to console editor.
