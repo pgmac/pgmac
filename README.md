@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [devzat](https://github.com/quackduck/devzat)
+  The devs are over here at devzat, chat over SSH!
 * [tau](https://github.com/taubyte/tau)
   Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 * [inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer)
@@ -108,8 +110,6 @@ A table of things ...
   Monitor your Nagios server on a wall mounted TV (or a phone or desktop). Installation instructions are below in the README.md
 * [ncpa](https://github.com/NagiosEnterprises/ncpa)
   Nagios Cross-Platform Agent
-* [nagios-plugins](https://github.com/nagios-plugins/nagios-plugins)
-  Nagios Plugins
 
 ### My Blog Posts
 
