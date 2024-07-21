@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Security overview dashboards, secret scanning metrics and enablement trends reports are now generally available](https://github.blog/changelog/2024-07-19-security-overview-dashboards-secret-scanning-metrics-and-enablement-trends-reports-are-now-generally-available/)
+* [OXO vulnerability scanning orchestrator for the modern age](https://oxo.ostorlab.co/)
+* [2FA Authenticator App (2FAS)](https://2fas.com)
 * [Introduction to Circos, Features and Uses // CIRCOS Circular Genome Data Visualization](http://circos.ca/)
 * [Researchers discover underwater submarine canyons in month-long survey of sea floor](https://www.abc.net.au/news/2024-07-10/underwater-canyons-super-highways-seafloor-research-science/104072182)
 * [nicanorflavier/spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
@@ -82,9 +85,6 @@ A table of things ...
 * [quarylabs/quary](https://github.com/quarylabs/quary)
 * [OpenSecurity Training Platform](https://training.opensecurity.com/landing?s=09)
 * [Monitoring energy usage with smart plugs, Prometheus and Grafana](https://ounapuu.ee/posts/2024/05/02/smartplugs/)
-* [](https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=INCLUDE&q=fipo.co)
-* [Proxmox Kubernetes Install with Talos Linux](https://www.virtualizationhowto.com/2024/01/proxmox-kubernetes-install-with-talos-linux/)
-* [Tart](https://tart.run/)
 
 ### Things I'm star-ing
 
