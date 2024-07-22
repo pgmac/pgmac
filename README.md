@@ -97,7 +97,7 @@ A table of things ...
 * [secator](https://github.com/freelabz/secator)
   secator - the pentester's swiss knife
 * [smoothmq](https://github.com/poundifdef/smoothmq)
-  A drop-in replacement for SQS designed for great developer experience and efficiency. 
+  An improved drop-in replacement for SQS
 * [editor](https://github.com/istoph/editor)
   The chr terminal editor is inspired by the turbo pascal editor using Turbo Vision from  the  year 1997.  For  the  keyboard  shortcut he should be similar gedit, to facilitate the transition from desktop to console editor.
 * [kubectl](https://github.com/kubernetes/kubectl)
