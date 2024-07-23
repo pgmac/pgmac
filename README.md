@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [Shuffle](https://github.com/Shuffle/Shuffle)
+  Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
 * [devzat](https://github.com/quackduck/devzat)
   The devs are over here at devzat, chat over SSH!
 * [tau](https://github.com/taubyte/tau)
@@ -108,8 +110,6 @@ A table of things ...
   Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer.
 * [nagiostv-react](https://github.com/chriscareycode/nagiostv-react)
   Monitor your Nagios server on a wall mounted TV (or a phone or desktop). Installation instructions are below in the README.md
-* [ncpa](https://github.com/NagiosEnterprises/ncpa)
-  Nagios Cross-Platform Agent
 
 ### My Blog Posts
 
