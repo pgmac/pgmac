@@ -88,6 +88,10 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [dnstwist](https://github.com/elceef/dnstwist)
+  Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
+* [amass](https://github.com/owasp-amass/amass)
+  In-depth attack surface mapping and asset discovery
 * [Shuffle](https://github.com/Shuffle/Shuffle)
   Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
 * [devzat](https://github.com/quackduck/devzat)
@@ -106,10 +110,6 @@ A table of things ...
   Issue tracker and mirror of kubectl code
 * [glasskube](https://github.com/glasskube/glasskube)
   🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.
-* [spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
-  Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer.
-* [nagiostv-react](https://github.com/chriscareycode/nagiostv-react)
-  Monitor your Nagios server on a wall mounted TV (or a phone or desktop). Installation instructions are below in the README.md
 
 ### My Blog Posts
 
