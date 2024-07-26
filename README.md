@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [GitHub Private Mirrors App – Public Beta](https://github.blog/changelog/2024-07-25-github-private-mirrors-app-public-beta/)
 * [The UNIX Pipe Card Game](https://punkx.org/unix-pipe-game/)
 * [Security overview dashboards, secret scanning metrics and enablement trends reports are now generally available](https://github.blog/changelog/2024-07-19-security-overview-dashboards-secret-scanning-metrics-and-enablement-trends-reports-are-now-generally-available/)
 * [OXO vulnerability scanning orchestrator for the modern age](https://oxo.ostorlab.co/)
@@ -84,7 +85,6 @@ A table of things ...
 * [nicanorflavier/spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
 * [Open source project management software](https://www.openproject.org/)
 * [quarylabs/quary](https://github.com/quarylabs/quary)
-* [OpenSecurity Training Platform](https://training.opensecurity.com/landing?s=09)
 
 ### Things I'm star-ing
 
