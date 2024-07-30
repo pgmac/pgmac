@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Introducing Artifact Attestations–now in public beta](https://github.blog/news-insights/product-news/introducing-artifact-attestations-now-in-public-beta/)
+* [DigiCert Revocation Incident (CNAME-Based Domain Validation)](https://www.digicert.com/support/certificate-revocation-incident)
+* [ACCC shifts support for broadband tax on 4G and 5G fixed wireless](https://www.itnews.com.au/news/accc-shifts-support-for-broadband-tax-on-4g-and-5g-fixed-wireless-610215)
+* [Cyber ransom payments will need to be disclosed by businesses under new laws](https://www.abc.net.au/news/2024-07-30/cyber-ransom-payments-new-laws-before-parliament/104113038)
+* [All I Know About Certificates -- Certificate Authority](https://www.pixelstech.net/article/1722045726-All-I-Know-About-Certificates----Certificate-Authority)
 * [GitHub Private Mirrors App – Public Beta](https://github.blog/changelog/2024-07-25-github-private-mirrors-app-public-beta/)
 * [The UNIX Pipe Card Game](https://punkx.org/unix-pipe-game/)
 * [Security overview dashboards, secret scanning metrics and enablement trends reports are now generally available](https://github.blog/changelog/2024-07-19-security-overview-dashboards-secret-scanning-metrics-and-enablement-trends-reports-are-now-generally-available/)
 * [OXO vulnerability scanning orchestrator for the modern age](https://oxo.ostorlab.co/)
 * [2FA Authenticator App (2FAS)](https://2fas.com)
-* [Introduction to Circos, Features and Uses // CIRCOS Circular Genome Data Visualization](http://circos.ca/)
-* [Researchers discover underwater submarine canyons in month-long survey of sea floor](https://www.abc.net.au/news/2024-07-10/underwater-canyons-super-highways-seafloor-research-science/104072182)
-* [nicanorflavier/spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
-* [Open source project management software](https://www.openproject.org/)
-* [quarylabs/quary](https://github.com/quarylabs/quary)
 
 ### Things I'm star-ing
 
@@ -114,12 +114,12 @@ A table of things ...
 ### My Blog Posts
 
 * [Some things I found interesting from 2024-07-21 to 2024-07-28](https://pgmac.net.au/last-week/2024/07/28/interesting-last-week.html)
+* [Some things I found interesting from 2024-07-14 to 2024-07-21](https://pgmac.net.au/last-week/2024/07/21/interesting-last-week.html)
+* [Some things I found interesting from 2024-07-07 to 2024-07-14](https://pgmac.net.au/last-week/2024/07/14/interesting-last-week.html)
+* [Some things I found interesting from 2024-06-30 to 2024-07-07](https://pgmac.net.au/last-week/2024/07/07/interesting-last-week.html)
+* [Some things I found interesting from 2024-06-23 to 2024-06-30](https://pgmac.net.au/last-week/2024/06/30/interesting-last-week.html)
+* [Some things I found interesting from 2024-06-16 to 2024-06-23](https://pgmac.net.au/last-week/2024/06/23/interesting-last-week.html)
+* [Some things I found interesting from 2024-06-09 to 2024-06-16](https://pgmac.net.au/last-week/2024/06/16/interesting-last-week.html)
 * [Microk8s Control Plane API Load Balancing](https://pgmac.net.au/technology/2024/06/09/microk8s-api-load-balancing.html)
-* [Going Exploring](https://pgmac.net.au/family/2024/05/16/going-exploring.html)
-* [Pruning microk8s containerd when k8s garbage collection fails](https://pgmac.net.au/technology/2023/12/26/microk8s-garbage-collection.html)
-* [Extending/resizing a logical volume file system](https://pgmac.net.au/technology/2023/12/26/lvm-filesystem-extend.html)
-* [The Sleepy Prince](https://pgmac.net.au/family/2023/09/24/the-sleepy-prince.html)
-* [Telling stories](https://pgmac.net.au/family/2023/09/24/telling-stories.html)
-* [Windows Server Virtual Interface with a configured VLAN with a custom MAC](https://pgmac.net.au/technology/2019/12/23/windows-vlan.html)
-* [The Source](https://pgmac.net.au/technology/2019/02/25/the-source.html)
-* [AWS Internet access from a Private subnet](https://pgmac.net.au/technology/2018/09/03/aws-internet-private-subnets.html)
+* [Some things I found interesting from 2024-06-02 to 2024-06-09](https://pgmac.net.au/last-week/2024/06/09/interesting-last-week.html)
+* [Some things I found interesting from 2024-05-26 to 2024-06-02](https://pgmac.net.au/last-week/2024/06/02/interesting-last-week.html)
