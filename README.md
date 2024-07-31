@@ -75,19 +75,21 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
+* [ssoready/ssoready](https://github.com/ssoready/ssoready)
+* [Highlights from Git 2.46](https://github.blog/open-source/git/highlights-from-git-2-46/)
+* [NIST releases open-source platform for AI safety testing](https://www.scmagazine.com/news/nist-releases-open-source-platform-for-ai-safety-testing)
 * [Introducing Artifact Attestations–now in public beta](https://github.blog/news-insights/product-news/introducing-artifact-attestations-now-in-public-beta/)
 * [DigiCert Revocation Incident (CNAME-Based Domain Validation)](https://www.digicert.com/support/certificate-revocation-incident)
 * [ACCC shifts support for broadband tax on 4G and 5G fixed wireless](https://www.itnews.com.au/news/accc-shifts-support-for-broadband-tax-on-4g-and-5g-fixed-wireless-610215)
 * [Cyber ransom payments will need to be disclosed by businesses under new laws](https://www.abc.net.au/news/2024-07-30/cyber-ransom-payments-new-laws-before-parliament/104113038)
 * [All I Know About Certificates -- Certificate Authority](https://www.pixelstech.net/article/1722045726-All-I-Know-About-Certificates----Certificate-Authority)
 * [GitHub Private Mirrors App – Public Beta](https://github.blog/changelog/2024-07-25-github-private-mirrors-app-public-beta/)
-* [The UNIX Pipe Card Game](https://punkx.org/unix-pipe-game/)
-* [Security overview dashboards, secret scanning metrics and enablement trends reports are now generally available](https://github.blog/changelog/2024-07-19-security-overview-dashboards-secret-scanning-metrics-and-enablement-trends-reports-are-now-generally-available/)
-* [OXO vulnerability scanning orchestrator for the modern age](https://oxo.ostorlab.co/)
-* [2FA Authenticator App (2FAS)](https://2fas.com)
 
 ### Things I'm star-ing
 
+* [ssoready](https://github.com/ssoready/ssoready)
+  Open-source dev tools for enterprise SSO. Ship SAML support this afternoon.
 * [dnstwist](https://github.com/elceef/dnstwist)
   Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
 * [amass](https://github.com/owasp-amass/amass)
@@ -108,8 +110,6 @@ A table of things ...
   The chr terminal editor is inspired by the turbo pascal editor using Turbo Vision from  the  year 1997.  For  the  keyboard  shortcut he should be similar gedit, to facilitate the transition from desktop to console editor.
 * [kubectl](https://github.com/kubernetes/kubectl)
   Issue tracker and mirror of kubectl code
-* [glasskube](https://github.com/glasskube/glasskube)
-  🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.
 
 ### My Blog Posts
 
