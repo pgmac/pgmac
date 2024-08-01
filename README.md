@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Free Shadow IT Scanner](https://www.accessowl.io/scan)
 * [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
 * [ssoready/ssoready](https://github.com/ssoready/ssoready)
 * [Highlights from Git 2.46](https://github.blog/open-source/git/highlights-from-git-2-46/)
@@ -84,7 +85,6 @@ A table of things ...
 * [ACCC shifts support for broadband tax on 4G and 5G fixed wireless](https://www.itnews.com.au/news/accc-shifts-support-for-broadband-tax-on-4g-and-5g-fixed-wireless-610215)
 * [Cyber ransom payments will need to be disclosed by businesses under new laws](https://www.abc.net.au/news/2024-07-30/cyber-ransom-payments-new-laws-before-parliament/104113038)
 * [All I Know About Certificates -- Certificate Authority](https://www.pixelstech.net/article/1722045726-All-I-Know-About-Certificates----Certificate-Authority)
-* [GitHub Private Mirrors App – Public Beta](https://github.blog/changelog/2024-07-25-github-private-mirrors-app-public-beta/)
 
 ### Things I'm star-ing
 
