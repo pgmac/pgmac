@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Announcing Flux: The Next Leap in Text-to-Image Models](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
 * [Artifact Attestations is generally available](https://github.blog/changelog/2024-06-25-artifact-attestations-is-generally-available/)
 * [Free Shadow IT Scanner](https://www.accessowl.io/scan)
 * [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Introducing Artifact Attestations–now in public beta](https://github.blog/news-insights/product-news/introducing-artifact-attestations-now-in-public-beta/)
 * [DigiCert Revocation Incident (CNAME-Based Domain Validation)](https://www.digicert.com/support/certificate-revocation-incident)
 * [ACCC shifts support for broadband tax on 4G and 5G fixed wireless](https://www.itnews.com.au/news/accc-shifts-support-for-broadband-tax-on-4g-and-5g-fixed-wireless-610215)
-* [Cyber ransom payments will need to be disclosed by businesses under new laws](https://www.abc.net.au/news/2024-07-30/cyber-ransom-payments-new-laws-before-parliament/104113038)
 
 ### Things I'm star-ing
 
