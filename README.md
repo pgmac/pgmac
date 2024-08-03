@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [IPv4 Turf War](http://ipv4.games/)
 * [Announcing Flux: The Next Leap in Text-to-Image Models](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
 * [Artifact Attestations is generally available](https://github.blog/changelog/2024-06-25-artifact-attestations-is-generally-available/)
 * [Free Shadow IT Scanner](https://www.accessowl.io/scan)
@@ -84,7 +85,6 @@ A table of things ...
 * [NIST releases open-source platform for AI safety testing](https://www.scmagazine.com/news/nist-releases-open-source-platform-for-ai-safety-testing)
 * [Introducing Artifact Attestations–now in public beta](https://github.blog/news-insights/product-news/introducing-artifact-attestations-now-in-public-beta/)
 * [DigiCert Revocation Incident (CNAME-Based Domain Validation)](https://www.digicert.com/support/certificate-revocation-incident)
-* [ACCC shifts support for broadband tax on 4G and 5G fixed wireless](https://www.itnews.com.au/news/accc-shifts-support-for-broadband-tax-on-4g-and-5g-fixed-wireless-610215)
 
 ### Things I'm star-ing
 
