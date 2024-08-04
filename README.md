@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [OpenAI’s Sam Altman is becoming one of the most powerful people on Earth. We should be very afraid](https://www.theguardian.com/technology/article/2024/aug/03/open-ai-sam-altman-chatgpt-gary-marcus-taming-silicon-valley)
 * [IPv4 Turf War](http://ipv4.games/)
 * [Announcing Flux: The Next Leap in Text-to-Image Models](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
 * [Artifact Attestations is generally available](https://github.blog/changelog/2024-06-25-artifact-attestations-is-generally-available/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Highlights from Git 2.46](https://github.blog/open-source/git/highlights-from-git-2-46/)
 * [NIST releases open-source platform for AI safety testing](https://www.scmagazine.com/news/nist-releases-open-source-platform-for-ai-safety-testing)
 * [Introducing Artifact Attestations–now in public beta](https://github.blog/news-insights/product-news/introducing-artifact-attestations-now-in-public-beta/)
-* [DigiCert Revocation Incident (CNAME-Based Domain Validation)](https://www.digicert.com/support/certificate-revocation-incident)
 
 ### Things I'm star-ing
 
