@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Andy Warhol’s lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
 * [x.com](https://twitter.com/x/migrate?tok=7b2265223a222f6a61736f6e5f6b6f65626c65722f7374617475732f313832303439333330343439303037343339313f743d714f435f74595939756263446e544e4f6a71514a664126733d3039222c2274223a313732323839303837327db3411564a6976fcd33d25e936da32294)
 * [European Citizens' Initiative](https://eci.ec.europa.eu/045/public)
 * [black-forest-labs/flux-dev – Run with an API on Replicate](https://replicate.com/black-forest-labs/flux-dev)
@@ -84,7 +85,6 @@ A table of things ...
 * [Announcing Flux: The Next Leap in Text-to-Image Models](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
 * [Artifact Attestations is generally available](https://github.blog/changelog/2024-06-25-artifact-attestations-is-generally-available/)
 * [Free Shadow IT Scanner](https://www.accessowl.io/scan)
-* [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
 
 ### Things I'm star-ing
 
