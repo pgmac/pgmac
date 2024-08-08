@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Google is discontinuing the Chromecast line](https://www.theverge.com/2024/8/6/24214471/google-chromecast-line-discontinued)
+* [Critical vulnerabilities in 6 AWS services disclosed at Black Hat USA](https://www.scmagazine.com/news/critical-vulnerabilities-in-6-aws-services-disclosed-at-black-hat-usa)
 * [](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf)
 * [Andy Warhol’s lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
 * [x.com](https://twitter.com/x/migrate?tok=7b2265223a222f6a61736f6e5f6b6f65626c65722f7374617475732f313832303439333330343439303037343339313f743d714f435f74595939756263446e544e4f6a71514a664126733d3039222c2274223a313732323839303837327db3411564a6976fcd33d25e936da32294)
@@ -83,8 +85,6 @@ A table of things ...
 * [Implementing Identity Continuity With the NIST Cybersecurity Framework](https://www.darkreading.com/cybersecurity-operations/implementing-identity-continuity-with-nist-cybersecurity-framework)
 * [OpenAI’s Sam Altman is becoming one of the most powerful people on Earth. We should be very afraid](https://www.theguardian.com/technology/article/2024/aug/03/open-ai-sam-altman-chatgpt-gary-marcus-taming-silicon-valley)
 * [IPv4 Turf War](http://ipv4.games/)
-* [Announcing Flux: The Next Leap in Text-to-Image Models](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
-* [Artifact Attestations is generally available](https://github.blog/changelog/2024-06-25-artifact-attestations-is-generally-available/)
 
 ### Things I'm star-ing
 
