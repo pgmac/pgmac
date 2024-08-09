@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [stack-auth/stack](https://github.com/stack-auth/stack)
 * [ICANN reserves .internal for private use at the DNS level](https://www.theregister.com/2024/08/08/dot_internal_ratified/)
 * [Google is discontinuing the Chromecast line](https://www.theverge.com/2024/8/6/24214471/google-chromecast-line-discontinued)
 * [Critical vulnerabilities in 6 AWS services disclosed at Black Hat USA](https://www.scmagazine.com/news/critical-vulnerabilities-in-6-aws-services-disclosed-at-black-hat-usa)
@@ -84,10 +85,11 @@ A table of things ...
 * [European Citizens' Initiative](https://eci.ec.europa.eu/045/public)
 * [black-forest-labs/flux-dev – Run with an API on Replicate](https://replicate.com/black-forest-labs/flux-dev)
 * [Implementing Identity Continuity With the NIST Cybersecurity Framework](https://www.darkreading.com/cybersecurity-operations/implementing-identity-continuity-with-nist-cybersecurity-framework)
-* [OpenAI’s Sam Altman is becoming one of the most powerful people on Earth. We should be very afraid](https://www.theguardian.com/technology/article/2024/aug/03/open-ai-sam-altman-chatgpt-gary-marcus-taming-silicon-valley)
 
 ### Things I'm star-ing
 
+* [stack](https://github.com/stack-auth/stack)
+  Open-source Clerk/Auth0 alternative
 * [ssoready](https://github.com/ssoready/ssoready)
   Open-source dev tools for enterprise SSO. Ship SAML support this afternoon.
 * [dnstwist](https://github.com/elceef/dnstwist)
@@ -108,8 +110,6 @@ A table of things ...
   An improved drop-in replacement for SQS
 * [editor](https://github.com/istoph/editor)
   The chr terminal editor is inspired by the turbo pascal editor using Turbo Vision from  the  year 1997.  For  the  keyboard  shortcut he should be similar gedit, to facilitate the transition from desktop to console editor.
-* [kubectl](https://github.com/kubernetes/kubectl)
-  Issue tracker and mirror of kubectl code
 
 ### My Blog Posts
 
