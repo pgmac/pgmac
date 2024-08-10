@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Critical AWS Vulnerabilities Allow S3 Attack Bonanza](https://www.darkreading.com/remote-workforce/critical-aws-vulnerabilities-allow-s3-attack-bonanza)
+* [Open Source Firewall pfsense Vulnerable to Remote Code Execution Attacks](https://cybersecuritynews.com/open-source-firewall-pfsense-vulnerable/)
 * [Doom Anthology Revealed - Comes With 6 Games, Steelbook Case, And Replica BFG](https://www.gamespot.com/articles/doom-anthology-preorders-quakecon-2024/1100-6525656/)
 * [How a cybersecurity researcher befriended, then doxed, the leader of LockBit ransomware gang](https://techcrunch.com/2024/08/09/how-a-cybersecurity-researcher-befriended-then-doxed-the-leader-of-lockbit-ransomware-gang/)
 * [Approved Resolutions | Special Meeting of the ICANN Board | 29 July 2024](https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a)
@@ -83,8 +85,6 @@ A table of things ...
 * [New Flaws in Sonos Smart Speakers Allow Hackers to Eavesdrop on Users](https://thehackernews.com/2024/08/new-flaws-in-sonos-smart-speakers-allow.html)
 * [stack-auth/stack](https://github.com/stack-auth/stack)
 * [ICANN reserves .internal for private use at the DNS level](https://www.theregister.com/2024/08/08/dot_internal_ratified/)
-* [Google is discontinuing the Chromecast line](https://www.theverge.com/2024/8/6/24214471/google-chromecast-line-discontinued)
-* [Critical vulnerabilities in 6 AWS services disclosed at Black Hat USA](https://www.scmagazine.com/news/critical-vulnerabilities-in-6-aws-services-disclosed-at-black-hat-usa)
 
 ### Things I'm star-ing
 
