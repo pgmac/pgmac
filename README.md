@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Doom Anthology Revealed - Comes With 6 Games, Steelbook Case, And Replica BFG](https://www.gamespot.com/articles/doom-anthology-preorders-quakecon-2024/1100-6525656/)
+* [How a cybersecurity researcher befriended, then doxed, the leader of LockBit ransomware gang](https://techcrunch.com/2024/08/09/how-a-cybersecurity-researcher-befriended-then-doxed-the-leader-of-lockbit-ransomware-gang/)
+* [Approved Resolutions | Special Meeting of the ICANN Board | 29 July 2024](https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a)
 * [SSHamble: Open-source security testing of SSH services](https://www.helpnetsecurity.com/2024/08/08/sshamble-test-ssh-services/)
 * [Canonical Announce Major Ubuntu Kernel Change](https://www.omgubuntu.co.uk/2024/08/canonical-announce-major-ubuntu-kernel-change)
 * [New Flaws in Sonos Smart Speakers Allow Hackers to Eavesdrop on Users](https://thehackernews.com/2024/08/new-flaws-in-sonos-smart-speakers-allow.html)
@@ -82,9 +85,6 @@ A table of things ...
 * [ICANN reserves .internal for private use at the DNS level](https://www.theregister.com/2024/08/08/dot_internal_ratified/)
 * [Google is discontinuing the Chromecast line](https://www.theverge.com/2024/8/6/24214471/google-chromecast-line-discontinued)
 * [Critical vulnerabilities in 6 AWS services disclosed at Black Hat USA](https://www.scmagazine.com/news/critical-vulnerabilities-in-6-aws-services-disclosed-at-black-hat-usa)
-* [](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf)
-* [Andy Warhol’s lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
-* [x.com](https://twitter.com/x/migrate?tok=7b2265223a222f6a61736f6e5f6b6f65626c65722f7374617475732f313832303439333330343439303037343339313f743d714f435f74595939756263446e544e4f6a71514a664126733d3039222c2274223a313732323839303837327db3411564a6976fcd33d25e936da32294)
 
 ### Things I'm star-ing
 
