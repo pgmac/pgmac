@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [SSHamble: Open-source security testing of SSH services](https://www.helpnetsecurity.com/2024/08/08/sshamble-test-ssh-services/)
+* [Canonical Announce Major Ubuntu Kernel Change](https://www.omgubuntu.co.uk/2024/08/canonical-announce-major-ubuntu-kernel-change)
+* [New Flaws in Sonos Smart Speakers Allow Hackers to Eavesdrop on Users](https://thehackernews.com/2024/08/new-flaws-in-sonos-smart-speakers-allow.html)
 * [stack-auth/stack](https://github.com/stack-auth/stack)
 * [ICANN reserves .internal for private use at the DNS level](https://www.theregister.com/2024/08/08/dot_internal_ratified/)
 * [Google is discontinuing the Chromecast line](https://www.theverge.com/2024/8/6/24214471/google-chromecast-line-discontinued)
@@ -82,12 +85,11 @@ A table of things ...
 * [](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf)
 * [Andy Warhol’s lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
 * [x.com](https://twitter.com/x/migrate?tok=7b2265223a222f6a61736f6e5f6b6f65626c65722f7374617475732f313832303439333330343439303037343339313f743d714f435f74595939756263446e544e4f6a71514a664126733d3039222c2274223a313732323839303837327db3411564a6976fcd33d25e936da32294)
-* [European Citizens' Initiative](https://eci.ec.europa.eu/045/public)
-* [black-forest-labs/flux-dev – Run with an API on Replicate](https://replicate.com/black-forest-labs/flux-dev)
-* [Implementing Identity Continuity With the NIST Cybersecurity Framework](https://www.darkreading.com/cybersecurity-operations/implementing-identity-continuity-with-nist-cybersecurity-framework)
 
 ### Things I'm star-ing
 
+* [sshamble](https://github.com/runZeroInc/sshamble)
+  SSHamble: Unexpected Exposures in SSH
 * [stack](https://github.com/stack-auth/stack)
   Open-source Clerk/Auth0 alternative
 * [ssoready](https://github.com/ssoready/ssoready)
@@ -108,8 +110,6 @@ A table of things ...
   secator - the pentester's swiss knife
 * [smoothmq](https://github.com/poundifdef/smoothmq)
   An improved drop-in replacement for SQS
-* [editor](https://github.com/istoph/editor)
-  The chr terminal editor is inspired by the turbo pascal editor using Turbo Vision from  the  year 1997.  For  the  keyboard  shortcut he should be similar gedit, to facilitate the transition from desktop to console editor.
 
 ### My Blog Posts
 
