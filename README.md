@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Dear Ai, make me a video about skateboarding with the boys 🛹](https://www.youtube.com/watch?v=NBYa0cTEyBc)
+* [](https://blog.cloudflare.com/hybrid-public-key-encryption/)
+* [Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
 * [A wonderful coincidence or an expected connection: why π² ≈ g.](https://tourmaline-axolotl-9f9d87.netlify.app/blog/91)
 * [Traceeshark: Open-source plugin for Wireshark](https://www.helpnetsecurity.com/2024/08/08/traceeshark-open-source-plugin-wireshark/)
 * [Critical AWS Vulnerabilities Allow S3 Attack Bonanza](https://www.darkreading.com/remote-workforce/critical-aws-vulnerabilities-allow-s3-attack-bonanza)
@@ -82,9 +85,6 @@ A table of things ...
 * [Doom Anthology Revealed - Comes With 6 Games, Steelbook Case, And Replica BFG](https://www.gamespot.com/articles/doom-anthology-preorders-quakecon-2024/1100-6525656/)
 * [How a cybersecurity researcher befriended, then doxed, the leader of LockBit ransomware gang](https://techcrunch.com/2024/08/09/how-a-cybersecurity-researcher-befriended-then-doxed-the-leader-of-lockbit-ransomware-gang/)
 * [Approved Resolutions | Special Meeting of the ICANN Board | 29 July 2024](https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a)
-* [SSHamble: Open-source security testing of SSH services](https://www.helpnetsecurity.com/2024/08/08/sshamble-test-ssh-services/)
-* [Canonical Announce Major Ubuntu Kernel Change](https://www.omgubuntu.co.uk/2024/08/canonical-announce-major-ubuntu-kernel-change)
-* [New Flaws in Sonos Smart Speakers Allow Hackers to Eavesdrop on Users](https://thehackernews.com/2024/08/new-flaws-in-sonos-smart-speakers-allow.html)
 
 ### Things I'm star-ing
 
