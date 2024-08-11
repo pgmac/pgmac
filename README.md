@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Traceeshark: Open-source plugin for Wireshark](https://www.helpnetsecurity.com/2024/08/08/traceeshark-open-source-plugin-wireshark/)
 * [Critical AWS Vulnerabilities Allow S3 Attack Bonanza](https://www.darkreading.com/remote-workforce/critical-aws-vulnerabilities-allow-s3-attack-bonanza)
 * [Open Source Firewall pfsense Vulnerable to Remote Code Execution Attacks](https://cybersecuritynews.com/open-source-firewall-pfsense-vulnerable/)
 * [Doom Anthology Revealed - Comes With 6 Games, Steelbook Case, And Replica BFG](https://www.gamespot.com/articles/doom-anthology-preorders-quakecon-2024/1100-6525656/)
@@ -84,10 +85,11 @@ A table of things ...
 * [Canonical Announce Major Ubuntu Kernel Change](https://www.omgubuntu.co.uk/2024/08/canonical-announce-major-ubuntu-kernel-change)
 * [New Flaws in Sonos Smart Speakers Allow Hackers to Eavesdrop on Users](https://thehackernews.com/2024/08/new-flaws-in-sonos-smart-speakers-allow.html)
 * [stack-auth/stack](https://github.com/stack-auth/stack)
-* [ICANN reserves .internal for private use at the DNS level](https://www.theregister.com/2024/08/08/dot_internal_ratified/)
 
 ### Things I'm star-ing
 
+* [wazuh-ruleset](https://github.com/wazuh/wazuh-ruleset)
+  Wazuh - Ruleset
 * [sshamble](https://github.com/runZeroInc/sshamble)
   SSHamble: Unexpected Exposures in SSH
 * [stack](https://github.com/stack-auth/stack)
@@ -108,8 +110,6 @@ A table of things ...
   Visualizes your Terraform
 * [secator](https://github.com/freelabz/secator)
   secator - the pentester's swiss knife
-* [smoothmq](https://github.com/poundifdef/smoothmq)
-  An improved drop-in replacement for SQS
 
 ### My Blog Posts
 
