@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [A wonderful coincidence or an expected connection: why π² ≈ g.](https://tourmaline-axolotl-9f9d87.netlify.app/blog/91)
 * [Traceeshark: Open-source plugin for Wireshark](https://www.helpnetsecurity.com/2024/08/08/traceeshark-open-source-plugin-wireshark/)
 * [Critical AWS Vulnerabilities Allow S3 Attack Bonanza](https://www.darkreading.com/remote-workforce/critical-aws-vulnerabilities-allow-s3-attack-bonanza)
 * [Open Source Firewall pfsense Vulnerable to Remote Code Execution Attacks](https://cybersecuritynews.com/open-source-firewall-pfsense-vulnerable/)
@@ -84,7 +85,6 @@ A table of things ...
 * [SSHamble: Open-source security testing of SSH services](https://www.helpnetsecurity.com/2024/08/08/sshamble-test-ssh-services/)
 * [Canonical Announce Major Ubuntu Kernel Change](https://www.omgubuntu.co.uk/2024/08/canonical-announce-major-ubuntu-kernel-change)
 * [New Flaws in Sonos Smart Speakers Allow Hackers to Eavesdrop on Users](https://thehackernews.com/2024/08/new-flaws-in-sonos-smart-speakers-allow.html)
-* [stack-auth/stack](https://github.com/stack-auth/stack)
 
 ### Things I'm star-ing
 
