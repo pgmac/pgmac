@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [ISS Timelapse - Crossing Australia (15 Jul 2024)](https://youtu.be/ojbBLENz15s?si=6eWDP5gUyt_rqw3j)
+* [Want to boost your mental health? Step outside and look up at the night sky](https://www.abc.net.au/news/health/2024-08-11/stargazing-and-mental-health-night-sky-can-boost-your-wellbeing/104177006)
 * [Dear Ai, make me a video about skateboarding with the boys 🛹](https://www.youtube.com/watch?v=NBYa0cTEyBc)
 * [](https://blog.cloudflare.com/hybrid-public-key-encryption/)
 * [Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
@@ -83,8 +85,6 @@ A table of things ...
 * [Critical AWS Vulnerabilities Allow S3 Attack Bonanza](https://www.darkreading.com/remote-workforce/critical-aws-vulnerabilities-allow-s3-attack-bonanza)
 * [Open Source Firewall pfsense Vulnerable to Remote Code Execution Attacks](https://cybersecuritynews.com/open-source-firewall-pfsense-vulnerable/)
 * [Doom Anthology Revealed - Comes With 6 Games, Steelbook Case, And Replica BFG](https://www.gamespot.com/articles/doom-anthology-preorders-quakecon-2024/1100-6525656/)
-* [How a cybersecurity researcher befriended, then doxed, the leader of LockBit ransomware gang](https://techcrunch.com/2024/08/09/how-a-cybersecurity-researcher-befriended-then-doxed-the-leader-of-lockbit-ransomware-gang/)
-* [Approved Resolutions | Special Meeting of the ICANN Board | 29 July 2024](https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a)
 
 ### Things I'm star-ing
 
