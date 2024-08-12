@@ -113,6 +113,7 @@ A table of things ...
 
 ### My Blog Posts
 
+* [Some things I found interesting from 2024-08-04 to 2024-08-11](https://pgmac.net.au/last-week/2024/08/11/interesting-last-week.html)
 * [Some things I found interesting from 2024-07-28 to 2024-08-04](https://pgmac.net.au/last-week/2024/08/04/interesting-last-week.html)
 * [Some things I found interesting from 2024-07-21 to 2024-07-28](https://pgmac.net.au/last-week/2024/07/28/interesting-last-week.html)
 * [Some things I found interesting from 2024-07-14 to 2024-07-21](https://pgmac.net.au/last-week/2024/07/21/interesting-last-week.html)
@@ -122,4 +123,3 @@ A table of things ...
 * [Microk8s Control Plane API Load Balancing](https://pgmac.net.au/technology/2024/06/09/microk8s-api-load-balancing.html)
 * [Some things I found interesting from 2024-06-02 to 2024-06-09](https://pgmac.net.au/last-week/2024/06/09/interesting-last-week.html)
 * [Going Exploring](https://pgmac.net.au/family/2024/05/16/going-exploring.html)
-* [Pruning microk8s containerd when k8s garbage collection fails](https://pgmac.net.au/technology/2023/12/26/microk8s-garbage-collection.html)
