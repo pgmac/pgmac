@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Events](https://auscert.org.au/resources/events/)
 * [ISS Timelapse - Crossing Australia (15 Jul 2024)](https://youtu.be/ojbBLENz15s?si=6eWDP5gUyt_rqw3j)
 * [Want to boost your mental health? Step outside and look up at the night sky](https://www.abc.net.au/news/health/2024-08-11/stargazing-and-mental-health-night-sky-can-boost-your-wellbeing/104177006)
 * [Dear Ai, make me a video about skateboarding with the boys 🛹](https://www.youtube.com/watch?v=NBYa0cTEyBc)
@@ -84,7 +85,6 @@ A table of things ...
 * [Traceeshark: Open-source plugin for Wireshark](https://www.helpnetsecurity.com/2024/08/08/traceeshark-open-source-plugin-wireshark/)
 * [Critical AWS Vulnerabilities Allow S3 Attack Bonanza](https://www.darkreading.com/remote-workforce/critical-aws-vulnerabilities-allow-s3-attack-bonanza)
 * [Open Source Firewall pfsense Vulnerable to Remote Code Execution Attacks](https://cybersecuritynews.com/open-source-firewall-pfsense-vulnerable/)
-* [Doom Anthology Revealed - Comes With 6 Games, Steelbook Case, And Replica BFG](https://www.gamespot.com/articles/doom-anthology-preorders-quakecon-2024/1100-6525656/)
 
 ### Things I'm star-ing
 
