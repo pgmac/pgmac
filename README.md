@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite)
 * [Events](https://auscert.org.au/resources/events/)
 * [ISS Timelapse - Crossing Australia (15 Jul 2024)](https://youtu.be/ojbBLENz15s?si=6eWDP5gUyt_rqw3j)
 * [Want to boost your mental health? Step outside and look up at the night sky](https://www.abc.net.au/news/health/2024-08-11/stargazing-and-mental-health-night-sky-can-boost-your-wellbeing/104177006)
@@ -84,10 +85,11 @@ A table of things ...
 * [A wonderful coincidence or an expected connection: why π² ≈ g.](https://tourmaline-axolotl-9f9d87.netlify.app/blog/91)
 * [Traceeshark: Open-source plugin for Wireshark](https://www.helpnetsecurity.com/2024/08/08/traceeshark-open-source-plugin-wireshark/)
 * [Critical AWS Vulnerabilities Allow S3 Attack Bonanza](https://www.darkreading.com/remote-workforce/critical-aws-vulnerabilities-allow-s3-attack-bonanza)
-* [Open Source Firewall pfsense Vulnerable to Remote Code Execution Attacks](https://cybersecuritynews.com/open-source-firewall-pfsense-vulnerable/)
 
 ### Things I'm star-ing
 
+* [ScoutSuite](https://github.com/nccgroup/ScoutSuite)
+  Multi-Cloud Security Auditing Tool
 * [wazuh-ruleset](https://github.com/wazuh/wazuh-ruleset)
   Wazuh - Ruleset
 * [sshamble](https://github.com/runZeroInc/sshamble)
@@ -108,8 +110,6 @@ A table of things ...
   Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 * [inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer)
   Visualizes your Terraform
-* [secator](https://github.com/freelabz/secator)
-  secator - the pentester's swiss knife
 
 ### My Blog Posts
 
