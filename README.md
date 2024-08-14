@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [NIST Announces Post-Quantum Cryptography Standards](https://spectrum.ieee.org/post-quantum-cryptography-2668949802)
 * [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite)
 * [Events](https://auscert.org.au/resources/events/)
 * [ISS Timelapse - Crossing Australia (15 Jul 2024)](https://youtu.be/ojbBLENz15s?si=6eWDP5gUyt_rqw3j)
@@ -84,7 +85,6 @@ A table of things ...
 * [Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
 * [A wonderful coincidence or an expected connection: why π² ≈ g.](https://tourmaline-axolotl-9f9d87.netlify.app/blog/91)
 * [Traceeshark: Open-source plugin for Wireshark](https://www.helpnetsecurity.com/2024/08/08/traceeshark-open-source-plugin-wireshark/)
-* [Critical AWS Vulnerabilities Allow S3 Attack Bonanza](https://www.darkreading.com/remote-workforce/critical-aws-vulnerabilities-allow-s3-attack-bonanza)
 
 ### Things I'm star-ing
 
