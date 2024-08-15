@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [art-institute-of-chicago/aic-bash](https://github.com/art-institute-of-chicago/aic-bash)
+* [YTCH](https://ytch.xyz)
 * [NIST Announces Post-Quantum Cryptography Standards](https://spectrum.ieee.org/post-quantum-cryptography-2668949802)
 * [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite)
 * [Events](https://auscert.org.au/resources/events/)
@@ -83,11 +85,11 @@ A table of things ...
 * [Dear Ai, make me a video about skateboarding with the boys 🛹](https://www.youtube.com/watch?v=NBYa0cTEyBc)
 * [](https://blog.cloudflare.com/hybrid-public-key-encryption/)
 * [Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
-* [A wonderful coincidence or an expected connection: why π² ≈ g.](https://tourmaline-axolotl-9f9d87.netlify.app/blog/91)
-* [Traceeshark: Open-source plugin for Wireshark](https://www.helpnetsecurity.com/2024/08/08/traceeshark-open-source-plugin-wireshark/)
 
 ### Things I'm star-ing
 
+* [aic-bash](https://github.com/art-institute-of-chicago/aic-bash)
+  A bash script to query our API for public domain artworks and render them as ASCII art
 * [ErsatzTV](https://github.com/ErsatzTV/ErsatzTV)
   Stream custom live channels using your own media
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite)
@@ -108,8 +110,6 @@ A table of things ...
   Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
 * [devzat](https://github.com/quackduck/devzat)
   The devs are over here at devzat, chat over SSH!
-* [tau](https://github.com/taubyte/tau)
-  Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 
 ### My Blog Posts
 
