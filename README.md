@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [ErsatzTV](https://github.com/ErsatzTV/ErsatzTV)
+  Stream custom live channels using your own media
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite)
   Multi-Cloud Security Auditing Tool
 * [wazuh-ruleset](https://github.com/wazuh/wazuh-ruleset)
@@ -108,8 +110,6 @@ A table of things ...
   The devs are over here at devzat, chat over SSH!
 * [tau](https://github.com/taubyte/tau)
   Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
-* [inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer)
-  Visualizes your Terraform
 
 ### My Blog Posts
 
