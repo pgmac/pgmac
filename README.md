@@ -76,7 +76,7 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [art-institute-of-chicago/aic-bash](https://github.com/art-institute-of-chicago/aic-bash)
-* [YTCH](https://ytch.xyz)
+* [YTCH](https://ytch.xyz/)
 * [NIST Announces Post-Quantum Cryptography Standards](https://spectrum.ieee.org/post-quantum-cryptography-2668949802)
 * [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite)
 * [Events](https://auscert.org.au/resources/events/)
