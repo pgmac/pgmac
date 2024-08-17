@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [apache/pulsar](https://github.com/apache/pulsar)
 * [art-institute-of-chicago/aic-bash](https://github.com/art-institute-of-chicago/aic-bash)
 * [YTCH](https://ytch.xyz/)
 * [NIST Announces Post-Quantum Cryptography Standards](https://spectrum.ieee.org/post-quantum-cryptography-2668949802)
@@ -84,7 +85,6 @@ A table of things ...
 * [Want to boost your mental health? Step outside and look up at the night sky](https://www.abc.net.au/news/health/2024-08-11/stargazing-and-mental-health-night-sky-can-boost-your-wellbeing/104177006)
 * [Dear Ai, make me a video about skateboarding with the boys 🛹](https://www.youtube.com/watch?v=NBYa0cTEyBc)
 * [](https://blog.cloudflare.com/hybrid-public-key-encryption/)
-* [Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
 
 ### Things I'm star-ing
 
