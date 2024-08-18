@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [You must use global Git ignore!](https://eddiejaoude.substack.com/p/you-must-use-your-global-git-ignore)
+* [TomWright/dasel](https://github.com/TomWright/dasel)
 * [Design flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
 * [](https://tiddlywiki.com/)
 * [The Xapian Project](https://xapian.org/)
@@ -83,11 +85,11 @@ A table of things ...
 * [apache/pulsar](https://github.com/apache/pulsar)
 * [art-institute-of-chicago/aic-bash](https://github.com/art-institute-of-chicago/aic-bash)
 * [YTCH](https://ytch.xyz/)
-* [NIST Announces Post-Quantum Cryptography Standards](https://spectrum.ieee.org/post-quantum-cryptography-2668949802)
-* [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite)
 
 ### Things I'm star-ing
 
+* [dasel](https://github.com/TomWright/dasel)
+  Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 * [aic-bash](https://github.com/art-institute-of-chicago/aic-bash)
   A bash script to query our API for public domain artworks and render them as ASCII art
 * [ErsatzTV](https://github.com/ErsatzTV/ErsatzTV)
@@ -108,8 +110,6 @@ A table of things ...
   In-depth attack surface mapping and asset discovery
 * [Shuffle](https://github.com/Shuffle/Shuffle)
   Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
-* [devzat](https://github.com/quackduck/devzat)
-  The devs are over here at devzat, chat over SSH!
 
 ### My Blog Posts
 
