@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [The Xapian Project](https://xapian.org/)
+* [mpv.io](https://mpv.io/)
 * [The Complete Fantastic Adventures of Adam Ant](https://globalvariables.net/2023/09/28/the-complete-fantastic-adventures-of-adam-ant/)
 * [apache/pulsar](https://github.com/apache/pulsar)
 * [art-institute-of-chicago/aic-bash](https://github.com/art-institute-of-chicago/aic-bash)
@@ -83,8 +85,6 @@ A table of things ...
 * [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite)
 * [Events](https://auscert.org.au/resources/events/)
 * [ISS Timelapse - Crossing Australia (15 Jul 2024)](https://youtu.be/ojbBLENz15s?si=6eWDP5gUyt_rqw3j)
-* [Want to boost your mental health? Step outside and look up at the night sky](https://www.abc.net.au/news/health/2024-08-11/stargazing-and-mental-health-night-sky-can-boost-your-wellbeing/104177006)
-* [Dear Ai, make me a video about skateboarding with the boys 🛹](https://www.youtube.com/watch?v=NBYa0cTEyBc)
 
 ### Things I'm star-ing
 
