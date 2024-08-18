@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Design flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
+* [](https://tiddlywiki.com/)
 * [The Xapian Project](https://xapian.org/)
 * [mpv.io](https://mpv.io/)
 * [The Complete Fantastic Adventures of Adam Ant](https://globalvariables.net/2023/09/28/the-complete-fantastic-adventures-of-adam-ant/)
@@ -83,8 +85,6 @@ A table of things ...
 * [YTCH](https://ytch.xyz/)
 * [NIST Announces Post-Quantum Cryptography Standards](https://spectrum.ieee.org/post-quantum-cryptography-2668949802)
 * [nccgroup/ScoutSuite](https://github.com/nccgroup/ScoutSuite)
-* [Events](https://auscert.org.au/resources/events/)
-* [ISS Timelapse - Crossing Australia (15 Jul 2024)](https://youtu.be/ojbBLENz15s?si=6eWDP5gUyt_rqw3j)
 
 ### Things I'm star-ing
 
