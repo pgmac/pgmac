@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Who needs GitHub Copilot when you can roll your own AI code assistant at home](https://www.theregister.com/2024/08/18/self_hosted_github_copilot/)
 * [Lenticular Clock](https://www.instructables.com/Lenticular-Clock/)
 * [You must use global Git ignore!](https://eddiejaoude.substack.com/p/you-must-use-your-global-git-ignore)
 * [TomWright/dasel](https://github.com/TomWright/dasel)
@@ -84,7 +85,6 @@ A table of things ...
 * [mpv.io](https://mpv.io/)
 * [The Complete Fantastic Adventures of Adam Ant](https://globalvariables.net/2023/09/28/the-complete-fantastic-adventures-of-adam-ant/)
 * [apache/pulsar](https://github.com/apache/pulsar)
-* [art-institute-of-chicago/aic-bash](https://github.com/art-institute-of-chicago/aic-bash)
 
 ### Things I'm star-ing
 
