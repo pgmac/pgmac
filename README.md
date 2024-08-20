@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Build your own AI-powered robot: Hugging Face’s LeRobot tutorial is a game-changer](https://venturebeat.com/ai/build-your-own-ai-powered-robot-hugging-faces-lerobot-tutorial-is-a-game-changer/)
+* [Pragtical](https://pragtical.dev/)
 * [Who needs GitHub Copilot when you can roll your own AI code assistant at home](https://www.theregister.com/2024/08/18/self_hosted_github_copilot/)
 * [Lenticular Clock](https://www.instructables.com/Lenticular-Clock/)
 * [You must use global Git ignore!](https://eddiejaoude.substack.com/p/you-must-use-your-global-git-ignore)
@@ -83,8 +85,6 @@ A table of things ...
 * [](https://tiddlywiki.com/)
 * [The Xapian Project](https://xapian.org/)
 * [mpv.io](https://mpv.io/)
-* [The Complete Fantastic Adventures of Adam Ant](https://globalvariables.net/2023/09/28/the-complete-fantastic-adventures-of-adam-ant/)
-* [apache/pulsar](https://github.com/apache/pulsar)
 
 ### Things I'm star-ing
 
