@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Lenticular Clock](https://www.instructables.com/Lenticular-Clock/)
 * [You must use global Git ignore!](https://eddiejaoude.substack.com/p/you-must-use-your-global-git-ignore)
 * [TomWright/dasel](https://github.com/TomWright/dasel)
 * [Design flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
@@ -84,7 +85,6 @@ A table of things ...
 * [The Complete Fantastic Adventures of Adam Ant](https://globalvariables.net/2023/09/28/the-complete-fantastic-adventures-of-adam-ant/)
 * [apache/pulsar](https://github.com/apache/pulsar)
 * [art-institute-of-chicago/aic-bash](https://github.com/art-institute-of-chicago/aic-bash)
-* [YTCH](https://ytch.xyz/)
 
 ### Things I'm star-ing
 
