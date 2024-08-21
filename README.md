@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [OpenCTI: Open-source cyber threat intelligence platform](https://www.helpnetsecurity.com/2024/08/21/opencti-open-source-cyber-threat-intelligence-platform/)
 * [Build your own AI-powered robot: Hugging Face’s LeRobot tutorial is a game-changer](https://venturebeat.com/ai/build-your-own-ai-powered-robot-hugging-faces-lerobot-tutorial-is-a-game-changer/)
 * [Pragtical](https://pragtical.dev/)
 * [Who needs GitHub Copilot when you can roll your own AI code assistant at home](https://www.theregister.com/2024/08/18/self_hosted_github_copilot/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Design flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
 * [](https://tiddlywiki.com/)
 * [The Xapian Project](https://xapian.org/)
-* [mpv.io](https://mpv.io/)
 
 ### Things I'm star-ing
 
