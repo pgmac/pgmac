@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Page 0 | 100kb](https://100kb.danhill.is/)
+* [will-moss/isaiah](https://github.com/will-moss/isaiah)
 * [Zen Browser](https://www.zen-browser.app/)
 * [OpenCTI: Open-source cyber threat intelligence platform](https://www.helpnetsecurity.com/2024/08/21/opencti-open-source-cyber-threat-intelligence-platform/)
 * [Build your own AI-powered robot: Hugging Face’s LeRobot tutorial is a game-changer](https://venturebeat.com/ai/build-your-own-ai-powered-robot-hugging-faces-lerobot-tutorial-is-a-game-changer/)
@@ -83,11 +85,11 @@ A table of things ...
 * [Lenticular Clock](https://www.instructables.com/Lenticular-Clock/)
 * [You must use global Git ignore!](https://eddiejaoude.substack.com/p/you-must-use-your-global-git-ignore)
 * [TomWright/dasel](https://github.com/TomWright/dasel)
-* [Design flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
-* [](https://tiddlywiki.com/)
 
 ### Things I'm star-ing
 
+* [isaiah](https://github.com/will-moss/isaiah)
+  Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 * [dasel](https://github.com/TomWright/dasel)
   Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 * [aic-bash](https://github.com/art-institute-of-chicago/aic-bash)
@@ -108,8 +110,6 @@ A table of things ...
   Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
 * [amass](https://github.com/owasp-amass/amass)
   In-depth attack surface mapping and asset discovery
-* [Shuffle](https://github.com/Shuffle/Shuffle)
-  Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
 
 ### My Blog Posts
 
