@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Zen Browser](https://www.zen-browser.app/)
 * [OpenCTI: Open-source cyber threat intelligence platform](https://www.helpnetsecurity.com/2024/08/21/opencti-open-source-cyber-threat-intelligence-platform/)
 * [Build your own AI-powered robot: Hugging Face’s LeRobot tutorial is a game-changer](https://venturebeat.com/ai/build-your-own-ai-powered-robot-hugging-faces-lerobot-tutorial-is-a-game-changer/)
 * [Pragtical](https://pragtical.dev/)
@@ -84,7 +85,6 @@ A table of things ...
 * [TomWright/dasel](https://github.com/TomWright/dasel)
 * [Design flaw has Microsoft Authenticator overwriting MFA accounts, locking users out](https://www.csoonline.com/article/3480918/design-flaw-has-microsoft-authenticator-overwriting-mfa-accounts-locking-users-out.html)
 * [](https://tiddlywiki.com/)
-* [The Xapian Project](https://xapian.org/)
 
 ### Things I'm star-ing
 
@@ -113,6 +113,7 @@ A table of things ...
 
 ### My Blog Posts
 
+* [Some things I found interesting from 2024-08-11 to 2024-08-18](https://pgmac.net.au/last-week/2024/08/18/interesting-last-week.html)
 * [Some things I found interesting from 2024-08-04 to 2024-08-11](https://pgmac.net.au/last-week/2024/08/11/interesting-last-week.html)
 * [Some things I found interesting from 2024-07-28 to 2024-08-04](https://pgmac.net.au/last-week/2024/08/04/interesting-last-week.html)
 * [Some things I found interesting from 2024-07-21 to 2024-07-28](https://pgmac.net.au/last-week/2024/07/28/interesting-last-week.html)
@@ -122,4 +123,3 @@ A table of things ...
 * [Some things I found interesting from 2024-06-09 to 2024-06-16](https://pgmac.net.au/last-week/2024/06/16/interesting-last-week.html)
 * [Microk8s Control Plane API Load Balancing](https://pgmac.net.au/technology/2024/06/09/microk8s-api-load-balancing.html)
 * [Some things I found interesting from 2024-06-02 to 2024-06-09](https://pgmac.net.au/last-week/2024/06/09/interesting-last-week.html)
-* [Going Exploring](https://pgmac.net.au/family/2024/05/16/going-exploring.html)
