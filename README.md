@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Aerc: a Well-Crafted Tui for Email](https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/)
 * [Page 0 | 100kb](https://100kb.danhill.is/)
 * [will-moss/isaiah](https://github.com/will-moss/isaiah)
 * [Zen Browser](https://www.zen-browser.app/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Who needs GitHub Copilot when you can roll your own AI code assistant at home](https://www.theregister.com/2024/08/18/self_hosted_github_copilot/)
 * [Lenticular Clock](https://www.instructables.com/Lenticular-Clock/)
 * [You must use global Git ignore!](https://eddiejaoude.substack.com/p/you-must-use-your-global-git-ignore)
-* [TomWright/dasel](https://github.com/TomWright/dasel)
 
 ### Things I'm star-ing
 
