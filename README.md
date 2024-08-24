@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
 * [Proton VPN Finally Adds WireGuard Support for Linux Users](https://news.itsfoss.com/protonvpn-wireguard-linux/)
 * [Microsoft formally deprecates the 39-year-old Windows Control Panel](https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/)
 * [The Open Source AI Definition – draft v. 0.0.9](https://opensource.org/deepdive/drafts/open-source-ai-definition-draft-v-0-0-9)
@@ -84,7 +85,6 @@ A table of things ...
 * [Page 0 | 100kb](https://100kb.danhill.is/)
 * [will-moss/isaiah](https://github.com/will-moss/isaiah)
 * [Zen Browser](https://www.zen-browser.app/)
-* [OpenCTI: Open-source cyber threat intelligence platform](https://www.helpnetsecurity.com/2024/08/21/opencti-open-source-cyber-threat-intelligence-platform/)
 
 ### Things I'm star-ing
 
