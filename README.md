@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Proton VPN Finally Adds WireGuard Support for Linux Users](https://news.itsfoss.com/protonvpn-wireguard-linux/)
+* [Microsoft formally deprecates the 39-year-old Windows Control Panel](https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/)
 * [The Open Source AI Definition – draft v. 0.0.9](https://opensource.org/deepdive/drafts/open-source-ai-definition-draft-v-0-0-9)
 * [Celebrating an important step forward for Open Source AI](https://blog.mozilla.org/en/mozilla/ai/open-source-ai-definition/)
 * [Local Networks Go Global When Domain Names Collide](https://krebsonsecurity.com/2024/08/local-networks-go-global-when-domain-names-collide/)
@@ -83,8 +85,6 @@ A table of things ...
 * [will-moss/isaiah](https://github.com/will-moss/isaiah)
 * [Zen Browser](https://www.zen-browser.app/)
 * [OpenCTI: Open-source cyber threat intelligence platform](https://www.helpnetsecurity.com/2024/08/21/opencti-open-source-cyber-threat-intelligence-platform/)
-* [Build your own AI-powered robot: Hugging Face’s LeRobot tutorial is a game-changer](https://venturebeat.com/ai/build-your-own-ai-powered-robot-hugging-faces-lerobot-tutorial-is-a-game-changer/)
-* [Pragtical](https://pragtical.dev/)
 
 ### Things I'm star-ing
 
