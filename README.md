@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [The Open Source AI Definition – draft v. 0.0.9](https://opensource.org/deepdive/drafts/open-source-ai-definition-draft-v-0-0-9)
+* [Celebrating an important step forward for Open Source AI](https://blog.mozilla.org/en/mozilla/ai/open-source-ai-definition/)
+* [Local Networks Go Global When Domain Names Collide](https://krebsonsecurity.com/2024/08/local-networks-go-global-when-domain-names-collide/)
 * [Aerc: a Well-Crafted Tui for Email](https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/)
 * [Page 0 | 100kb](https://100kb.danhill.is/)
 * [will-moss/isaiah](https://github.com/will-moss/isaiah)
@@ -82,9 +85,6 @@ A table of things ...
 * [OpenCTI: Open-source cyber threat intelligence platform](https://www.helpnetsecurity.com/2024/08/21/opencti-open-source-cyber-threat-intelligence-platform/)
 * [Build your own AI-powered robot: Hugging Face’s LeRobot tutorial is a game-changer](https://venturebeat.com/ai/build-your-own-ai-powered-robot-hugging-faces-lerobot-tutorial-is-a-game-changer/)
 * [Pragtical](https://pragtical.dev/)
-* [Who needs GitHub Copilot when you can roll your own AI code assistant at home](https://www.theregister.com/2024/08/18/self_hosted_github_copilot/)
-* [Lenticular Clock](https://www.instructables.com/Lenticular-Clock/)
-* [You must use global Git ignore!](https://eddiejaoude.substack.com/p/you-must-use-your-global-git-ignore)
 
 ### Things I'm star-ing
 
