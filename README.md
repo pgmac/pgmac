@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [chartdb/chartdb](https://github.com/chartdb/chartdb)
 * [OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
 * [Proton VPN Finally Adds WireGuard Support for Linux Users](https://news.itsfoss.com/protonvpn-wireguard-linux/)
 * [Microsoft formally deprecates the 39-year-old Windows Control Panel](https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Aerc: a Well-Crafted Tui for Email](https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/)
 * [Page 0 | 100kb](https://100kb.danhill.is/)
 * [will-moss/isaiah](https://github.com/will-moss/isaiah)
-* [Zen Browser](https://www.zen-browser.app/)
 
 ### Things I'm star-ing
 
