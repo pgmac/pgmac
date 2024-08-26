@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [DuckDuckGo AI Chat at DuckDuckGo](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1)
+* [What to know about messaging platform Telegram and the arrest of its founder in France](https://www.abc.net.au/news/2024-08-26/telegram-founder-pavel-durov-arrested/104269480)
+* [](https://academy.apnic.net/en/catalog)
+* [CUE](https://cuelang.org/)
 * [chartdb/chartdb](https://github.com/chartdb/chartdb)
 * [OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
 * [Proton VPN Finally Adds WireGuard Support for Linux Users](https://news.itsfoss.com/protonvpn-wireguard-linux/)
 * [Microsoft formally deprecates the 39-year-old Windows Control Panel](https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/)
 * [The Open Source AI Definition – draft v. 0.0.9](https://opensource.org/deepdive/drafts/open-source-ai-definition-draft-v-0-0-9)
 * [Celebrating an important step forward for Open Source AI](https://blog.mozilla.org/en/mozilla/ai/open-source-ai-definition/)
-* [Local Networks Go Global When Domain Names Collide](https://krebsonsecurity.com/2024/08/local-networks-go-global-when-domain-names-collide/)
-* [Aerc: a Well-Crafted Tui for Email](https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/)
-* [Page 0 | 100kb](https://100kb.danhill.is/)
-* [will-moss/isaiah](https://github.com/will-moss/isaiah)
 
 ### Things I'm star-ing
 
@@ -113,6 +113,7 @@ A table of things ...
 
 ### My Blog Posts
 
+* [Some things I found interesting from 2024-08-18 to 2024-08-25](https://pgmac.net.au/last-week/2024/08/25/interesting-last-week.html)
 * [Some things I found interesting from 2024-08-11 to 2024-08-18](https://pgmac.net.au/last-week/2024/08/18/interesting-last-week.html)
 * [Some things I found interesting from 2024-08-04 to 2024-08-11](https://pgmac.net.au/last-week/2024/08/11/interesting-last-week.html)
 * [Some things I found interesting from 2024-07-28 to 2024-08-04](https://pgmac.net.au/last-week/2024/08/04/interesting-last-week.html)
@@ -122,4 +123,3 @@ A table of things ...
 * [Some things I found interesting from 2024-06-30 to 2024-07-07](https://pgmac.net.au/last-week/2024/07/07/interesting-last-week.html)
 * [Some things I found interesting from 2024-06-09 to 2024-06-16](https://pgmac.net.au/last-week/2024/06/16/interesting-last-week.html)
 * [Microk8s Control Plane API Load Balancing](https://pgmac.net.au/technology/2024/06/09/microk8s-api-load-balancing.html)
-* [Some things I found interesting from 2024-06-02 to 2024-06-09](https://pgmac.net.au/last-week/2024/06/09/interesting-last-week.html)
