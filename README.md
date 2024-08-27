@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Nuclei: Open-source vulnerability scanner](https://www.helpnetsecurity.com/2024/08/26/nuclei-open-source-vulnerability-scanner/)
+* [Dokku: my favorite personal serverless platform](https://hamel.dev/blog/posts/dokku/)
+* [Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (1982)](https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/Historical-Releases/View/Article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/)
 * [DuckDuckGo AI Chat at DuckDuckGo](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1)
 * [What to know about messaging platform Telegram and the arrest of its founder in France](https://www.abc.net.au/news/2024-08-26/telegram-founder-pavel-durov-arrested/104269480)
 * [](https://academy.apnic.net/en/catalog)
@@ -82,9 +85,6 @@ A table of things ...
 * [chartdb/chartdb](https://github.com/chartdb/chartdb)
 * [OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
 * [Proton VPN Finally Adds WireGuard Support for Linux Users](https://news.itsfoss.com/protonvpn-wireguard-linux/)
-* [Microsoft formally deprecates the 39-year-old Windows Control Panel](https://arstechnica.com/gadgets/2024/08/microsoft-formally-deprecates-the-39-year-old-windows-control-panel/)
-* [The Open Source AI Definition – draft v. 0.0.9](https://opensource.org/deepdive/drafts/open-source-ai-definition-draft-v-0-0-9)
-* [Celebrating an important step forward for Open Source AI](https://blog.mozilla.org/en/mozilla/ai/open-source-ai-definition/)
 
 ### Things I'm star-ing
 
