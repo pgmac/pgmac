@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [ChartDB](https://chartdb.io/)
+* [Assist - Talking to Home Assistant](https://www.home-assistant.io/voice_control/)
 * [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
 * [Free Public APIs](https://www.freepublicapis.com/)
 * [Nuclei: Open-source vulnerability scanner](https://www.helpnetsecurity.com/2024/08/26/nuclei-open-source-vulnerability-scanner/)
@@ -83,8 +85,6 @@ A table of things ...
 * [DuckDuckGo AI Chat at DuckDuckGo](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1)
 * [What to know about messaging platform Telegram and the arrest of its founder in France](https://www.abc.net.au/news/2024-08-26/telegram-founder-pavel-durov-arrested/104269480)
 * [](https://academy.apnic.net/en/catalog)
-* [CUE](https://cuelang.org/)
-* [chartdb/chartdb](https://github.com/chartdb/chartdb)
 
 ### Things I'm star-ing
 
