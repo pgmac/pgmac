@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
+* [Free Public APIs](https://www.freepublicapis.com/)
 * [Nuclei: Open-source vulnerability scanner](https://www.helpnetsecurity.com/2024/08/26/nuclei-open-source-vulnerability-scanner/)
 * [Dokku: my favorite personal serverless platform](https://hamel.dev/blog/posts/dokku/)
 * [Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (1982)](https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/Historical-Releases/View/Article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/)
@@ -83,8 +85,6 @@ A table of things ...
 * [](https://academy.apnic.net/en/catalog)
 * [CUE](https://cuelang.org/)
 * [chartdb/chartdb](https://github.com/chartdb/chartdb)
-* [OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
-* [Proton VPN Finally Adds WireGuard Support for Linux Users](https://news.itsfoss.com/protonvpn-wireguard-linux/)
 
 ### Things I'm star-ing
 
