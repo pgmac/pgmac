@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Elasticsearch is open source, again](https://www.elastic.co/blog/elasticsearch-is-open-source-again)
 * [ChartDB](https://chartdb.io/)
 * [Assist - Talking to Home Assistant](https://www.home-assistant.io/voice_control/)
 * [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (1982)](https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/Historical-Releases/View/Article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/)
 * [DuckDuckGo AI Chat at DuckDuckGo](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1)
 * [What to know about messaging platform Telegram and the arrest of its founder in France](https://www.abc.net.au/news/2024-08-26/telegram-founder-pavel-durov-arrested/104269480)
-* [](https://academy.apnic.net/en/catalog)
 
 ### Things I'm star-ing
 
