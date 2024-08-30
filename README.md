@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [](https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf)
+* [Learn AWS Pentesting](https://www.youtube.com/playlist?list=PLMoaZm9nyKaNRN0SoR_PBVYc_RAhbZdG4)
 * [Elasticsearch is open source, again](https://www.elastic.co/blog/elasticsearch-is-open-source-again)
 * [ChartDB](https://chartdb.io/)
 * [Assist - Talking to Home Assistant](https://www.home-assistant.io/voice_control/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Nuclei: Open-source vulnerability scanner](https://www.helpnetsecurity.com/2024/08/26/nuclei-open-source-vulnerability-scanner/)
 * [Dokku: my favorite personal serverless platform](https://hamel.dev/blog/posts/dokku/)
 * [Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (1982)](https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/Historical-Releases/View/Article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/)
-* [DuckDuckGo AI Chat at DuckDuckGo](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1)
-* [What to know about messaging platform Telegram and the arrest of its founder in France](https://www.abc.net.au/news/2024-08-26/telegram-founder-pavel-durov-arrested/104269480)
 
 ### Things I'm star-ing
 
