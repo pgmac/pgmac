@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 * [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 * [](https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf)
 * [Learn AWS Pentesting](https://www.youtube.com/playlist?list=PLMoaZm9nyKaNRN0SoR_PBVYc_RAhbZdG4)
@@ -84,7 +85,6 @@ A table of things ...
 * [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
 * [Free Public APIs](https://www.freepublicapis.com/)
 * [Nuclei: Open-source vulnerability scanner](https://www.helpnetsecurity.com/2024/08/26/nuclei-open-source-vulnerability-scanner/)
-* [Dokku: my favorite personal serverless platform](https://hamel.dev/blog/posts/dokku/)
 
 ### Things I'm star-ing
 
