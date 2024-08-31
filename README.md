@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Using Fibonacci Numbers to Convert from Miles to Kilometers and Vice Versa](https://catonmat.net/fibonacci-miles-kilometers)
+* [Bypassing airport security via SQL injection](https://ian.sh/tsa)
 * [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 * [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 * [](https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf)
@@ -83,8 +85,6 @@ A table of things ...
 * [ChartDB](https://chartdb.io/)
 * [Assist - Talking to Home Assistant](https://www.home-assistant.io/voice_control/)
 * [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
-* [Free Public APIs](https://www.freepublicapis.com/)
-* [Nuclei: Open-source vulnerability scanner](https://www.helpnetsecurity.com/2024/08/26/nuclei-open-source-vulnerability-scanner/)
 
 ### Things I'm star-ing
 
