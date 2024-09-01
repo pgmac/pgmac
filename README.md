@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [What is Li-Fi? Get the Details on What Might Be the Next Big Thing for the Internet](https://www.cnet.com/home/internet/what-is-li-fi/)
 * [Using Fibonacci Numbers to Convert from Miles to Kilometers and Vice Versa](https://catonmat.net/fibonacci-miles-kilometers)
 * [Bypassing airport security via SQL injection](https://ian.sh/tsa)
 * [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
@@ -84,7 +85,6 @@ A table of things ...
 * [Elasticsearch is open source, again](https://www.elastic.co/blog/elasticsearch-is-open-source-again)
 * [ChartDB](https://chartdb.io/)
 * [Assist - Talking to Home Assistant](https://www.home-assistant.io/voice_control/)
-* [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
 
 ### Things I'm star-ing
 
