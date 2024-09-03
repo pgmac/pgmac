@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
+* [Swiss Army knife for developers](https://devtoys.app/)
 * [How Our Longest Nerve Orchestrates the Mind-Body Connection](https://www.quantamagazine.org/how-our-longest-nerve-orchestrates-the-mind-body-connection-20240826/)
 * [What is Li-Fi? Get the Details on What Might Be the Next Big Thing for the Internet](https://www.cnet.com/home/internet/what-is-li-fi/)
 * [Using Fibonacci Numbers to Convert from Miles to Kilometers and Vice Versa](https://catonmat.net/fibonacci-miles-kilometers)
@@ -83,8 +85,6 @@ A table of things ...
 * [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 * [](https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf)
 * [Learn AWS Pentesting](https://www.youtube.com/playlist?list=PLMoaZm9nyKaNRN0SoR_PBVYc_RAhbZdG4)
-* [Elasticsearch is open source, again](https://www.elastic.co/blog/elasticsearch-is-open-source-again)
-* [ChartDB](https://chartdb.io/)
 
 ### Things I'm star-ing
 
