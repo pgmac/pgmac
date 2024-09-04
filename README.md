@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [EUCLEAK](https://ninjalab.io/eucleak/)
+* [How to build an open source metrics dashboard](https://github.blog/open-source/maintainers/how-to-build-an-open-source-metrics-dashboard/)
 * [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
 * [Swiss Army knife for developers](https://devtoys.app/)
 * [How Our Longest Nerve Orchestrates the Mind-Body Connection](https://www.quantamagazine.org/how-our-longest-nerve-orchestrates-the-mind-body-connection-20240826/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Bypassing airport security via SQL injection](https://ian.sh/tsa)
 * [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 * [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
-* [](https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf)
-* [Learn AWS Pentesting](https://www.youtube.com/playlist?list=PLMoaZm9nyKaNRN0SoR_PBVYc_RAhbZdG4)
 
 ### Things I'm star-ing
 
@@ -113,6 +113,7 @@ A table of things ...
 
 ### My Blog Posts
 
+* [Some things I found interesting from 2024-08-25 to 2024-09-01](https://pgmac.net.au/last-week/2024/09/01/interesting-last-week.html)
 * [Some things I found interesting from 2024-08-18 to 2024-08-25](https://pgmac.net.au/last-week/2024/08/25/interesting-last-week.html)
 * [Some things I found interesting from 2024-08-11 to 2024-08-18](https://pgmac.net.au/last-week/2024/08/18/interesting-last-week.html)
 * [Some things I found interesting from 2024-08-04 to 2024-08-11](https://pgmac.net.au/last-week/2024/08/11/interesting-last-week.html)
@@ -122,4 +123,3 @@ A table of things ...
 * [Some things I found interesting from 2024-07-07 to 2024-07-14](https://pgmac.net.au/last-week/2024/07/14/interesting-last-week.html)
 * [Some things I found interesting from 2024-06-30 to 2024-07-07](https://pgmac.net.au/last-week/2024/07/07/interesting-last-week.html)
 * [Some things I found interesting from 2024-06-09 to 2024-06-16](https://pgmac.net.au/last-week/2024/06/16/interesting-last-week.html)
-* [Microk8s Control Plane API Load Balancing](https://pgmac.net.au/technology/2024/06/09/microk8s-api-load-balancing.html)
