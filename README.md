@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [The open source community strikes back](https://www.infoworld.com/article/3486307/the-open-source-community-strikes-back.html)
+* [ASIO director-general Mike Burgess issues warning to big tech companies they may soon be forced to unlock encrypted chats](https://www.abc.net.au/news/2024-09-05/asio-chief-mike-burgess-warns-tech-companies-encrypted-chats/104308374)
 * [EUCLEAK](https://ninjalab.io/eucleak/)
 * [How to build an open source metrics dashboard](https://github.blog/open-source/maintainers/how-to-build-an-open-source-metrics-dashboard/)
 * [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
@@ -83,8 +85,6 @@ A table of things ...
 * [What is Li-Fi? Get the Details on What Might Be the Next Big Thing for the Internet](https://www.cnet.com/home/internet/what-is-li-fi/)
 * [Using Fibonacci Numbers to Convert from Miles to Kilometers and Vice Versa](https://catonmat.net/fibonacci-miles-kilometers)
 * [Bypassing airport security via SQL injection](https://ian.sh/tsa)
-* [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
-* [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 
 ### Things I'm star-ing
 
