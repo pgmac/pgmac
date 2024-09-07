@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [nsca](https://github.com/NagiosEnterprises/nsca)
+  NSCA Passive Check Daemon
 * [isaiah](https://github.com/will-moss/isaiah)
   Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 * [dasel](https://github.com/TomWright/dasel)
@@ -108,8 +110,6 @@ A table of things ...
   Open-source dev tools for enterprise SSO. Ship SAML support this afternoon.
 * [dnstwist](https://github.com/elceef/dnstwist)
   Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
-* [amass](https://github.com/owasp-amass/amass)
-  In-depth attack surface mapping and asset discovery
 
 ### My Blog Posts
 
