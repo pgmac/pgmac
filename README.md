@@ -75,7 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [Your Name in Landsat 🛰️](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/)
+* [Your Name in Landsat 🛰️](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html)
 * [01.AI Blog](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)
 * [The open source community strikes back](https://www.infoworld.com/article/3486307/the-open-source-community-strikes-back.html)
 * [ASIO director-general Mike Burgess issues warning to big tech companies they may soon be forced to unlock encrypted chats](https://www.abc.net.au/news/2024-09-05/asio-chief-mike-burgess-warns-tech-companies-encrypted-chats/104308374)
