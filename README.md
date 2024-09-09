@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [specification](https://github.com/CycloneDX/specification)
+  OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction. SBOM, SaaSBOM, HBOM, AI/ML-BOM, CBOM, OBOM, MBOM, VDR, and VEX
 * [nsca](https://github.com/NagiosEnterprises/nsca)
   NSCA Passive Check Daemon
 * [isaiah](https://github.com/will-moss/isaiah)
@@ -108,11 +110,10 @@ A table of things ...
   Open-source Clerk/Auth0 alternative
 * [ssoready](https://github.com/ssoready/ssoready)
   Open-source dev tools for enterprise SSO. Ship SAML support this afternoon.
-* [dnstwist](https://github.com/elceef/dnstwist)
-  Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
 
 ### My Blog Posts
 
+* [Some things I found interesting from 2024-09-01 to 2024-09-08](https://pgmac.net.au/last-week/2024/09/08/interesting-last-week.html)
 * [Some things I found interesting from 2024-08-25 to 2024-09-01](https://pgmac.net.au/last-week/2024/09/01/interesting-last-week.html)
 * [Some things I found interesting from 2024-08-18 to 2024-08-25](https://pgmac.net.au/last-week/2024/08/25/interesting-last-week.html)
 * [Some things I found interesting from 2024-08-11 to 2024-08-18](https://pgmac.net.au/last-week/2024/08/18/interesting-last-week.html)
@@ -122,4 +123,3 @@ A table of things ...
 * [Some things I found interesting from 2024-07-14 to 2024-07-21](https://pgmac.net.au/last-week/2024/07/21/interesting-last-week.html)
 * [Some things I found interesting from 2024-07-07 to 2024-07-14](https://pgmac.net.au/last-week/2024/07/14/interesting-last-week.html)
 * [Some things I found interesting from 2024-06-30 to 2024-07-07](https://pgmac.net.au/last-week/2024/07/07/interesting-last-week.html)
-* [Some things I found interesting from 2024-06-09 to 2024-06-16](https://pgmac.net.au/last-week/2024/06/16/interesting-last-week.html)
