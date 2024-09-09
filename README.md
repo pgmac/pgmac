@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [](https://www.amazon.com.au/Jason-Chen-Banana-Duncan-Richardson-ebook/dp/B0022NH402)
 * [Exploiting CI / CD Pipelines for fun and profit](https://blog.razzsecurity.com/2024/09/08/exploitation-research/exploiting-ci-cd-pipelines-for-fun-and-profit/)
 * [Your Name in Landsat 🛰️](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html)
 * [01.AI Blog](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)
@@ -84,7 +85,6 @@ A table of things ...
 * [How to build an open source metrics dashboard](https://github.blog/open-source/maintainers/how-to-build-an-open-source-metrics-dashboard/)
 * [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
 * [Swiss Army knife for developers](https://devtoys.app/)
-* [How Our Longest Nerve Orchestrates the Mind-Body Connection](https://www.quantamagazine.org/how-our-longest-nerve-orchestrates-the-mind-body-connection-20240826/)
 
 ### Things I'm star-ing
 
@@ -107,7 +107,7 @@ A table of things ...
 * [sshamble](https://github.com/runZeroInc/sshamble)
   SSHamble: Unexpected Exposures in SSH
 * [stack](https://github.com/stack-auth/stack)
-  Open-source Clerk/Auth0 alternative
+  Open-source Auth0/Clerk alternative
 * [ssoready](https://github.com/ssoready/ssoready)
   Open-source dev tools for enterprise SSO. Ship SAML support this afternoon.
 
