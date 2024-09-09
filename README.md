@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Exploiting CI / CD Pipelines for fun and profit](https://blog.razzsecurity.com/2024/09/08/exploitation-research/exploiting-ci-cd-pipelines-for-fun-and-profit/)
 * [Your Name in Landsat 🛰️](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html)
 * [01.AI Blog](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)
 * [The open source community strikes back](https://www.infoworld.com/article/3486307/the-open-source-community-strikes-back.html)
@@ -84,7 +85,6 @@ A table of things ...
 * [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
 * [Swiss Army knife for developers](https://devtoys.app/)
 * [How Our Longest Nerve Orchestrates the Mind-Body Connection](https://www.quantamagazine.org/how-our-longest-nerve-orchestrates-the-mind-body-connection-20240826/)
-* [What is Li-Fi? Get the Details on What Might Be the Next Big Thing for the Internet](https://www.cnet.com/home/internet/what-is-li-fi/)
 
 ### Things I'm star-ing
 
