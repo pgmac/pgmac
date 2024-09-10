@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [pushsecurity/saas-attacks](https://github.com/pushsecurity/saas-attacks)
+* [Meteor burns up over Earth in amazing footage from space station](https://www.youtube.com/watch?v=96owQKfp2Bw)
 * [](https://www.amazon.com.au/Jason-Chen-Banana-Duncan-Richardson-ebook/dp/B0022NH402)
 * [Exploiting CI / CD Pipelines for fun and profit](https://blog.razzsecurity.com/2024/09/08/exploitation-research/exploiting-ci-cd-pipelines-for-fun-and-profit/)
 * [Your Name in Landsat 🛰️](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html)
@@ -83,11 +85,11 @@ A table of things ...
 * [ASIO director-general Mike Burgess issues warning to big tech companies they may soon be forced to unlock encrypted chats](https://www.abc.net.au/news/2024-09-05/asio-chief-mike-burgess-warns-tech-companies-encrypted-chats/104308374)
 * [EUCLEAK](https://ninjalab.io/eucleak/)
 * [How to build an open source metrics dashboard](https://github.blog/open-source/maintainers/how-to-build-an-open-source-metrics-dashboard/)
-* [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
-* [Swiss Army knife for developers](https://devtoys.app/)
 
 ### Things I'm star-ing
 
+* [saas-attacks](https://github.com/pushsecurity/saas-attacks)
+  Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown
 * [specification](https://github.com/CycloneDX/specification)
   OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction. SBOM, SaaSBOM, HBOM, AI/ML-BOM, CBOM, OBOM, MBOM, VDR, and VEX
 * [nsca](https://github.com/NagiosEnterprises/nsca)
@@ -108,8 +110,6 @@ A table of things ...
   SSHamble: Unexpected Exposures in SSH
 * [stack](https://github.com/stack-auth/stack)
   Open-source Auth0/Clerk alternative
-* [ssoready](https://github.com/ssoready/ssoready)
-  Open-source dev tools for enterprise SSO. Ship SAML support this afternoon.
 
 ### My Blog Posts
 
