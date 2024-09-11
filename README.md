@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [We Spent $20 To Achieve RCE And Accidentally Became The Admins Of .MOBI](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
 * [Radicle 1.0](https://radicle.xyz/2024/09/10/radicle-1.0.html)
 * [How to build an open source metrics dashboard](https://github.blog/open-source/maintainers/how-to-build-an-open-source-metrics-dashboard/)
 * [33 open-source cybersecurity solutions you didn’t know you needed](https://www.helpnetsecurity.com/2024/09/10/open-source-cybersec-tools/)
@@ -84,7 +85,6 @@ A table of things ...
 * [](https://www.amazon.com.au/Jason-Chen-Banana-Duncan-Richardson-ebook/dp/B0022NH402)
 * [Exploiting CI / CD Pipelines for fun and profit](https://blog.razzsecurity.com/2024/09/08/exploitation-research/exploiting-ci-cd-pipelines-for-fun-and-profit/)
 * [Your Name in Landsat 🛰️](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html)
-* [01.AI Blog](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)
 
 ### Things I'm star-ing
 
