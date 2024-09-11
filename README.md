@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [How to build an open source metrics dashboard](https://github.blog/open-source/maintainers/how-to-build-an-open-source-metrics-dashboard/)
+* [33 open-source cybersecurity solutions you didn’t know you needed](https://www.helpnetsecurity.com/2024/09/10/open-source-cybersec-tools/)
 * [How I Built an NFC Movie Library for my Kids](https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/)
 * [pushsecurity/saas-attacks](https://github.com/pushsecurity/saas-attacks)
 * [Meteor burns up over Earth in amazing footage from space station](https://www.youtube.com/watch?v=96owQKfp2Bw)
@@ -83,8 +85,6 @@ A table of things ...
 * [Your Name in Landsat 🛰️](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html)
 * [01.AI Blog](https://01-ai.github.io/blog.html?post=en/2024-09-05-A-Small-but-Mighty-LLM-for-Code.md)
 * [The open source community strikes back](https://www.infoworld.com/article/3486307/the-open-source-community-strikes-back.html)
-* [ASIO director-general Mike Burgess issues warning to big tech companies they may soon be forced to unlock encrypted chats](https://www.abc.net.au/news/2024-09-05/asio-chief-mike-burgess-warns-tech-companies-encrypted-chats/104308374)
-* [EUCLEAK](https://ninjalab.io/eucleak/)
 
 ### Things I'm star-ing
 
