@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [](https://www.smbc-comics.com/comic/haiku)
 * [We Spent $20 To Achieve RCE And Accidentally Became The Admins Of .MOBI](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
 * [Radicle 1.0](https://radicle.xyz/2024/09/10/radicle-1.0.html)
 * [How to build an open source metrics dashboard](https://github.blog/open-source/maintainers/how-to-build-an-open-source-metrics-dashboard/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Meteor burns up over Earth in amazing footage from space station](https://www.youtube.com/watch?v=96owQKfp2Bw)
 * [](https://www.amazon.com.au/Jason-Chen-Banana-Duncan-Richardson-ebook/dp/B0022NH402)
 * [Exploiting CI / CD Pipelines for fun and profit](https://blog.razzsecurity.com/2024/09/08/exploitation-research/exploiting-ci-cd-pipelines-for-fun-and-profit/)
-* [Your Name in Landsat 🛰️](https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html)
 
 ### Things I'm star-ing
 
