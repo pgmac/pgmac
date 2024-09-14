@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [x.com](https://twitter.com/x/migrate?tok=7b2265223a222f536d6f6b654177617979792f7374617475732f313833343634313337303438363931353431373f743d436f7a2d6d68646255426c64516e534664667739706726733d3039222c2274223a313732363236333031397ddcbb3543142506298abd8d43296eda44)
 * [](https://openai.com/o1/)
 * [](https://www.smbc-comics.com/comic/haiku)
 * [We Spent $20 To Achieve RCE And Accidentally Became The Admins Of .MOBI](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
@@ -84,7 +85,6 @@ A table of things ...
 * [How I Built an NFC Movie Library for my Kids](https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/)
 * [pushsecurity/saas-attacks](https://github.com/pushsecurity/saas-attacks)
 * [Meteor burns up over Earth in amazing footage from space station](https://www.youtube.com/watch?v=96owQKfp2Bw)
-* [](https://www.amazon.com.au/Jason-Chen-Banana-Duncan-Richardson-ebook/dp/B0022NH402)
 
 ### Things I'm star-ing
 
