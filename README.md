@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [The Bastard Operator From Hell Complete](http://bofh.bjash.com/)
+* [](https://microk8s.io/docs/addon-mayastor)
 * [Addon: Trivy](https://discuss.kubernetes.io/t/addon-trivy/23797)
 * [x.com](https://twitter.com/x/migrate?tok=7b2265223a222f536d6f6b654177617979792f7374617475732f313833343634313337303438363931353431373f743d436f7a2d6d68646255426c64516e534664667739706726733d3039222c2274223a313732363236333031397ddcbb3543142506298abd8d43296eda44)
 * [](https://openai.com/o1/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Radicle 1.0](https://radicle.xyz/2024/09/10/radicle-1.0.html)
 * [How to build an open source metrics dashboard](https://github.blog/open-source/maintainers/how-to-build-an-open-source-metrics-dashboard/)
 * [33 open-source cybersecurity solutions you didn’t know you needed](https://www.helpnetsecurity.com/2024/09/10/open-source-cybersec-tools/)
-* [How I Built an NFC Movie Library for my Kids](https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/)
-* [pushsecurity/saas-attacks](https://github.com/pushsecurity/saas-attacks)
 
 ### Things I'm star-ing
 
