@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [SpaceX Polaris Dawn spacewalk! See the first-ever private egress from crew](https://youtu.be/Jd2ZcpirFew?si=Z4LOg0o63j87zKQ4)
+* [Platform Engineering Is Security Engineering](https://www.darkreading.com/application-security/platform-engineering-is-security-engineering)
+* [NetworkManager or networkd](https://lwn.net/Articles/990281/)
 * [The Bastard Operator From Hell Complete](http://bofh.bjash.com/)
 * [](https://microk8s.io/docs/addon-mayastor)
 * [Addon: Trivy](https://discuss.kubernetes.io/t/addon-trivy/23797)
@@ -82,9 +85,6 @@ A table of things ...
 * [](https://openai.com/o1/)
 * [](https://www.smbc-comics.com/comic/haiku)
 * [We Spent $20 To Achieve RCE And Accidentally Became The Admins Of .MOBI](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
-* [Radicle 1.0](https://radicle.xyz/2024/09/10/radicle-1.0.html)
-* [How to build an open source metrics dashboard](https://github.blog/open-source/maintainers/how-to-build-an-open-source-metrics-dashboard/)
-* [33 open-source cybersecurity solutions you didn’t know you needed](https://www.helpnetsecurity.com/2024/09/10/open-source-cybersec-tools/)
 
 ### Things I'm star-ing
 
