@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [WhenTaken](https://whentaken.com/)
+* [BULLSHIT REMOVER](https://www.bullshitremover.com/)
 * [SpaceX Polaris Dawn spacewalk! See the first-ever private egress from crew](https://youtu.be/Jd2ZcpirFew?si=Z4LOg0o63j87zKQ4)
 * [Platform Engineering Is Security Engineering](https://www.darkreading.com/application-security/platform-engineering-is-security-engineering)
 * [NetworkManager or networkd](https://lwn.net/Articles/990281/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Addon: Trivy](https://discuss.kubernetes.io/t/addon-trivy/23797)
 * [x.com](https://twitter.com/x/migrate?tok=7b2265223a222f536d6f6b654177617979792f7374617475732f313833343634313337303438363931353431373f743d436f7a2d6d68646255426c64516e534664667739706726733d3039222c2274223a313732363236333031397ddcbb3543142506298abd8d43296eda44)
 * [](https://openai.com/o1/)
-* [](https://www.smbc-comics.com/comic/haiku)
-* [We Spent $20 To Achieve RCE And Accidentally Became The Admins Of .MOBI](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
 
 ### Things I'm star-ing
 
