@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [A word about systemd](https://skarnet.org/software/systemd.html)
 * [](https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/)
 * [WhenTaken](https://whentaken.com/)
 * [BULLSHIT REMOVER](https://www.bullshitremover.com/)
@@ -84,7 +85,6 @@ A table of things ...
 * [The Bastard Operator From Hell Complete](http://bofh.bjash.com/)
 * [](https://microk8s.io/docs/addon-mayastor)
 * [Addon: Trivy](https://discuss.kubernetes.io/t/addon-trivy/23797)
-* [x.com](https://twitter.com/x/migrate?tok=7b2265223a222f536d6f6b654177617979792f7374617475732f313833343634313337303438363931353431373f743d436f7a2d6d68646255426c64516e534664667739706726733d3039222c2274223a313732363236333031397ddcbb3543142506298abd8d43296eda44)
 
 ### Things I'm star-ing
 
