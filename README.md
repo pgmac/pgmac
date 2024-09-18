@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Ubuntu Adds a New Authentication Feature](https://news.itsfoss.com/ubuntu-authd/)
 * [The Lego Great Ball Contraption](https://kottke.org/24/09/the-lego-great-ball-contraption)
 * [A word about systemd](https://skarnet.org/software/systemd.html)
 * [](https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Platform Engineering Is Security Engineering](https://www.darkreading.com/application-security/platform-engineering-is-security-engineering)
 * [NetworkManager or networkd](https://lwn.net/Articles/990281/)
 * [The Bastard Operator From Hell Complete](http://bofh.bjash.com/)
-* [](https://microk8s.io/docs/addon-mayastor)
 
 ### Things I'm star-ing
 
