@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [This Windows PowerShell Phish Has Scary Potential](https://krebsonsecurity.com/2024/09/this-windows-powershell-phish-has-scary-potential/)
+* [Area 5150 by CRTC & Hornet (Party Version) / IBM PC+CGA Demo, Hardware Capture](https://www.youtube.com/watch?v=fWDxdoRTZPc)
 * [IBM Acquires Kubecost to Broaden Hybrid Cloud Cost Management Capabilities](https://newsroom.ibm.com/blog-ibm-acquires-kubecost-to-broaden-hybrid-cloud-cost-management-capabilities)
 * [Ubuntu Adds a New Authentication Feature](https://news.itsfoss.com/ubuntu-authd/)
 * [The Lego Great Ball Contraption](https://kottke.org/24/09/the-lego-great-ball-contraption)
@@ -83,8 +85,6 @@ A table of things ...
 * [WhenTaken](https://whentaken.com/)
 * [BULLSHIT REMOVER](https://www.bullshitremover.com/)
 * [SpaceX Polaris Dawn spacewalk! See the first-ever private egress from crew](https://youtu.be/Jd2ZcpirFew?si=Z4LOg0o63j87zKQ4)
-* [Platform Engineering Is Security Engineering](https://www.darkreading.com/application-security/platform-engineering-is-security-engineering)
-* [NetworkManager or networkd](https://lwn.net/Articles/990281/)
 
 ### Things I'm star-ing
 
