@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Linux/4004](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
 * [This Windows PowerShell Phish Has Scary Potential](https://krebsonsecurity.com/2024/09/this-windows-powershell-phish-has-scary-potential/)
 * [Area 5150 by CRTC & Hornet (Party Version) / IBM PC+CGA Demo, Hardware Capture](https://www.youtube.com/watch?v=fWDxdoRTZPc)
 * [IBM Acquires Kubecost to Broaden Hybrid Cloud Cost Management Capabilities](https://newsroom.ibm.com/blog-ibm-acquires-kubecost-to-broaden-hybrid-cloud-cost-management-capabilities)
@@ -84,7 +85,6 @@ A table of things ...
 * [](https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/)
 * [WhenTaken](https://whentaken.com/)
 * [BULLSHIT REMOVER](https://www.bullshitremover.com/)
-* [SpaceX Polaris Dawn spacewalk! See the first-ever private egress from crew](https://youtu.be/Jd2ZcpirFew?si=Z4LOg0o63j87zKQ4)
 
 ### Things I'm star-ing
 
