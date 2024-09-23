@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Secure by design with AI-generated & automated threat modeling](https://www.iriusrisk.com/)
 * [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
 * [Threagile — Agile Threat Modeling Toolkit](https://threagile.io/)
 * [Linux/4004](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
@@ -84,7 +85,6 @@ A table of things ...
 * [Ubuntu Adds a New Authentication Feature](https://news.itsfoss.com/ubuntu-authd/)
 * [The Lego Great Ball Contraption](https://kottke.org/24/09/the-lego-great-ball-contraption)
 * [A word about systemd](https://skarnet.org/software/systemd.html)
-* [](https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/)
 
 ### Things I'm star-ing
 
