@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
+* [Threagile — Agile Threat Modeling Toolkit](https://threagile.io/)
 * [Linux/4004](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
 * [This Windows PowerShell Phish Has Scary Potential](https://krebsonsecurity.com/2024/09/this-windows-powershell-phish-has-scary-potential/)
 * [Area 5150 by CRTC & Hornet (Party Version) / IBM PC+CGA Demo, Hardware Capture](https://www.youtube.com/watch?v=fWDxdoRTZPc)
@@ -83,11 +85,13 @@ A table of things ...
 * [The Lego Great Ball Contraption](https://kottke.org/24/09/the-lego-great-ball-contraption)
 * [A word about systemd](https://skarnet.org/software/systemd.html)
 * [](https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/)
-* [WhenTaken](https://whentaken.com/)
-* [BULLSHIT REMOVER](https://www.bullshitremover.com/)
 
 ### Things I'm star-ing
 
+* [threagile](https://github.com/Threagile/threagile)
+  Agile Threat Modeling Toolkit
+* [pytm](https://github.com/izar/pytm)
+  A Pythonic framework for threat modeling
 * [saas-attacks](https://github.com/pushsecurity/saas-attacks)
   Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown
 * [specification](https://github.com/CycloneDX/specification)
@@ -106,13 +110,10 @@ A table of things ...
   Multi-Cloud Security Auditing Tool
 * [wazuh-ruleset](https://github.com/wazuh/wazuh-ruleset)
   Wazuh - Ruleset
-* [sshamble](https://github.com/runZeroInc/sshamble)
-  SSHamble: Unexpected Exposures in SSH
-* [stack](https://github.com/stack-auth/stack)
-  Open-source Auth0/Clerk alternative
 
 ### My Blog Posts
 
+* [Some things I found interesting from 2024-09-15 to 2024-09-22](https://pgmac.net.au/last-week/2024/09/22/interesting-last-week.html)
 * [Some things I found interesting from 2024-09-08 to 2024-09-15](https://pgmac.net.au/last-week/2024/09/15/interesting-last-week.html)
 * [Some things I found interesting from 2024-09-01 to 2024-09-08](https://pgmac.net.au/last-week/2024/09/08/interesting-last-week.html)
 * [Some things I found interesting from 2024-08-25 to 2024-09-01](https://pgmac.net.au/last-week/2024/09/01/interesting-last-week.html)
@@ -122,4 +123,3 @@ A table of things ...
 * [Some things I found interesting from 2024-07-28 to 2024-08-04](https://pgmac.net.au/last-week/2024/08/04/interesting-last-week.html)
 * [Some things I found interesting from 2024-07-21 to 2024-07-28](https://pgmac.net.au/last-week/2024/07/28/interesting-last-week.html)
 * [Some things I found interesting from 2024-07-14 to 2024-07-21](https://pgmac.net.au/last-week/2024/07/21/interesting-last-week.html)
-* [Some things I found interesting from 2024-07-07 to 2024-07-14](https://pgmac.net.au/last-week/2024/07/14/interesting-last-week.html)
