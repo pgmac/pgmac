@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [The Edge of the Moon](https://www.youtube.com/watch?v=Rul3V3BhO5g)
+* [](https://microk8s.io/docs/addon-mayastor)
 * [Secure by design with AI-generated & automated threat modeling](https://www.iriusrisk.com/)
 * [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
 * [Threagile — Agile Threat Modeling Toolkit](https://threagile.io/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Area 5150 by CRTC & Hornet (Party Version) / IBM PC+CGA Demo, Hardware Capture](https://www.youtube.com/watch?v=fWDxdoRTZPc)
 * [IBM Acquires Kubecost to Broaden Hybrid Cloud Cost Management Capabilities](https://newsroom.ibm.com/blog-ibm-acquires-kubecost-to-broaden-hybrid-cloud-cost-management-capabilities)
 * [Ubuntu Adds a New Authentication Feature](https://news.itsfoss.com/ubuntu-authd/)
-* [The Lego Great Ball Contraption](https://kottke.org/24/09/the-lego-great-ball-contraption)
-* [A word about systemd](https://skarnet.org/software/systemd.html)
 
 ### Things I'm star-ing
 
