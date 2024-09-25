@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)
 * [The Edge of the Moon](https://www.youtube.com/watch?v=Rul3V3BhO5g)
 * [](https://microk8s.io/docs/addon-mayastor)
 * [Secure by design with AI-generated & automated threat modeling](https://www.iriusrisk.com/)
@@ -84,7 +85,6 @@ A table of things ...
 * [This Windows PowerShell Phish Has Scary Potential](https://krebsonsecurity.com/2024/09/this-windows-powershell-phish-has-scary-potential/)
 * [Area 5150 by CRTC & Hornet (Party Version) / IBM PC+CGA Demo, Hardware Capture](https://www.youtube.com/watch?v=fWDxdoRTZPc)
 * [IBM Acquires Kubecost to Broaden Hybrid Cloud Cost Management Capabilities](https://newsroom.ibm.com/blog-ibm-acquires-kubecost-to-broaden-hybrid-cloud-cost-management-capabilities)
-* [Ubuntu Adds a New Authentication Feature](https://news.itsfoss.com/ubuntu-authd/)
 
 ### Things I'm star-ing
 
