@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)
-* [The Edge of the Moon](https://www.youtube.com/watch?v=Rul3V3BhO5g)
-* [](https://microk8s.io/docs/addon-mayastor)
 * [Secure by design with AI-generated & automated threat modeling](https://www.iriusrisk.com/)
-* [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
 * [Threagile — Agile Threat Modeling Toolkit](https://threagile.io/)
-* [Linux/4004](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
+* [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
+* [](https://microk8s.io/docs/addon-mayastor)
 * [This Windows PowerShell Phish Has Scary Potential](https://krebsonsecurity.com/2024/09/this-windows-powershell-phish-has-scary-potential/)
-* [Area 5150 by CRTC & Hornet (Party Version) / IBM PC+CGA Demo, Hardware Capture](https://www.youtube.com/watch?v=fWDxdoRTZPc)
-* [IBM Acquires Kubecost to Broaden Hybrid Cloud Cost Management Capabilities](https://newsroom.ibm.com/blog-ibm-acquires-kubecost-to-broaden-hybrid-cloud-cost-management-capabilities)
+* [Linux/4004](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
+* [The Edge of the Moon](https://www.youtube.com/watch?v=Rul3V3BhO5g)
+* [Google Photos rolls out new AI video editing tools, as previously spotted by Android Authority](https://www.androidauthority.com/google-photos-video-editing-ai-presets-new-tools-3484389/)
+* [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)
+* [](https://cybersecuritynews.com/critical-unauthenticated-rce-flaw/)
 
 ### Things I'm star-ing
 
