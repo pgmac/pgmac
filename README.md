@@ -79,12 +79,12 @@ A table of things ...
 * [Threagile — Agile Threat Modeling Toolkit](https://threagile.io/)
 * [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
 * [](https://microk8s.io/docs/addon-mayastor)
-* [This Windows PowerShell Phish Has Scary Potential](https://krebsonsecurity.com/2024/09/this-windows-powershell-phish-has-scary-potential/)
-* [Linux/4004](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
 * [The Edge of the Moon](https://www.youtube.com/watch?v=Rul3V3BhO5g)
 * [Google Photos rolls out new AI video editing tools, as previously spotted by Android Authority](https://www.androidauthority.com/google-photos-video-editing-ai-presets-new-tools-3484389/)
 * [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)
 * [](https://cybersecuritynews.com/critical-unauthenticated-rce-flaw/)
+* [NIST Drops Password Complexity, Mandatory Reset Rules](https://www.darkreading.com/identity-access-management-security/nist-drops-password-complexity-mandatory-reset-rules)
+* [Doomsday 9.9 RCE bug could hit every Linux system - and more](https://www.theregister.com/2024/09/26/unauthenticated_rce_bug_linux/)
 
 ### Things I'm star-ing
 
