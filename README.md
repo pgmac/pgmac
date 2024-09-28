@@ -76,7 +76,6 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [Secure by design with AI-generated & automated threat modeling](https://www.iriusrisk.com/)
-* [Threagile — Agile Threat Modeling Toolkit](https://threagile.io/)
 * [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
 * [](https://microk8s.io/docs/addon-mayastor)
 * [The Edge of the Moon](https://www.youtube.com/watch?v=Rul3V3BhO5g)
@@ -85,6 +84,7 @@ A table of things ...
 * [](https://cybersecuritynews.com/critical-unauthenticated-rce-flaw/)
 * [NIST Drops Password Complexity, Mandatory Reset Rules](https://www.darkreading.com/identity-access-management-security/nist-drops-password-complexity-mandatory-reset-rules)
 * [Doomsday 9.9 RCE bug could hit every Linux system - and more](https://www.theregister.com/2024/09/26/unauthenticated_rce_bug_linux/)
+* [SAML: A technical primer](https://ssoready.com/docs/saml/saml-technical-primer)
 
 ### Things I'm star-ing
 
