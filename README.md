@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [displaylink-debian](https://github.com/AdnanHodzic/displaylink-debian)
+  DisplayLink driver installer for Debian and Ubuntu based Linux distributions.
 * [threagile](https://github.com/Threagile/threagile)
   Agile Threat Modeling Toolkit
 * [pytm](https://github.com/izar/pytm)
@@ -108,8 +110,6 @@ A table of things ...
   Stream custom live channels using your own media
 * [ScoutSuite](https://github.com/nccgroup/ScoutSuite)
   Multi-Cloud Security Auditing Tool
-* [wazuh-ruleset](https://github.com/wazuh/wazuh-ruleset)
-  Wazuh - Ruleset
 
 ### My Blog Posts
 
