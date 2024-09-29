@@ -76,7 +76,6 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [Secure by design with AI-generated & automated threat modeling](https://www.iriusrisk.com/)
-* [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
 * [](https://microk8s.io/docs/addon-mayastor)
 * [The Edge of the Moon](https://www.youtube.com/watch?v=Rul3V3BhO5g)
 * [Google Photos rolls out new AI video editing tools, as previously spotted by Android Authority](https://www.androidauthority.com/google-photos-video-editing-ai-presets-new-tools-3484389/)
@@ -85,6 +84,7 @@ A table of things ...
 * [NIST Drops Password Complexity, Mandatory Reset Rules](https://www.darkreading.com/identity-access-management-security/nist-drops-password-complexity-mandatory-reset-rules)
 * [Doomsday 9.9 RCE bug could hit every Linux system - and more](https://www.theregister.com/2024/09/26/unauthenticated_rce_bug_linux/)
 * [SAML: A technical primer](https://ssoready.com/docs/saml/saml-technical-primer)
+* [SpaceX launches rescue mission for 2 NASA astronauts who are stuck in space until next year](https://apnews.com/article/spacex-launch-boeing-nasa-stuck-astronauts-e179d0dc6c77d224278fd0430148ff8b)
 
 ### Things I'm star-ing
 
