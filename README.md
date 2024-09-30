@@ -92,7 +92,7 @@ A table of things ...
   DisplayLink driver installer for Debian and Ubuntu based Linux distributions.
 * [threagile](https://github.com/Threagile/threagile)
   Agile Threat Modeling Toolkit
-* [pytm](https://github.com/izar/pytm)
+* [pytm](https://github.com/OWASP/pytm)
   A Pythonic framework for threat modeling
 * [saas-attacks](https://github.com/pushsecurity/saas-attacks)
   Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown
