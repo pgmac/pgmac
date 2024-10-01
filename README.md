@@ -76,7 +76,6 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [Google Photos rolls out new AI video editing tools, as previously spotted by Android Authority](https://www.androidauthority.com/google-photos-video-editing-ai-presets-new-tools-3484389/)
-* [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)
 * [](https://cybersecuritynews.com/critical-unauthenticated-rce-flaw/)
 * [NIST Drops Password Complexity, Mandatory Reset Rules](https://www.darkreading.com/identity-access-management-security/nist-drops-password-complexity-mandatory-reset-rules)
 * [Doomsday 9.9 RCE bug could hit every Linux system - and more](https://www.theregister.com/2024/09/26/unauthenticated_rce_bug_linux/)
@@ -85,6 +84,7 @@ A table of things ...
 * [FreeBSD Wants More People Using It on Laptops and Here’s Their Plan](https://news.itsfoss.com/freebsd-laptop-adoption/)
 * [Pulumi, System Initiative Step Up To Challenge IBM’s HashiCorp](https://www.forbes.com/sites/rscottraynovich/2024/09/30/pulumi-system-initiative-step-up-to-challenge-ibms-hashicorp/)
 * [Boris Vallejo and the Pixel Art of the Demoscene](https://marincomics.com/vallejo-pixelart.html)
+* [Evolving GitHub Issues (Public Preview)](https://github.blog/changelog/2024-10-01-evolving-github-issues-public-preview/)
 
 ### Things I'm star-ing
 
