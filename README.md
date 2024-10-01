@@ -75,8 +75,6 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [](https://microk8s.io/docs/addon-mayastor)
-* [The Edge of the Moon](https://www.youtube.com/watch?v=Rul3V3BhO5g)
 * [Google Photos rolls out new AI video editing tools, as previously spotted by Android Authority](https://www.androidauthority.com/google-photos-video-editing-ai-presets-new-tools-3484389/)
 * [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp)
 * [](https://cybersecuritynews.com/critical-unauthenticated-rce-flaw/)
@@ -85,6 +83,8 @@ A table of things ...
 * [SAML: A technical primer](https://ssoready.com/docs/saml/saml-technical-primer)
 * [SpaceX launches rescue mission for 2 NASA astronauts who are stuck in space until next year](https://apnews.com/article/spacex-launch-boeing-nasa-stuck-astronauts-e179d0dc6c77d224278fd0430148ff8b)
 * [FreeBSD Wants More People Using It on Laptops and Here’s Their Plan](https://news.itsfoss.com/freebsd-laptop-adoption/)
+* [Pulumi, System Initiative Step Up To Challenge IBM’s HashiCorp](https://www.forbes.com/sites/rscottraynovich/2024/09/30/pulumi-system-initiative-step-up-to-challenge-ibms-hashicorp/)
+* [Boris Vallejo and the Pixel Art of the Demoscene](https://marincomics.com/vallejo-pixelart.html)
 
 ### Things I'm star-ing
 
