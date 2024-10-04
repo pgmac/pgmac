@@ -75,8 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Cartographist](https://szymonkaliski.com/projects/cartographist/)
 * [ESO telescope captures the most detailed infrared map ever of our Milky Way](https://www.eso.org/public/news/eso2413/)
-* [SpaceX launches rescue mission for 2 NASA astronauts who are stuck in space until next year](https://apnews.com/article/spacex-launch-boeing-nasa-stuck-astronauts-e179d0dc6c77d224278fd0430148ff8b)
 * [BOP SPOTTER](https://walzr.com/bop-spotter)
 * [FreeBSD Wants More People Using It on Laptops and Here’s Their Plan](https://news.itsfoss.com/freebsd-laptop-adoption/)
 * [Doom finally ported to quantum computers, and you can play it now](https://www.neowin.net/news/doom-finally-ported-to-quantum-computers-and-you-can-play-it-now/)
@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [cartographist](https://github.com/szymonkaliski/cartographist)
+  experimental web browser optimized for rabbit-holing
 * [displaylink-debian](https://github.com/AdnanHodzic/displaylink-debian)
   DisplayLink driver installer for Debian and Ubuntu based Linux distributions.
 * [threagile](https://github.com/Threagile/threagile)
@@ -108,8 +110,6 @@ A table of things ...
   A bash script to query our API for public domain artworks and render them as ASCII art
 * [ErsatzTV](https://github.com/ErsatzTV/ErsatzTV)
   Stream custom live channels using your own media
-* [ScoutSuite](https://github.com/nccgroup/ScoutSuite)
-  Multi-Cloud Security Auditing Tool
 
 ### My Blog Posts
 
