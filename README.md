@@ -78,13 +78,13 @@ A table of things ...
 * [Cartographist](https://szymonkaliski.com/projects/cartographist/)
 * [ESO telescope captures the most detailed infrared map ever of our Milky Way](https://www.eso.org/public/news/eso2413/)
 * [BOP SPOTTER](https://walzr.com/bop-spotter)
-* [FreeBSD Wants More People Using It on Laptops and Here’s Their Plan](https://news.itsfoss.com/freebsd-laptop-adoption/)
 * [Doom finally ported to quantum computers, and you can play it now](https://www.neowin.net/news/doom-finally-ported-to-quantum-computers-and-you-can-play-it-now/)
 * [Pulumi, System Initiative Step Up To Challenge IBM’s HashiCorp](https://www.forbes.com/sites/rscottraynovich/2024/09/30/pulumi-system-initiative-step-up-to-challenge-ibms-hashicorp/)
 * [Boris Vallejo and the Pixel Art of the Demoscene](https://marincomics.com/vallejo-pixelart.html)
 * [Evolving GitHub Issues (Public Preview)](https://github.blog/changelog/2024-10-01-evolving-github-issues-public-preview/)
 * [How Cloudflare auto-mitigated world record 3.8 Tbps DDoS attack](https://blog.cloudflare.com/how-cloudflare-auto-mitigated-world-record-3-8-tbps-ddos-attack)
 * [An adult fruit fly brain has been mapped—human brains could follow](https://archive.is/vBUjt)
+* [UNSW delivers atomic quantum computing breakthrough](https://www.innovationaus.com/unsw-delivers-atomic-quantum-computing-breakthrough/)
 
 ### Things I'm star-ing
 
