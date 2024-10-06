@@ -75,9 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [What do you want to show?](https://datavizcatalogue.com/search.html)
 * [Why does man print "gimme gimme gimme" at 00:30?](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
 * [Cartographist](https://szymonkaliski.com/projects/cartographist/)
-* [ESO telescope captures the most detailed infrared map ever of our Milky Way](https://www.eso.org/public/news/eso2413/)
 * [Doom finally ported to quantum computers, and you can play it now](https://www.neowin.net/news/doom-finally-ported-to-quantum-computers-and-you-can-play-it-now/)
 * [How Cloudflare auto-mitigated world record 3.8 Tbps DDoS attack](https://blog.cloudflare.com/how-cloudflare-auto-mitigated-world-record-3-8-tbps-ddos-attack)
 * [An adult fruit fly brain has been mapped—human brains could follow](https://archive.is/vBUjt)
