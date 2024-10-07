@@ -28,7 +28,7 @@ def pocket_pop():
         articles = p.retrieve(offset=0, count=10)
         for url in articles['list'].values():
             # print("* [{}]({})\n".format(url['resolved_title'], url['resolved_url']))
-            retstr += "* [{}]({})\n".format(url['resolved_title'], url['resolved_url'])
+            retstr += "* [{}]({})\n".format(url.get('resolved_title', '&nbsp;'), url.git('resolved_url', '#'))
     except PocketException as e:
         print(e.message)
 
