@@ -76,11 +76,11 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [What do you want to show?](https://datavizcatalogue.com/search.html)
-* [Why does man print "gimme gimme gimme" at 00:30?](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
+* [Apple II Source Listings](https://6502disassembly.com/other-a2.html)
 * [sq](https://sq.io/)
 * [Show HN: A real time AI video agent with under 1 second of latency](https://news.ycombinator.com/item?id=41710227)
 * [Google’s AI podcast hosts have existential crisis when they find out they’re not real](https://www.techradar.com/computing/artificial-intelligence/google-s-ai-podcast-hosts-have-existential-crisis-when-they-find-out-they-re-not-real)
-* [Getting my daily news from a dot matrix printer](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)
+* [Tip: You Can Change Pixel Buds Settings on Windows, Mac](https://www.droid-life.com/2024/10/02/change-pixel-buds-settings-on-windows-mac/)
 * [When Earth Had Rings](https://nautil.us/when-earth-had-rings-920177/)
 * [Wi-Fi Goes Long Range on New WiLo Standard](https://spectrum.ieee.org/wi-fi-lora-hybrid)
 * [&nbsp;](#)
