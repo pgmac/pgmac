@@ -81,13 +81,15 @@ A table of things ...
 * [Show HN: A real time AI video agent with under 1 second of latency](https://news.ycombinator.com/item?id=41710227)
 * [Google’s AI podcast hosts have existential crisis when they find out they’re not real](https://www.techradar.com/computing/artificial-intelligence/google-s-ai-podcast-hosts-have-existential-crisis-when-they-find-out-they-re-not-real)
 * [Getting my daily news from a dot matrix printer](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)
-* [60TB hard drives arriving in 2028 according to industry roadmap — HDD capacity forecast to double in four years](https://www.tomshardware.com/pc-components/storage/60tb-hard-drives-arriving-in-2028-according-to-industry-roadmap-hdd-capacity-forecast-to-double-in-four-years)
 * [When Earth Had Rings](https://nautil.us/when-earth-had-rings-920177/)
 * [Wi-Fi Goes Long Range on New WiLo Standard](https://spectrum.ieee.org/wi-fi-lora-hybrid)
+* [&nbsp;](#)
 * [&nbsp;](#)
 
 ### Things I'm star-ing
 
+* [sq](https://github.com/neilotoole/sq)
+  sq data wrangler
 * [cartographist](https://github.com/szymonkaliski/cartographist)
   experimental web browser optimized for rabbit-holing
 * [displaylink-debian](https://github.com/AdnanHodzic/displaylink-debian)
@@ -108,8 +110,6 @@ A table of things ...
   Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 * [aic-bash](https://github.com/art-institute-of-chicago/aic-bash)
   A bash script to query our API for public domain artworks and render them as ASCII art
-* [ErsatzTV](https://github.com/ErsatzTV/ErsatzTV)
-  Stream custom live channels using your own media
 
 ### My Blog Posts
 
