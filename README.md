@@ -77,14 +77,14 @@ A table of things ...
 
 * [What do you want to show?](https://datavizcatalogue.com/search.html)
 * [Why does man print "gimme gimme gimme" at 00:30?](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
-* [Cartographist](https://szymonkaliski.com/projects/cartographist/)
-* [Doom finally ported to quantum computers, and you can play it now](https://www.neowin.net/news/doom-finally-ported-to-quantum-computers-and-you-can-play-it-now/)
-* [How Cloudflare auto-mitigated world record 3.8 Tbps DDoS attack](https://blog.cloudflare.com/how-cloudflare-auto-mitigated-world-record-3-8-tbps-ddos-attack)
-* [An adult fruit fly brain has been mapped—human brains could follow](https://archive.is/vBUjt)
-* [UNSW delivers atomic quantum computing breakthrough](https://www.innovationaus.com/unsw-delivers-atomic-quantum-computing-breakthrough/)
+* [sq](https://sq.io/)
+* [Show HN: A real time AI video agent with under 1 second of latency](https://news.ycombinator.com/item?id=41710227)
+* [Google’s AI podcast hosts have existential crisis when they find out they’re not real](https://www.techradar.com/computing/artificial-intelligence/google-s-ai-podcast-hosts-have-existential-crisis-when-they-find-out-they-re-not-real)
 * [Getting my daily news from a dot matrix printer](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)
 * [60TB hard drives arriving in 2028 according to industry roadmap — HDD capacity forecast to double in four years](https://www.tomshardware.com/pc-components/storage/60tb-hard-drives-arriving-in-2028-according-to-industry-roadmap-hdd-capacity-forecast-to-double-in-four-years)
-* [Understanding Porsche's New Six Stroke Engine Patent](https://youtu.be/uMEegb-IrRQ?si=DlEyc2hj7QjmO8Ms)
+* [When Earth Had Rings](https://nautil.us/when-earth-had-rings-920177/)
+* [Wi-Fi Goes Long Range on New WiLo Standard](https://spectrum.ieee.org/wi-fi-lora-hybrid)
+* [&nbsp;](#)
 
 ### Things I'm star-ing
 
@@ -113,6 +113,7 @@ A table of things ...
 
 ### My Blog Posts
 
+* [Some things I found interesting from 2024-09-29 to 2024-10-06](https://pgmac.net.au/last-week/2024/10/06/interesting-last-week.html)
 * [Some things I found interesting from 2024-09-22 to 2024-09-29](https://pgmac.net.au/last-week/2024/09/29/interesting-last-week.html)
 * [Some things I found interesting from 2024-09-15 to 2024-09-22](https://pgmac.net.au/last-week/2024/09/22/interesting-last-week.html)
 * [Some things I found interesting from 2024-09-08 to 2024-09-15](https://pgmac.net.au/last-week/2024/09/15/interesting-last-week.html)
@@ -122,4 +123,3 @@ A table of things ...
 * [Some things I found interesting from 2024-08-11 to 2024-08-18](https://pgmac.net.au/last-week/2024/08/18/interesting-last-week.html)
 * [Some things I found interesting from 2024-08-04 to 2024-08-11](https://pgmac.net.au/last-week/2024/08/11/interesting-last-week.html)
 * [Some things I found interesting from 2024-07-28 to 2024-08-04](https://pgmac.net.au/last-week/2024/08/04/interesting-last-week.html)
-* [Some things I found interesting from 2024-07-21 to 2024-07-28](https://pgmac.net.au/last-week/2024/07/28/interesting-last-week.html)
