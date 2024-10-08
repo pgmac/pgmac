@@ -75,7 +75,6 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [What do you want to show?](https://datavizcatalogue.com/search.html)
 * [Apple II Source Listings](https://6502disassembly.com/other-a2.html)
 * [sq](https://sq.io/)
 * [Show HN: A real time AI video agent with under 1 second of latency](https://news.ycombinator.com/item?id=41710227)
@@ -85,6 +84,7 @@ A table of things ...
 * [Wi-Fi Goes Long Range on New WiLo Standard](https://spectrum.ieee.org/wi-fi-lora-hybrid)
 * [&nbsp;](#)
 * [&nbsp;](#)
+* [Duake lets you play Quake as the Doomguy](https://www.pcgamer.com/games/fps/duake-lets-you-play-quake-as-the-doomguy/)
 
 ### Things I'm star-ing
 
