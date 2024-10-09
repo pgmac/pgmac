@@ -77,10 +77,10 @@ A table of things ...
 
 * [Apple II Source Listings](https://6502disassembly.com/other-a2.html)
 * [sq](https://sq.io/)
-* [Show HN: A real time AI video agent with under 1 second of latency](https://news.ycombinator.com/item?id=41710227)
-* [Google’s AI podcast hosts have existential crisis when they find out they’re not real](https://www.techradar.com/computing/artificial-intelligence/google-s-ai-podcast-hosts-have-existential-crisis-when-they-find-out-they-re-not-real)
+* [What does chezmoi do?](https://chezmoi.io/what-does-chezmoi-do/)
+* [mise](https://mise.jdx.dev)
+* [Wrapping up another Birthday Week celebration](https://blog.cloudflare.com/birthday-week-2024-wrap-up)
 * [Tip: You Can Change Pixel Buds Settings on Windows, Mac](https://www.droid-life.com/2024/10/02/change-pixel-buds-settings-on-windows-mac/)
-* [When Earth Had Rings](https://nautil.us/when-earth-had-rings-920177/)
 * [Wi-Fi Goes Long Range on New WiLo Standard](https://spectrum.ieee.org/wi-fi-lora-hybrid)
 * [&nbsp;](#)
 * [&nbsp;](#)
