@@ -83,8 +83,8 @@ A table of things ...
 * [Tip: You Can Change Pixel Buds Settings on Windows, Mac](https://www.droid-life.com/2024/10/02/change-pixel-buds-settings-on-windows-mac/)
 * [Wi-Fi Goes Long Range on New WiLo Standard](https://spectrum.ieee.org/wi-fi-lora-hybrid)
 * [&nbsp;](#)
-* [&nbsp;](#)
 * [Duake lets you play Quake as the Doomguy](https://www.pcgamer.com/games/fps/duake-lets-you-play-quake-as-the-doomguy/)
+* [Google facing US government attempt to break it up, court filing shows](https://www.theguardian.com/technology/2024/oct/09/google-us-government-attempt-break-up-business-court-filing)
 
 ### Things I'm star-ing
 
