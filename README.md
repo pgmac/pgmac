@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [Apple II Source Listings](https://6502disassembly.com/other-a2.html)
-* [sq](https://sq.io/)
 * [What does chezmoi do?](https://chezmoi.io/what-does-chezmoi-do/)
 * [mise](https://mise.jdx.dev)
 * [Wrapping up another Birthday Week celebration](https://blog.cloudflare.com/birthday-week-2024-wrap-up)
-* [Tip: You Can Change Pixel Buds Settings on Windows, Mac](https://www.droid-life.com/2024/10/02/change-pixel-buds-settings-on-windows-mac/)
-* [Wi-Fi Goes Long Range on New WiLo Standard](https://spectrum.ieee.org/wi-fi-lora-hybrid)
-* [&nbsp;](#)
-* [Duake lets you play Quake as the Doomguy](https://www.pcgamer.com/games/fps/duake-lets-you-play-quake-as-the-doomguy/)
+* [](https://m.dpreview.com/articles/0535447263/the-sitina-s1-how-a-determined-diy-photographer-built-his-own-full-frame-camera)
+* [The Australian government has introduced new cyber security laws. Here’s what you need to know](https://theconversation.com/the-australian-government-has-introduced-new-cyber-security-laws-heres-what-you-need-to-know-240889)
 * [Google facing US government attempt to break it up, court filing shows](https://www.theguardian.com/technology/2024/oct/09/google-us-government-attempt-break-up-business-court-filing)
+* [How open source SIEM and XDR tackle evolving threats](https://www.bleepingcomputer.com/news/security/how-open-source-siem-and-xdr-tackle-evolving-threats/)
+* [Palo Alto Networks warns of firewall hijack bugs with public exploit](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-firewall-hijack-bugs-with-public-exploit/)
+* [The Internet Archive is under attack, with a popup claiming a ‘catastrophic’ breach](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message)
+* [Internet Archive hacked, data breach impacts 31 million users](https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/)
 
 ### Things I'm star-ing
 
