@@ -75,19 +75,21 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Stengo/DeskPad](https://github.com/Stengo/DeskPad)
 * [](https://m.dpreview.com/articles/0535447263/the-sitina-s1-how-a-determined-diy-photographer-built-his-own-full-frame-camera)
 * [The Ultimate Guide to Error Handling in Python](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python)
 * [Switching customers from Linux to BSD because boring is good](https://www.theregister.com/2024/10/08/switching_from_linux_to_bsd/)
 * [The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain)
 * [The Australian government has introduced new cyber security laws. Here’s what you need to know](https://theconversation.com/the-australian-government-has-introduced-new-cyber-security-laws-heres-what-you-need-to-know-240889)
-* [Google facing US government attempt to break it up, court filing shows](https://www.theguardian.com/technology/2024/oct/09/google-us-government-attempt-break-up-business-court-filing)
-* [How open source SIEM and XDR tackle evolving threats](https://www.bleepingcomputer.com/news/security/how-open-source-siem-and-xdr-tackle-evolving-threats/)
 * [Palo Alto Networks warns of firewall hijack bugs with public exploit](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-firewall-hijack-bugs-with-public-exploit/)
 * [The Internet Archive is under attack, with a popup claiming a ‘catastrophic’ breach](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message)
 * [Internet Archive hacked, data breach impacts 31 million users](https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/)
+* [David McCormack on Custard’s new album – and living in Bluey’s shadow](https://www.theguardian.com/music/2024/oct/11/david-mccormack-custard-new-album-suburban-curtains-interview-bluey)
 
 ### Things I'm star-ing
 
+* [DeskPad](https://github.com/Stengo/DeskPad)
+  A virtual monitor for screen sharing
 * [sq](https://github.com/neilotoole/sq)
   sq data wrangler
 * [cartographist](https://github.com/szymonkaliski/cartographist)
@@ -108,8 +110,6 @@ A table of things ...
   Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 * [dasel](https://github.com/TomWright/dasel)
   Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
-* [aic-bash](https://github.com/art-institute-of-chicago/aic-bash)
-  A bash script to query our API for public domain artworks and render them as ASCII art
 
 ### My Blog Posts
 
