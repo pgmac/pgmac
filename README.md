@@ -75,10 +75,10 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [What does chezmoi do?](https://chezmoi.io/what-does-chezmoi-do/)
-* [mise](https://mise.jdx.dev)
-* [Wrapping up another Birthday Week celebration](https://blog.cloudflare.com/birthday-week-2024-wrap-up)
 * [](https://m.dpreview.com/articles/0535447263/the-sitina-s1-how-a-determined-diy-photographer-built-his-own-full-frame-camera)
+* [The Ultimate Guide to Error Handling in Python](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python)
+* [Switching customers from Linux to BSD because boring is good](https://www.theregister.com/2024/10/08/switching_from_linux_to_bsd/)
+* [The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain)
 * [The Australian government has introduced new cyber security laws. Here’s what you need to know](https://theconversation.com/the-australian-government-has-introduced-new-cyber-security-laws-heres-what-you-need-to-know-240889)
 * [Google facing US government attempt to break it up, court filing shows](https://www.theguardian.com/technology/2024/oct/09/google-us-government-attempt-break-up-business-court-filing)
 * [How open source SIEM and XDR tackle evolving threats](https://www.bleepingcomputer.com/news/security/how-open-source-siem-and-xdr-tackle-evolving-threats/)
@@ -113,6 +113,7 @@ A table of things ...
 
 ### My Blog Posts
 
+* [A death in the (hardware) family](https://pgmac.net.au/tech/2024/10/11/death-in-the-family.html)
 * [Some things I found interesting from 2024-09-29 to 2024-10-06](https://pgmac.net.au/last-week/2024/10/06/interesting-last-week.html)
 * [Some things I found interesting from 2024-09-22 to 2024-09-29](https://pgmac.net.au/last-week/2024/09/29/interesting-last-week.html)
 * [Some things I found interesting from 2024-09-15 to 2024-09-22](https://pgmac.net.au/last-week/2024/09/22/interesting-last-week.html)
@@ -122,4 +123,3 @@ A table of things ...
 * [Some things I found interesting from 2024-08-18 to 2024-08-25](https://pgmac.net.au/last-week/2024/08/25/interesting-last-week.html)
 * [Some things I found interesting from 2024-08-11 to 2024-08-18](https://pgmac.net.au/last-week/2024/08/18/interesting-last-week.html)
 * [Some things I found interesting from 2024-08-04 to 2024-08-11](https://pgmac.net.au/last-week/2024/08/11/interesting-last-week.html)
-* [Some things I found interesting from 2024-07-28 to 2024-08-04](https://pgmac.net.au/last-week/2024/08/04/interesting-last-week.html)
