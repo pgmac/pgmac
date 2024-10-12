@@ -81,10 +81,10 @@ A table of things ...
 * [The Ultimate Guide to Error Handling in Python](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python)
 * [Switching customers from Linux to BSD because boring is good](https://www.theregister.com/2024/10/08/switching_from_linux_to_bsd/)
 * [The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain)
-* [The Australian government has introduced new cyber security laws. Here’s what you need to know](https://theconversation.com/the-australian-government-has-introduced-new-cyber-security-laws-heres-what-you-need-to-know-240889)
 * [The Internet Archive is under attack, with a popup claiming a ‘catastrophic’ breach](https://www.theverge.com/2024/10/9/24266419/internet-archive-ddos-attack-pop-up-message)
 * [Internet Archive hacked, data breach impacts 31 million users](https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/)
 * [David McCormack on Custard’s new album – and living in Bluey’s shadow](https://www.theguardian.com/music/2024/oct/11/david-mccormack-custard-new-album-suburban-curtains-interview-bluey)
+* [We built the best "Bad Apple!!" in Minecraft](https://purplesyringa.moe/blog/we-built-the-best-bad-apple-in-minecraft/)
 
 ### Things I'm star-ing
 
