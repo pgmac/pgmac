@@ -81,10 +81,10 @@ A table of things ...
 * [The Ultimate Guide to Error Handling in Python](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python)
 * [Switching customers from Linux to BSD because boring is good](https://www.theregister.com/2024/10/08/switching_from_linux_to_bsd/)
 * [The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain)
-* [Internet Archive hacked, data breach impacts 31 million users](https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/)
 * [David McCormack on Custard’s new album – and living in Bluey’s shadow](https://www.theguardian.com/music/2024/oct/11/david-mccormack-custard-new-album-suburban-curtains-interview-bluey)
 * [Apple macOS 15 Sequoia is officially UNIX. If anyone cares...](https://www.theregister.com/2024/10/11/macos_15_is_unix/)
 * [We built the best "Bad Apple!!" in Minecraft](https://purplesyringa.moe/blog/we-built-the-best-bad-apple-in-minecraft/)
+* [Android 15 will empower Google Contacts to manage encryption keys to ensure private, secure messaging](https://www.androidpolice.com/google-contacts-will-soon-help-you-verify-end-to-end-encryption-across-your-apps/)
 
 ### Things I'm star-ing
 
