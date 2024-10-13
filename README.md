@@ -76,7 +76,6 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [Stengo/DeskPad](https://github.com/Stengo/DeskPad)
-* [](https://m.dpreview.com/articles/0535447263/the-sitina-s1-how-a-determined-diy-photographer-built-his-own-full-frame-camera)
 * [What was the song of the summer? Nobody knows](https://sherwood.news/culture/song-of-the-summer-measuring-music-popularity-challenges/)
 * [The Ultimate Guide to Error Handling in Python](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python)
 * [Switching customers from Linux to BSD because boring is good](https://www.theregister.com/2024/10/08/switching_from_linux_to_bsd/)
@@ -85,6 +84,7 @@ A table of things ...
 * [Apple macOS 15 Sequoia is officially UNIX. If anyone cares...](https://www.theregister.com/2024/10/11/macos_15_is_unix/)
 * [We built the best "Bad Apple!!" in Minecraft](https://purplesyringa.moe/blog/we-built-the-best-bad-apple-in-minecraft/)
 * [Android 15 will empower Google Contacts to manage encryption keys to ensure private, secure messaging](https://www.androidpolice.com/google-contacts-will-soon-help-you-verify-end-to-end-encryption-across-your-apps/)
+* [What goes into making an OS to be Unix compliant certified? - Quora](https://www.quora.com/What-goes-into-making-an-OS-to-be-Unix-compliant-certified)
 
 ### Things I'm star-ing
 
