@@ -77,17 +77,19 @@ A table of things ...
 
 * [Stengo/DeskPad](https://github.com/Stengo/DeskPad)
 * [What was the song of the summer? Nobody knows](https://sherwood.news/culture/song-of-the-summer-measuring-music-popularity-challenges/)
-* [Switching customers from Linux to BSD because boring is good](https://www.theregister.com/2024/10/08/switching_from_linux_to_bsd/)
-* [The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain)
+* [kv4p HT](https://kv4p.com/)
 * [David McCormack on Custard’s new album – and living in Bluey’s shadow](https://www.theguardian.com/music/2024/oct/11/david-mccormack-custard-new-album-suburban-curtains-interview-bluey)
 * [Apple macOS 15 Sequoia is officially UNIX. If anyone cares...](https://www.theregister.com/2024/10/11/macos_15_is_unix/)
 * [We built the best "Bad Apple!!" in Minecraft](https://purplesyringa.moe/blog/we-built-the-best-bad-apple-in-minecraft/)
 * [Android 15 will empower Google Contacts to manage encryption keys to ensure private, secure messaging](https://www.androidpolice.com/google-contacts-will-soon-help-you-verify-end-to-end-encryption-across-your-apps/)
 * [What goes into making an OS to be Unix compliant certified? - Quora](https://www.quora.com/What-goes-into-making-an-OS-to-be-Unix-compliant-certified)
 * [Europa Clipper mission to 'one of the most promising places to look for life beyond Earth' set for lift-off](https://www.abc.net.au/news/2024-10-14/nasa-mission-to-find-life-on-jupiter-moon-ready-for-lift-off/104471608)
+* [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen)
 
 ### Things I'm star-ing
 
+* [clipscreen](https://github.com/splitbrain/clipscreen)
+  Mirror a portion of your screen to a virtual monitor for easier screen sharing.
 * [DeskPad](https://github.com/Stengo/DeskPad)
   A virtual monitor for screen sharing
 * [sq](https://github.com/neilotoole/sq)
@@ -108,8 +110,6 @@ A table of things ...
   NSCA Passive Check Daemon
 * [isaiah](https://github.com/will-moss/isaiah)
   Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
-* [dasel](https://github.com/TomWright/dasel)
-  Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 
 ### My Blog Posts
 
