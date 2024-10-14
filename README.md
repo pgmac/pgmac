@@ -77,7 +77,6 @@ A table of things ...
 
 * [Stengo/DeskPad](https://github.com/Stengo/DeskPad)
 * [What was the song of the summer? Nobody knows](https://sherwood.news/culture/song-of-the-summer-measuring-music-popularity-challenges/)
-* [The Ultimate Guide to Error Handling in Python](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python)
 * [Switching customers from Linux to BSD because boring is good](https://www.theregister.com/2024/10/08/switching_from_linux_to_bsd/)
 * [The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain)
 * [David McCormack on Custard’s new album – and living in Bluey’s shadow](https://www.theguardian.com/music/2024/oct/11/david-mccormack-custard-new-album-suburban-curtains-interview-bluey)
@@ -85,6 +84,7 @@ A table of things ...
 * [We built the best "Bad Apple!!" in Minecraft](https://purplesyringa.moe/blog/we-built-the-best-bad-apple-in-minecraft/)
 * [Android 15 will empower Google Contacts to manage encryption keys to ensure private, secure messaging](https://www.androidpolice.com/google-contacts-will-soon-help-you-verify-end-to-end-encryption-across-your-apps/)
 * [What goes into making an OS to be Unix compliant certified? - Quora](https://www.quora.com/What-goes-into-making-an-OS-to-be-Unix-compliant-certified)
+* [Europa Clipper mission to 'one of the most promising places to look for life beyond Earth' set for lift-off](https://www.abc.net.au/news/2024-10-14/nasa-mission-to-find-life-on-jupiter-moon-ready-for-lift-off/104471608)
 
 ### Things I'm star-ing
 
