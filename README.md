@@ -75,10 +75,10 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [Stengo/DeskPad](https://github.com/Stengo/DeskPad)
-* [What was the song of the summer? Nobody knows](https://sherwood.news/culture/song-of-the-summer-measuring-music-popularity-challenges/)
+* [Your self-hosted bookmark archive. Free and open source.](https://www.linkace.org/)
+* [Navidrome](https://www.navidrome.org/)
+* [Linkwarden](https://linkwarden.app/)
 * [kv4p HT](https://kv4p.com/)
-* [David McCormack on Custard’s new album – and living in Bluey’s shadow](https://www.theguardian.com/music/2024/oct/11/david-mccormack-custard-new-album-suburban-curtains-interview-bluey)
 * [Apple macOS 15 Sequoia is officially UNIX. If anyone cares...](https://www.theregister.com/2024/10/11/macos_15_is_unix/)
 * [We built the best "Bad Apple!!" in Minecraft](https://purplesyringa.moe/blog/we-built-the-best-bad-apple-in-minecraft/)
 * [Android 15 will empower Google Contacts to manage encryption keys to ensure private, secure messaging](https://www.androidpolice.com/google-contacts-will-soon-help-you-verify-end-to-end-encryption-across-your-apps/)
