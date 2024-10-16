@@ -79,12 +79,12 @@ A table of things ...
 * [Navidrome](https://www.navidrome.org/)
 * [Linkwarden](https://linkwarden.app/)
 * [kv4p HT](https://kv4p.com/)
-* [Apple macOS 15 Sequoia is officially UNIX. If anyone cares...](https://www.theregister.com/2024/10/11/macos_15_is_unix/)
 * [Android 15 will empower Google Contacts to manage encryption keys to ensure private, secure messaging](https://www.androidpolice.com/google-contacts-will-soon-help-you-verify-end-to-end-encryption-across-your-apps/)
 * [What goes into making an OS to be Unix compliant certified? - Quora](https://www.quora.com/What-goes-into-making-an-OS-to-be-Unix-compliant-certified)
 * [Europa Clipper mission to 'one of the most promising places to look for life beyond Earth' set for lift-off](https://www.abc.net.au/news/2024-10-14/nasa-mission-to-find-life-on-jupiter-moon-ready-for-lift-off/104471608)
 * [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen)
 * [You'll soon be able to safely and easily move your passkeys between password managers](https://www.engadget.com/cybersecurity/youll-soon-be-able-to-safely-and-easily-move-your-passkeys-between-password-managers-161025573.html)
+* [Lines from “Star Wars” That Can Be Improved by Substituting “Pants” for Key Words](https://chavelaque.blogspot.com/2005/08/lines-from-star-wars-that-can-be.html)
 
 ### Things I'm star-ing
 
