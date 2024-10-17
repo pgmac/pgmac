@@ -77,9 +77,9 @@ A table of things ...
 
 * [Your self-hosted bookmark archive. Free and open source.](https://www.linkace.org/)
 * [Navidrome](https://www.navidrome.org/)
+* [A solar gravitational lens will be humanity's most powerful telescope. What are its best targets?](https://phys.org/news/2022-10-solar-gravitational-lens-humanity-powerful.html)
 * [Linkwarden](https://linkwarden.app/)
 * [kv4p HT](https://kv4p.com/)
-* [Europa Clipper mission to 'one of the most promising places to look for life beyond Earth' set for lift-off](https://www.abc.net.au/news/2024-10-14/nasa-mission-to-find-life-on-jupiter-moon-ready-for-lift-off/104471608)
 * [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen)
 * [Internal blog post reveals Automattic’s plan to enforce the WordPress trademark using ‘nice and not nice lawyers’](https://techcrunch.com/2024/10/15/internal-blog-post-reveals-automattics-plan-to-enforce-the-wordpress-trademark-using-nice-and-not-nice-lawyers/)
 * [You'll soon be able to safely and easily move your passkeys between password managers](https://www.engadget.com/cybersecurity/youll-soon-be-able-to-safely-and-easily-move-your-passkeys-between-password-managers-161025573.html)
