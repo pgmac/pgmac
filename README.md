@@ -80,11 +80,11 @@ A table of things ...
 * [A solar gravitational lens will be humanity's most powerful telescope. What are its best targets?](https://phys.org/news/2022-10-solar-gravitational-lens-humanity-powerful.html)
 * [Linkwarden](https://linkwarden.app/)
 * [Winamp really whips open source coders into frenzy with its source release](https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/)
-* [kv4p HT](https://kv4p.com/)
 * [Internal blog post reveals Automattic’s plan to enforce the WordPress trademark using ‘nice and not nice lawyers’](https://techcrunch.com/2024/10/15/internal-blog-post-reveals-automattics-plan-to-enforce-the-wordpress-trademark-using-nice-and-not-nice-lawyers/)
 * [You'll soon be able to safely and easily move your passkeys between password managers](https://www.engadget.com/cybersecurity/youll-soon-be-able-to-safely-and-easily-move-your-passkeys-between-password-managers-161025573.html)
 * [Google Messages gets a new feature that makes it easier to keep private](https://www.androidpolice.com/google-messages-rolls-out-profile-discovery-privacy-features/)
 * [Lines from “Star Wars” That Can Be Improved by Substituting “Pants” for Key Words](https://chavelaque.blogspot.com/2005/08/lines-from-star-wars-that-can-be.html)
+* [An easy to use, powerful, and reliable system to process and distribute data](https://nifi.apache.org/)
 
 ### Things I'm star-ing
 
