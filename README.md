@@ -75,8 +75,6 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [Your self-hosted bookmark archive. Free and open source.](https://www.linkace.org/)
-* [Navidrome](https://www.navidrome.org/)
 * [A solar gravitational lens will be humanity's most powerful telescope. What are its best targets?](https://phys.org/news/2022-10-solar-gravitational-lens-humanity-powerful.html)
 * [Linkwarden](https://linkwarden.app/)
 * [Winamp really whips open source coders into frenzy with its source release](https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/)
@@ -84,6 +82,8 @@ A table of things ...
 * [You'll soon be able to safely and easily move your passkeys between password managers](https://www.engadget.com/cybersecurity/youll-soon-be-able-to-safely-and-easily-move-your-passkeys-between-password-managers-161025573.html)
 * [Google Messages gets a new feature that makes it easier to keep private](https://www.androidpolice.com/google-messages-rolls-out-profile-discovery-privacy-features/)
 * [Lines from “Star Wars” That Can Be Improved by Substituting “Pants” for Key Words](https://chavelaque.blogspot.com/2005/08/lines-from-star-wars-that-can-be.html)
+* [How I use Kanban boards in Obsidian to manage my personal projects](https://www.xda-developers.com/how-i-use-kanban-boards-in-obsidian-to-manage-my-personal-projects/)
+* [#9: Unit Tests As Documentation](https://www.thecoder.cafe/p/unit-tests-as-documentation)
 * [An easy to use, powerful, and reliable system to process and distribute data](https://nifi.apache.org/)
 
 ### Things I'm star-ing
