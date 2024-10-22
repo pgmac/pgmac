@@ -77,7 +77,6 @@ A table of things ...
 
 * [](https://paste.c-net.org/)
 * [drasi-project/drasi-platform](https://github.com/drasi-project/drasi-platform)
-* [Winamp really whips open source coders into frenzy with its source release](https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/)
 * [How I use Kanban boards in Obsidian to manage my personal projects](https://www.xda-developers.com/how-i-use-kanban-boards-in-obsidian-to-manage-my-personal-projects/)
 * [#9: Unit Tests As Documentation](https://www.thecoder.cafe/p/unit-tests-as-documentation)
 * [An easy to use, powerful, and reliable system to process and distribute data](https://nifi.apache.org/)
@@ -85,6 +84,7 @@ A table of things ...
 * [Kurt Vonnegut’s lost board game finally published](https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview)
 * [Concerns Raised Over Bitwarden Moving Further Away From Open-Source](https://www.phoronix.com/news/Bitwarden-Open-Source-Concerns)
 * [HN Update](https://hnup.date/)
+* [nh2/internal-contstrained-pki](https://github.com/nh2/internal-contstrained-pki)
 
 ### Things I'm star-ing
 
