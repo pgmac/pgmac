@@ -76,15 +76,15 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [](https://paste.c-net.org/)
+* [Carpentopod: A walking table project](https://www.decarpentier.nl/carpentopod)
 * [drasi-project/drasi-platform](https://github.com/drasi-project/drasi-platform)
-* [#9: Unit Tests As Documentation](https://www.thecoder.cafe/p/unit-tests-as-documentation)
-* [HashiCorp unveils 'Terraform 2.0' while tiptoeing around Big Blue elephant in the room](https://www.theregister.com/2024/10/18/hashicorp_hashiconf_terraform_updates/)
 * [Kurt Vonnegut’s lost board game finally published](https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview)
-* [Concerns Raised Over Bitwarden Moving Further Away From Open-Source](https://www.phoronix.com/news/Bitwarden-Open-Source-Concerns)
 * [HN Update](https://hnup.date/)
 * [nh2/internal-contstrained-pki](https://github.com/nh2/internal-contstrained-pki)
 * [Tog's paradox](https://www.votito.com/methods/togs-paradox/)
+* [Ghostty 1.0 is Coming](https://mitchellh.com/writing/ghostty-is-coming)
 * [Introducing Access for Infrastructure: SSH](https://blog.cloudflare.com/intro-access-for-infrastructure-ssh)
+* [Doom Anthology With BFG Replica Is Out Today](https://www.thegamer.com/doom-anthology-with-bfg-replica-out-today/)
 
 ### Things I'm star-ing
 
