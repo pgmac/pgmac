@@ -78,13 +78,13 @@ A table of things ...
 * [](https://paste.c-net.org/)
 * [Carpentopod: A walking table project](https://www.decarpentier.nl/carpentopod)
 * [drasi-project/drasi-platform](https://github.com/drasi-project/drasi-platform)
-* [Kurt Vonnegut’s lost board game finally published](https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview)
 * [HN Update](https://hnup.date/)
 * [nh2/internal-contstrained-pki](https://github.com/nh2/internal-contstrained-pki)
 * [Tog's paradox](https://www.votito.com/methods/togs-paradox/)
 * [Ghostty 1.0 is Coming](https://mitchellh.com/writing/ghostty-is-coming)
 * [Introducing Access for Infrastructure: SSH](https://blog.cloudflare.com/intro-access-for-infrastructure-ssh)
 * [Doom Anthology With BFG Replica Is Out Today](https://www.thegamer.com/doom-anthology-with-bfg-replica-out-today/)
+* [PabloNet](https://www.matthieulc.com/posts/pablonet/)
 
 ### Things I'm star-ing
 
