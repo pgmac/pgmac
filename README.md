@@ -75,7 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [](https://paste.c-net.org/)
+* [TypeSchema](https://typeschema.org/)
 * [Carpentopod: A walking table project](https://www.decarpentier.nl/carpentopod)
 * [drasi-project/drasi-platform](https://github.com/drasi-project/drasi-platform)
 * [HN Update](https://hnup.date/)
