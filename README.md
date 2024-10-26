@@ -76,9 +76,9 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [TypeSchema](https://typeschema.org/)
+* [permitio/opal](https://github.com/permitio/opal)
+* [stack-auth/stack](https://github.com/stack-auth/stack)
 * [Carpentopod: A walking table project](https://www.decarpentier.nl/carpentopod)
-* [drasi-project/drasi-platform](https://github.com/drasi-project/drasi-platform)
-* [HN Update](https://hnup.date/)
 * [nh2/internal-contstrained-pki](https://github.com/nh2/internal-contstrained-pki)
 * [Tog's paradox](https://www.votito.com/methods/togs-paradox/)
 * [Ghostty 1.0 is Coming](https://mitchellh.com/writing/ghostty-is-coming)
@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [opal](https://github.com/permitio/opal)
+  Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
 * [drasi-platform](https://github.com/drasi-project/drasi-platform)
   None
 * [Pumpkin](https://github.com/Snowiiii/Pumpkin)
@@ -108,8 +110,6 @@ A table of things ...
   A Pythonic framework for threat modeling
 * [saas-attacks](https://github.com/pushsecurity/saas-attacks)
   Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown
-* [specification](https://github.com/CycloneDX/specification)
-  OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction. SBOM, SaaSBOM, HBOM, AI/ML-BOM, CBOM, OBOM, MBOM, VDR, and VEX
 
 ### My Blog Posts
 
