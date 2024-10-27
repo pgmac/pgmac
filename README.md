@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [containers](https://github.com/onedr0p/containers)
+  My collection of container images
 * [opal](https://github.com/permitio/opal)
   Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
 * [drasi-platform](https://github.com/drasi-project/drasi-platform)
@@ -108,8 +110,6 @@ A table of things ...
   Agile Threat Modeling Toolkit
 * [pytm](https://github.com/OWASP/pytm)
   A Pythonic framework for threat modeling
-* [saas-attacks](https://github.com/pushsecurity/saas-attacks)
-  Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown
 
 ### My Blog Posts
 
