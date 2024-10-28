@@ -75,13 +75,13 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [dns recon & research, find & lookup dns records](https://dnsdumpster.com/)
 * [TypeSchema](https://typeschema.org/)
 * [permitio/opal](https://github.com/permitio/opal)
 * [stack-auth/stack](https://github.com/stack-auth/stack)
 * [Carpentopod: A walking table project](https://www.decarpentier.nl/carpentopod)
 * [Tog's paradox](https://www.votito.com/methods/togs-paradox/)
 * [Ghostty 1.0 is Coming](https://mitchellh.com/writing/ghostty-is-coming)
-* [Introducing Access for Infrastructure: SSH](https://blog.cloudflare.com/intro-access-for-infrastructure-ssh)
 * [Doom Anthology With BFG Replica Is Out Today](https://www.thegamer.com/doom-anthology-with-bfg-replica-out-today/)
 * [PabloNet](https://www.matthieulc.com/posts/pablonet/)
 * ['Shift Left' Gets Pushback, Triggers Security Soul Searching'Shift Left' Gets Pushback, Triggers Security Soul Searching](https://www.darkreading.com/application-security/shift-left-pushback-triggers-security-soul-searching)
