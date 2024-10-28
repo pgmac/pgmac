@@ -80,11 +80,11 @@ A table of things ...
 * [permitio/opal](https://github.com/permitio/opal)
 * [stack-auth/stack](https://github.com/stack-auth/stack)
 * [Carpentopod: A walking table project](https://www.decarpentier.nl/carpentopod)
-* [Tog's paradox](https://www.votito.com/methods/togs-paradox/)
 * [Ghostty 1.0 is Coming](https://mitchellh.com/writing/ghostty-is-coming)
 * [Doom Anthology With BFG Replica Is Out Today](https://www.thegamer.com/doom-anthology-with-bfg-replica-out-today/)
 * [PabloNet](https://www.matthieulc.com/posts/pablonet/)
 * ['Shift Left' Gets Pushback, Triggers Security Soul Searching'Shift Left' Gets Pushback, Triggers Security Soul Searching](https://www.darkreading.com/application-security/shift-left-pushback-triggers-security-soul-searching)
+* [README.md · master · android_translation_layer / Android Translation Layer · GitLab](https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md)
 
 ### Things I'm star-ing
 
