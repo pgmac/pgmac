@@ -79,15 +79,17 @@ A table of things ...
 * [TypeSchema](https://typeschema.org/)
 * [permitio/opal](https://github.com/permitio/opal)
 * [stack-auth/stack](https://github.com/stack-auth/stack)
-* [Carpentopod: A walking table project](https://www.decarpentier.nl/carpentopod)
-* [Ghostty 1.0 is Coming](https://mitchellh.com/writing/ghostty-is-coming)
 * [Doom Anthology With BFG Replica Is Out Today](https://www.thegamer.com/doom-anthology-with-bfg-replica-out-today/)
 * [PabloNet](https://www.matthieulc.com/posts/pablonet/)
 * ['Shift Left' Gets Pushback, Triggers Security Soul Searching'Shift Left' Gets Pushback, Triggers Security Soul Searching](https://www.darkreading.com/application-security/shift-left-pushback-triggers-security-soul-searching)
+* [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench)
 * [README.md · master · android_translation_layer / Android Translation Layer · GitLab](https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md)
+* [OpenSSF Adds Minder as a Sandbox Project to Simplify the Integration and Use of Open Source Security Tools](https://openssf.org/blog/2024/10/28/openssf-adds-minder-as-a-sandbox-project-to-simplify-the-integration-and-use-of-open-source-security-tools/)
 
 ### Things I'm star-ing
 
+* [trench](https://github.com/FrigadeHQ/trench)
+  Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, users, page views, and interactions.
 * [containers](https://github.com/onedr0p/containers)
   My collection of container images
 * [opal](https://github.com/permitio/opal)
@@ -108,8 +110,6 @@ A table of things ...
   DisplayLink driver installer for Debian and Ubuntu based Linux distributions.
 * [threagile](https://github.com/Threagile/threagile)
   Agile Threat Modeling Toolkit
-* [pytm](https://github.com/OWASP/pytm)
-  A Pythonic framework for threat modeling
 
 ### My Blog Posts
 
