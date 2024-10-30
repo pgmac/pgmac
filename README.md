@@ -79,11 +79,11 @@ A table of things ...
 * [TypeSchema](https://typeschema.org/)
 * [permitio/opal](https://github.com/permitio/opal)
 * [stack-auth/stack](https://github.com/stack-auth/stack)
-* [Doom Anthology With BFG Replica Is Out Today](https://www.thegamer.com/doom-anthology-with-bfg-replica-out-today/)
 * [PabloNet](https://www.matthieulc.com/posts/pablonet/)
 * ['Shift Left' Gets Pushback, Triggers Security Soul Searching'Shift Left' Gets Pushback, Triggers Security Soul Searching](https://www.darkreading.com/application-security/shift-left-pushback-triggers-security-soul-searching)
 * [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench)
 * [README.md · master · android_translation_layer / Android Translation Layer · GitLab](https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md)
+* [We finally have an ‘official’ definition for open source AI](https://techcrunch.com/2024/10/28/we-finally-have-an-official-definition-for-open-source-ai/)
 * [OpenSSF Adds Minder as a Sandbox Project to Simplify the Integration and Use of Open Source Security Tools](https://openssf.org/blog/2024/10/28/openssf-adds-minder-as-a-sandbox-project-to-simplify-the-integration-and-use-of-open-source-security-tools/)
 
 ### Things I'm star-ing
