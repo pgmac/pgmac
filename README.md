@@ -79,7 +79,7 @@ A table of things ...
 * [TypeSchema](https://typeschema.org/)
 * [permitio/opal](https://github.com/permitio/opal)
 * [stack-auth/stack](https://github.com/stack-auth/stack)
-* [PabloNet](https://www.matthieulc.com/posts/pablonet/)
+* [https://academic.oup.com/sleep/article/47/1/zsad253/7280269?login=false](https://academic.oup.com/sleep/article/47/1/zsad253/7280269?login=false)
 * ['Shift Left' Gets Pushback, Triggers Security Soul Searching'Shift Left' Gets Pushback, Triggers Security Soul Searching](https://www.darkreading.com/application-security/shift-left-pushback-triggers-security-soul-searching)
 * [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench)
 * [README.md · master · android_translation_layer / Android Translation Layer · GitLab](https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md)
