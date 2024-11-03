@@ -76,7 +76,7 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [dns recon & research, find & lookup dns records](https://dnsdumpster.com/)
-* [TypeSchema](https://typeschema.org/)
+* [Make it Yourself](https://makeityourself.org/)
 * [permitio/opal](https://github.com/permitio/opal)
 * [stack-auth/stack](https://github.com/stack-auth/stack)
 * [https://academic.oup.com/sleep/article/47/1/zsad253/7280269?login=false](https://academic.oup.com/sleep/article/47/1/zsad253/7280269?login=false)
