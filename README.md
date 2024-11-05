@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [dns recon & research, find & lookup dns records](https://dnsdumpster.com/)
 * [Make it Yourself](https://makeityourself.org/)
+* [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
 * [https://academic.oup.com/sleep/article/47/1/zsad253/7280269?login=false](https://academic.oup.com/sleep/article/47/1/zsad253/7280269?login=false)
-* ['Shift Left' Gets Pushback, Triggers Security Soul Searching'Shift Left' Gets Pushback, Triggers Security Soul Searching](https://www.darkreading.com/application-security/shift-left-pushback-triggers-security-soul-searching)
 * [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench)
 * [README.md · master · android_translation_layer / Android Translation Layer · GitLab](https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md)
 * [We finally have an ‘official’ definition for open source AI](https://techcrunch.com/2024/10/28/we-finally-have-an-official-definition-for-open-source-ai/)
 * [OpenSSF Adds Minder as a Sandbox Project to Simplify the Integration and Use of Open Source Security Tools](https://openssf.org/blog/2024/10/28/openssf-adds-minder-as-a-sandbox-project-to-simplify-the-integration-and-use-of-open-source-security-tools/)
 * [Why Wiz really turned down Google’s $23B offer](https://techcrunch.com/2024/11/02/why-wiz-really-turned-down-googles-23b-offer/)
 * [Touchscreens Are Out, and Tactile Controls Are Back](https://spectrum.ieee.org/touchscreens)
+* [Google Claims World First As AI Finds 0-Day Security Vulnerability](https://www.forbes.com/sites/daveywinder/2024/11/04/google-claims-world-first-as-ai-finds-0-day-security-vulnerability/)
 
 ### Things I'm star-ing
 
