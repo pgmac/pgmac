@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [sbomqs](https://github.com/interlynk-io/sbomqs)
+  SBOM quality score - Quality metrics for your sboms
 * [trench](https://github.com/FrigadeHQ/trench)
   Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, users, page views, and interactions.
 * [containers](https://github.com/onedr0p/containers)
@@ -108,8 +110,6 @@ A table of things ...
   experimental web browser optimized for rabbit-holing
 * [displaylink-debian](https://github.com/AdnanHodzic/displaylink-debian)
   DisplayLink driver installer for Debian and Ubuntu based Linux distributions.
-* [threagile](https://github.com/Threagile/threagile)
-  Agile Threat Modeling Toolkit
 
 ### My Blog Posts
 
