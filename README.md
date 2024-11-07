@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [d2](https://github.com/terrastruct/d2)
+  D2 is a modern diagram scripting language that turns text to diagrams.
 * [sbomqs](https://github.com/interlynk-io/sbomqs)
   SBOM quality score - Quality metrics for your sboms
 * [trench](https://github.com/FrigadeHQ/trench)
@@ -108,8 +110,6 @@ A table of things ...
   sq data wrangler
 * [cartographist](https://github.com/szymonkaliski/cartographist)
   experimental web browser optimized for rabbit-holing
-* [displaylink-debian](https://github.com/AdnanHodzic/displaylink-debian)
-  DisplayLink driver installer for Debian and Ubuntu based Linux distributions.
 
 ### My Blog Posts
 
