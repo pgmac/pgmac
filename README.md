@@ -76,9 +76,9 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [Make it Yourself](https://makeityourself.org/)
+* [&nbsp;](#)
 * [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
 * [https://academic.oup.com/sleep/article/47/1/zsad253/7280269?login=false](https://academic.oup.com/sleep/article/47/1/zsad253/7280269?login=false)
-* [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench)
 * [We finally have an ‘official’ definition for open source AI](https://techcrunch.com/2024/10/28/we-finally-have-an-official-definition-for-open-source-ai/)
 * [Why Wiz really turned down Google’s $23B offer](https://techcrunch.com/2024/11/02/why-wiz-really-turned-down-googles-23b-offer/)
 * [Touchscreens Are Out, and Tactile Controls Are Back](https://spectrum.ieee.org/touchscreens)
