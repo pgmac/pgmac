@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [Make it Yourself](https://makeityourself.org/)
 * [&nbsp;](#)
 * [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
-* [https://academic.oup.com/sleep/article/47/1/zsad253/7280269?login=false](https://academic.oup.com/sleep/article/47/1/zsad253/7280269?login=false)
-* [We finally have an ‘official’ definition for open source AI](https://techcrunch.com/2024/10/28/we-finally-have-an-official-definition-for-open-source-ai/)
+* ['Shift Left' Gets Pushback, Triggers Security Soul Searching'Shift Left' Gets Pushback, Triggers Security Soul Searching](https://www.darkreading.com/application-security/shift-left-pushback-triggers-security-soul-searching)
 * [Why Wiz really turned down Google’s $23B offer](https://techcrunch.com/2024/11/02/why-wiz-really-turned-down-googles-23b-offer/)
-* [Rachel Plotnick’s “Re-Buttonization” Expertise Is in Demand](https://spectrum.ieee.org/touchscreens)
+* [Touchscreens Are Out, and Tactile Controls Are Back ](https://spectrum.ieee.org/touchscreens)
 * [Google Claims World First As AI Finds 0-Day Security Vulnerability](https://www.forbes.com/sites/daveywinder/2024/11/04/google-claims-world-first-as-ai-finds-0-day-security-vulnerability/)
 * [Bitwarden switches password manager and SDK to GPL3 after FOSS-iness drama](https://www.theregister.com/2024/11/04/bitwarden_gpls_password_manager/)
 * [IMAGE PROCESSING GALLERY](https://www.missionjuno.swri.edu/junocam/processing?source=all&ob_from=2024-10-01&ob_to=2024-11-01&phases%5B0%5D=PERIJOVE+66&perpage=16)
+* [FBI says hackers are sending fraudulent police data requests to tech giants to steal people’s private information](https://techcrunch.com/2024/11/08/fbi-says-hackers-are-sending-fraudulent-police-data-requests-to-tech-giants-to-steal-peoples-private-information/)
+* [Visprex](https://visprex.com)
 
 ### Things I'm star-ing
 
