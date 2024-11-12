@@ -78,13 +78,13 @@ A table of things ...
 * [&nbsp;](#)
 * [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
 * ['Shift Left' Gets Pushback, Triggers Security Soul Searching'Shift Left' Gets Pushback, Triggers Security Soul Searching](https://www.darkreading.com/application-security/shift-left-pushback-triggers-security-soul-searching)
-* [Why Wiz really turned down Google’s $23B offer](https://techcrunch.com/2024/11/02/why-wiz-really-turned-down-googles-23b-offer/)
-* [Touchscreens Are Out, and Tactile Controls Are Back ](https://spectrum.ieee.org/touchscreens)
 * [Google Claims World First As AI Finds 0-Day Security Vulnerability](https://www.forbes.com/sites/daveywinder/2024/11/04/google-claims-world-first-as-ai-finds-0-day-security-vulnerability/)
 * [Bitwarden switches password manager and SDK to GPL3 after FOSS-iness drama](https://www.theregister.com/2024/11/04/bitwarden_gpls_password_manager/)
 * [IMAGE PROCESSING GALLERY](https://www.missionjuno.swri.edu/junocam/processing?source=all&ob_from=2024-10-01&ob_to=2024-11-01&phases%5B0%5D=PERIJOVE+66&perpage=16)
+* [GIMP 3.0 RC1 Released](https://www.gimp.org/news/2024/11/06/gimp-3-0-RC1-released/)
 * [FBI says hackers are sending fraudulent police data requests to tech giants to steal people’s private information](https://techcrunch.com/2024/11/08/fbi-says-hackers-are-sending-fraudulent-police-data-requests-to-tech-giants-to-steal-peoples-private-information/)
 * [Visprex](https://visprex.com)
+* [opencoder](https://ollama.com/opencoder)
 
 ### Things I'm star-ing
 
