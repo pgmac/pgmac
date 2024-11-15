@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [&nbsp;](#)
 * [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
 * [Google’s AI podcast hosts have existential crisis when they find out they’re not real](https://www.techradar.com/computing/artificial-intelligence/google-s-ai-podcast-hosts-have-existential-crisis-when-they-find-out-they-re-not-real)
-* ['Shift Left' Gets Pushback, Triggers Security Soul Searching'Shift Left' Gets Pushback, Triggers Security Soul Searching](https://www.darkreading.com/application-security/shift-left-pushback-triggers-security-soul-searching)
 * [GIMP 3.0 RC1 Released](https://www.gimp.org/news/2024/11/06/gimp-3-0-RC1-released/)
 * [FBI says hackers are sending fraudulent police data requests to tech giants to steal people’s private information](https://techcrunch.com/2024/11/08/fbi-says-hackers-are-sending-fraudulent-police-data-requests-to-tech-giants-to-steal-peoples-private-information/)
 * [https://community-scripts.github.io/ProxmoxVE/](https://community-scripts.github.io/ProxmoxVE/defaultimg.png)
 * [Visprex](https://visprex.com)
 * [opencoder](https://ollama.com/opencoder)
 * [VMware makes Workstation and Fusion free for everyone](https://www.bleepingcomputer.com/news/software/vmware-makes-workstation-and-fusion-free-for-everyone/)
+* [In Memoriam: Thomas E. Kurtz, 1928–2024](https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/)
+* [Safer with Google: New intelligent, real-time protections on Android to keep you safe](https://security.googleblog.com/2024/11/new-real-time-protections-on-Android.html)
 
 ### Things I'm star-ing
 
