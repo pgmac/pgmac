@@ -77,17 +77,19 @@ A table of things ...
 
 * [Relativty ‍an open-source VR headset](https://www.relativty.com/)
 * [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
+* [Ghostty 👻](https://mitchellh.com/ghostty)
 * [Google’s AI podcast hosts have existential crisis when they find out they’re not real](https://www.techradar.com/computing/artificial-intelligence/google-s-ai-podcast-hosts-have-existential-crisis-when-they-find-out-they-re-not-real)
-* [GIMP 3.0 RC1 Released](https://www.gimp.org/news/2024/11/06/gimp-3-0-RC1-released/)
 * [https://community-scripts.github.io/ProxmoxVE/](https://community-scripts.github.io/ProxmoxVE/defaultimg.png)
-* [opencoder](https://ollama.com/opencoder)
-* [VMware makes Workstation and Fusion free for everyone](https://www.bleepingcomputer.com/news/software/vmware-makes-workstation-and-fusion-free-for-everyone/)
+* [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard.html)
 * [In Memoriam: Thomas E. Kurtz, 1928–2024](https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/)
 * [Are we PEP 740 yet? 🔏](https://trailofbits.github.io/are-we-pep740-yet/)
 * [Safer with Google: New intelligent, real-time protections on Android to keep you safe](https://security.googleblog.com/2024/11/new-real-time-protections-on-Android.html)
+* [hengyoush/kyanos](https://github.com/hengyoush/kyanos)
 
 ### Things I'm star-ing
 
+* [kyanos](https://github.com/hengyoush/kyanos)
+  Visualize the time packets spend in the kernel, watch & analyze in command line.
 * [idonthavespotify](https://github.com/sjdonado/idonthavespotify)
   Effortlessly convert Spotify links to your preferred streaming service
 * [d2](https://github.com/terrastruct/d2)
@@ -108,8 +110,6 @@ A table of things ...
   Mirror a portion of your screen to a virtual monitor for easier screen sharing.
 * [DeskPad](https://github.com/Stengo/DeskPad)
   A virtual monitor for screen sharing
-* [sq](https://github.com/neilotoole/sq)
-  sq data wrangler
 
 ### My Blog Posts
 
