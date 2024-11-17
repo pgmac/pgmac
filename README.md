@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go)
+  An experiment in scalable routing as an encrypted IPv6 overlay network
 * [kyanos](https://github.com/hengyoush/kyanos)
   Visualize the time packets spend in the kernel, watch & analyze in command line.
 * [idonthavespotify](https://github.com/sjdonado/idonthavespotify)
@@ -108,8 +110,6 @@ A table of things ...
   Empowering everyone to host fast and efficient Minecraft servers.
 * [clipscreen](https://github.com/splitbrain/clipscreen)
   Mirror a portion of your screen to a virtual monitor for easier screen sharing.
-* [DeskPad](https://github.com/Stengo/DeskPad)
-  A virtual monitor for screen sharing
 
 ### My Blog Posts
 
