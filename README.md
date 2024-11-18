@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [garak](https://github.com/NVIDIA/garak)
+  the LLM vulnerability scanner
 * [yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go)
   An experiment in scalable routing as an encrypted IPv6 overlay network
 * [kyanos](https://github.com/hengyoush/kyanos)
@@ -108,8 +110,6 @@ A table of things ...
   None
 * [Pumpkin](https://github.com/Snowiiii/Pumpkin)
   Empowering everyone to host fast and efficient Minecraft servers.
-* [clipscreen](https://github.com/splitbrain/clipscreen)
-  Mirror a portion of your screen to a virtual monitor for easier screen sharing.
 
 ### My Blog Posts
 
