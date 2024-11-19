@@ -79,12 +79,12 @@ A table of things ...
 * [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
 * [Ghostty 👻](https://mitchellh.com/ghostty)
 * [Google’s AI podcast hosts have existential crisis when they find out they’re not real](https://www.techradar.com/computing/artificial-intelligence/google-s-ai-podcast-hosts-have-existential-crisis-when-they-find-out-they-re-not-real)
-* [https://community-scripts.github.io/ProxmoxVE/](https://community-scripts.github.io/ProxmoxVE/defaultimg.png)
 * [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard.html)
 * [In Memoriam: Thomas E. Kurtz, 1928–2024](https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/)
 * [Are we PEP 740 yet? 🔏](https://trailofbits.github.io/are-we-pep740-yet/)
 * [Safer with Google: New intelligent, real-time protections on Android to keep you safe](https://security.googleblog.com/2024/11/new-real-time-protections-on-Android.html)
 * [hengyoush/kyanos](https://github.com/hengyoush/kyanos)
+* [DOJ Will Push Google to Sell Chrome to Break Search Monopoly - Bloomb…](https://archive.md/PPGGV)
 
 ### Things I'm star-ing
 
