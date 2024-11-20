@@ -76,7 +76,6 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [Relativty ‍an open-source VR headset](https://www.relativty.com/)
-* [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
 * [Ghostty 👻](https://mitchellh.com/ghostty)
 * [Google’s AI podcast hosts have existential crisis when they find out they’re not real](https://www.techradar.com/computing/artificial-intelligence/google-s-ai-podcast-hosts-have-existential-crisis-when-they-find-out-they-re-not-real)
 * [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard.html)
@@ -85,6 +84,7 @@ A table of things ...
 * [Safer with Google: New intelligent, real-time protections on Android to keep you safe](https://security.googleblog.com/2024/11/new-real-time-protections-on-Android.html)
 * [hengyoush/kyanos](https://github.com/hengyoush/kyanos)
 * [DOJ Will Push Google to Sell Chrome to Break Search Monopoly - Bloomb…](https://archive.md/PPGGV)
+* [New Fastest Supercomputer Will Simulate Nuke Testing](https://spectrum.ieee.org/supercomputer-for-nukes)
 
 ### Things I'm star-ing
 
