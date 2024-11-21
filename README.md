@@ -101,7 +101,7 @@ A table of things ...
 * [sbomqs](https://github.com/interlynk-io/sbomqs)
   SBOM quality score - Quality metrics for your sboms
 * [trench](https://github.com/FrigadeHQ/trench)
-  Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, users, page views, and interactions.
+  Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, page views. Easily build product analytics dashboards, LLM RAGs, observability platforms, or any other analytics product.
 * [containers](https://github.com/onedr0p/containers)
   My collection of container images
 * [opal](https://github.com/permitio/opal)
