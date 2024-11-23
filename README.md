@@ -76,12 +76,12 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [Relativty ‍an open-source VR headset](https://www.relativty.com/)
+* [OpenMPTCProuter](https://www.openmptcprouter.com/)
 * [openziti/ziti](https://github.com/openziti/ziti)
 * [Ghostty 👻](https://mitchellh.com/ghostty)
 * [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard.html)
 * [In Memoriam: Thomas E. Kurtz, 1928–2024](https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/)
 * [Are we PEP 740 yet? 🔏](https://trailofbits.github.io/are-we-pep740-yet/)
-* [Safer with Google: New intelligent, real-time protections on Android to keep you safe](https://security.googleblog.com/2024/11/new-real-time-protections-on-Android.html)
 * [hengyoush/kyanos](https://github.com/hengyoush/kyanos)
 * [DOJ Will Push Google to Sell Chrome to Break Search Monopoly - Bloomb…](https://archive.md/PPGGV)
 * [New Fastest Supercomputer Will Simulate Nuke Testing](https://spectrum.ieee.org/supercomputer-for-nukes)
