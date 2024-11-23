@@ -76,8 +76,8 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [Relativty ‍an open-source VR headset](https://www.relativty.com/)
+* [openziti/ziti](https://github.com/openziti/ziti)
 * [Ghostty 👻](https://mitchellh.com/ghostty)
-* [Google’s AI podcast hosts have existential crisis when they find out they’re not real](https://www.techradar.com/computing/artificial-intelligence/google-s-ai-podcast-hosts-have-existential-crisis-when-they-find-out-they-re-not-real)
 * [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard.html)
 * [In Memoriam: Thomas E. Kurtz, 1928–2024](https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/)
 * [Are we PEP 740 yet? 🔏](https://trailofbits.github.io/are-we-pep740-yet/)
@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [ziti](https://github.com/openziti/ziti)
+  The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
 * [garak](https://github.com/NVIDIA/garak)
   the LLM vulnerability scanner
 * [yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go)
@@ -108,8 +110,6 @@ A table of things ...
   Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
 * [drasi-platform](https://github.com/drasi-project/drasi-platform)
   None
-* [Pumpkin](https://github.com/Snowiiii/Pumpkin)
-  Empowering everyone to host fast and efficient Minecraft servers.
 
 ### My Blog Posts
 
