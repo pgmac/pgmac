@@ -80,11 +80,11 @@ A table of things ...
 * [openziti/ziti](https://github.com/openziti/ziti)
 * [Ghostty 👻](https://mitchellh.com/ghostty)
 * [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard.html)
-* [Are we PEP 740 yet? 🔏](https://trailofbits.github.io/are-we-pep740-yet/)
 * [CHART YOUR FART](https://research.csiro.au/cshw/projects/chart-your-fart/)
 * [hengyoush/kyanos](https://github.com/hengyoush/kyanos)
 * [DOJ Will Push Google to Sell Chrome to Break Search Monopoly - Bloomb…](https://archive.md/PPGGV)
 * [New Fastest Supercomputer Will Simulate Nuke Testing](https://spectrum.ieee.org/supercomputer-for-nukes)
+* [How I configure my Git identities](https://benji.dog/articles/git-config/)
 
 ### Things I'm star-ing
 
