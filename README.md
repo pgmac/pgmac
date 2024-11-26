@@ -109,7 +109,7 @@ A table of things ...
 * [opal](https://github.com/permitio/opal)
   Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
 * [drasi-platform](https://github.com/drasi-project/drasi-platform)
-  None
+  The Data Change Processing platform
 
 ### My Blog Posts
 
