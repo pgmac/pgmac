@@ -75,7 +75,6 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [Relativty ‍an open-source VR headset](https://www.relativty.com/)
 * [OpenMPTCProuter](https://www.openmptcprouter.com/)
 * [openziti/ziti](https://github.com/openziti/ziti)
 * [Ghostty 👻](https://mitchellh.com/ghostty)
@@ -85,6 +84,7 @@ A table of things ...
 * [DOJ Will Push Google to Sell Chrome to Break Search Monopoly - Bloomb…](https://archive.md/PPGGV)
 * [New Fastest Supercomputer Will Simulate Nuke Testing](https://spectrum.ieee.org/supercomputer-for-nukes)
 * [How I configure my Git identities](https://benji.dog/articles/git-config/)
+* [Word of the Year 2024](https://www.macquariedictionary.com.au/word-of-the-year/word-of-the-year-2024/)
 
 ### Things I'm star-ing
 
