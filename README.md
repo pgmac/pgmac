@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [am-i-isolated](https://github.com/edera-dev/am-i-isolated)
+  Validate the isolation posture of your container environment.
 * [ziti](https://github.com/openziti/ziti)
   The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
 * [garak](https://github.com/NVIDIA/garak)
@@ -108,8 +110,6 @@ A table of things ...
   My collection of container images
 * [opal](https://github.com/permitio/opal)
   Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
-* [drasi-platform](https://github.com/drasi-project/drasi-platform)
-  The Data Change Processing platform
 
 ### My Blog Posts
 
