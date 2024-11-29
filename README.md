@@ -77,14 +77,14 @@ A table of things ...
 
 * [OpenMPTCProuter](https://www.openmptcprouter.com/)
 * [openziti/ziti](https://github.com/openziti/ziti)
-* [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard.html)
 * [CHART YOUR FART](https://research.csiro.au/cshw/projects/chart-your-fart/)
-* [hengyoush/kyanos](https://github.com/hengyoush/kyanos)
 * [DOJ Will Push Google to Sell Chrome to Break Search Monopoly - Bloomb…](https://archive.md/PPGGV)
 * [New Fastest Supercomputer Will Simulate Nuke Testing](https://spectrum.ieee.org/supercomputer-for-nukes)
 * [How I configure my Git identities](https://benji.dog/articles/git-config/)
 * [Word of the Year 2024](https://www.macquariedictionary.com.au/word-of-the-year/word-of-the-year-2024/)
 * [Publishers Have Finally Said The Quiet Part Out Loud About Retro Games](https://www.forbes.com/sites/olliebarder/2024/11/26/publishers-have-finally-said-the-quiet-part-out-loud-about-retro-games/)
+* [Continue & Persist Letter](https://continueandpersist.org)
+* [https://uvdata.arpansa.gov.au/xml/uvvalues.xml](https://uvdata.arpansa.gov.au/xml/uvvalues.xml)
 
 ### Things I'm star-ing
 
