@@ -78,13 +78,13 @@ A table of things ...
 * [OpenMPTCProuter](https://www.openmptcprouter.com/)
 * [openziti/ziti](https://github.com/openziti/ziti)
 * [CHART YOUR FART](https://research.csiro.au/cshw/projects/chart-your-fart/)
-* [DOJ Will Push Google to Sell Chrome to Break Search Monopoly - Bloomb…](https://archive.md/PPGGV)
 * [New Fastest Supercomputer Will Simulate Nuke Testing](https://spectrum.ieee.org/supercomputer-for-nukes)
 * [How I configure my Git identities](https://benji.dog/articles/git-config/)
 * [Word of the Year 2024](https://www.macquariedictionary.com.au/word-of-the-year/word-of-the-year-2024/)
 * [Publishers Have Finally Said The Quiet Part Out Loud About Retro Games](https://www.forbes.com/sites/olliebarder/2024/11/26/publishers-have-finally-said-the-quiet-part-out-loud-about-retro-games/)
 * [Continue & Persist Letter](https://continueandpersist.org)
 * [https://uvdata.arpansa.gov.au/xml/uvvalues.xml](https://uvdata.arpansa.gov.au/xml/uvvalues.xml)
+* [Both KDE and GNOME to offer official distros](https://www.theregister.com/2024/11/29/kde_and_gnome_distros/)
 
 ### Things I'm star-ing
 
@@ -97,7 +97,7 @@ A table of things ...
 * [yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go)
   An experiment in scalable routing as an encrypted IPv6 overlay network
 * [kyanos](https://github.com/hengyoush/kyanos)
-  Visualize the time packets spend in the kernel, watch & analyze in command line.
+  Visualize the time packets spend in the kernel, watch & analyze in command line. 
 * [idonthavespotify](https://github.com/sjdonado/idonthavespotify)
   Effortlessly convert Spotify links to your preferred streaming service
 * [d2](https://github.com/terrastruct/d2)
