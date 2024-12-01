@@ -76,18 +76,20 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [OpenMPTCProuter](https://www.openmptcprouter.com/)
-* [openziti/ziti](https://github.com/openziti/ziti)
+* [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs)
 * [CHART YOUR FART](https://research.csiro.au/cshw/projects/chart-your-fart/)
-* [New Fastest Supercomputer Will Simulate Nuke Testing](https://spectrum.ieee.org/supercomputer-for-nukes)
 * [How I configure my Git identities](https://benji.dog/articles/git-config/)
 * [Word of the Year 2024](https://www.macquariedictionary.com.au/word-of-the-year/word-of-the-year-2024/)
 * [Publishers Have Finally Said The Quiet Part Out Loud About Retro Games](https://www.forbes.com/sites/olliebarder/2024/11/26/publishers-have-finally-said-the-quiet-part-out-loud-about-retro-games/)
 * [Continue & Persist Letter](https://continueandpersist.org)
 * [https://uvdata.arpansa.gov.au/xml/uvvalues.xml](https://uvdata.arpansa.gov.au/xml/uvvalues.xml)
 * [Both KDE and GNOME to offer official distros](https://www.theregister.com/2024/11/29/kde_and_gnome_distros/)
+* [privastead/privastead](https://github.com/privastead/privastead)
 
 ### Things I'm star-ing
 
+* [privastead](https://github.com/privastead/privastead)
+  None
 * [am-i-isolated](https://github.com/edera-dev/am-i-isolated)
   Validate the isolation posture of your container environment.
 * [ziti](https://github.com/openziti/ziti)
@@ -108,8 +110,6 @@ A table of things ...
   Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, page views. Easily build product analytics dashboards, LLM RAGs, observability platforms, or any other analytics product.
 * [containers](https://github.com/onedr0p/containers)
   My collection of container images
-* [opal](https://github.com/permitio/opal)
-  Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
 
 ### My Blog Posts
 
