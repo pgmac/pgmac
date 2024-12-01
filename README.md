@@ -75,12 +75,12 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [OpenMPTCProuter](https://www.openmptcprouter.com/)
 * [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs)
-* [CHART YOUR FART](https://research.csiro.au/cshw/projects/chart-your-fart/)
+* [[About]](https://adventofcode.com/2024/about)
 * [How I configure my Git identities](https://benji.dog/articles/git-config/)
 * [Word of the Year 2024](https://www.macquariedictionary.com.au/word-of-the-year/word-of-the-year-2024/)
 * [Publishers Have Finally Said The Quiet Part Out Loud About Retro Games](https://www.forbes.com/sites/olliebarder/2024/11/26/publishers-have-finally-said-the-quiet-part-out-loud-about-retro-games/)
+* [The Opposite of Documentation is Superstition](https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/)
 * [Continue & Persist Letter](https://continueandpersist.org)
 * [https://uvdata.arpansa.gov.au/xml/uvvalues.xml](https://uvdata.arpansa.gov.au/xml/uvvalues.xml)
 * [Both KDE and GNOME to offer official distros](https://www.theregister.com/2024/11/29/kde_and_gnome_distros/)
@@ -113,6 +113,7 @@ A table of things ...
 
 ### My Blog Posts
 
+* [Some things I found interesting from 2024-11-24 to 2024-12-01](https://pgmac.net.au/last-week/2024/12/01/interesting-last-week.html)
 * [Some things I found interesting from 2024-11-17 to 2024-11-24](https://pgmac.net.au/last-week/2024/11/24/interesting-last-week.html)
 * [Some things I found interesting from 2024-11-10 to 2024-11-17](https://pgmac.net.au/last-week/2024/11/17/interesting-last-week.html)
 * [Some things I found interesting from 2024-11-03 to 2024-11-10](https://pgmac.net.au/last-week/2024/11/10/interesting-last-week.html)
@@ -122,4 +123,3 @@ A table of things ...
 * [Some things I found interesting from 2024-10-06 to 2024-10-13](https://pgmac.net.au/last-week/2024/10/13/interesting-last-week.html)
 * [A death in the (hardware) family](https://pgmac.net.au/tech/2024/10/11/death-in-the-family.html)
 * [Some things I found interesting from 2024-09-29 to 2024-10-06](https://pgmac.net.au/last-week/2024/10/06/interesting-last-week.html)
-* [Some things I found interesting from 2024-09-22 to 2024-09-29](https://pgmac.net.au/last-week/2024/09/29/interesting-last-week.html)
