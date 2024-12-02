@@ -99,7 +99,7 @@ A table of things ...
 * [yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go)
   An experiment in scalable routing as an encrypted IPv6 overlay network
 * [kyanos](https://github.com/hengyoush/kyanos)
-  Visualize the time packets spend in the kernel, watch & analyze in command line. 
+  Visualize the time packets spend in the kernel, capture http/redis/mysql requests/responses in command line. 
 * [idonthavespotify](https://github.com/sjdonado/idonthavespotify)
   Effortlessly convert Spotify links to your preferred streaming service
 * [d2](https://github.com/terrastruct/d2)
