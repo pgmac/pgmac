@@ -77,10 +77,10 @@ A table of things ...
 
 * [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs)
 * [[About]](https://adventofcode.com/2024/about)
-* [How I configure my Git identities](https://benji.dog/articles/git-config/)
 * [Word of the Year 2024](https://www.macquariedictionary.com.au/word-of-the-year/word-of-the-year-2024/)
 * [Publishers Have Finally Said The Quiet Part Out Loud About Retro Games](https://www.forbes.com/sites/olliebarder/2024/11/26/publishers-have-finally-said-the-quiet-part-out-loud-about-retro-games/)
 * [The Opposite of Documentation is Superstition](https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/)
+* [NASA Just Released a Fireplace Video For The Holidays, And It's Hilarious](https://www.sciencealert.com/nasa-just-released-a-fireplace-video-for-the-holidays-and-its-hilarious)
 * [Continue & Persist Letter](https://continueandpersist.org)
 * [https://uvdata.arpansa.gov.au/xml/uvvalues.xml](https://uvdata.arpansa.gov.au/xml/uvvalues.xml)
 * [Both KDE and GNOME to offer official distros](https://www.theregister.com/2024/11/29/kde_and_gnome_distros/)
@@ -99,7 +99,7 @@ A table of things ...
 * [yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go)
   An experiment in scalable routing as an encrypted IPv6 overlay network
 * [kyanos](https://github.com/hengyoush/kyanos)
-  Visualize the time packets spend in the kernel, capture http/redis/mysql requests/responses in command line. 
+  Visualize the time packets spend in the kernel, analyze requests/responses in command line. 
 * [idonthavespotify](https://github.com/sjdonado/idonthavespotify)
   Effortlessly convert Spotify links to your preferred streaming service
 * [d2](https://github.com/terrastruct/d2)
