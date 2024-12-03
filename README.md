@@ -75,11 +75,11 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [https://psychology-tools.com/test/empathy-quotient](https://psychology-tools.com/test/empathy-quotient)
 * [maharmstone/ntfs2btrfs](https://github.com/maharmstone/ntfs2btrfs)
 * [[About]](https://adventofcode.com/2024/about)
 * [The Opposite of Documentation is Superstition](https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/)
 * [NASA Just Released a Fireplace Video For The Holidays, And It's Hilarious](https://www.sciencealert.com/nasa-just-released-a-fireplace-video-for-the-holidays-and-its-hilarious)
-* [Continue & Persist Letter](https://continueandpersist.org)
 * [Both KDE and GNOME to offer official distros](https://www.theregister.com/2024/11/29/kde_and_gnome_distros/)
 * [privastead/privastead](https://github.com/privastead/privastead)
 * [Fish Have a Brain Microbiome. Could Humans Have One Too?](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
