@@ -77,13 +77,13 @@ A table of things ...
 
 * [https://psychology-tools.com/test/empathy-quotient](https://psychology-tools.com/test/empathy-quotient)
 * [[About]](https://adventofcode.com/2024/about)
-* [The Opposite of Documentation is Superstition](https://buttondown.com/hillelwayne/archive/the-opposite-of-documentation-is-superstition/)
 * [NASA Just Released a Fireplace Video For The Holidays, And It's Hilarious](https://www.sciencealert.com/nasa-just-released-a-fireplace-video-for-the-holidays-and-its-hilarious)
 * [New AWS Security Incident Response helps organizations respond to and recover from security events](https://aws.amazon.com/blogs/aws/new-aws-security-incident-response-helps-organizations-respond-to-and-recover-from-security-events/)
 * [Fish Have a Brain Microbiome. Could Humans Have One Too?](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
 * [Why does the name ‘David Mayer’ crash ChatGPT? Digital privacy requests may be at fault](https://techcrunch.com/2024/12/02/why-does-the-name-david-mayer-crash-chatgpt-digital-privacy-requests-may-be-at-fault/)
 * [&nbsp;](#)
 * [10 Hidden Gems in GitHub Actions for Automating Your Workflow](https://dev.to/balrajola/10-hidden-gems-in-github-actions-for-automating-your-workflow-1i6l)
+* [Pixel phones now give you a thermometer, for the inside](https://www.androidpolice.com/pixel-phones-now-give-you-thermometer-for-the-inside/)
 * [https://www.reuters.com/technology/artificial-intelligence/amazons-cloud-service-shows-new-ai-servers-says-apple-will-use-its-chips-2024-12-03/](https://www.reuters.com/technology/artificial-intelligence/amazons-cloud-service-shows-new-ai-servers-says-apple-will-use-its-chips-2024-12-03/)
 
 ### Things I'm star-ing
