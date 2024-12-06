@@ -76,15 +76,15 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [https://psychology-tools.com/test/empathy-quotient](https://psychology-tools.com/test/empathy-quotient)
-* [[About]](https://adventofcode.com/2024/about)
-* [NASA Just Released a Fireplace Video For The Holidays, And It's Hilarious](https://www.sciencealert.com/nasa-just-released-a-fireplace-video-for-the-holidays-and-its-hilarious)
 * [New AWS Security Incident Response helps organizations respond to and recover from security events](https://aws.amazon.com/blogs/aws/new-aws-security-incident-response-helps-organizations-respond-to-and-recover-from-security-events/)
-* [Fish Have a Brain Microbiome. Could Humans Have One Too?](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
 * [Why does the name ‘David Mayer’ crash ChatGPT? Digital privacy requests may be at fault](https://techcrunch.com/2024/12/02/why-does-the-name-david-mayer-crash-chatgpt-digital-privacy-requests-may-be-at-fault/)
 * [&nbsp;](#)
 * [10 Hidden Gems in GitHub Actions for Automating Your Workflow](https://dev.to/balrajola/10-hidden-gems-in-github-actions-for-automating-your-workflow-1i6l)
 * [Pixel phones now give you a thermometer, for the inside](https://www.androidpolice.com/pixel-phones-now-give-you-thermometer-for-the-inside/)
+* [3 reasons you should be using Obsidian's Dataview plugin for dynamic note organization](https://www.xda-developers.com/reasons-using-obsidians-dataview-plugin/)
 * [https://www.reuters.com/technology/artificial-intelligence/amazons-cloud-service-shows-new-ai-servers-says-apple-will-use-its-chips-2024-12-03/](https://www.reuters.com/technology/artificial-intelligence/amazons-cloud-service-shows-new-ai-servers-says-apple-will-use-its-chips-2024-12-03/)
+* [Notice of upcoming releases and breaking changes for GitHub Actions](https://github.blog/changelog/2024-12-05-notice-of-upcoming-releases-and-breaking-changes-for-github-actions/)
+* [x.com](https://twitter.com/x/migrate?tok=7b2265223a222f6e697863726166742f7374617475732f313836343638363532333131373134323430333f743d665848614d49327535306e6274704f4169724d37365126733d3139222c2274223a313733333438393335377dec4927a813544d330fa3c30d8db7abab)
 
 ### Things I'm star-ing
 
