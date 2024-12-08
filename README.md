@@ -75,8 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [https://psychology-tools.com/test/empathy-quotient](https://psychology-tools.com/test/empathy-quotient)
-* [New AWS Security Incident Response helps organizations respond to and recover from security events](https://aws.amazon.com/blogs/aws/new-aws-security-incident-response-helps-organizations-respond-to-and-recover-from-security-events/)
+* [the hacker's browser.](https://nyxt.atlas.engineer/)
 * [10 Hidden Gems in GitHub Actions for Automating Your Workflow](https://dev.to/balrajola/10-hidden-gems-in-github-actions-for-automating-your-workflow-1i6l)
 * [Pixel phones now give you a thermometer, for the inside](https://www.androidpolice.com/pixel-phones-now-give-you-thermometer-for-the-inside/)
 * [3 reasons you should be using Obsidian's Dataview plugin for dynamic note organization](https://www.xda-developers.com/reasons-using-obsidians-dataview-plugin/)
@@ -85,6 +84,7 @@ A table of things ...
 * [Notice of upcoming releases and breaking changes for GitHub Actions](https://github.blog/changelog/2024-12-05-notice-of-upcoming-releases-and-breaking-changes-for-github-actions/)
 * [x.com](https://twitter.com/x/migrate?tok=7b2265223a222f6e697863726166742f7374617475732f313836343638363532333131373134323430333f743d665848614d49327535306e6274704f4169724d37365126733d3139222c2274223a313733333438393335377dec4927a813544d330fa3c30d8db7abab)
 * [Deprecation notice: GitHub Pages actions to require artifacts actions v4 on GitHub.com](https://github.blog/changelog/2024-12-05-deprecation-notice-github-pages-actions-to-require-artifacts-actions-v4-on-github-com/)
+* [Valve may be working on a direct competitor to the Nvidia Shield](https://www.xda-developers.com/valve-direct-competitor-nvidia-shield/)
 
 ### Things I'm star-ing
 
