@@ -79,12 +79,12 @@ A table of things ...
 * [Date and Time on the Internet: Timestamps with Additional Information](https://www.rfc-editor.org/rfc/rfc9557.html)
 * [Pixel phones now give you a thermometer, for the inside](https://www.androidpolice.com/pixel-phones-now-give-you-thermometer-for-the-inside/)
 * [3 reasons you should be using Obsidian's Dataview plugin for dynamic note organization](https://www.xda-developers.com/reasons-using-obsidians-dataview-plugin/)
-* [https://www.reuters.com/technology/artificial-intelligence/amazons-cloud-service-shows-new-ai-servers-says-apple-will-use-its-chips-2024-12-03/](https://www.reuters.com/technology/artificial-intelligence/amazons-cloud-service-shows-new-ai-servers-says-apple-will-use-its-chips-2024-12-03/)
 * [FreeBSD 14.2 wants to woo Docker fans, but still struggles with Wi-Fi](https://www.theregister.com/2024/12/05/freebsd_142/)
 * [Notice of upcoming releases and breaking changes for GitHub Actions](https://github.blog/changelog/2024-12-05-notice-of-upcoming-releases-and-breaking-changes-for-github-actions/)
 * [x.com](https://twitter.com/x/migrate?tok=7b2265223a222f6e697863726166742f7374617475732f313836343638363532333131373134323430333f743d665848614d49327535306e6274704f4169724d37365126733d3139222c2274223a313733333438393335377dec4927a813544d330fa3c30d8db7abab)
 * [Deprecation notice: GitHub Pages actions to require artifacts actions v4 on GitHub.com](https://github.blog/changelog/2024-12-05-deprecation-notice-github-pages-actions-to-require-artifacts-actions-v4-on-github-com/)
 * [Valve may be working on a direct competitor to the Nvidia Shield](https://www.xda-developers.com/valve-direct-competitor-nvidia-shield/)
+* [Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
 
 ### Things I'm star-ing
 
