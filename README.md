@@ -76,7 +76,7 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [the hacker's browser.](https://nyxt.atlas.engineer/)
-* [10 Hidden Gems in GitHub Actions for Automating Your Workflow](https://dev.to/balrajola/10-hidden-gems-in-github-actions-for-automating-your-workflow-1i6l)
+* [Date and Time on the Internet: Timestamps with Additional Information](https://www.rfc-editor.org/rfc/rfc9557.html)
 * [Pixel phones now give you a thermometer, for the inside](https://www.androidpolice.com/pixel-phones-now-give-you-thermometer-for-the-inside/)
 * [3 reasons you should be using Obsidian's Dataview plugin for dynamic note organization](https://www.xda-developers.com/reasons-using-obsidians-dataview-plugin/)
 * [https://www.reuters.com/technology/artificial-intelligence/amazons-cloud-service-shows-new-ai-servers-says-apple-will-use-its-chips-2024-12-03/](https://www.reuters.com/technology/artificial-intelligence/amazons-cloud-service-shows-new-ai-servers-says-apple-will-use-its-chips-2024-12-03/)
