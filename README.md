@@ -77,7 +77,6 @@ A table of things ...
 
 * [the hacker's browser.](https://nyxt.atlas.engineer/)
 * [Date and Time on the Internet: Timestamps with Additional Information](https://www.rfc-editor.org/rfc/rfc9557.html)
-* [Pixel phones now give you a thermometer, for the inside](https://www.androidpolice.com/pixel-phones-now-give-you-thermometer-for-the-inside/)
 * [3 reasons you should be using Obsidian's Dataview plugin for dynamic note organization](https://www.xda-developers.com/reasons-using-obsidians-dataview-plugin/)
 * [FreeBSD 14.2 wants to woo Docker fans, but still struggles with Wi-Fi](https://www.theregister.com/2024/12/05/freebsd_142/)
 * [Notice of upcoming releases and breaking changes for GitHub Actions](https://github.blog/changelog/2024-12-05-notice-of-upcoming-releases-and-breaking-changes-for-github-actions/)
@@ -85,6 +84,7 @@ A table of things ...
 * [Deprecation notice: GitHub Pages actions to require artifacts actions v4 on GitHub.com](https://github.blog/changelog/2024-12-05-deprecation-notice-github-pages-actions-to-require-artifacts-actions-v4-on-github-com/)
 * [Valve may be working on a direct competitor to the Nvidia Shield](https://www.xda-developers.com/valve-direct-competitor-nvidia-shield/)
 * [Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
+* [https://www.smbc-comics.com/comic/tradition](https://www.smbc-comics.com/comic/tradition)
 
 ### Things I'm star-ing
 
