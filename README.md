@@ -101,7 +101,7 @@ A table of things ...
 * [yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go)
   An experiment in scalable routing as an encrypted IPv6 overlay network
 * [kyanos](https://github.com/hengyoush/kyanos)
-  Kyanos is an ebpf based networking analysis tool. It can visualize the time packets spend in the kernel, analyze requests/responses in command line, suppport various L7 protocols like HTTP/Redis/MySQL.
+  Kyanos is a networking analysis tool based on eBPF. It can visualize the time packets spend in the kernel, capture requests/responses in command line, calculates various aggregated metrics, making troubleshooting more efficient.
 * [idonthavespotify](https://github.com/sjdonado/idonthavespotify)
   Effortlessly convert Spotify links to your preferred streaming service
 * [d2](https://github.com/terrastruct/d2)
