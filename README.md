@@ -78,16 +78,18 @@ A table of things ...
 * [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)
 * [the hacker's browser.](https://nyxt.atlas.engineer/)
 * [Date and Time on the Internet: Timestamps with Additional Information](https://www.rfc-editor.org/rfc/rfc9557.html)
-* [3 reasons you should be using Obsidian's Dataview plugin for dynamic note organization](https://www.xda-developers.com/reasons-using-obsidians-dataview-plugin/)
 * [FreeBSD 14.2 wants to woo Docker fans, but still struggles with Wi-Fi](https://www.theregister.com/2024/12/05/freebsd_142/)
-* [x.com](https://twitter.com/x/migrate?tok=7b2265223a222f6e697863726166742f7374617475732f313836343638363532333131373134323430333f743d665848614d49327535306e6274704f4169724d37365126733d3139222c2274223a313733333438393335377dec4927a813544d330fa3c30d8db7abab)
 * [Deprecation notice: GitHub Pages actions to require artifacts actions v4 on GitHub.com](https://github.blog/changelog/2024-12-05-deprecation-notice-github-pages-actions-to-require-artifacts-actions-v4-on-github-com/)
 * [Valve may be working on a direct competitor to the Nvidia Shield](https://www.xda-developers.com/valve-direct-competitor-nvidia-shield/)
 * [Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
 * [https://www.smbc-comics.com/comic/tradition](https://www.smbc-comics.com/comic/tradition)
+* [openauthjs/openauth](https://github.com/openauthjs/openauth)
+* [Announcing 150M developers and a new free tier for GitHub Copilot in VS Code](https://github.blog/news-insights/product-news/github-copilot-in-vscode-free/)
 
 ### Things I'm star-ing
 
+* [openauth](https://github.com/openauthjs/openauth)
+  ▦ Universal, standards-based auth provider.
 * [rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements)
   😵 GitHub achievements that did not make the cut.
 * [privastead](https://github.com/privastead/privastead)
@@ -108,8 +110,6 @@ A table of things ...
   D2 is a modern diagram scripting language that turns text to diagrams.
 * [sbomqs](https://github.com/interlynk-io/sbomqs)
   SBOM quality score - Quality metrics for your sboms
-* [trench](https://github.com/FrigadeHQ/trench)
-  Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, page views. Easily build product analytics dashboards, LLM RAGs, observability platforms, or any other analytics product.
 
 ### My Blog Posts
 
