@@ -76,9 +76,9 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)
+* [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar)
 * [the hacker's browser.](https://nyxt.atlas.engineer/)
 * [Date and Time on the Internet: Timestamps with Additional Information](https://www.rfc-editor.org/rfc/rfc9557.html)
-* [Deprecation notice: GitHub Pages actions to require artifacts actions v4 on GitHub.com](https://github.blog/changelog/2024-12-05-deprecation-notice-github-pages-actions-to-require-artifacts-actions-v4-on-github-com/)
 * [Valve may be working on a direct competitor to the Nvidia Shield](https://www.xda-developers.com/valve-direct-competitor-nvidia-shield/)
 * [Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
 * [https://www.smbc-comics.com/comic/tradition](https://www.smbc-comics.com/comic/tradition)
@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [Solaar](https://github.com/pwr-Solaar/Solaar)
+  Linux device manager for Logitech devices
 * [openauth](https://github.com/openauthjs/openauth)
   ▦ Universal, standards-based auth provider.
 * [rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements)
@@ -103,13 +105,11 @@ A table of things ...
 * [yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go)
   An experiment in scalable routing as an encrypted IPv6 overlay network
 * [kyanos](https://github.com/hengyoush/kyanos)
-  Kyanos is a networking analysis tool based on eBPF. It can visualize the time packets spend in the kernel, capture requests/responses in command line, calculates various aggregated metrics, making troubleshooting more efficient.
+  Kyanos is a networking analysis tool based on eBPF. It can visualize the time packets spend in the kernel, capture requests/responses in command line, calculates various aggregated metrics, makes troubleshooting more efficient.
 * [idonthavespotify](https://github.com/sjdonado/idonthavespotify)
   Effortlessly convert Spotify links to your preferred streaming service
 * [d2](https://github.com/terrastruct/d2)
   D2 is a modern diagram scripting language that turns text to diagrams.
-* [sbomqs](https://github.com/interlynk-io/sbomqs)
-  SBOM quality score - Quality metrics for your sboms
 
 ### My Blog Posts
 
