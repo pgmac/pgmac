@@ -78,13 +78,13 @@ A table of things ...
 * [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)
 * [the hacker's browser.](https://nyxt.atlas.engineer/)
 * [Date and Time on the Internet: Timestamps with Additional Information](https://www.rfc-editor.org/rfc/rfc9557.html)
-* [FreeBSD 14.2 wants to woo Docker fans, but still struggles with Wi-Fi](https://www.theregister.com/2024/12/05/freebsd_142/)
 * [Deprecation notice: GitHub Pages actions to require artifacts actions v4 on GitHub.com](https://github.blog/changelog/2024-12-05-deprecation-notice-github-pages-actions-to-require-artifacts-actions-v4-on-github-com/)
 * [Valve may be working on a direct competitor to the Nvidia Shield](https://www.xda-developers.com/valve-direct-competitor-nvidia-shield/)
 * [Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
 * [https://www.smbc-comics.com/comic/tradition](https://www.smbc-comics.com/comic/tradition)
 * [openauthjs/openauth](https://github.com/openauthjs/openauth)
 * [Announcing 150M developers and a new free tier for GitHub Copilot in VS Code](https://github.blog/news-insights/product-news/github-copilot-in-vscode-free/)
+* [Optimize Your Kubernetes Clusters with K8s Cleaner](https://sveltos.projectsveltos.io/k8sCleaner.html)
 
 ### Things I'm star-ing
 
