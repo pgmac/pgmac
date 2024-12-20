@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [ha-lcars](https://github.com/th3jesta/ha-lcars)
+  LCARS theme for Home Assistant
 * [Solaar](https://github.com/pwr-Solaar/Solaar)
   Linux device manager for Logitech devices
 * [openauth](https://github.com/openauthjs/openauth)
@@ -108,8 +110,6 @@ A table of things ...
   Kyanos is a networking analysis tool based on eBPF. It can visualize the time packets spend in the kernel, capture requests/responses in command line, calculates various aggregated metrics, makes troubleshooting more efficient.
 * [idonthavespotify](https://github.com/sjdonado/idonthavespotify)
   Effortlessly convert Spotify links to your preferred streaming service
-* [d2](https://github.com/terrastruct/d2)
-  D2 is a modern diagram scripting language that turns text to diagrams.
 
 ### My Blog Posts
 
