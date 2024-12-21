@@ -77,17 +77,19 @@ A table of things ...
 
 * [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)
 * [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar)
-* [the hacker's browser.](https://nyxt.atlas.engineer/)
-* [Date and Time on the Internet: Timestamps with Additional Information](https://www.rfc-editor.org/rfc/rfc9557.html)
+* [microsoft/markitdown](https://github.com/microsoft/markitdown)
 * [Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
 * [https://www.smbc-comics.com/comic/tradition](https://www.smbc-comics.com/comic/tradition)
 * [openauthjs/openauth](https://github.com/openauthjs/openauth)
 * [Announcing 150M developers and a new free tier for GitHub Copilot in VS Code](https://github.blog/news-insights/product-news/github-copilot-in-vscode-free/)
 * [Optimize Your Kubernetes Clusters with K8s Cleaner](https://sveltos.projectsveltos.io/k8sCleaner.html)
 * [izabera/pseudo3d](https://github.com/izabera/pseudo3d)
+* [REST API insights for organizations is now generally available](https://github.blog/changelog/2024-12-20-rest-api-insights-for-organizations-is-now-generally-available/)
 
 ### Things I'm star-ing
 
+* [markitdown](https://github.com/microsoft/markitdown)
+  Python tool for converting files and office documents to Markdown.
 * [ha-lcars](https://github.com/th3jesta/ha-lcars)
   LCARS theme for Home Assistant
 * [Solaar](https://github.com/pwr-Solaar/Solaar)
@@ -108,8 +110,6 @@ A table of things ...
   An experiment in scalable routing as an encrypted IPv6 overlay network
 * [kyanos](https://github.com/hengyoush/kyanos)
   Kyanos is a networking analysis tool based on eBPF. It can visualize the time packets spend in the kernel, capture requests/responses in command line, calculates various aggregated metrics, makes troubleshooting more efficient.
-* [idonthavespotify](https://github.com/sjdonado/idonthavespotify)
-  Effortlessly convert Spotify links to your preferred streaming service
 
 ### My Blog Posts
 
