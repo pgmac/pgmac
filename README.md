@@ -77,8 +77,8 @@ A table of things ...
 
 * [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)
 * [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar)
+* [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py)
 * [microsoft/markitdown](https://github.com/microsoft/markitdown)
-* [Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
 * [https://www.smbc-comics.com/comic/tradition](https://www.smbc-comics.com/comic/tradition)
 * [openauthjs/openauth](https://github.com/openauthjs/openauth)
 * [Announcing 150M developers and a new free tier for GitHub Copilot in VS Code](https://github.blog/news-insights/product-news/github-copilot-in-vscode-free/)
@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [FindMy.py](https://github.com/malmeloo/FindMy.py)
+  🍏 + 🎯 + 🐍 = Everything you need to query Apple's FindMy network!
 * [markitdown](https://github.com/microsoft/markitdown)
   Python tool for converting files and office documents to Markdown.
 * [ha-lcars](https://github.com/th3jesta/ha-lcars)
@@ -108,8 +110,6 @@ A table of things ...
   the LLM vulnerability scanner
 * [yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go)
   An experiment in scalable routing as an encrypted IPv6 overlay network
-* [kyanos](https://github.com/hengyoush/kyanos)
-  Kyanos is a networking analysis tool based on eBPF. It can visualize the time packets spend in the kernel, capture requests/responses in command line, calculates various aggregated metrics, makes troubleshooting more efficient.
 
 ### My Blog Posts
 
