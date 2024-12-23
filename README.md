@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [twtxt](https://github.com/buckket/twtxt)
+  Decentralised, minimalist microblogging service for hackers.
 * [FindMy.py](https://github.com/malmeloo/FindMy.py)
   🍏 + 🎯 + 🐍 = Everything you need to query Apple's FindMy network!
 * [markitdown](https://github.com/microsoft/markitdown)
@@ -108,8 +110,6 @@ A table of things ...
   The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
 * [garak](https://github.com/NVIDIA/garak)
   the LLM vulnerability scanner
-* [yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go)
-  An experiment in scalable routing as an encrypted IPv6 overlay network
 
 ### My Blog Posts
 
