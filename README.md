@@ -76,10 +76,10 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)
+* [Welcome to twtxt! — twtxt 1.3.2-dev documentation](https://twtxt.readthedocs.io/en/latest/index.html)
 * [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar)
 * [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py)
 * [microsoft/markitdown](https://github.com/microsoft/markitdown)
-* [https://www.smbc-comics.com/comic/tradition](https://www.smbc-comics.com/comic/tradition)
 * [openauthjs/openauth](https://github.com/openauthjs/openauth)
 * [Announcing 150M developers and a new free tier for GitHub Copilot in VS Code](https://github.blog/news-insights/product-news/github-copilot-in-vscode-free/)
 * [Optimize Your Kubernetes Clusters with K8s Cleaner](https://sveltos.projectsveltos.io/k8sCleaner.html)
