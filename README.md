@@ -75,7 +75,6 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)
 * [Welcome to twtxt! — twtxt 1.3.2-dev documentation](https://twtxt.readthedocs.io/en/latest/index.html)
 * [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar)
 * [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py)
@@ -85,6 +84,7 @@ A table of things ...
 * [Optimize Your Kubernetes Clusters with K8s Cleaner](https://sveltos.projectsveltos.io/k8sCleaner.html)
 * [izabera/pseudo3d](https://github.com/izabera/pseudo3d)
 * [REST API insights for organizations is now generally available](https://github.blog/changelog/2024-12-20-rest-api-insights-for-organizations-is-now-generally-available/)
+* [Supercharge Your Knowledge Capture Workflow with the Obsidian Web Clipper](https://www.dsebastien.net/supercharge-your-knowledge-capture-workflow-with-the-obsidian-web-clipper/)
 
 ### Things I'm star-ing
 
