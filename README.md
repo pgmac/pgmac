@@ -79,15 +79,17 @@ A table of things ...
 * [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar)
 * [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py)
 * [microsoft/markitdown](https://github.com/microsoft/markitdown)
-* [openauthjs/openauth](https://github.com/openauthjs/openauth)
-* [Announcing 150M developers and a new free tier for GitHub Copilot in VS Code](https://github.blog/news-insights/product-news/github-copilot-in-vscode-free/)
 * [Optimize Your Kubernetes Clusters with K8s Cleaner](https://sveltos.projectsveltos.io/k8sCleaner.html)
 * [izabera/pseudo3d](https://github.com/izabera/pseudo3d)
 * [REST API insights for organizations is now generally available](https://github.blog/changelog/2024-12-20-rest-api-insights-for-organizations-is-now-generally-available/)
 * [Supercharge Your Knowledge Capture Workflow with the Obsidian Web Clipper](https://www.dsebastien.net/supercharge-your-knowledge-capture-workflow-with-the-obsidian-web-clipper/)
+* [Perl Advent Calendar 2024](https://perladvent.org/2024/2024-12-23.html)
+* [https://keypub.sh/](https://keypub.sh/)
 
 ### Things I'm star-ing
 
+* [keypub](https://github.com/skariel/keypub)
+  the public ssh public key registry!
 * [twtxt](https://github.com/buckket/twtxt)
   Decentralised, minimalist microblogging service for hackers.
 * [FindMy.py](https://github.com/malmeloo/FindMy.py)
@@ -108,8 +110,6 @@ A table of things ...
   Validate the isolation posture of your container environment.
 * [ziti](https://github.com/openziti/ziti)
   The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
-* [garak](https://github.com/NVIDIA/garak)
-  the LLM vulnerability scanner
 
 ### My Blog Posts
 
