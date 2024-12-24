@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [falco](https://github.com/falcosecurity/falco)
+  Cloud Native Runtime Security
 * [searxng-docker](https://github.com/searxng/searxng-docker)
   The docker-compose files for setting up a SearXNG instance with docker.
 * [searxng-helm-chart](https://github.com/searxng/searxng-helm-chart)
@@ -108,8 +110,6 @@ A table of things ...
   Linux device manager for Logitech devices
 * [openauth](https://github.com/openauthjs/openauth)
   ▦ Universal, standards-based auth provider.
-* [rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements)
-  😵 GitHub achievements that did not make the cut.
 
 ### My Blog Posts
 
