@@ -88,6 +88,12 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [searxng-docker](https://github.com/searxng/searxng-docker)
+  The docker-compose files for setting up a SearXNG instance with docker.
+* [searxng-helm-chart](https://github.com/searxng/searxng-helm-chart)
+  The helm chart for setting up SearXNG with kubernetes.
+* [searxng](https://github.com/searxng/searxng)
+  SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 * [keypub](https://github.com/skariel/keypub)
   the public ssh public key registry!
 * [twtxt](https://github.com/buckket/twtxt)
@@ -104,12 +110,6 @@ A table of things ...
   ▦ Universal, standards-based auth provider.
 * [rejected-github-profile-achievements](https://github.com/Flet/rejected-github-profile-achievements)
   😵 GitHub achievements that did not make the cut.
-* [privastead](https://github.com/privastead/privastead)
-  None
-* [am-i-isolated](https://github.com/edera-dev/am-i-isolated)
-  Validate the isolation posture of your container environment.
-* [ziti](https://github.com/openziti/ziti)
-  The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
 
 ### My Blog Posts
 
