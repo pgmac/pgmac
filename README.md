@@ -79,12 +79,12 @@ A table of things ...
 * [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar)
 * [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py)
 * [microsoft/markitdown](https://github.com/microsoft/markitdown)
-* [Optimize Your Kubernetes Clusters with K8s Cleaner](https://sveltos.projectsveltos.io/k8sCleaner.html)
 * [izabera/pseudo3d](https://github.com/izabera/pseudo3d)
 * [REST API insights for organizations is now generally available](https://github.blog/changelog/2024-12-20-rest-api-insights-for-organizations-is-now-generally-available/)
 * [Supercharge Your Knowledge Capture Workflow with the Obsidian Web Clipper](https://www.dsebastien.net/supercharge-your-knowledge-capture-workflow-with-the-obsidian-web-clipper/)
 * [Perl Advent Calendar 2024](https://perladvent.org/2024/2024-12-23.html)
 * [https://keypub.sh/](https://keypub.sh/)
+* [operational pgp - draft](https://gist.github.com/grugq/03167bed45e774551155)
 
 ### Things I'm star-ing
 
