@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [pISSStream](https://github.com/Jaennaet/pISSStream)
+  macOS menu bar app that shows how full the International Space Station's urine tank is in real time
 * [falco](https://github.com/falcosecurity/falco)
   Cloud Native Runtime Security
 * [searxng-docker](https://github.com/searxng/searxng-docker)
@@ -108,8 +110,6 @@ A table of things ...
   LCARS theme for Home Assistant
 * [Solaar](https://github.com/pwr-Solaar/Solaar)
   Linux device manager for Logitech devices
-* [openauth](https://github.com/openauthjs/openauth)
-  ▦ Universal, standards-based auth provider.
 
 ### My Blog Posts
 
