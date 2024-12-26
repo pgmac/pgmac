@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [siyuan](https://github.com/siyuan-note/siyuan)
+  A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 * [blackcandy](https://github.com/blackcandy-org/blackcandy)
   A self hosted music streaming server
 * [pISSStream](https://github.com/Jaennaet/pISSStream)
@@ -108,8 +110,6 @@ A table of things ...
   🍏 + 🎯 + 🐍 = Everything you need to query Apple's FindMy network!
 * [markitdown](https://github.com/microsoft/markitdown)
   Python tool for converting files and office documents to Markdown.
-* [ha-lcars](https://github.com/th3jesta/ha-lcars)
-  LCARS theme for Home Assistant
 
 ### My Blog Posts
 
