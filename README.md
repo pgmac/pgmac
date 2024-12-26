@@ -77,9 +77,9 @@ A table of things ...
 
 * [Welcome to twtxt! — twtxt 1.3.2-dev documentation](https://twtxt.readthedocs.io/en/latest/index.html)
 * [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py)
+* [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy)
 * [microsoft/markitdown](https://github.com/microsoft/markitdown)
 * [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream)
-* [izabera/pseudo3d](https://github.com/izabera/pseudo3d)
 * [REST API insights for organizations is now generally available](https://github.blog/changelog/2024-12-20-rest-api-insights-for-organizations-is-now-generally-available/)
 * [Supercharge Your Knowledge Capture Workflow with the Obsidian Web Clipper](https://www.dsebastien.net/supercharge-your-knowledge-capture-workflow-with-the-obsidian-web-clipper/)
 * [Perl Advent Calendar 2024](https://perladvent.org/2024/2024-12-23.html)
@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [blackcandy](https://github.com/blackcandy-org/blackcandy)
+  A self hosted music streaming server
 * [pISSStream](https://github.com/Jaennaet/pISSStream)
   macOS menu bar app that shows how full the International Space Station's urine tank is in real time
 * [falco](https://github.com/falcosecurity/falco)
@@ -108,8 +110,6 @@ A table of things ...
   Python tool for converting files and office documents to Markdown.
 * [ha-lcars](https://github.com/th3jesta/ha-lcars)
   LCARS theme for Home Assistant
-* [Solaar](https://github.com/pwr-Solaar/Solaar)
-  Linux device manager for Logitech devices
 
 ### My Blog Posts
 
