@@ -80,14 +80,16 @@ A table of things ...
 * [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy)
 * [microsoft/markitdown](https://github.com/microsoft/markitdown)
 * [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream)
-* [REST API insights for organizations is now generally available](https://github.blog/changelog/2024-12-20-rest-api-insights-for-organizations-is-now-generally-available/)
 * [Supercharge Your Knowledge Capture Workflow with the Obsidian Web Clipper](https://www.dsebastien.net/supercharge-your-knowledge-capture-workflow-with-the-obsidian-web-clipper/)
 * [Perl Advent Calendar 2024](https://perladvent.org/2024/2024-12-23.html)
 * [https://keypub.sh/](https://keypub.sh/)
 * [operational pgp - draft](https://gist.github.com/grugq/03167bed45e774551155)
+* [Ghostty](https://ghostty.org)
 
 ### Things I'm star-ing
 
+* [ghostty](https://github.com/ghostty-org/ghostty)
+  👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 * [siyuan](https://github.com/siyuan-note/siyuan)
   A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 * [blackcandy](https://github.com/blackcandy-org/blackcandy)
@@ -108,8 +110,6 @@ A table of things ...
   Decentralised, minimalist microblogging service for hackers.
 * [FindMy.py](https://github.com/malmeloo/FindMy.py)
   🍏 + 🎯 + 🐍 = Everything you need to query Apple's FindMy network!
-* [markitdown](https://github.com/microsoft/markitdown)
-  Python tool for converting files and office documents to Markdown.
 
 ### My Blog Posts
 
