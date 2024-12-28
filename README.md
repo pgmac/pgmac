@@ -76,7 +76,7 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [Welcome to twtxt! — twtxt 1.3.2-dev documentation](https://twtxt.readthedocs.io/en/latest/index.html)
-* [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py)
+* [Model 777 — Luca Iaconi-Stewart](https://www.lucaiaconistewart.com/model-777)
 * [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy)
 * [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream)
 * [Supercharge Your Knowledge Capture Workflow with the Obsidian Web Clipper](https://www.dsebastien.net/supercharge-your-knowledge-capture-workflow-with-the-obsidian-web-clipper/)
