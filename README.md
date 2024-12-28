@@ -78,13 +78,13 @@ A table of things ...
 * [Welcome to twtxt! — twtxt 1.3.2-dev documentation](https://twtxt.readthedocs.io/en/latest/index.html)
 * [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py)
 * [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy)
-* [microsoft/markitdown](https://github.com/microsoft/markitdown)
 * [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream)
 * [Supercharge Your Knowledge Capture Workflow with the Obsidian Web Clipper](https://www.dsebastien.net/supercharge-your-knowledge-capture-workflow-with-the-obsidian-web-clipper/)
 * [Perl Advent Calendar 2024](https://perladvent.org/2024/2024-12-23.html)
 * [https://keypub.sh/](https://keypub.sh/)
 * [operational pgp - draft](https://gist.github.com/grugq/03167bed45e774551155)
 * [Ghostty](https://ghostty.org)
+* [17 Mindblowing Github Repositories You Never Knew Existed](https://dev.to/kafeel_ahmad/17-mindblowing-github-repositories-you-never-knew-existed-555g)
 
 ### Things I'm star-ing
 
