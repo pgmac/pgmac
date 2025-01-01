@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [Welcome to twtxt! — twtxt 1.3.2-dev documentation](https://twtxt.readthedocs.io/en/latest/index.html)
 * [Model 777 — Luca Iaconi-Stewart](https://www.lucaiaconistewart.com/model-777)
 * [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy)
 * [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream)
-* [Supercharge Your Knowledge Capture Workflow with the Obsidian Web Clipper](https://www.dsebastien.net/supercharge-your-knowledge-capture-workflow-with-the-obsidian-web-clipper/)
 * [Perl Advent Calendar 2024](https://perladvent.org/2024/2024-12-23.html)
 * [https://keypub.sh/](https://keypub.sh/)
 * [operational pgp - draft](https://gist.github.com/grugq/03167bed45e774551155)
 * [Ghostty](https://ghostty.org)
 * [17 Mindblowing Github Repositories You Never Knew Existed](https://dev.to/kafeel_ahmad/17-mindblowing-github-repositories-you-never-knew-existed-555g)
+* [The 12 Anti-factors of Infrastructure as Code](https://itnext.io/the-12-anti-factors-of-infrastructure-as-code-acb52fba3ae0)
+* [GitHub’s top blogs of 2024](https://github.blog/developer-skills/githubs-top-blog-posts-of-2024/)
 
 ### Things I'm star-ing
 
