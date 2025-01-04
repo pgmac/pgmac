@@ -77,7 +77,6 @@ A table of things ...
 
 * [Model 777 — Luca Iaconi-Stewart](https://www.lucaiaconistewart.com/model-777)
 * [OpenSPH](https://pavelsevecek.github.io/)
-* [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy)
 * [Ghostty](https://ghostty.org)
 * [17 Mindblowing Github Repositories You Never Knew Existed](https://dev.to/kafeel_ahmad/17-mindblowing-github-repositories-you-never-knew-existed-555g)
 * [The 12 Anti-factors of Infrastructure as Code](https://itnext.io/the-12-anti-factors-of-infrastructure-as-code-acb52fba3ae0)
@@ -85,6 +84,7 @@ A table of things ...
 * [Run Your Own Private Grammarly Clone Using Docker and LanguageTool](https://www.howtogeek.com/run-your-own-private-grammarly-clone-using-docker-and-languagetool/)
 * [https://imgur.com/gallery/tiger-who-came-pint-sean-lock-hFPQqUr](https://imgur.com/gallery/tiger-who-came-pint-sean-lock-hFPQqUr)
 * [https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog](https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog)
+* [Two Turntables and a Microphone](https://goodfuzzysounds.com/ma/docs/funnyversion.htm)
 
 ### Things I'm star-ing
 
