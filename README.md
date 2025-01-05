@@ -77,7 +77,6 @@ A table of things ...
 
 * [Model 777 — Luca Iaconi-Stewart](https://www.lucaiaconistewart.com/model-777)
 * [OpenSPH](https://pavelsevecek.github.io/)
-* [Ghostty](https://ghostty.org)
 * [17 Mindblowing Github Repositories You Never Knew Existed](https://dev.to/kafeel_ahmad/17-mindblowing-github-repositories-you-never-knew-existed-555g)
 * [The 12 Anti-factors of Infrastructure as Code](https://itnext.io/the-12-anti-factors-of-infrastructure-as-code-acb52fba3ae0)
 * [GitHub’s top blogs of 2024](https://github.blog/developer-skills/githubs-top-blog-posts-of-2024/)
@@ -85,34 +84,14 @@ A table of things ...
 * [https://imgur.com/gallery/tiger-who-came-pint-sean-lock-hFPQqUr](https://imgur.com/gallery/tiger-who-came-pint-sean-lock-hFPQqUr)
 * [https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog](https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog)
 * [Two Turntables and a Microphone](https://goodfuzzysounds.com/ma/docs/funnyversion.htm)
+* [Cees Bassa (@cgbassa@astrodon.social)](https://astrodon.social/@cgbassa/113770318993975063)
 
 ### Things I'm star-ing
 
-* [ghostty](https://github.com/ghostty-org/ghostty)
-  👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-* [siyuan](https://github.com/siyuan-note/siyuan)
-  A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-* [blackcandy](https://github.com/blackcandy-org/blackcandy)
-  A self hosted music streaming server
-* [pISSStream](https://github.com/Jaennaet/pISSStream)
-  macOS menu bar app that shows how full the International Space Station's urine tank is in real time
-* [falco](https://github.com/falcosecurity/falco)
-  Cloud Native Runtime Security
-* [searxng-docker](https://github.com/searxng/searxng-docker)
-  The docker-compose files for setting up a SearXNG instance with docker.
-* [searxng-helm-chart](https://github.com/searxng/searxng-helm-chart)
-  The helm chart for setting up SearXNG with kubernetes.
-* [searxng](https://github.com/searxng/searxng)
-  SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-* [keypub](https://github.com/skariel/keypub)
-  the public ssh public key registry!
-* [twtxt](https://github.com/buckket/twtxt)
-  Decentralised, minimalist microblogging service for hackers.
-* [FindMy.py](https://github.com/malmeloo/FindMy.py)
-  🍏 + 🎯 + 🐍 = Everything you need to query Apple's FindMy network!
 
 ### My Blog Posts
 
+* [Some things I found interesting from 2024-12-29 to 2025-01-05](https://pgmac.net.au/last-week/2025/01/05/interesting-last-week.html)
 * [Some things I found interesting from 2024-12-22 to 2024-12-29](https://pgmac.net.au/last-week/2024/12/29/interesting-last-week.html)
 * [Some things I found interesting from 2024-12-15 to 2024-12-22](https://pgmac.net.au/last-week/2024/12/22/interesting-last-week.html)
 * [Some things I found interesting from 2024-12-08 to 2024-12-15](https://pgmac.net.au/last-week/2024/12/15/interesting-last-week.html)
@@ -122,4 +101,3 @@ A table of things ...
 * [Some things I found interesting from 2024-11-10 to 2024-11-17](https://pgmac.net.au/last-week/2024/11/17/interesting-last-week.html)
 * [Some things I found interesting from 2024-11-03 to 2024-11-10](https://pgmac.net.au/last-week/2024/11/10/interesting-last-week.html)
 * [Some things I found interesting from 2024-10-27 to 2024-11-03](https://pgmac.net.au/last-week/2024/11/03/interesting-last-week.html)
-* [Some things I found interesting from 2024-10-20 to 2024-10-27](https://pgmac.net.au/last-week/2024/10/27/interesting-last-week.html)
