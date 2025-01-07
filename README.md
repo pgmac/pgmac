@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu)
+  Ubuntu (.deb) packages for Ghostty
 * [ghostty](https://github.com/ghostty-org/ghostty)
   👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 * [siyuan](https://github.com/siyuan-note/siyuan)
@@ -108,8 +110,6 @@ A table of things ...
   the public ssh public key registry!
 * [twtxt](https://github.com/buckket/twtxt)
   Decentralised, minimalist microblogging service for hackers.
-* [FindMy.py](https://github.com/malmeloo/FindMy.py)
-  🍏 + 🎯 + 🐍 = Everything you need to query Apple's FindMy network!
 
 ### My Blog Posts
 
