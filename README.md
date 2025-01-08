@@ -75,7 +75,6 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [Model 777 — Luca Iaconi-Stewart](https://www.lucaiaconistewart.com/model-777)
 * [OpenSPH](https://pavelsevecek.github.io/)
 * [The 12 Anti-factors of Infrastructure as Code](https://itnext.io/the-12-anti-factors-of-infrastructure-as-code-acb52fba3ae0)
 * [GitHub’s top blogs of 2024](https://github.blog/developer-skills/githubs-top-blog-posts-of-2024/)
@@ -85,6 +84,7 @@ A table of things ...
 * [Two Turntables and a Microphone](https://goodfuzzysounds.com/ma/docs/funnyversion.htm)
 * [Cees Bassa (@cgbassa@astrodon.social)](https://astrodon.social/@cgbassa/113770318993975063)
 * [DOOM: The Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
+* [Atlas of Space](https://atlasof.space/)
 
 ### Things I'm star-ing
 
