@@ -76,8 +76,8 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [OpenSPH](https://pavelsevecek.github.io/)
+* [https://annas-archive.org/blog/all-isbns.html](https://annas-archive.org/blog/all-isbns.html)
 * [The 12 Anti-factors of Infrastructure as Code](https://itnext.io/the-12-anti-factors-of-infrastructure-as-code-acb52fba3ae0)
-* [GitHub’s top blogs of 2024](https://github.blog/developer-skills/githubs-top-blog-posts-of-2024/)
 * [Run Your Own Private Grammarly Clone Using Docker and LanguageTool](https://www.howtogeek.com/run-your-own-private-grammarly-clone-using-docker-and-languagetool/)
 * [https://imgur.com/gallery/tiger-who-came-pint-sean-lock-hFPQqUr](https://imgur.com/gallery/tiger-who-came-pint-sean-lock-hFPQqUr)
 * [https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog](https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog)
