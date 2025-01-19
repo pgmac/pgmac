@@ -78,13 +78,13 @@ A table of things ...
 * [OpenSPH](https://pavelsevecek.github.io/)
 * [TabbyML/tabby](https://github.com/TabbyML/tabby)
 * [https://annas-archive.org/blog/all-isbns.html](https://annas-archive.org/blog/all-isbns.html)
-* [Run Your Own Private Grammarly Clone Using Docker and LanguageTool](https://www.howtogeek.com/run-your-own-private-grammarly-clone-using-docker-and-languagetool/)
 * [https://imgur.com/gallery/tiger-who-came-pint-sean-lock-hFPQqUr](https://imgur.com/gallery/tiger-who-came-pint-sean-lock-hFPQqUr)
 * [https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog](https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog)
 * [Two Turntables and a Microphone](https://goodfuzzysounds.com/ma/docs/funnyversion.htm)
 * [Cees Bassa (@cgbassa@astrodon.social)](https://astrodon.social/@cgbassa/113770318993975063)
 * [DOOM: The Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
 * [Atlas of Space](https://atlasof.space/)
+* [https://www.smbc-comics.com/comic/boom-2](https://www.smbc-comics.com/comic/boom-2)
 
 ### Things I'm star-ing
 
