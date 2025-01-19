@@ -75,15 +75,15 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [OpenSPH](https://pavelsevecek.github.io/)
+* [Where do I Start? – Neal Asher](https://www.nealasher.co.uk/where-do-i-start/)
+* [Forgejo](https://forgejo.org/)
 * [TabbyML/tabby](https://github.com/TabbyML/tabby)
 * [https://annas-archive.org/blog/all-isbns.html](https://annas-archive.org/blog/all-isbns.html)
-* [https://imgur.com/gallery/tiger-who-came-pint-sean-lock-hFPQqUr](https://imgur.com/gallery/tiger-who-came-pint-sean-lock-hFPQqUr)
-* [https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog](https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog)
 * [Two Turntables and a Microphone](https://goodfuzzysounds.com/ma/docs/funnyversion.htm)
 * [Cees Bassa (@cgbassa@astrodon.social)](https://astrodon.social/@cgbassa/113770318993975063)
 * [DOOM: The Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
 * [Atlas of Space](https://atlasof.space/)
+* [Has the TikTok Ban Already Backfired on US Cybersecurity?](https://www.darkreading.com/threat-intelligence/tiktok-ban-backfired-us-cybersecurity)
 * [https://www.smbc-comics.com/comic/boom-2](https://www.smbc-comics.com/comic/boom-2)
 
 ### Things I'm star-ing
@@ -113,6 +113,7 @@ A table of things ...
 
 ### My Blog Posts
 
+* [Some things I found interesting from 2025-01-12 to 2025-01-19](https://pgmac.net.au/last-week/2025/01/19/interesting-last-week.html)
 * [Some things I found interesting from 2025-01-05 to 2025-01-12](https://pgmac.net.au/last-week/2025/01/12/interesting-last-week.html)
 * [Some things I found interesting from 2024-12-29 to 2025-01-05](https://pgmac.net.au/last-week/2025/01/05/interesting-last-week.html)
 * [Some things I found interesting from 2024-12-22 to 2024-12-29](https://pgmac.net.au/last-week/2024/12/29/interesting-last-week.html)
@@ -122,4 +123,3 @@ A table of things ...
 * [Some things I found interesting from 2024-11-24 to 2024-12-01](https://pgmac.net.au/last-week/2024/12/01/interesting-last-week.html)
 * [Some things I found interesting from 2024-11-17 to 2024-11-24](https://pgmac.net.au/last-week/2024/11/24/interesting-last-week.html)
 * [Some things I found interesting from 2024-11-10 to 2024-11-17](https://pgmac.net.au/last-week/2024/11/17/interesting-last-week.html)
-* [Some things I found interesting from 2024-11-03 to 2024-11-10](https://pgmac.net.au/last-week/2024/11/10/interesting-last-week.html)
