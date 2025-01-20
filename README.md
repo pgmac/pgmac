@@ -79,12 +79,12 @@ A table of things ...
 * [Forgejo](https://forgejo.org/)
 * [TabbyML/tabby](https://github.com/TabbyML/tabby)
 * [https://annas-archive.org/blog/all-isbns.html](https://annas-archive.org/blog/all-isbns.html)
-* [Two Turntables and a Microphone](https://goodfuzzysounds.com/ma/docs/funnyversion.htm)
 * [Cees Bassa (@cgbassa@astrodon.social)](https://astrodon.social/@cgbassa/113770318993975063)
 * [DOOM: The Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
 * [Atlas of Space](https://atlasof.space/)
 * [Has the TikTok Ban Already Backfired on US Cybersecurity?](https://www.darkreading.com/threat-intelligence/tiktok-ban-backfired-us-cybersecurity)
 * [https://www.smbc-comics.com/comic/boom-2](https://www.smbc-comics.com/comic/boom-2)
+* [Escape the walled garden and algorithm black boxes with RSS feeds](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss)
 
 ### Things I'm star-ing
 
