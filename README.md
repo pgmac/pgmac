@@ -79,11 +79,11 @@ A table of things ...
 * [Forgejo](https://forgejo.org/)
 * [TabbyML/tabby](https://github.com/TabbyML/tabby)
 * [https://annas-archive.org/blog/all-isbns.html](https://annas-archive.org/blog/all-isbns.html)
-* [DOOM: The Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
 * [Atlas of Space](https://atlasof.space/)
 * [Has the TikTok Ban Already Backfired on US Cybersecurity?](https://www.darkreading.com/threat-intelligence/tiktok-ban-backfired-us-cybersecurity)
 * [The PC is Dead: It’s Time to Make Computing Personal Again](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again)
 * [https://www.smbc-comics.com/comic/boom-2](https://www.smbc-comics.com/comic/boom-2)
+* [CBA to trial myGov verification proof-of-concept](https://www.itnews.com.au/news/cba-to-trial-mygov-verification-proof-of-concept-614435)
 * [Escape the walled garden and algorithm black boxes with RSS feeds](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss)
 
 ### Things I'm star-ing
