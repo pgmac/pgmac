@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [opengrep](https://github.com/opengrep/opengrep)
+  🔎 Static code analysis engine to find security issues in code.
 * [ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu)
   Ubuntu/Debian (.deb) packages for Ghostty
 * [ghostty](https://github.com/ghostty-org/ghostty)
@@ -108,8 +110,6 @@ A table of things ...
   SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 * [keypub](https://github.com/skariel/keypub)
   the public ssh public key registry!
-* [twtxt](https://github.com/buckket/twtxt)
-  Decentralised, minimalist microblogging service for hackers.
 
 ### My Blog Posts
 
