@@ -77,7 +77,6 @@ A table of things ...
 
 * [Where do I Start? – Neal Asher](https://www.nealasher.co.uk/where-do-i-start/)
 * [Forgejo](https://forgejo.org/)
-* [TabbyML/tabby](https://github.com/TabbyML/tabby)
 * [How to improve your WFH lighting to reduce eye strain](https://rustle.ca/posts/articles/work-from-home-lighting)
 * [Has the TikTok Ban Already Backfired on US Cybersecurity?](https://www.darkreading.com/threat-intelligence/tiktok-ban-backfired-us-cybersecurity)
 * [The PC is Dead: It’s Time to Make Computing Personal Again](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again)
@@ -85,6 +84,7 @@ A table of things ...
 * [CBA to trial myGov verification proof-of-concept](https://www.itnews.com.au/news/cba-to-trial-mygov-verification-proof-of-concept-614435)
 * [Escape the walled garden and algorithm black boxes with RSS feeds](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss)
 * [Stratoshark](https://stratoshark.org/)
+* [No screen, no controller, and absolutely no sense, just a power button and a USB port.](https://crastinator-pro.github.io/steam-brick/)
 
 ### Things I'm star-ing
 
