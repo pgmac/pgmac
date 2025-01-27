@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [nagvis](https://github.com/NagVis/nagvis)
+  Visualization addon for your open source monitoring core
 * [opengrep](https://github.com/opengrep/opengrep)
   🔎 Static code analysis engine to find security issues in code.
 * [ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu)
@@ -108,8 +110,6 @@ A table of things ...
   The helm chart for setting up SearXNG with kubernetes.
 * [searxng](https://github.com/searxng/searxng)
   SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-* [keypub](https://github.com/skariel/keypub)
-  the public ssh public key registry!
 
 ### My Blog Posts
 
