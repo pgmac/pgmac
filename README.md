@@ -76,7 +76,6 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [Where do I Start? – Neal Asher](https://www.nealasher.co.uk/where-do-i-start/)
-* [Forgejo](https://forgejo.org/)
 * [How to improve your WFH lighting to reduce eye strain](https://rustle.ca/posts/articles/work-from-home-lighting)
 * [Has the TikTok Ban Already Backfired on US Cybersecurity?](https://www.darkreading.com/threat-intelligence/tiktok-ban-backfired-us-cybersecurity)
 * [The PC is Dead: It’s Time to Make Computing Personal Again](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again)
@@ -85,6 +84,7 @@ A table of things ...
 * [Stratoshark](https://stratoshark.org/)
 * [So you wanna write Kubernetes controllers?](https://ahmet.im/blog/controller-pitfalls/)
 * [No screen, no controller, and absolutely no sense, just a power button and a USB port.](https://crastinator-pro.github.io/steam-brick/)
+* [DeepSeek Jailbreak Reveals Its Entire System Prompt](https://www.darkreading.com/application-security/deepseek-jailbreak-system-prompt)
 
 ### Things I'm star-ing
 
