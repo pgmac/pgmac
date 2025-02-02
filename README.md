@@ -113,6 +113,7 @@ A table of things ...
 
 ### My Blog Posts
 
+* [Some things I found interesting from 2025-01-26 to 2025-02-02](https://pgmac.net.au/last-week/2025/02/02/interesting-last-week.html)
 * [Some things I found interesting from 2025-01-19 to 2025-01-26](https://pgmac.net.au/last-week/2025/01/26/interesting-last-week.html)
 * [Some things I found interesting from 2025-01-12 to 2025-01-19](https://pgmac.net.au/last-week/2025/01/19/interesting-last-week.html)
 * [Some things I found interesting from 2025-01-05 to 2025-01-12](https://pgmac.net.au/last-week/2025/01/12/interesting-last-week.html)
@@ -122,4 +123,3 @@ A table of things ...
 * [Some things I found interesting from 2024-12-08 to 2024-12-15](https://pgmac.net.au/last-week/2024/12/15/interesting-last-week.html)
 * [Some things I found interesting from 2024-12-01 to 2024-12-08](https://pgmac.net.au/last-week/2024/12/08/interesting-last-week.html)
 * [Some things I found interesting from 2024-11-24 to 2024-12-01](https://pgmac.net.au/last-week/2024/12/01/interesting-last-week.html)
-* [Some things I found interesting from 2024-11-17 to 2024-11-24](https://pgmac.net.au/last-week/2024/11/24/interesting-last-week.html)
