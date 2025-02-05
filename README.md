@@ -77,7 +77,6 @@ A table of things ...
 
 * [Where do I Start? – Neal Asher](https://www.nealasher.co.uk/where-do-i-start/)
 * [How to improve your WFH lighting to reduce eye strain](https://rustle.ca/posts/articles/work-from-home-lighting)
-* [Has the TikTok Ban Already Backfired on US Cybersecurity?](https://www.darkreading.com/threat-intelligence/tiktok-ban-backfired-us-cybersecurity)
 * [The PC is Dead: It’s Time to Make Computing Personal Again](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again)
 * [CBA to trial myGov verification proof-of-concept](https://www.itnews.com.au/news/cba-to-trial-mygov-verification-proof-of-concept-614435)
 * [Escape the walled garden and algorithm black boxes with RSS feeds](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss)
@@ -85,6 +84,7 @@ A table of things ...
 * [So you wanna write Kubernetes controllers?](https://ahmet.im/blog/controller-pitfalls/)
 * [No screen, no controller, and absolutely no sense, just a power button and a USB port.](https://crastinator-pro.github.io/steam-brick/)
 * [DeepSeek Jailbreak Reveals Its Entire System Prompt](https://www.darkreading.com/application-security/deepseek-jailbreak-system-prompt)
+* [Framework Laptop’s RISC-V board for open source diehards is available for $199](https://arstechnica.com/gadgets/2025/02/framework-laptop-expands-beyond-x86-with-its-first-ever-risc-v-based-motherboard/)
 
 ### Things I'm star-ing
 
