@@ -75,7 +75,6 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [Where do I Start? – Neal Asher](https://www.nealasher.co.uk/where-do-i-start/)
 * [How to improve your WFH lighting to reduce eye strain](https://rustle.ca/posts/articles/work-from-home-lighting)
 * [The PC is Dead: It’s Time to Make Computing Personal Again](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again)
 * [CBA to trial myGov verification proof-of-concept](https://www.itnews.com.au/news/cba-to-trial-mygov-verification-proof-of-concept-614435)
@@ -85,6 +84,7 @@ A table of things ...
 * [No screen, no controller, and absolutely no sense, just a power button and a USB port.](https://crastinator-pro.github.io/steam-brick/)
 * [DeepSeek Jailbreak Reveals Its Entire System Prompt](https://www.darkreading.com/application-security/deepseek-jailbreak-system-prompt)
 * [Framework Laptop’s RISC-V board for open source diehards is available for $199](https://arstechnica.com/gadgets/2025/02/framework-laptop-expands-beyond-x86-with-its-first-ever-risc-v-based-motherboard/)
+* [Beej's Guide to Git](https://beej.us/guide/bggit/)
 
 ### Things I'm star-ing
 
