@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [mise](https://github.com/jdx/mise)
+  dev tools, env vars, task runner
 * [nagvis](https://github.com/NagVis/nagvis)
   Visualization addon for your open source monitoring core
 * [opengrep](https://github.com/opengrep/opengrep)
@@ -108,8 +110,6 @@ A table of things ...
   The docker-compose files for setting up a SearXNG instance with docker.
 * [searxng-helm-chart](https://github.com/searxng/searxng-helm-chart)
   The helm chart for setting up SearXNG with kubernetes.
-* [searxng](https://github.com/searxng/searxng)
-  SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 
 ### My Blog Posts
 
