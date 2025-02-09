@@ -88,6 +88,10 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [consul](https://github.com/hashicorp/consul)
+  Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+* [vault](https://github.com/hashicorp/vault)
+  A tool for secrets management, encryption as a service, and privileged access management
 * [mise](https://github.com/jdx/mise)
   dev tools, env vars, task runner
 * [nagvis](https://github.com/NagVis/nagvis)
@@ -106,10 +110,6 @@ A table of things ...
   macOS menu bar app that shows how full the International Space Station's urine tank is in real time
 * [falco](https://github.com/falcosecurity/falco)
   Cloud Native Runtime Security
-* [searxng-docker](https://github.com/searxng/searxng-docker)
-  The docker-compose files for setting up a SearXNG instance with docker.
-* [searxng-helm-chart](https://github.com/searxng/searxng-helm-chart)
-  The helm chart for setting up SearXNG with kubernetes.
 
 ### My Blog Posts
 
