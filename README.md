@@ -75,7 +75,6 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [How to improve your WFH lighting to reduce eye strain](https://rustle.ca/posts/articles/work-from-home-lighting)
 * [Stratoshark](https://stratoshark.org/)
 * [So you wanna write Kubernetes controllers?](https://ahmet.im/blog/controller-pitfalls/)
 * [No screen, no controller, and absolutely no sense, just a power button and a USB port.](https://crastinator-pro.github.io/steam-brick/)
@@ -83,6 +82,7 @@ A table of things ...
 * [DeepSeek Jailbreak Reveals Its Entire System Prompt](https://www.darkreading.com/application-security/deepseek-jailbreak-system-prompt)
 * [Framework Laptop’s RISC-V board for open source diehards is available for $199](https://arstechnica.com/gadgets/2025/02/framework-laptop-expands-beyond-x86-with-its-first-ever-risc-v-based-motherboard/)
 * [Beej's Guide to Git](https://beej.us/guide/bggit/)
+* [How to Build a Multi-Tenancy Internal Developer Platform with GitOps and vCluster](https://itnext.io/how-to-build-a-multi-tenancy-internal-developer-platform-with-gitops-and-vcluster-d8f43bfb9c3d)
 * [Dubbed Australia's longest shortcut, the Outback Way is not for the faint-hearted](https://www.abc.net.au/news/2025-02-06/outback-way-journey-remote-australia-back-roads-lisa-millar/104842474)
 * [OpenWrt 24.10.0 - First Stable Release - 6. February 2025](https://openwrt.org/releases/24.10/notes-24.10.0)
 
@@ -113,6 +113,7 @@ A table of things ...
 
 ### My Blog Posts
 
+* [Some things I found interesting from 2025-02-02 to 2025-02-09](https://pgmac.net.au/last-week/2025/02/09/interesting-last-week.html)
 * [Some things I found interesting from 2025-01-26 to 2025-02-02](https://pgmac.net.au/last-week/2025/02/02/interesting-last-week.html)
 * [Some things I found interesting from 2025-01-19 to 2025-01-26](https://pgmac.net.au/last-week/2025/01/26/interesting-last-week.html)
 * [Some things I found interesting from 2025-01-12 to 2025-01-19](https://pgmac.net.au/last-week/2025/01/19/interesting-last-week.html)
@@ -122,4 +123,3 @@ A table of things ...
 * [Some things I found interesting from 2024-12-15 to 2024-12-22](https://pgmac.net.au/last-week/2024/12/22/interesting-last-week.html)
 * [Some things I found interesting from 2024-12-08 to 2024-12-15](https://pgmac.net.au/last-week/2024/12/15/interesting-last-week.html)
 * [Some things I found interesting from 2024-12-01 to 2024-12-08](https://pgmac.net.au/last-week/2024/12/08/interesting-last-week.html)
-* [Some things I found interesting from 2024-11-24 to 2024-12-01](https://pgmac.net.au/last-week/2024/12/01/interesting-last-week.html)
