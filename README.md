@@ -77,13 +77,13 @@ A table of things ...
 
 * [devsecflow/cnamm](https://github.com/devsecflow/cnamm)
 * [DeepSeek Local: How to Self-Host DeepSeek (Privacy and Control)](https://linuxblog.io/deepseek-local-self-host/)
-* [DeepSeek Jailbreak Reveals Its Entire System Prompt](https://www.darkreading.com/application-security/deepseek-jailbreak-system-prompt)
 * [Framework Laptop’s RISC-V board for open source diehards is available for $199](https://arstechnica.com/gadgets/2025/02/framework-laptop-expands-beyond-x86-with-its-first-ever-risc-v-based-motherboard/)
 * [Beej's Guide to Git](https://beej.us/guide/bggit/)
 * [How to Build a Multi-Tenancy Internal Developer Platform with GitOps and vCluster](https://itnext.io/how-to-build-a-multi-tenancy-internal-developer-platform-with-gitops-and-vcluster-d8f43bfb9c3d)
 * [Dubbed Australia's longest shortcut, the Outback Way is not for the faint-hearted](https://www.abc.net.au/news/2025-02-06/outback-way-journey-remote-australia-back-roads-lisa-millar/104842474)
 * [OpenWrt 24.10.0 - First Stable Release - 6. February 2025](https://openwrt.org/releases/24.10/notes-24.10.0)
 * [splunk/DECEIVE](https://github.com/splunk/DECEIVE)
+* [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
 * [Canonical announces 12 year Kubernetes LTS ](https://canonical.com/blog/12-year-lts-for-kubernetes)
 
 ### Things I'm star-ing
