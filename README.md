@@ -77,7 +77,6 @@ A table of things ...
 
 * [devsecflow/cnamm](https://github.com/devsecflow/cnamm)
 * [DeepSeek Local: How to Self-Host DeepSeek (Privacy and Control)](https://linuxblog.io/deepseek-local-self-host/)
-* [Framework Laptop’s RISC-V board for open source diehards is available for $199](https://arstechnica.com/gadgets/2025/02/framework-laptop-expands-beyond-x86-with-its-first-ever-risc-v-based-motherboard/)
 * [Beej's Guide to Git](https://beej.us/guide/bggit/)
 * [How to Build a Multi-Tenancy Internal Developer Platform with GitOps and vCluster](https://itnext.io/how-to-build-a-multi-tenancy-internal-developer-platform-with-gitops-and-vcluster-d8f43bfb9c3d)
 * [Dubbed Australia's longest shortcut, the Outback Way is not for the faint-hearted](https://www.abc.net.au/news/2025-02-06/outback-way-journey-remote-australia-back-roads-lisa-millar/104842474)
@@ -85,31 +84,10 @@ A table of things ...
 * [splunk/DECEIVE](https://github.com/splunk/DECEIVE)
 * [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
 * [Canonical announces 12 year Kubernetes LTS ](https://canonical.com/blog/12-year-lts-for-kubernetes)
+* [Zed now predicts your next edit with Zeta, our new open model](https://zed.dev/blog/edit-prediction)
 
 ### Things I'm star-ing
 
-* [DECEIVE](https://github.com/splunk/DECEIVE)
-  DECeption with Evaluative Integrated Validation Engine (DECEIVE): Let an LLM do all the hard honeypot work!
-* [consul](https://github.com/hashicorp/consul)
-  Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-* [vault](https://github.com/hashicorp/vault)
-  A tool for secrets management, encryption as a service, and privileged access management
-* [mise](https://github.com/jdx/mise)
-  dev tools, env vars, task runner
-* [nagvis](https://github.com/NagVis/nagvis)
-  Visualization addon for your open source monitoring core
-* [opengrep](https://github.com/opengrep/opengrep)
-  🔎 Static code analysis engine to find security issues in code.
-* [ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu)
-  Ubuntu/Debian (.deb) packages for Ghostty
-* [ghostty](https://github.com/ghostty-org/ghostty)
-  👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-* [siyuan](https://github.com/siyuan-note/siyuan)
-  A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-* [blackcandy](https://github.com/blackcandy-org/blackcandy)
-  A self hosted music streaming server
-* [pISSStream](https://github.com/Jaennaet/pISSStream)
-  macOS menu bar app that shows how full the International Space Station's urine tank is in real time
 
 ### My Blog Posts
 
