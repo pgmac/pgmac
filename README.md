@@ -88,6 +88,28 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [DECEIVE](https://github.com/splunk/DECEIVE)
+  DECeption with Evaluative Integrated Validation Engine (DECEIVE): Let an LLM do all the hard honeypot work!
+* [consul](https://github.com/hashicorp/consul)
+  Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+* [vault](https://github.com/hashicorp/vault)
+  A tool for secrets management, encryption as a service, and privileged access management
+* [mise](https://github.com/jdx/mise)
+  dev tools, env vars, task runner
+* [nagvis](https://github.com/NagVis/nagvis)
+  Visualization addon for your open source monitoring core
+* [opengrep](https://github.com/opengrep/opengrep)
+  🔎 Static code analysis engine to find security issues in code.
+* [ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu)
+  Ubuntu/Debian (.deb) packages for Ghostty
+* [ghostty](https://github.com/ghostty-org/ghostty)
+  👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+* [siyuan](https://github.com/siyuan-note/siyuan)
+  A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+* [blackcandy](https://github.com/blackcandy-org/blackcandy)
+  A self hosted music streaming server
+* [pISSStream](https://github.com/Jaennaet/pISSStream)
+  macOS menu bar app that shows how full the International Space Station's urine tank is in real time
 
 ### My Blog Posts
 
