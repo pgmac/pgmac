@@ -76,18 +76,40 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [devsecflow/cnamm](https://github.com/devsecflow/cnamm)
-* [DeepSeek Local: How to Self-Host DeepSeek (Privacy and Control)](https://linuxblog.io/deepseek-local-self-host/)
 * [How to Build a Multi-Tenancy Internal Developer Platform with GitOps and vCluster](https://itnext.io/how-to-build-a-multi-tenancy-internal-developer-platform-with-gitops-and-vcluster-d8f43bfb9c3d)
-* [OpenWrt 24.10.0 - First Stable Release - 6. February 2025](https://openwrt.org/releases/24.10/notes-24.10.0)
 * [splunk/DECEIVE](https://github.com/splunk/DECEIVE)
 * [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
 * [Did Semgrep Just Get A Lot More Interesting?](https://fly.io/blog/semgrep-but-for-real-now/)
 * [Canonical announces 12 year Kubernetes LTS ](https://canonical.com/blog/12-year-lts-for-kubernetes)
 * [Zed now predicts your next edit with Zeta, our new open model](https://zed.dev/blog/edit-prediction)
+* [Why do younger coders struggle to break through the FOSS graybeard barrier?](https://www.theregister.com/2025/02/14/youngsters_in_foss/)
 * [Anyone Can Push Updates to the DOGE.gov Website](https://archive.md/wy1Wt)
+* [Open Sue! OBS Studio Threatens Fedora With Legal Action](https://news.itsfoss.com/obs-studio-fedora-feud/)
 
 ### Things I'm star-ing
 
+* [DECEIVE](https://github.com/splunk/DECEIVE)
+  DECeption with Evaluative Integrated Validation Engine (DECEIVE): Let an LLM do all the hard honeypot work!
+* [consul](https://github.com/hashicorp/consul)
+  Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+* [vault](https://github.com/hashicorp/vault)
+  A tool for secrets management, encryption as a service, and privileged access management
+* [mise](https://github.com/jdx/mise)
+  dev tools, env vars, task runner
+* [nagvis](https://github.com/NagVis/nagvis)
+  Visualization addon for your open source monitoring core
+* [opengrep](https://github.com/opengrep/opengrep)
+  🔎 Static code analysis engine to find security issues in code.
+* [ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu)
+  Ubuntu/Debian (.deb) packages for Ghostty
+* [ghostty](https://github.com/ghostty-org/ghostty)
+  👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+* [siyuan](https://github.com/siyuan-note/siyuan)
+  A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+* [blackcandy](https://github.com/blackcandy-org/blackcandy)
+  A self hosted music streaming server
+* [pISSStream](https://github.com/Jaennaet/pISSStream)
+  macOS menu bar app that shows how full the International Space Station's urine tank is in real time
 
 ### My Blog Posts
 
