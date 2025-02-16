@@ -76,13 +76,13 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [devsecflow/cnamm](https://github.com/devsecflow/cnamm)
-* [splunk/DECEIVE](https://github.com/splunk/DECEIVE)
 * [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
 * [Did Semgrep Just Get A Lot More Interesting?](https://fly.io/blog/semgrep-but-for-real-now/)
 * [Canonical announces 12 year Kubernetes LTS ](https://canonical.com/blog/12-year-lts-for-kubernetes)
 * [Zed now predicts your next edit with Zeta, our new open model](https://zed.dev/blog/edit-prediction)
 * [Why do younger coders struggle to break through the FOSS graybeard barrier?](https://www.theregister.com/2025/02/14/youngsters_in_foss/)
 * [Anyone Can Push Updates to the DOGE.gov Website](https://archive.md/wy1Wt)
+* [Secret scanning detects Base64-encoded GitHub tokens](https://github.blog/changelog/2025-02-14-secret-scanning-detects-base64-encoded-github-tokens/)
 * [5 reasons Full Calendar is a third-party Obsidian plugin I can't live without](https://www.xda-developers.com/reasons-full-calendar-best-obsidian-plugin-cant-live-without/)
 * [Open Sue! OBS Studio Threatens Fedora With Legal Action](https://news.itsfoss.com/obs-studio-fedora-feud/)
 
@@ -113,6 +113,7 @@ A table of things ...
 
 ### My Blog Posts
 
+* [Some things I found interesting from 2025-02-09 to 2025-02-16](https://pgmac.net.au/last-week/2025/02/16/interesting-last-week.html)
 * [Some things I found interesting from 2025-02-02 to 2025-02-09](https://pgmac.net.au/last-week/2025/02/09/interesting-last-week.html)
 * [Some things I found interesting from 2025-01-26 to 2025-02-02](https://pgmac.net.au/last-week/2025/02/02/interesting-last-week.html)
 * [Some things I found interesting from 2025-01-19 to 2025-01-26](https://pgmac.net.au/last-week/2025/01/26/interesting-last-week.html)
@@ -122,4 +123,3 @@ A table of things ...
 * [Some things I found interesting from 2024-12-22 to 2024-12-29](https://pgmac.net.au/last-week/2024/12/29/interesting-last-week.html)
 * [Some things I found interesting from 2024-12-15 to 2024-12-22](https://pgmac.net.au/last-week/2024/12/22/interesting-last-week.html)
 * [Some things I found interesting from 2024-12-08 to 2024-12-15](https://pgmac.net.au/last-week/2024/12/15/interesting-last-week.html)
-* [Some things I found interesting from 2024-12-01 to 2024-12-08](https://pgmac.net.au/last-week/2024/12/08/interesting-last-week.html)
