@@ -76,7 +76,6 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [devsecflow/cnamm](https://github.com/devsecflow/cnamm)
-* [How to Build a Multi-Tenancy Internal Developer Platform with GitOps and vCluster](https://itnext.io/how-to-build-a-multi-tenancy-internal-developer-platform-with-gitops-and-vcluster-d8f43bfb9c3d)
 * [splunk/DECEIVE](https://github.com/splunk/DECEIVE)
 * [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
 * [Did Semgrep Just Get A Lot More Interesting?](https://fly.io/blog/semgrep-but-for-real-now/)
@@ -84,6 +83,7 @@ A table of things ...
 * [Zed now predicts your next edit with Zeta, our new open model](https://zed.dev/blog/edit-prediction)
 * [Why do younger coders struggle to break through the FOSS graybeard barrier?](https://www.theregister.com/2025/02/14/youngsters_in_foss/)
 * [Anyone Can Push Updates to the DOGE.gov Website](https://archive.md/wy1Wt)
+* [5 reasons Full Calendar is a third-party Obsidian plugin I can't live without](https://www.xda-developers.com/reasons-full-calendar-best-obsidian-plugin-cant-live-without/)
 * [Open Sue! OBS Studio Threatens Fedora With Legal Action](https://news.itsfoss.com/obs-studio-fedora-feud/)
 
 ### Things I'm star-ing
