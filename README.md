@@ -75,8 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Adam Golaski On David Lynch's "Revenge of the Jedi" — Bennington Review](https://www.benningtonreview.org/adam-golaski)
 * [The tough reality of being a "glue person"...](https://cutlefish.substack.com/p/the-tough-reality-of-being-a-glue)
-* [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
 * [Did Semgrep Just Get A Lot More Interesting?](https://fly.io/blog/semgrep-but-for-real-now/)
 * [Zed now predicts your next edit with Zeta, our new open model](https://zed.dev/blog/edit-prediction)
 * [Why do younger coders struggle to break through the FOSS graybeard barrier?](https://www.theregister.com/2025/02/14/youngsters_in_foss/)
