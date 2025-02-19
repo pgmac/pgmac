@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [The 88x31 GIF Collection | Part 1](https://cyber.dabamos.de/88x31/)
 * [Adam Golaski On David Lynch's "Revenge of the Jedi" — Bennington Review](https://www.benningtonreview.org/adam-golaski)
 * [The tough reality of being a "glue person"...](https://cutlefish.substack.com/p/the-tough-reality-of-being-a-glue)
-* [Did Semgrep Just Get A Lot More Interesting?](https://fly.io/blog/semgrep-but-for-real-now/)
 * [Why do younger coders struggle to break through the FOSS graybeard barrier?](https://www.theregister.com/2025/02/14/youngsters_in_foss/)
-* [Anyone Can Push Updates to the DOGE.gov Website](https://archive.md/wy1Wt)
 * [Secret scanning detects Base64-encoded GitHub tokens](https://github.blog/changelog/2025-02-14-secret-scanning-detects-base64-encoded-github-tokens/)
 * [5 reasons Full Calendar is a third-party Obsidian plugin I can't live without](https://www.xda-developers.com/reasons-full-calendar-best-obsidian-plugin-cant-live-without/)
 * [Open Sue! OBS Studio Threatens Fedora With Legal Action](https://news.itsfoss.com/obs-studio-fedora-feud/)
 * [Thomas Armour (Oakenstone) (@Oakenstone@universeodon.com)](https://universeodon.com/@Oakenstone/114017231872710728)
 * [Scripton](https://scripton.dev)
+* [Repositories – Enterprise rules and custom properties updates](https://github.blog/changelog/2025-02-18-repositories-enterprise-rules-and-custom-properties-updates/)
 
 ### Things I'm star-ing
 
