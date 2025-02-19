@@ -78,13 +78,13 @@ A table of things ...
 * [Adam Golaski On David Lynch's "Revenge of the Jedi" — Bennington Review](https://www.benningtonreview.org/adam-golaski)
 * [The tough reality of being a "glue person"...](https://cutlefish.substack.com/p/the-tough-reality-of-being-a-glue)
 * [Did Semgrep Just Get A Lot More Interesting?](https://fly.io/blog/semgrep-but-for-real-now/)
-* [Zed now predicts your next edit with Zeta, our new open model](https://zed.dev/blog/edit-prediction)
 * [Why do younger coders struggle to break through the FOSS graybeard barrier?](https://www.theregister.com/2025/02/14/youngsters_in_foss/)
 * [Anyone Can Push Updates to the DOGE.gov Website](https://archive.md/wy1Wt)
 * [Secret scanning detects Base64-encoded GitHub tokens](https://github.blog/changelog/2025-02-14-secret-scanning-detects-base64-encoded-github-tokens/)
 * [5 reasons Full Calendar is a third-party Obsidian plugin I can't live without](https://www.xda-developers.com/reasons-full-calendar-best-obsidian-plugin-cant-live-without/)
 * [Open Sue! OBS Studio Threatens Fedora With Legal Action](https://news.itsfoss.com/obs-studio-fedora-feud/)
 * [Thomas Armour (Oakenstone) (@Oakenstone@universeodon.com)](https://universeodon.com/@Oakenstone/114017231872710728)
+* [Scripton](https://scripton.dev)
 
 ### Things I'm star-ing
 
