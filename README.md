@@ -77,10 +77,10 @@ A table of things ...
 
 * [The 88x31 GIF Collection | Part 1](https://cyber.dabamos.de/88x31/)
 * [Adam Golaski On David Lynch's "Revenge of the Jedi" — Bennington Review](https://www.benningtonreview.org/adam-golaski)
+* [&nbsp;](#)
 * [The tough reality of being a "glue person"...](https://cutlefish.substack.com/p/the-tough-reality-of-being-a-glue)
 * [subtrace/subtrace](https://github.com/subtrace/subtrace)
 * [Secret scanning detects Base64-encoded GitHub tokens](https://github.blog/changelog/2025-02-14-secret-scanning-detects-base64-encoded-github-tokens/)
-* [5 reasons Full Calendar is a third-party Obsidian plugin I can't live without](https://www.xda-developers.com/reasons-full-calendar-best-obsidian-plugin-cant-live-without/)
 * [Thomas Armour (Oakenstone) (@Oakenstone@universeodon.com)](https://universeodon.com/@Oakenstone/114017231872710728)
 * [Scripton](https://scripton.dev)
 * [Repositories – Enterprise rules and custom properties updates](https://github.blog/changelog/2025-02-18-repositories-enterprise-rules-and-custom-properties-updates/)
