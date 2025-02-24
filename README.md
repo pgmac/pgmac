@@ -80,14 +80,16 @@ A table of things ...
 * [&nbsp;](#)
 * [The tough reality of being a "glue person"...](https://cutlefish.substack.com/p/the-tough-reality-of-being-a-glue)
 * [subtrace/subtrace](https://github.com/subtrace/subtrace)
-* [Secret scanning detects Base64-encoded GitHub tokens](https://github.blog/changelog/2025-02-14-secret-scanning-detects-base64-encoded-github-tokens/)
 * [Thomas Armour (Oakenstone) (@Oakenstone@universeodon.com)](https://universeodon.com/@Oakenstone/114017231872710728)
 * [Scripton](https://scripton.dev)
 * [Repositories – Enterprise rules and custom properties updates](https://github.blog/changelog/2025-02-18-repositories-enterprise-rules-and-custom-properties-updates/)
 * [Recent improvements to Artifact Attestations](https://github.blog/changelog/2025-02-18-recent-improvements-to-artifact-attestations/)
+* [yshavit/mdq](https://github.com/yshavit/mdq)
 
 ### Things I'm star-ing
 
+* [mdq](https://github.com/yshavit/mdq)
+  like jq but for Markdown: find specific elements in a md doc
 * [subtrace](https://github.com/subtrace/subtrace)
   Wireshark for Docker containers
 * [DECEIVE](https://github.com/splunk/DECEIVE)
@@ -108,8 +110,6 @@ A table of things ...
   👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 * [siyuan](https://github.com/siyuan-note/siyuan)
   A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-* [blackcandy](https://github.com/blackcandy-org/blackcandy)
-  A self hosted music streaming server
 
 ### My Blog Posts
 
