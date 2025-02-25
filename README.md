@@ -75,19 +75,21 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [The 88x31 GIF Collection | Part 1](https://cyber.dabamos.de/88x31/)
-* [Adam Golaski On David Lynch's "Revenge of the Jedi" — Bennington Review](https://www.benningtonreview.org/adam-golaski)
+* [coroot/coroot](https://github.com/coroot/coroot)
 * [&nbsp;](#)
 * [subtrace/subtrace](https://github.com/subtrace/subtrace)
-* [Scripton](https://scripton.dev)
 * [Repositories – Enterprise rules and custom properties updates](https://github.blog/changelog/2025-02-18-repositories-enterprise-rules-and-custom-properties-updates/)
 * [Recent improvements to Artifact Attestations](https://github.blog/changelog/2025-02-18-recent-improvements-to-artifact-attestations/)
 * [James Pae](https://www.jmspae.se/write-ups/kebabs-train-stations/)
 * [yshavit/mdq](https://github.com/yshavit/mdq)
+* [Bug 1950144](https://bugzilla.mozilla.org/show_bug.cgi?id=1950144)
 * [I reviewed every snack in our office kitchen](https://www.getlago.com/blog/office-snacks)
+* [Donald Trump Sucking Elon Musk's Toes in A.I. Video Shows Up in D.C. Hallways](https://www.tmz.com/watch/2025-02-24-022425-trump-musk-ai-1979115-339/)
 
 ### Things I'm star-ing
 
+* [coroot](https://github.com/coroot/coroot)
+  Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale.
 * [mdq](https://github.com/yshavit/mdq)
   like jq but for Markdown: find specific elements in a md doc
 * [subtrace](https://github.com/subtrace/subtrace)
@@ -108,8 +110,6 @@ A table of things ...
   Ubuntu/Debian (.deb) packages for Ghostty
 * [ghostty](https://github.com/ghostty-org/ghostty)
   👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-* [siyuan](https://github.com/siyuan-note/siyuan)
-  A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
 ### My Blog Posts
 
