@@ -78,13 +78,13 @@ A table of things ...
 * [The 88x31 GIF Collection | Part 1](https://cyber.dabamos.de/88x31/)
 * [Adam Golaski On David Lynch's "Revenge of the Jedi" — Bennington Review](https://www.benningtonreview.org/adam-golaski)
 * [&nbsp;](#)
-* [The tough reality of being a "glue person"...](https://cutlefish.substack.com/p/the-tough-reality-of-being-a-glue)
 * [subtrace/subtrace](https://github.com/subtrace/subtrace)
-* [Thomas Armour (Oakenstone) (@Oakenstone@universeodon.com)](https://universeodon.com/@Oakenstone/114017231872710728)
 * [Scripton](https://scripton.dev)
 * [Repositories – Enterprise rules and custom properties updates](https://github.blog/changelog/2025-02-18-repositories-enterprise-rules-and-custom-properties-updates/)
 * [Recent improvements to Artifact Attestations](https://github.blog/changelog/2025-02-18-recent-improvements-to-artifact-attestations/)
+* [James Pae](https://www.jmspae.se/write-ups/kebabs-train-stations/)
 * [yshavit/mdq](https://github.com/yshavit/mdq)
+* [I reviewed every snack in our office kitchen](https://www.getlago.com/blog/office-snacks)
 
 ### Things I'm star-ing
 
