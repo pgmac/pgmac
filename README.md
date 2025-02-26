@@ -77,7 +77,6 @@ A table of things ...
 
 * [coroot/coroot](https://github.com/coroot/coroot)
 * [&nbsp;](#)
-* [subtrace/subtrace](https://github.com/subtrace/subtrace)
 * [Recent improvements to Artifact Attestations](https://github.blog/changelog/2025-02-18-recent-improvements-to-artifact-attestations/)
 * [James Pae](https://www.jmspae.se/write-ups/kebabs-train-stations/)
 * [yshavit/mdq](https://github.com/yshavit/mdq)
@@ -85,6 +84,7 @@ A table of things ...
 * [I reviewed every snack in our office kitchen](https://www.getlago.com/blog/office-snacks)
 * [Donald Trump Sucking Elon Musk's Toes in A.I. Video Shows Up in D.C. Hallways](https://www.tmz.com/watch/2025-02-24-022425-trump-musk-ai-1979115-339/)
 * [OpenSSF Announces Initial Release of the Open Source Project Security Baseline](https://openssf.org/press-release/2025/02/25/openssf-announces-initial-release-of-the-open-source-project-security-baseline/)
+* [Framework’s first tiny Desktop beautifully straddles the line between cute and badass](https://www.theverge.com/news/618785/framework-desktop-annoucement-price-release-date)
 
 ### Things I'm star-ing
 
