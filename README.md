@@ -77,7 +77,7 @@ A table of things ...
 
 * [coroot/coroot](https://github.com/coroot/coroot)
 * [&nbsp;](#)
-* [Recent improvements to Artifact Attestations](https://github.blog/changelog/2025-02-18-recent-improvements-to-artifact-attestations/)
+* [gauge-sh/tach](https://github.com/gauge-sh/tach)
 * [James Pae](https://www.jmspae.se/write-ups/kebabs-train-stations/)
 * [yshavit/mdq](https://github.com/yshavit/mdq)
 * [Bug 1950144](https://bugzilla.mozilla.org/show_bug.cgi?id=1950144)
@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [tach](https://github.com/gauge-sh/tach)
+  A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust
 * [coroot](https://github.com/coroot/coroot)
   Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale.
 * [mdq](https://github.com/yshavit/mdq)
@@ -108,8 +110,6 @@ A table of things ...
   🔎 Static code analysis engine to find security issues in code.
 * [ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu)
   Ubuntu/Debian (.deb) packages for Ghostty
-* [ghostty](https://github.com/ghostty-org/ghostty)
-  👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 ### My Blog Posts
 
