@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [Maestro](https://github.com/mobile-dev-inc/Maestro)
+  Painless E2E Automation for Mobile and Web
 * [tach](https://github.com/gauge-sh/tach)
   A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust
 * [coroot](https://github.com/coroot/coroot)
@@ -108,8 +110,6 @@ A table of things ...
   Visualization addon for your open source monitoring core
 * [opengrep](https://github.com/opengrep/opengrep)
   🔎 Static code analysis engine to find security issues in code.
-* [ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu)
-  Ubuntu/Debian (.deb) packages for Ghostty
 
 ### My Blog Posts
 
