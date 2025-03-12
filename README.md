@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Find your community](https://revolt.chat)
 * [macOS Tips & Tricks](https://saurabhs.org/macos-tips)
-* [coroot/coroot](https://github.com/coroot/coroot)
 * [gauge-sh/tach](https://github.com/gauge-sh/tach)
-* [Bug 1950144](https://bugzilla.mozilla.org/show_bug.cgi?id=1950144)
-* [I reviewed every snack in our office kitchen](https://www.getlago.com/blog/office-snacks)
-* [Donald Trump Sucking Elon Musk's Toes in A.I. Video Shows Up in D.C. Hallways](https://www.tmz.com/watch/2025-02-24-022425-trump-musk-ai-1979115-339/)
 * [OpenSSF Announces Initial Release of the Open Source Project Security Baseline](https://openssf.org/press-release/2025/02/25/openssf-announces-initial-release-of-the-open-source-project-security-baseline/)
 * [Framework’s first tiny Desktop beautifully straddles the line between cute and badass](https://www.theverge.com/news/618785/framework-desktop-annoucement-price-release-date)
 * [IBM Completes Acquisition of HashiCorp, Creates Comprehensive, End-to-End Hybrid Cloud Platform](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform)
 * [https://edition.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html](https://edition.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html)
+* [🔭 The Einstein AI model](https://thomwolf.io/blog/scientific-ai.html)
+* [RLAMA | Retrieval-Augmented Local Assistant Model Agent](https://rlama.dev/)
+* [Open Infrastructure Map](https://openinframap.org)
 
 ### Things I'm star-ing
 
@@ -113,6 +113,7 @@ A table of things ...
 
 ### My Blog Posts
 
+* [Some things I found interesting from 2025-03-02 to 2025-03-09](https://pgmac.net.au/last-week/2025/03/09/interesting-last-week.html)
 * [Some things I found interesting from 2025-02-23 to 2025-03-02](https://pgmac.net.au/last-week/2025/03/02/interesting-last-week.html)
 * [Some things I found interesting from 2025-02-16 to 2025-02-23](https://pgmac.net.au/last-week/2025/02/23/interesting-last-week.html)
 * [Some things I found interesting from 2025-02-09 to 2025-02-16](https://pgmac.net.au/last-week/2025/02/16/interesting-last-week.html)
@@ -122,4 +123,3 @@ A table of things ...
 * [Some things I found interesting from 2025-01-12 to 2025-01-19](https://pgmac.net.au/last-week/2025/01/19/interesting-last-week.html)
 * [Some things I found interesting from 2025-01-05 to 2025-01-12](https://pgmac.net.au/last-week/2025/01/12/interesting-last-week.html)
 * [Some things I found interesting from 2024-12-29 to 2025-01-05](https://pgmac.net.au/last-week/2025/01/05/interesting-last-week.html)
-* [Some things I found interesting from 2024-12-22 to 2024-12-29](https://pgmac.net.au/last-week/2024/12/29/interesting-last-week.html)
