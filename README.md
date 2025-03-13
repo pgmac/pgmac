@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [xlskubectl](https://github.com/learnk8s/xlskubectl)
+  xlskubectl — a spreadsheet to control your Kubernetes cluster
 * [Maestro](https://github.com/mobile-dev-inc/Maestro)
   Painless E2E Automation for Mobile and Web
 * [tach](https://github.com/gauge-sh/tach)
@@ -108,8 +110,6 @@ A table of things ...
   dev tools, env vars, task runner
 * [nagvis](https://github.com/NagVis/nagvis)
   Visualization addon for your open source monitoring core
-* [opengrep](https://github.com/opengrep/opengrep)
-  🔎 Static code analysis engine to find security issues in code.
 
 ### My Blog Posts
 
