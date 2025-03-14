@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [cloudprober](https://github.com/cloudprober/cloudprober)
+  An active monitoring software to detect failures before your customers do.
 * [xlskubectl](https://github.com/learnk8s/xlskubectl)
   xlskubectl — a spreadsheet to control your Kubernetes cluster
 * [Maestro](https://github.com/mobile-dev-inc/Maestro)
@@ -108,8 +110,6 @@ A table of things ...
   A tool for secrets management, encryption as a service, and privileged access management
 * [mise](https://github.com/jdx/mise)
   dev tools, env vars, task runner
-* [nagvis](https://github.com/NagVis/nagvis)
-  Visualization addon for your open source monitoring core
 
 ### My Blog Posts
 
