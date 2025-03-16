@@ -76,18 +76,20 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [Find your community](https://revolt.chat)
-* [macOS Tips & Tricks](https://saurabhs.org/macos-tips)
-* [IBM Completes Acquisition of HashiCorp, Creates Comprehensive, End-to-End Hybrid Cloud Platform](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform)
-* [https://edition.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html](https://edition.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html)
 * [🔭 The Einstein AI model](https://thomwolf.io/blog/scientific-ai.html)
 * [RLAMA | Retrieval-Augmented Local Assistant Model Agent](https://rlama.dev/)
 * [Open Infrastructure Map](https://openinframap.org)
 * [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/)
+* [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder)
 * [👋 Hello, This is Nash](https://keepworking.github.io/nash/)
 * [Harden-Runner detection: tj-actions/changed-files action is compromised](https://www.stepsecurity.io/blog/harden-runner-detection-tj-actions-changed-files-action-is-compromised)
+* [https://x.com/Baidu_Inc/status/1901089355890036897](https://x.com/Baidu_Inc/status/1901089355890036897)
+* [Lynx is the oldest web browser still being maintained](https://news.ycombinator.com/item?id=43377829)
 
 ### Things I'm star-ing
 
+* [rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder)
+  Generate impressive-looking terminal output to look busy when stakeholders walk by
 * [uv](https://github.com/astral-sh/uv)
   An extremely fast Python package and project manager, written in Rust.
 * [cloudprober](https://github.com/cloudprober/cloudprober)
@@ -108,11 +110,10 @@ A table of things ...
   DECeption with Evaluative Integrated Validation Engine (DECEIVE): Let an LLM do all the hard honeypot work!
 * [consul](https://github.com/hashicorp/consul)
   Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-* [vault](https://github.com/hashicorp/vault)
-  A tool for secrets management, encryption as a service, and privileged access management
 
 ### My Blog Posts
 
+* [Some things I found interesting from 2025-03-09 to 2025-03-16](https://pgmac.net.au/last-week/2025/03/16/interesting-last-week.html)
 * [Some things I found interesting from 2025-03-02 to 2025-03-09](https://pgmac.net.au/last-week/2025/03/09/interesting-last-week.html)
 * [Some things I found interesting from 2025-02-23 to 2025-03-02](https://pgmac.net.au/last-week/2025/03/02/interesting-last-week.html)
 * [Some things I found interesting from 2025-02-16 to 2025-02-23](https://pgmac.net.au/last-week/2025/02/23/interesting-last-week.html)
@@ -122,4 +123,3 @@ A table of things ...
 * [Some things I found interesting from 2025-01-19 to 2025-01-26](https://pgmac.net.au/last-week/2025/01/26/interesting-last-week.html)
 * [Some things I found interesting from 2025-01-12 to 2025-01-19](https://pgmac.net.au/last-week/2025/01/19/interesting-last-week.html)
 * [Some things I found interesting from 2025-01-05 to 2025-01-12](https://pgmac.net.au/last-week/2025/01/12/interesting-last-week.html)
-* [Some things I found interesting from 2024-12-29 to 2025-01-05](https://pgmac.net.au/last-week/2025/01/05/interesting-last-week.html)
