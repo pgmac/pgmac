@@ -77,7 +77,6 @@ A table of things ...
 
 * [Find your community](https://revolt.chat)
 * [macOS Tips & Tricks](https://saurabhs.org/macos-tips)
-* [gauge-sh/tach](https://github.com/gauge-sh/tach)
 * [IBM Completes Acquisition of HashiCorp, Creates Comprehensive, End-to-End Hybrid Cloud Platform](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform)
 * [https://edition.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html](https://edition.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html)
 * [🔭 The Einstein AI model](https://thomwolf.io/blog/scientific-ai.html)
@@ -85,9 +84,12 @@ A table of things ...
 * [Open Infrastructure Map](https://openinframap.org)
 * [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/)
 * [👋 Hello, This is Nash](https://keepworking.github.io/nash/)
+* [Harden-Runner detection: tj-actions/changed-files action is compromised](https://www.stepsecurity.io/blog/harden-runner-detection-tj-actions-changed-files-action-is-compromised)
 
 ### Things I'm star-ing
 
+* [uv](https://github.com/astral-sh/uv)
+  An extremely fast Python package and project manager, written in Rust.
 * [cloudprober](https://github.com/cloudprober/cloudprober)
   An active monitoring software to detect failures before your customers do.
 * [xlskubectl](https://github.com/learnk8s/xlskubectl)
@@ -108,8 +110,6 @@ A table of things ...
   Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 * [vault](https://github.com/hashicorp/vault)
   A tool for secrets management, encryption as a service, and privileged access management
-* [mise](https://github.com/jdx/mise)
-  dev tools, env vars, task runner
 
 ### My Blog Posts
 
