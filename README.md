@@ -78,13 +78,13 @@ A table of things ...
 * [Find your community](https://revolt.chat)
 * [macOS Tips & Tricks](https://saurabhs.org/macos-tips)
 * [gauge-sh/tach](https://github.com/gauge-sh/tach)
-* [OpenSSF Announces Initial Release of the Open Source Project Security Baseline](https://openssf.org/press-release/2025/02/25/openssf-announces-initial-release-of-the-open-source-project-security-baseline/)
-* [Framework’s first tiny Desktop beautifully straddles the line between cute and badass](https://www.theverge.com/news/618785/framework-desktop-annoucement-price-release-date)
 * [IBM Completes Acquisition of HashiCorp, Creates Comprehensive, End-to-End Hybrid Cloud Platform](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform)
 * [https://edition.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html](https://edition.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html)
 * [🔭 The Einstein AI model](https://thomwolf.io/blog/scientific-ai.html)
 * [RLAMA | Retrieval-Augmented Local Assistant Model Agent](https://rlama.dev/)
 * [Open Infrastructure Map](https://openinframap.org)
+* [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/)
+* [👋 Hello, This is Nash](https://keepworking.github.io/nash/)
 
 ### Things I'm star-ing
 
