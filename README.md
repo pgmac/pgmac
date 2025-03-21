@@ -75,19 +75,21 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [Find your community](https://revolt.chat)
-* [🔭 The Einstein AI model](https://thomwolf.io/blog/scientific-ai.html)
-* [RLAMA | Retrieval-Augmented Local Assistant Model Agent](https://rlama.dev/)
-* [Open Infrastructure Map](https://openinframap.org)
-* [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/)
 * [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder)
-* [👋 Hello, This is Nash](https://keepworking.github.io/nash/)
-* [Harden-Runner detection: tj-actions/changed-files action is compromised](https://www.stepsecurity.io/blog/harden-runner-detection-tj-actions-changed-files-action-is-compromised)
 * [https://x.com/Baidu_Inc/status/1901089355890036897](https://x.com/Baidu_Inc/status/1901089355890036897)
 * [Lynx is the oldest web browser still being maintained](https://news.ycombinator.com/item?id=43377829)
+* [Google says its new Linux Terminal feature isn't a replacement for Android's desktop mode](https://www.androidauthority.com/android-linux-terminal-purpose-3535765/)
+* [GIMP 3.0 Released](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/)
+* [reviewdog/action-setup](https://www.wiz.io/blog/new-github-action-supply-chain-attack-reviewdog-action-setup)
+* [&nbsp;](#)
+* [GitHub Actions now supports a digest for validating your artifacts at runtime](https://github.blog/changelog/2025-03-18-github-actions-now-supports-a-digest-for-validating-your-artifacts-at-runtime/)
+* [5 reasons ZeroTier is the best Tailscale alternative for your home lab](https://www.xda-developers.com/why-zerotier-is-the-best-tailscale-alternative-for-your-home-lab/)
+* [IssueOps: Automate CI/CD (and more!) with GitHub Issues and Actions](https://github.blog/engineering/issueops-automate-ci-cd-and-more-with-github-issues-and-actions/)
 
 ### Things I'm star-ing
 
+* [icann-rdap](https://github.com/icann/icann-rdap)
+  ICANN implementation of the Registry Data Access Protocol (RDAP)
 * [rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder)
   Generate impressive-looking terminal output to look busy when stakeholders walk by
 * [uv](https://github.com/astral-sh/uv)
@@ -108,8 +110,6 @@ A table of things ...
   Wireshark for Docker containers
 * [DECEIVE](https://github.com/splunk/DECEIVE)
   DECeption with Evaluative Integrated Validation Engine (DECEIVE): Let an LLM do all the hard honeypot work!
-* [consul](https://github.com/hashicorp/consul)
-  Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 
 ### My Blog Posts
 
