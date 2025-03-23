@@ -75,9 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Ollama](https://ollama.com)
 * [giacomo-b/rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder)
 * [https://x.com/Baidu_Inc/status/1901089355890036897](https://x.com/Baidu_Inc/status/1901089355890036897)
-* [Lynx is the oldest web browser still being maintained](https://news.ycombinator.com/item?id=43377829)
 * [Google says its new Linux Terminal feature isn't a replacement for Android's desktop mode](https://www.androidauthority.com/android-linux-terminal-purpose-3535765/)
 * [GIMP 3.0 Released](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/)
 * [reviewdog/action-setup](https://www.wiz.io/blog/new-github-action-supply-chain-attack-reviewdog-action-setup)
@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [ollama](https://github.com/ollama/ollama)
+  Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 * [icann-rdap](https://github.com/icann/icann-rdap)
   ICANN implementation of the Registry Data Access Protocol (RDAP)
 * [rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder)
@@ -108,8 +110,6 @@ A table of things ...
   like jq but for Markdown: find specific elements in a md doc
 * [subtrace](https://github.com/subtrace/subtrace)
   Wireshark for Docker containers
-* [DECEIVE](https://github.com/splunk/DECEIVE)
-  DECeption with Evaluative Integrated Validation Engine (DECEIVE): Let an LLM do all the hard honeypot work!
 
 ### My Blog Posts
 
