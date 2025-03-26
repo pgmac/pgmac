@@ -76,7 +76,6 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [Ollama](https://ollama.com)
-* [https://x.com/Baidu_Inc/status/1901089355890036897](https://x.com/Baidu_Inc/status/1901089355890036897)
 * [Google says its new Linux Terminal feature isn't a replacement for Android's desktop mode](https://www.androidauthority.com/android-linux-terminal-purpose-3535765/)
 * [GIMP 3.0 Released](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/)
 * [reviewdog/action-setup](https://www.wiz.io/blog/new-github-action-supply-chain-attack-reviewdog-action-setup)
@@ -85,6 +84,7 @@ A table of things ...
 * [5 reasons ZeroTier is the best Tailscale alternative for your home lab](https://www.xda-developers.com/why-zerotier-is-the-best-tailscale-alternative-for-your-home-lab/)
 * [IssueOps: Automate CI/CD (and more!) with GitHub Issues and Actions](https://github.blog/engineering/issueops-automate-ci-cd-and-more-with-github-issues-and-actions/)
 * [Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH](https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/)
+* [https://cybernews.com/security/troy-hunt-falls-victim-to-phishing-attack/](https://cybernews.com/security/troy-hunt-falls-victim-to-phishing-attack/)
 
 ### Things I'm star-ing
 
