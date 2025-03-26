@@ -77,12 +77,12 @@ A table of things ...
 
 * [Ollama](https://ollama.com)
 * [Google says its new Linux Terminal feature isn't a replacement for Android's desktop mode](https://www.androidauthority.com/android-linux-terminal-purpose-3535765/)
-* [GIMP 3.0 Released](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/)
 * [reviewdog/action-setup](https://www.wiz.io/blog/new-github-action-supply-chain-attack-reviewdog-action-setup)
 * [&nbsp;](#)
 * [GitHub Actions now supports a digest for validating your artifacts at runtime](https://github.blog/changelog/2025-03-18-github-actions-now-supports-a-digest-for-validating-your-artifacts-at-runtime/)
 * [5 reasons ZeroTier is the best Tailscale alternative for your home lab](https://www.xda-developers.com/why-zerotier-is-the-best-tailscale-alternative-for-your-home-lab/)
 * [IssueOps: Automate CI/CD (and more!) with GitHub Issues and Actions](https://github.blog/engineering/issueops-automate-ci-cd-and-more-with-github-issues-and-actions/)
+* [IngressNightmare: 9.8 Critical Unauthenticated Remote Code Execution Vulnerabilities in Ingress NGINX](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities)
 * [Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH](https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/)
 * [https://cybernews.com/security/troy-hunt-falls-victim-to-phishing-attack/](https://cybernews.com/security/troy-hunt-falls-victim-to-phishing-attack/)
 
