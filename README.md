@@ -76,13 +76,13 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [Ollama](https://ollama.com)
-* [IssueOps: Automate CI/CD (and more!) with GitHub Issues and Actions](https://github.blog/engineering/issueops-automate-ci-cd-and-more-with-github-issues-and-actions/)
 * [IngressNightmare: 9.8 Critical Unauthenticated Remote Code Execution Vulnerabilities in Ingress NGINX](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities)
 * [Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH](https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/)
 * [Modern magic unlocks Merlin's medieval secrets](https://www.cam.ac.uk/stories/merlin-manuscript-discovered-cambridge)
 * [https://cybernews.com/security/troy-hunt-falls-victim-to-phishing-attack/](https://cybernews.com/security/troy-hunt-falls-victim-to-phishing-attack/)
 * [The Worm That No Computer Scientist Can Crack](https://www.wired.com/story/openworm-worm-simulator-biology-code/)
 * [CodeQLEAKED – Public Secrets Exposure Leads to Supply Chain Attack on GitHub CodeQL](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
+* [Knight Ride](https://knightride.rakhim.org/)
 * [Inside a Marine's decision to eject from a failing F-35B fighter jet and the betrayal in its wake](https://www.postandcourier.com/news/special_reports/marine-fighter-jet-eject-north-charleston/article_80d55e4a-f600-11ef-8ef4-03f14319ce57.html)
 * [Home of The MAME Project](https://www.mamedev.org/?p=549)
 
