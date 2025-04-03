@@ -75,9 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [hacker labs pico.sh](https://pico.sh/)
 * [IngressNightmare: 9.8 Critical Unauthenticated Remote Code Execution Vulnerabilities in Ingress NGINX](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities)
 * [Modern magic unlocks Merlin's medieval secrets](https://www.cam.ac.uk/stories/merlin-manuscript-discovered-cambridge)
-* [https://cybernews.com/security/troy-hunt-falls-victim-to-phishing-attack/](https://cybernews.com/security/troy-hunt-falls-victim-to-phishing-attack/)
 * [The Worm That No Computer Scientist Can Crack](https://www.wired.com/story/openworm-worm-simulator-biology-code/)
 * [CodeQLEAKED – Public Secrets Exposure Leads to Supply Chain Attack on GitHub CodeQL](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
 * [Knight Ride](https://knightride.rakhim.org/)
