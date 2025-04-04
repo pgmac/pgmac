@@ -77,8 +77,8 @@ A table of things ...
 
 * [hacker labs pico.sh](https://pico.sh/)
 * [DIY Synths](https://diy-synths.snnkv.com/)
+* [https://capacities.io/](https://capacities.io/)
 * [Modern magic unlocks Merlin's medieval secrets](https://www.cam.ac.uk/stories/merlin-manuscript-discovered-cambridge)
-* [The Worm That No Computer Scientist Can Crack](https://www.wired.com/story/openworm-worm-simulator-biology-code/)
 * [CodeQLEAKED – Public Secrets Exposure Leads to Supply Chain Attack on GitHub CodeQL](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
 * [Knight Ride](https://knightride.rakhim.org/)
 * [Inside a Marine's decision to eject from a failing F-35B fighter jet and the betrayal in its wake](https://www.postandcourier.com/news/special_reports/marine-fighter-jet-eject-north-charleston/article_80d55e4a-f600-11ef-8ef4-03f14319ce57.html)
@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [headscale](https://github.com/juanfont/headscale)
+  An open source, self-hosted implementation of the Tailscale control server
 * [opkssh](https://github.com/openpubkey/opkssh)
   opkssh (OpenPubkey SSH)
 * [ollama](https://github.com/ollama/ollama)
@@ -108,8 +110,6 @@ A table of things ...
   A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust
 * [coroot](https://github.com/coroot/coroot)
   Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections.
-* [mdq](https://github.com/yshavit/mdq)
-  like jq but for Markdown: find specific elements in a md doc
 
 ### My Blog Posts
 
