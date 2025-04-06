@@ -75,19 +75,21 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [https://standardebooks.org/](https://standardebooks.org/)
 * [pico.sh pico.sh](https://pico.sh/)
 * [DIY Synths](https://diy-synths.snnkv.com/)
 * [https://capacities.io/](https://capacities.io/)
-* [Modern magic unlocks Merlin's medieval secrets](https://www.cam.ac.uk/stories/merlin-manuscript-discovered-cambridge)
 * [Knight Ride](https://knightride.rakhim.org/)
 * [Inside a Marine's decision to eject from a failing F-35B fighter jet and the betrayal in its wake](https://www.postandcourier.com/news/special_reports/marine-fighter-jet-eject-north-charleston/article_80d55e4a-f600-11ef-8ef4-03f14319ce57.html)
-* [Home of The MAME Project](https://www.mamedev.org/?p=549)
 * [Bletchley code breaker Betty Webb dies aged 101](https://www.bbc.com/news/articles/c78jd30ywv8o)
 * [In loving memory of Dave Täht](https://libreqos.io/2025/04/01/in-loving-memory-of-dave/)
 * [Google launches Sec-Gemini v1, a new experimental cybersecurity model](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html)
+* [The “S” in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
 
 ### Things I'm star-ing
 
+* [huginn](https://github.com/huginn/huginn)
+  Create agents that monitor and act on your behalf.  Your agents are standing by!
 * [headscale](https://github.com/juanfont/headscale)
   An open source, self-hosted implementation of the Tailscale control server
 * [opkssh](https://github.com/openpubkey/opkssh)
@@ -108,11 +110,10 @@ A table of things ...
   Painless E2E Automation for Mobile and Web
 * [tach](https://github.com/gauge-sh/tach)
   A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust
-* [coroot](https://github.com/coroot/coroot)
-  Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections.
 
 ### My Blog Posts
 
+* [Some things I found interesting from 2025-03-30 to 2025-04-06](https://pgmac.net.au/last-week/2025/04/06/interesting-last-week.html)
 * [Some things I found interesting from 2025-03-23 to 2025-03-30](https://pgmac.net.au/last-week/2025/03/30/interesting-last-week.html)
 * [Some things I found interesting from 2025-03-16 to 2025-03-23](https://pgmac.net.au/last-week/2025/03/23/interesting-last-week.html)
 * [Some things I found interesting from 2025-03-09 to 2025-03-16](https://pgmac.net.au/last-week/2025/03/16/interesting-last-week.html)
@@ -122,4 +123,3 @@ A table of things ...
 * [Some things I found interesting from 2025-02-09 to 2025-02-16](https://pgmac.net.au/last-week/2025/02/16/interesting-last-week.html)
 * [Some things I found interesting from 2025-02-02 to 2025-02-09](https://pgmac.net.au/last-week/2025/02/09/interesting-last-week.html)
 * [Some things I found interesting from 2025-01-26 to 2025-02-02](https://pgmac.net.au/last-week/2025/02/02/interesting-last-week.html)
-* [Some things I found interesting from 2025-01-19 to 2025-01-26](https://pgmac.net.au/last-week/2025/01/26/interesting-last-week.html)
