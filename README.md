@@ -79,12 +79,12 @@ A table of things ...
 * [DIY Synths](https://diy-synths.snnkv.com/)
 * [https://capacities.io/](https://capacities.io/)
 * [Modern magic unlocks Merlin's medieval secrets](https://www.cam.ac.uk/stories/merlin-manuscript-discovered-cambridge)
-* [CodeQLEAKED – Public Secrets Exposure Leads to Supply Chain Attack on GitHub CodeQL](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
 * [Knight Ride](https://knightride.rakhim.org/)
 * [Inside a Marine's decision to eject from a failing F-35B fighter jet and the betrayal in its wake](https://www.postandcourier.com/news/special_reports/marine-fighter-jet-eject-north-charleston/article_80d55e4a-f600-11ef-8ef4-03f14319ce57.html)
 * [Home of The MAME Project](https://www.mamedev.org/?p=549)
 * [Bletchley code breaker Betty Webb dies aged 101](https://www.bbc.com/news/articles/c78jd30ywv8o)
 * [In loving memory of Dave Täht](https://libreqos.io/2025/04/01/in-loving-memory-of-dave/)
+* [Google launches Sec-Gemini v1, a new experimental cybersecurity model](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html)
 
 ### Things I'm star-ing
 
