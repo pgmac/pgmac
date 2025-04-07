@@ -80,11 +80,11 @@ A table of things ...
 * [DIY Synths](https://diy-synths.snnkv.com/)
 * [https://capacities.io/](https://capacities.io/)
 * [Knight Ride](https://knightride.rakhim.org/)
-* [Inside a Marine's decision to eject from a failing F-35B fighter jet and the betrayal in its wake](https://www.postandcourier.com/news/special_reports/marine-fighter-jet-eject-north-charleston/article_80d55e4a-f600-11ef-8ef4-03f14319ce57.html)
 * [Bletchley code breaker Betty Webb dies aged 101](https://www.bbc.com/news/articles/c78jd30ywv8o)
 * [In loving memory of Dave Täht](https://libreqos.io/2025/04/01/in-loving-memory-of-dave/)
 * [Google launches Sec-Gemini v1, a new experimental cybersecurity model](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html)
 * [The “S” in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
+* [https://search.app/1yiQn4N9PWiF9ZtL8](https://cybersecuritynews.com/frida-penetration-testing-tool-kit-released/)
 
 ### Things I'm star-ing
 
