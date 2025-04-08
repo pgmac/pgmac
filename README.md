@@ -79,37 +79,15 @@ A table of things ...
 * [pico.sh pico.sh](https://pico.sh/)
 * [DIY Synths](https://diy-synths.snnkv.com/)
 * [https://capacities.io/](https://capacities.io/)
-* [Knight Ride](https://knightride.rakhim.org/)
 * [Bletchley code breaker Betty Webb dies aged 101](https://www.bbc.com/news/articles/c78jd30ywv8o)
 * [In loving memory of Dave Täht](https://libreqos.io/2025/04/01/in-loving-memory-of-dave/)
 * [Google launches Sec-Gemini v1, a new experimental cybersecurity model](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html)
 * [The “S” in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
 * [https://search.app/1yiQn4N9PWiF9ZtL8](https://cybersecuritynews.com/frida-penetration-testing-tool-kit-released/)
+* [Any program can be a GitHub Actions shell](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/)
 
 ### Things I'm star-ing
 
-* [huginn](https://github.com/huginn/huginn)
-  Create agents that monitor and act on your behalf.  Your agents are standing by!
-* [headscale](https://github.com/juanfont/headscale)
-  An open source, self-hosted implementation of the Tailscale control server
-* [opkssh](https://github.com/openpubkey/opkssh)
-  opkssh (OpenPubkey SSH)
-* [ollama](https://github.com/ollama/ollama)
-  Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
-* [icann-rdap](https://github.com/icann/icann-rdap)
-  ICANN implementation of the Registry Data Access Protocol (RDAP)
-* [rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder)
-  Generate impressive-looking terminal output to look busy when stakeholders walk by
-* [uv](https://github.com/astral-sh/uv)
-  An extremely fast Python package and project manager, written in Rust.
-* [cloudprober](https://github.com/cloudprober/cloudprober)
-  An active monitoring software to detect failures before your customers do.
-* [xlskubectl](https://github.com/learnk8s/xlskubectl)
-  xlskubectl — a spreadsheet to control your Kubernetes cluster
-* [Maestro](https://github.com/mobile-dev-inc/Maestro)
-  Painless E2E Automation for Mobile and Web
-* [tach](https://github.com/gauge-sh/tach)
-  A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust
 
 ### My Blog Posts
 
