@@ -76,10 +76,10 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [https://standardebooks.org/](https://standardebooks.org/)
+* [Apache ECharts](https://echarts.apache.org/en/index.html)
 * [pico.sh pico.sh](https://pico.sh/)
 * [DIY Synths](https://diy-synths.snnkv.com/)
 * [https://capacities.io/](https://capacities.io/)
-* [Bletchley code breaker Betty Webb dies aged 101](https://www.bbc.com/news/articles/c78jd30ywv8o)
 * [In loving memory of Dave Täht](https://libreqos.io/2025/04/01/in-loving-memory-of-dave/)
 * [Google launches Sec-Gemini v1, a new experimental cybersecurity model](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html)
 * [The “S” in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [echarts](https://github.com/apache/echarts)
+  Apache ECharts is a powerful, interactive charting and data visualization library for browser
 * [huginn](https://github.com/huginn/huginn)
   Create agents that monitor and act on your behalf.  Your agents are standing by!
 * [headscale](https://github.com/juanfont/headscale)
@@ -108,8 +110,6 @@ A table of things ...
   xlskubectl — a spreadsheet to control your Kubernetes cluster
 * [Maestro](https://github.com/mobile-dev-inc/Maestro)
   Painless E2E Automation for Mobile and Web
-* [tach](https://github.com/gauge-sh/tach)
-  A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust
 
 ### My Blog Posts
 
