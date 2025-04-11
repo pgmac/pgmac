@@ -80,11 +80,11 @@ A table of things ...
 * [pico.sh pico.sh](https://pico.sh/)
 * [DIY Synths](https://diy-synths.snnkv.com/)
 * [https://capacities.io/](https://capacities.io/)
-* [In loving memory of Dave Täht](https://libreqos.io/2025/04/01/in-loving-memory-of-dave/)
 * [Google launches Sec-Gemini v1, a new experimental cybersecurity model](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html)
 * [The “S” in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
 * [https://search.app/1yiQn4N9PWiF9ZtL8](https://cybersecuritynews.com/frida-penetration-testing-tool-kit-released/)
 * [Any program can be a GitHub Actions shell](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/)
+* [The platform engineering toolkit for Kubernetes](https://koreo.dev)
 
 ### Things I'm star-ing
 
