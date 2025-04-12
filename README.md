@@ -97,7 +97,7 @@ A table of things ...
 * [opkssh](https://github.com/openpubkey/opkssh)
   opkssh (OpenPubkey SSH)
 * [ollama](https://github.com/ollama/ollama)
-  Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+  Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 * [icann-rdap](https://github.com/icann/icann-rdap)
   ICANN implementation of the Registry Data Access Protocol (RDAP)
 * [rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder)
