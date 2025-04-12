@@ -77,7 +77,6 @@ A table of things ...
 
 * [https://standardebooks.org/](https://standardebooks.org/)
 * [Apache ECharts](https://echarts.apache.org/en/index.html)
-* [DIY Synths](https://diy-synths.snnkv.com/)
 * [https://capacities.io/](https://capacities.io/)
 * [Google launches Sec-Gemini v1, a new experimental cybersecurity model](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html)
 * [The “S” in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
@@ -85,9 +84,12 @@ A table of things ...
 * [Any program can be a GitHub Actions shell](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/)
 * [The platform engineering toolkit for Kubernetes](https://koreo.dev)
 * [https://scitechdaily.com/scientists-discover-unique-100-hz-sound-that-alleviates-motion-sickness/](https://scitechdaily.com/scientists-discover-unique-100-hz-sound-that-alleviates-motion-sickness/)
+* [AI-hallucinated code dependencies become new supply chain risk](https://www.bleepingcomputer.com/news/security/ai-hallucinated-code-dependencies-become-new-supply-chain-risk/)
 
 ### Things I'm star-ing
 
+* [argocd-agent](https://github.com/argoproj-labs/argocd-agent)
+  Redefining the multi cluster story of Argo CD
 * [echarts](https://github.com/apache/echarts)
   Apache ECharts is a powerful, interactive charting and data visualization library for browser
 * [huginn](https://github.com/huginn/huginn)
@@ -108,8 +110,6 @@ A table of things ...
   An active monitoring software to detect failures before your customers do.
 * [xlskubectl](https://github.com/learnk8s/xlskubectl)
   xlskubectl — a spreadsheet to control your Kubernetes cluster
-* [Maestro](https://github.com/mobile-dev-inc/Maestro)
-  Painless E2E Automation for Mobile and Web
 
 ### My Blog Posts
 
