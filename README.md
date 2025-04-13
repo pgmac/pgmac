@@ -77,13 +77,13 @@ A table of things ...
 
 * [https://standardebooks.org/](https://standardebooks.org/)
 * [Apache ECharts](https://echarts.apache.org/en/index.html)
-* [https://capacities.io/](https://capacities.io/)
-* [Google launches Sec-Gemini v1, a new experimental cybersecurity model](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html)
+* [CERN releases report on the feasibility of a possible Future Circular Collider](https://home.cern/news/news/accelerators/cern-releases-report-feasibility-possible-future-circular-collider)
 * [The “S” in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
 * [https://search.app/1yiQn4N9PWiF9ZtL8](https://cybersecuritynews.com/frida-penetration-testing-tool-kit-released/)
 * [Any program can be a GitHub Actions shell](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/)
 * [The platform engineering toolkit for Kubernetes](https://koreo.dev)
 * [https://scitechdaily.com/scientists-discover-unique-100-hz-sound-that-alleviates-motion-sickness/](https://scitechdaily.com/scientists-discover-unique-100-hz-sound-that-alleviates-motion-sickness/)
+* [Tunarr](https://tunarr.com/)
 * [AI-hallucinated code dependencies become new supply chain risk](https://www.bleepingcomputer.com/news/security/ai-hallucinated-code-dependencies-become-new-supply-chain-risk/)
 
 ### Things I'm star-ing
