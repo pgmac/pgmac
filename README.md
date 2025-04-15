@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [https://standardebooks.org/](https://standardebooks.org/)
 * [Apache ECharts](https://echarts.apache.org/en/index.html)
 * [CERN releases report on the feasibility of a possible Future Circular Collider](https://home.cern/news/news/accelerators/cern-releases-report-feasibility-possible-future-circular-collider)
-* [The “S” in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
-* [https://search.app/1yiQn4N9PWiF9ZtL8](https://cybersecuritynews.com/frida-penetration-testing-tool-kit-released/)
-* [Any program can be a GitHub Actions shell](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/)
 * [The platform engineering toolkit for Kubernetes](https://koreo.dev)
 * [https://scitechdaily.com/scientists-discover-unique-100-hz-sound-that-alleviates-motion-sickness/](https://scitechdaily.com/scientists-discover-unique-100-hz-sound-that-alleviates-motion-sickness/)
 * [Tunarr](https://tunarr.com/)
 * [AI-hallucinated code dependencies become new supply chain risk](https://www.bleepingcomputer.com/news/security/ai-hallucinated-code-dependencies-become-new-supply-chain-risk/)
+* [https://cybersecuritynews.com/stride-gpt-ai-powered-tool/](https://cybersecuritynews.com/stride-gpt-ai-powered-tool/)
+* [Enhancing your DevSecOps with Wazuh, the open source XDR platform](https://www.bleepingcomputer.com/news/security/enhancing-your-devsecops-with-wazuh-the-open-source-xdr-platform/)
+* [SSL/TLS certificate lifespans reduced to 47 days by 2029](https://www.bleepingcomputer.com/news/security/ssl-tls-certificate-lifespans-reduced-to-47-days-by-2029/)
+* [&nbsp;](#)
 
 ### Things I'm star-ing
 
