@@ -76,15 +76,15 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [Unsure Calculator](https://filiph.github.io/unsure/)
+* [Understanding the Origins and the Evolution of Vi & Vim](https://pikuma.com/blog/origins-of-vim-text-editor)
 * [https://cybersecuritynews.com/stride-gpt-ai-powered-tool/](https://cybersecuritynews.com/stride-gpt-ai-powered-tool/)
 * [An Ars Technica history of the Internet, part 1](https://arstechnica.com/gadgets/2025/04/a-history-of-the-internet-part-1-an-arpa-dream-takes-form/)
-* [Enhancing your DevSecOps with Wazuh, the open source XDR platform](https://www.bleepingcomputer.com/news/security/enhancing-your-devsecops-with-wazuh-the-open-source-xdr-platform/)
-* [SSL/TLS certificate lifespans reduced to 47 days by 2029](https://www.bleepingcomputer.com/news/security/ssl-tls-certificate-lifespans-reduced-to-47-days-by-2029/)
 * [&nbsp;](#)
 * [The CVE program for tracking security flaws is about to lose federal funding](https://www.theverge.com/news/649314/cve-mitre-funding-vulnerabilities-exposures-funding)
 * [CVE program faces swift end after DHS fails to renew contract, leaving security flaw tracking in limbo](https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html)
 * [CVE Foundation](https://www.thecvefoundation.org/home)
 * [CISA extends funding to ensure 'no lapse in critical CVE services'](https://www.bleepingcomputer.com/news/security/cisa-extends-funding-to-ensure-no-lapse-in-critical-cve-services/)
+* [Hypertext TV](https://hypertext.tv/)
 
 ### Things I'm star-ing
 
