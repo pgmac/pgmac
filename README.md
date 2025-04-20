@@ -77,7 +77,7 @@ A table of things ...
 
 * [Unsure Calculator](https://filiph.github.io/unsure/)
 * [Understanding the Origins and the Evolution of Vi & Vim](https://pikuma.com/blog/origins-of-vim-text-editor)
-* [https://cybersecuritynews.com/stride-gpt-ai-powered-tool/](https://cybersecuritynews.com/stride-gpt-ai-powered-tool/)
+* [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
 * [An Ars Technica history of the Internet, part 1](https://arstechnica.com/gadgets/2025/04/a-history-of-the-internet-part-1-an-arpa-dream-takes-form/)
 * [The CVE program for tracking security flaws is about to lose federal funding](https://www.theverge.com/news/649314/cve-mitre-funding-vulnerabilities-exposures-funding)
 * [CVE program faces swift end after DHS fails to renew contract, leaving security flaw tracking in limbo](https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html)
@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
+  Turns Codebase into Easy Tutorial with AI
 * [codex](https://github.com/openai/codex)
   Lightweight coding agent that runs in your terminal
 * [argocd-agent](https://github.com/argoproj-labs/argocd-agent)
@@ -108,8 +110,6 @@ A table of things ...
   Generate impressive-looking terminal output to look busy when stakeholders walk by
 * [uv](https://github.com/astral-sh/uv)
   An extremely fast Python package and project manager, written in Rust.
-* [cloudprober](https://github.com/cloudprober/cloudprober)
-  An active monitoring software to detect failures before your customers do.
 
 ### My Blog Posts
 
