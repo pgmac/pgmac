@@ -75,19 +75,23 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [Unsure Calculator](https://filiph.github.io/unsure/)
 * [Understanding the Origins and the Evolution of Vi & Vim](https://pikuma.com/blog/origins-of-vim-text-editor)
 * [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
-* [An Ars Technica history of the Internet, part 1](https://arstechnica.com/gadgets/2025/04/a-history-of-the-internet-part-1-an-arpa-dream-takes-form/)
 * [CVE program faces swift end after DHS fails to renew contract, leaving security flaw tracking in limbo](https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html)
 * [CVE Foundation](https://www.thecvefoundation.org/home)
 * [CISA extends funding to ensure 'no lapse in critical CVE services'](https://www.bleepingcomputer.com/news/security/cisa-extends-funding-to-ensure-no-lapse-in-critical-cve-services/)
 * [Librarians are dangerous.](https://bradmontague.substack.com/p/librarians-are-dangerous)
 * [Scientists hijacked the human eye to get it to see a brand-new color. It's called 'olo.'](https://www.livescience.com/health/neuroscience/scientists-hijacked-the-human-eye-to-get-it-to-see-a-brand-new-color-its-called-olo)
 * [Hypertext TV](https://hypertext.tv/)
+* [nari-labs/dia](https://github.com/nari-labs/dia)
+* [codingmoh/open-codex](https://github.com/codingmoh/open-codex)
 
 ### Things I'm star-ing
 
+* [dia](https://github.com/nari-labs/dia)
+  A TTS model capable of generating ultra-realistic dialogue in one pass.
+* [open-codex](https://github.com/codingmoh/open-codex)
+  Fully open-source command-line AI assistant inspired by OpenAI Codex, supporting local language models.
 * [Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
   Turns Codebase into Easy Tutorial with AI
 * [codex](https://github.com/openai/codex)
@@ -106,10 +110,6 @@ A table of things ...
   Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 * [icann-rdap](https://github.com/icann/icann-rdap)
   ICANN implementation of the Registry Data Access Protocol (RDAP)
-* [rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder)
-  Generate impressive-looking terminal output to look busy when stakeholders walk by
-* [uv](https://github.com/astral-sh/uv)
-  An extremely fast Python package and project manager, written in Rust.
 
 ### My Blog Posts
 
