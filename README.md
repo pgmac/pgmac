@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [RAGEagain](https://www.rageagain.com)
 * [Understanding the Origins and the Evolution of Vi & Vim](https://pikuma.com/blog/origins-of-vim-text-editor)
 * [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
-* [CVE program faces swift end after DHS fails to renew contract, leaving security flaw tracking in limbo](https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html)
-* [CVE Foundation](https://www.thecvefoundation.org/home)
 * [CISA extends funding to ensure 'no lapse in critical CVE services'](https://www.bleepingcomputer.com/news/security/cisa-extends-funding-to-ensure-no-lapse-in-critical-cve-services/)
 * [Librarians are dangerous.](https://bradmontague.substack.com/p/librarians-are-dangerous)
 * [Scientists hijacked the human eye to get it to see a brand-new color. It's called 'olo.'](https://www.livescience.com/health/neuroscience/scientists-hijacked-the-human-eye-to-get-it-to-see-a-brand-new-color-its-called-olo)
 * [Hypertext TV](https://hypertext.tv/)
 * [nari-labs/dia](https://github.com/nari-labs/dia)
 * [codingmoh/open-codex](https://github.com/codingmoh/open-codex)
+* [NBN 2000 plans: all your questions about the upcoming Hyperfast internet tier answered](https://www.techradar.com/computing/wi-fi-broadband/best-nbn-2000-plans)
 
 ### Things I'm star-ing
 
