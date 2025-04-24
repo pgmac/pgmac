@@ -77,8 +77,8 @@ A table of things ...
 
 * [RAGEagain](https://www.rageagain.com)
 * [Understanding the Origins and the Evolution of Vi & Vim](https://pikuma.com/blog/origins-of-vim-text-editor)
+* [trycua/cua](https://github.com/trycua/cua)
 * [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
-* [CISA extends funding to ensure 'no lapse in critical CVE services'](https://www.bleepingcomputer.com/news/security/cisa-extends-funding-to-ensure-no-lapse-in-critical-cve-services/)
 * [Librarians are dangerous.](https://bradmontague.substack.com/p/librarians-are-dangerous)
 * [Scientists hijacked the human eye to get it to see a brand-new color. It's called 'olo.'](https://www.livescience.com/health/neuroscience/scientists-hijacked-the-human-eye-to-get-it-to-see-a-brand-new-color-its-called-olo)
 * [Hypertext TV](https://hypertext.tv/)
@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [cua](https://github.com/trycua/cua)
+  c/ua is the Docker Container for Computer-Use AI Agents.
 * [dia](https://github.com/nari-labs/dia)
   A TTS model capable of generating ultra-realistic dialogue in one pass.
 * [open-codex](https://github.com/codingmoh/open-codex)
@@ -108,8 +110,6 @@ A table of things ...
   opkssh (OpenPubkey SSH)
 * [ollama](https://github.com/ollama/ollama)
   Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
-* [icann-rdap](https://github.com/icann/icann-rdap)
-  ICANN implementation of the Registry Data Access Protocol (RDAP)
 
 ### My Blog Posts
 
