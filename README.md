@@ -76,7 +76,6 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [RAGEagain](https://www.rageagain.com)
-* [Understanding the Origins and the Evolution of Vi & Vim](https://pikuma.com/blog/origins-of-vim-text-editor)
 * [trycua/cua](https://github.com/trycua/cua)
 * [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
 * [Librarians are dangerous.](https://bradmontague.substack.com/p/librarians-are-dangerous)
@@ -85,6 +84,7 @@ A table of things ...
 * [nari-labs/dia](https://github.com/nari-labs/dia)
 * [codingmoh/open-codex](https://github.com/codingmoh/open-codex)
 * [NBN 2000 plans: all your questions about the upcoming Hyperfast internet tier answered](https://www.techradar.com/computing/wi-fi-broadband/best-nbn-2000-plans)
+* [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
 
 ### Things I'm star-ing
 
