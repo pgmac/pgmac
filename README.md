@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [mazanoke](https://github.com/civilblur/mazanoke)
+  A self-hosted local image optimizer that runs in your browser.
 * [cua](https://github.com/trycua/cua)
   c/ua is the Docker Container for Computer-Use AI Agents.
 * [dia](https://github.com/nari-labs/dia)
@@ -108,8 +110,6 @@ A table of things ...
   An open source, self-hosted implementation of the Tailscale control server
 * [opkssh](https://github.com/openpubkey/opkssh)
   opkssh (OpenPubkey SSH)
-* [ollama](https://github.com/ollama/ollama)
-  Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 
 ### My Blog Posts
 
