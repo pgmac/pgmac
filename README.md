@@ -76,9 +76,9 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [RAGEagain](https://www.rageagain.com)
+* [Welcome](https://www.learn-c.org)
 * [trycua/cua](https://github.com/trycua/cua)
 * [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
-* [Librarians are dangerous.](https://bradmontague.substack.com/p/librarians-are-dangerous)
 * [Scientists hijacked the human eye to get it to see a brand-new color. It's called 'olo.'](https://www.livescience.com/health/neuroscience/scientists-hijacked-the-human-eye-to-get-it-to-see-a-brand-new-color-its-called-olo)
 * [nari-labs/dia](https://github.com/nari-labs/dia)
 * [codingmoh/open-codex](https://github.com/codingmoh/open-codex)
