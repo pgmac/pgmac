@@ -78,13 +78,13 @@ A table of things ...
 * [RAGEagain](https://www.rageagain.com)
 * [Welcome](https://www.learn-c.org)
 * [trycua/cua](https://github.com/trycua/cua)
-* [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
 * [Scientists hijacked the human eye to get it to see a brand-new color. It's called 'olo.'](https://www.livescience.com/health/neuroscience/scientists-hijacked-the-human-eye-to-get-it-to-see-a-brand-new-color-its-called-olo)
 * [nari-labs/dia](https://github.com/nari-labs/dia)
 * [codingmoh/open-codex](https://github.com/codingmoh/open-codex)
 * [NBN 2000 plans: all your questions about the upcoming Hyperfast internet tier answered](https://www.techradar.com/computing/wi-fi-broadband/best-nbn-2000-plans)
 * [Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot](https://lite.berkeley-humanoid.org/)
 * [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
+* [deathstar_lamp](https://gitlab.com/sephalon/deathstar_lamp)
 
 ### Things I'm star-ing
 
@@ -113,6 +113,7 @@ A table of things ...
 
 ### My Blog Posts
 
+* [Some things I found interesting from 2025-04-20 to 2025-04-27](https://pgmac.net.au/last-week/2025/04/27/interesting-last-week.html)
 * [Some things I found interesting from 2025-04-13 to 2025-04-20](https://pgmac.net.au/last-week/2025/04/20/interesting-last-week.html)
 * [Fixing data corruption in a PostgreSQL database running in kubernetes as a non-root container](https://pgmac.net.au/tech/2025/04/19/bitnami-postgresql-corrupt-data-fix.html)
 * [Some things I found interesting from 2025-04-06 to 2025-04-13](https://pgmac.net.au/last-week/2025/04/13/interesting-last-week.html)
@@ -122,4 +123,3 @@ A table of things ...
 * [Some things I found interesting from 2025-03-09 to 2025-03-16](https://pgmac.net.au/last-week/2025/03/16/interesting-last-week.html)
 * [Some things I found interesting from 2025-03-02 to 2025-03-09](https://pgmac.net.au/last-week/2025/03/09/interesting-last-week.html)
 * [Some things I found interesting from 2025-02-23 to 2025-03-02](https://pgmac.net.au/last-week/2025/03/02/interesting-last-week.html)
-* [Some things I found interesting from 2025-02-16 to 2025-02-23](https://pgmac.net.au/last-week/2025/02/23/interesting-last-week.html)
