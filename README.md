@@ -77,8 +77,8 @@ A table of things ...
 
 * [RAGEagain](https://www.rageagain.com)
 * [Welcome](https://www.learn-c.org)
+* [Slidev](https://sli.dev/)
 * [trycua/cua](https://github.com/trycua/cua)
-* [Scientists hijacked the human eye to get it to see a brand-new color. It's called 'olo.'](https://www.livescience.com/health/neuroscience/scientists-hijacked-the-human-eye-to-get-it-to-see-a-brand-new-color-its-called-olo)
 * [nari-labs/dia](https://github.com/nari-labs/dia)
 * [codingmoh/open-codex](https://github.com/codingmoh/open-codex)
 * [NBN 2000 plans: all your questions about the upcoming Hyperfast internet tier answered](https://www.techradar.com/computing/wi-fi-broadband/best-nbn-2000-plans)
@@ -88,6 +88,12 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [slidev](https://github.com/slidevjs/slidev)
+  Presentation Slides for Developers
+* [mini-photo-editor](https://github.com/xdadda/mini-photo-editor)
+  Online webgl photo editor with effects, filters and cropping
+* [sim](https://github.com/simstudioai/sim)
+  Open-source AI Agent workflow builder.
 * [mazanoke](https://github.com/civilblur/mazanoke)
   A self-hosted local image optimizer that runs in your browser.
 * [cua](https://github.com/trycua/cua)
@@ -104,12 +110,6 @@ A table of things ...
   Redefining the multi cluster story of Argo CD
 * [echarts](https://github.com/apache/echarts)
   Apache ECharts is a powerful, interactive charting and data visualization library for browser
-* [huginn](https://github.com/huginn/huginn)
-  Create agents that monitor and act on your behalf.  Your agents are standing by!
-* [headscale](https://github.com/juanfont/headscale)
-  An open source, self-hosted implementation of the Tailscale control server
-* [opkssh](https://github.com/openpubkey/opkssh)
-  opkssh (OpenPubkey SSH)
 
 ### My Blog Posts
 
