@@ -97,7 +97,7 @@ A table of things ...
 * [open-codex](https://github.com/codingmoh/open-codex)
   Fully open-source command-line AI assistant inspired by OpenAI Codex, supporting local language models.
 * [Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)
-  Turns Codebase into Easy Tutorial with AI
+  Turns Codebase into Easy Tutorial with AI - Pocket Flow Tutorial Project
 * [codex](https://github.com/openai/codex)
   Lightweight coding agent that runs in your terminal
 * [argocd-agent](https://github.com/argoproj-labs/argocd-agent)
