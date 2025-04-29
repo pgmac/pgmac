@@ -93,7 +93,7 @@ A table of things ...
 * [mini-photo-editor](https://github.com/xdadda/mini-photo-editor)
   Online webgl photo editor with effects, filters and cropping
 * [sim](https://github.com/simstudioai/sim)
-  Open-source AI Agent workflow builder.
+  Sim Studio is an open-source agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 * [mazanoke](https://github.com/civilblur/mazanoke)
   A self-hosted local image optimizer that runs in your browser.
 * [cua](https://github.com/trycua/cua)
