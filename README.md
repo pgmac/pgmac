@@ -75,11 +75,11 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [RAGEagain](https://www.rageagain.com)
 * [Welcome](https://www.learn-c.org)
+* [A free and open source personal finance manager](https://www.firefly-iii.org/)
 * [Slidev](https://sli.dev/)
+* [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller)
 * [trycua/cua](https://github.com/trycua/cua)
-* [nari-labs/dia](https://github.com/nari-labs/dia)
 * [NBN 2000 plans: all your questions about the upcoming Hyperfast internet tier answered](https://www.techradar.com/computing/wi-fi-broadband/best-nbn-2000-plans)
 * [Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot](https://lite.berkeley-humanoid.org/)
 * [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
