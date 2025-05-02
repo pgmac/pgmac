@@ -80,11 +80,11 @@ A table of things ...
 * [Slidev](https://sli.dev/)
 * [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller)
 * [trycua/cua](https://github.com/trycua/cua)
-* [NBN 2000 plans: all your questions about the upcoming Hyperfast internet tier answered](https://www.techradar.com/computing/wi-fi-broadband/best-nbn-2000-plans)
 * [Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot](https://lite.berkeley-humanoid.org/)
 * [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
 * [deathstar_lamp](https://gitlab.com/sephalon/deathstar_lamp)
 * [You Wouldn't Download a Hacker News](https://www.jasonthorsness.com/25)
+* [Third Party Cookies Must Be Removed](https://w3ctag.github.io/web-without-3p-cookies/)
 
 ### Things I'm star-ing
 
