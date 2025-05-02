@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [stride-gpt](https://github.com/mrwadams/stride-gpt)
+  An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
 * [slidev](https://github.com/slidevjs/slidev)
   Presentation Slides for Developers
 * [mini-photo-editor](https://github.com/xdadda/mini-photo-editor)
@@ -108,8 +110,6 @@ A table of things ...
   Lightweight coding agent that runs in your terminal
 * [argocd-agent](https://github.com/argoproj-labs/argocd-agent)
   Redefining the multi cluster story of Argo CD
-* [echarts](https://github.com/apache/echarts)
-  Apache ECharts is a powerful, interactive charting and data visualization library for browser
 
 ### My Blog Posts
 
