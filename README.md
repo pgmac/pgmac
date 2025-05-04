@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB)
+  Collection of decent Community-made GRUB themes. Contributions welcome!
 * [stride-gpt](https://github.com/mrwadams/stride-gpt)
   An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
 * [slidev](https://github.com/slidevjs/slidev)
@@ -108,8 +110,6 @@ A table of things ...
   Pocket Flow Tutorial Project: Turns GitHub repo into Easy Tutorial with AI
 * [codex](https://github.com/openai/codex)
   Lightweight coding agent that runs in your terminal
-* [argocd-agent](https://github.com/argoproj-labs/argocd-agent)
-  Redefining the multi cluster story of Argo CD
 
 ### My Blog Posts
 
