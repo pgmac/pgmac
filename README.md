@@ -80,10 +80,10 @@ A table of things ...
 * [Slidev](https://sli.dev/)
 * [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller)
 * [Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot](https://lite.berkeley-humanoid.org/)
-* [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
 * [deathstar_lamp](https://gitlab.com/sephalon/deathstar_lamp)
 * [You Wouldn't Download a Hacker News](https://www.jasonthorsness.com/25)
 * [Third Party Cookies Must Be Removed](https://w3ctag.github.io/web-without-3p-cookies/)
+* [Urtext /ˈʊrtekst/](https://urtext.co/)
 * [I'd rather read the prompt](https://claytonwramsey.com/blog/prompt/)
 
 ### Things I'm star-ing
