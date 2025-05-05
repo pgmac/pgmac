@@ -79,15 +79,17 @@ A table of things ...
 * [A free and open source personal finance manager](https://www.firefly-iii.org/)
 * [Slidev](https://sli.dev/)
 * [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller)
-* [trycua/cua](https://github.com/trycua/cua)
 * [Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot](https://lite.berkeley-humanoid.org/)
 * [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
 * [deathstar_lamp](https://gitlab.com/sephalon/deathstar_lamp)
 * [You Wouldn't Download a Hacker News](https://www.jasonthorsness.com/25)
 * [Third Party Cookies Must Be Removed](https://w3ctag.github.io/web-without-3p-cookies/)
+* [I'd rather read the prompt](https://claytonwramsey.com/blog/prompt/)
 
 ### Things I'm star-ing
 
+* [Forecastle](https://github.com/stakater/Forecastle)
+  Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you're using it!
 * [Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB)
   Collection of decent Community-made GRUB themes. Contributions welcome!
 * [stride-gpt](https://github.com/mrwadams/stride-gpt)
@@ -107,9 +109,7 @@ A table of things ...
 * [open-codex](https://github.com/codingmoh/open-codex)
   Fully open-source command-line AI assistant inspired by OpenAI Codex, supporting local language models.
 * [PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)
-  Pocket Flow Tutorial Project: Turns GitHub repo into Easy Tutorial with AI
-* [codex](https://github.com/openai/codex)
-  Lightweight coding agent that runs in your terminal
+  Pocket Flow: Codebase to Tutorial
 
 ### My Blog Posts
 
