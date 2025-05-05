@@ -4,13 +4,6 @@ from pocket import Pocket, PocketException
 from os import environ
 import feedparser
 import requests
-from pprint import pprint
-
-
-# def hn_pop():for url in articles:
-# print("%s %s", url.resolved_title, url.resolved_url)
-# pprint(url)
-# Do a thing in here
 
 
 def pocket_pop():
@@ -39,9 +32,13 @@ def pgmac_pop(l_url):
     retstr = "\n### My Blog Posts\n\n"
     try:
         articles = feedparser.parse(l_url)
+        retstr += "* [{}]({})\n".format("Things I'm interested in Last Week", "https://pgmac.net.au/last-week/")
         for article in articles['entries']:
-            # print("{} {}".format(article['title'], article['link']))
-            retstr += "* [{}]({})\n".format(article['title'], article['link'])
+            found_last_week = any(item['term'] == 'Last-Week' for item in article['tags'])
+            if found_last_week:
+                continue
+            else:
+                retstr += "* [{}]({})\n".format(article['title'], article['link'])
     except:
         pass
 
