@@ -99,7 +99,7 @@ A table of things ...
 * [mini-photo-editor](https://github.com/xdadda/mini-photo-editor)
   Online webgl photo editor with effects, filters and cropping
 * [sim](https://github.com/simstudioai/sim)
-  Sim Studio is an open-source agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+  Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 * [mazanoke](https://github.com/civilblur/mazanoke)
   A self-hosted local image optimizer that runs in your browser.
 * [cua](https://github.com/trycua/cua)
@@ -113,13 +113,5 @@ A table of things ...
 
 ### My Blog Posts
 
-* [Some things I found interesting from 2025-04-27 to 2025-05-04](https://pgmac.net.au/last-week/2025/05/04/interesting-last-week.html)
-* [Some things I found interesting from 2025-04-20 to 2025-04-27](https://pgmac.net.au/last-week/2025/04/27/interesting-last-week.html)
-* [Some things I found interesting from 2025-04-13 to 2025-04-20](https://pgmac.net.au/last-week/2025/04/20/interesting-last-week.html)
+* [Things I'm interested in Last Week](https://pgmac.net.au/last-week/)
 * [Fixing data corruption in a PostgreSQL database running in kubernetes as a non-root container](https://pgmac.net.au/tech/2025/04/19/bitnami-postgresql-corrupt-data-fix.html)
-* [Some things I found interesting from 2025-04-06 to 2025-04-13](https://pgmac.net.au/last-week/2025/04/13/interesting-last-week.html)
-* [Some things I found interesting from 2025-03-30 to 2025-04-06](https://pgmac.net.au/last-week/2025/04/06/interesting-last-week.html)
-* [Some things I found interesting from 2025-03-23 to 2025-03-30](https://pgmac.net.au/last-week/2025/03/30/interesting-last-week.html)
-* [Some things I found interesting from 2025-03-16 to 2025-03-23](https://pgmac.net.au/last-week/2025/03/23/interesting-last-week.html)
-* [Some things I found interesting from 2025-03-09 to 2025-03-16](https://pgmac.net.au/last-week/2025/03/16/interesting-last-week.html)
-* [Some things I found interesting from 2025-03-02 to 2025-03-09](https://pgmac.net.au/last-week/2025/03/09/interesting-last-week.html)
