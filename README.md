@@ -79,11 +79,11 @@ A table of things ...
 * [A free and open source personal finance manager](https://www.firefly-iii.org/)
 * [Slidev](https://sli.dev/)
 * [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller)
-* [Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot](https://lite.berkeley-humanoid.org/)
 * [deathstar_lamp](https://gitlab.com/sephalon/deathstar_lamp)
 * [You Wouldn't Download a Hacker News](https://www.jasonthorsness.com/25)
 * [Third Party Cookies Must Be Removed](https://w3ctag.github.io/web-without-3p-cookies/)
 * [Urtext /ˈʊrtekst/](https://urtext.co/)
+* [Possibly a serious possibility](https://kucharski.substack.com/p/possibly-a-serious-possibility)
 * [I'd rather read the prompt](https://claytonwramsey.com/blog/prompt/)
 
 ### Things I'm star-ing
