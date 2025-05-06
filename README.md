@@ -75,7 +75,6 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [Welcome](https://www.learn-c.org)
 * [A free and open source personal finance manager](https://www.firefly-iii.org/)
 * [Slidev](https://sli.dev/)
 * [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller)
@@ -85,6 +84,7 @@ A table of things ...
 * [Urtext /ˈʊrtekst/](https://urtext.co/)
 * [Possibly a serious possibility](https://kucharski.substack.com/p/possibly-a-serious-possibility)
 * [I'd rather read the prompt](https://claytonwramsey.com/blog/prompt/)
+* [KoljaB/RealtimeVoiceChat](https://github.com/KoljaB/RealtimeVoiceChat)
 
 ### Things I'm star-ing
 
