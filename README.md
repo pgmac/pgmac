@@ -76,7 +76,6 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [A free and open source personal finance manager](https://www.firefly-iii.org/)
-* [Slidev](https://sli.dev/)
 * [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller)
 * [You Wouldn't Download a Hacker News](https://www.jasonthorsness.com/25)
 * [Third Party Cookies Must Be Removed](https://w3ctag.github.io/web-without-3p-cookies/)
@@ -85,9 +84,14 @@ A table of things ...
 * [I'd rather read the prompt](https://claytonwramsey.com/blog/prompt/)
 * [KoljaB/RealtimeVoiceChat](https://github.com/KoljaB/RealtimeVoiceChat)
 * [Man pleads guilty to using malicious AI software to hack Disney employee](https://arstechnica.com/ai/2025/05/man-pleads-guilty-to-using-malicious-ai-software-to-hack-disney-employee/)
+* [Clippy Desktop Assistant](https://felixrieseberg.github.io/clippy/)
 
 ### Things I'm star-ing
 
+* [clippy](https://github.com/felixrieseberg/clippy)
+  📎 Clippy, now with some AI
+* [open-webui](https://github.com/open-webui/open-webui)
+  User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 * [Forecastle](https://github.com/stakater/Forecastle)
   Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you're using it!
 * [Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB)
@@ -106,10 +110,6 @@ A table of things ...
   c/ua is the Docker Container for Computer-Use AI Agents.
 * [dia](https://github.com/nari-labs/dia)
   A TTS model capable of generating ultra-realistic dialogue in one pass.
-* [open-codex](https://github.com/codingmoh/open-codex)
-  Fully open-source command-line AI assistant inspired by OpenAI Codex, supporting local language models.
-* [PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)
-  Pocket Flow: Codebase to Tutorial
 
 ### My Blog Posts
 
