@@ -75,9 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Search Rebuilt for AI](https://exa.ai)
 * [A free and open source personal finance manager](https://www.firefly-iii.org/)
 * [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller)
-* [You Wouldn't Download a Hacker News](https://www.jasonthorsness.com/25)
 * [Third Party Cookies Must Be Removed](https://w3ctag.github.io/web-without-3p-cookies/)
 * [Urtext /ˈʊrtekst/](https://urtext.co/)
 * [Possibly a serious possibility](https://kucharski.substack.com/p/possibly-a-serious-possibility)
