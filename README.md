@@ -76,15 +76,15 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [Search Rebuilt for AI](https://exa.ai)
-* [A free and open source personal finance manager](https://www.firefly-iii.org/)
 * [Tab groups](https://support.mozilla.org/en-US/kb/tab-groups)
-* [Third Party Cookies Must Be Removed](https://w3ctag.github.io/web-without-3p-cookies/)
 * [Urtext /ˈʊrtekst/](https://urtext.co/)
 * [Possibly a serious possibility](https://kucharski.substack.com/p/possibly-a-serious-possibility)
 * [I'd rather read the prompt](https://claytonwramsey.com/blog/prompt/)
+* [How to Harden GitHub Actions: The Unofficial Guide](https://www.wiz.io/blog/github-actions-security-guide)
 * [KoljaB/RealtimeVoiceChat](https://github.com/KoljaB/RealtimeVoiceChat)
 * [Man pleads guilty to using malicious AI software to hack Disney employee](https://arstechnica.com/ai/2025/05/man-pleads-guilty-to-using-malicious-ai-software-to-hack-disney-employee/)
 * [Clippy Desktop Assistant](https://felixrieseberg.github.io/clippy/)
+* [Mycoria](https://mycoria.org/)
 
 ### Things I'm star-ing
 
