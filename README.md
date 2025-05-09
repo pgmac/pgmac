@@ -79,12 +79,12 @@ A table of things ...
 * [Tab groups](https://support.mozilla.org/en-US/kb/tab-groups)
 * [Urtext /ˈʊrtekst/](https://urtext.co/)
 * [Possibly a serious possibility](https://kucharski.substack.com/p/possibly-a-serious-possibility)
-* [I'd rather read the prompt](https://claytonwramsey.com/blog/prompt/)
 * [How to Harden GitHub Actions: The Unofficial Guide](https://www.wiz.io/blog/github-actions-security-guide)
 * [KoljaB/RealtimeVoiceChat](https://github.com/KoljaB/RealtimeVoiceChat)
 * [Man pleads guilty to using malicious AI software to hack Disney employee](https://arstechnica.com/ai/2025/05/man-pleads-guilty-to-using-malicious-ai-software-to-hack-disney-employee/)
 * [Clippy Desktop Assistant](https://felixrieseberg.github.io/clippy/)
 * [Mycoria](https://mycoria.org/)
+* [LegoGPT: Generating Physically Stable and Buildable LEGO Designs from Text](https://avalovelace1.github.io/LegoGPT/)
 
 ### Things I'm star-ing
 
