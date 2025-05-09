@@ -76,9 +76,9 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [Search Rebuilt for AI](https://exa.ai)
+* [Dead Reckoning](https://www.damninteresting.com/dead-reckoning/)
 * [Tab groups](https://support.mozilla.org/en-US/kb/tab-groups)
-* [Urtext /ˈʊrtekst/](https://urtext.co/)
-* [Possibly a serious possibility](https://kucharski.substack.com/p/possibly-a-serious-possibility)
+* [A First Glimpse of the Starlink User Ternimal](https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/)
 * [How to Harden GitHub Actions: The Unofficial Guide](https://www.wiz.io/blog/github-actions-security-guide)
 * [KoljaB/RealtimeVoiceChat](https://github.com/KoljaB/RealtimeVoiceChat)
 * [Man pleads guilty to using malicious AI software to hack Disney employee](https://arstechnica.com/ai/2025/05/man-pleads-guilty-to-using-malicious-ai-software-to-hack-disney-employee/)
