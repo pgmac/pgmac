@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [zizmor](https://github.com/woodruffw/zizmor)
+  Static analysis for GitHub Actions
 * [clippy](https://github.com/felixrieseberg/clippy)
   📎 Clippy, now with some AI
 * [open-webui](https://github.com/open-webui/open-webui)
@@ -108,8 +110,6 @@ A table of things ...
   A self-hosted local image optimizer that runs in your browser.
 * [cua](https://github.com/trycua/cua)
   c/ua is the Docker Container for Computer-Use AI Agents.
-* [dia](https://github.com/nari-labs/dia)
-  A TTS model capable of generating ultra-realistic dialogue in one pass.
 
 ### My Blog Posts
 
