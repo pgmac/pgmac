@@ -88,7 +88,7 @@ A table of things ...
 
 ### Things I'm star-ing
 
-* [zizmor](https://github.com/woodruffw/zizmor)
+* [zizmor](https://github.com/zizmorcore/zizmor)
   Static analysis for GitHub Actions
 * [clippy](https://github.com/felixrieseberg/clippy)
   📎 Clippy, now with some AI
