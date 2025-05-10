@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite)
+  Index your Gmail account to a SQLite DB and play with the data.
 * [zizmor](https://github.com/zizmorcore/zizmor)
   Static analysis for GitHub Actions
 * [clippy](https://github.com/felixrieseberg/clippy)
@@ -108,8 +110,6 @@ A table of things ...
   Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 * [mazanoke](https://github.com/civilblur/mazanoke)
   A self-hosted local image optimizer that runs in your browser.
-* [cua](https://github.com/trycua/cua)
-  c/ua is the Docker Container for Computer-Use AI Agents.
 
 ### My Blog Posts
 
