@@ -77,14 +77,14 @@ A table of things ...
 
 * [Search Rebuilt for AI](https://exa.ai)
 * [Dead Reckoning](https://www.damninteresting.com/dead-reckoning/)
+* [The Epochalypse Project](https://epochalypse-project.org/)
 * [Tab groups](https://support.mozilla.org/en-US/kb/tab-groups)
 * [A First Glimpse of the Starlink User Ternimal](https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/)
 * [How to Harden GitHub Actions: The Unofficial Guide](https://www.wiz.io/blog/github-actions-security-guide)
-* [KoljaB/RealtimeVoiceChat](https://github.com/KoljaB/RealtimeVoiceChat)
-* [Man pleads guilty to using malicious AI software to hack Disney employee](https://arstechnica.com/ai/2025/05/man-pleads-guilty-to-using-malicious-ai-software-to-hack-disney-employee/)
 * [Clippy Desktop Assistant](https://felixrieseberg.github.io/clippy/)
 * [Mycoria](https://mycoria.org/)
 * [LegoGPT: Generating Physically Stable and Buildable LEGO Designs from Text](https://avalovelace1.github.io/LegoGPT/)
+* [I made my own Obsidian Sync server with my NAS and a free plugin, and it works perfectly](https://www.xda-developers.com/made-own-obsidian-sync-server-nas-plugin/)
 
 ### Things I'm star-ing
 
