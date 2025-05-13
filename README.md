@@ -75,7 +75,6 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
-* [Search Rebuilt for AI](https://exa.ai)
 * [Dead Reckoning](https://www.damninteresting.com/dead-reckoning/)
 * [The Epochalypse Project](https://epochalypse-project.org/)
 * [Tab groups](https://support.mozilla.org/en-US/kb/tab-groups)
@@ -85,6 +84,7 @@ A table of things ...
 * [Mycoria](https://mycoria.org/)
 * [LegoGPT: Generating Physically Stable and Buildable LEGO Designs from Text](https://avalovelace1.github.io/LegoGPT/)
 * [I made my own Obsidian Sync server with my NAS and a free plugin, and it works perfectly](https://www.xda-developers.com/made-own-obsidian-sync-server-nas-plugin/)
+* [Iceland approved the 4-day workweek in 2019: nearly 6 years later, all the predictions made have come true.](https://farmingdale-observer.com/2025/05/10/iceland-approved-the-4-day-workweek-in-2019-nearly-6-years-later-all-the-predictions-made-have-come-true/)
 
 ### Things I'm star-ing
 
