@@ -80,14 +80,16 @@ A table of things ...
 * [The Epochalypse Project](https://epochalypse-project.org/)
 * [Tab groups](https://support.mozilla.org/en-US/kb/tab-groups)
 * [A First Glimpse of the Starlink User Ternimal](https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/)
+* [5 Powerful Persuasion Methods for Engineering Managers](https://newsletter.manager.dev/p/5-powerful-persuasion-methods-for)
 * [How to Harden GitHub Actions: The Unofficial Guide](https://www.wiz.io/blog/github-actions-security-guide)
-* [Clippy Desktop Assistant](https://felixrieseberg.github.io/clippy/)
 * [Mycoria](https://mycoria.org/)
 * [LegoGPT: Generating Physically Stable and Buildable LEGO Designs from Text](https://avalovelace1.github.io/LegoGPT/)
 * [I made my own Obsidian Sync server with my NAS and a free plugin, and it works perfectly](https://www.xda-developers.com/made-own-obsidian-sync-server-nas-plugin/)
 
 ### Things I'm star-ing
 
+* [firefox](https://github.com/mozilla-firefox/firefox)
+  The official repository of Mozilla's Firefox web browser.
 * [gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite)
   Index your Gmail account to a SQLite DB and play with the data.
 * [zizmor](https://github.com/zizmorcore/zizmor)
@@ -108,8 +110,6 @@ A table of things ...
   Online webgl photo editor with effects, filters and cropping
 * [sim](https://github.com/simstudioai/sim)
   Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
-* [mazanoke](https://github.com/civilblur/mazanoke)
-  A self-hosted local image optimizer that runs in your browser.
 
 ### My Blog Posts
 
