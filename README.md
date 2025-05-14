@@ -76,8 +76,8 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [Dead Reckoning](https://www.damninteresting.com/dead-reckoning/)
+* [git-bug/git-bug](https://github.com/git-bug/git-bug)
 * [The Epochalypse Project](https://epochalypse-project.org/)
-* [Tab groups](https://support.mozilla.org/en-US/kb/tab-groups)
 * [A First Glimpse of the Starlink User Ternimal](https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/)
 * [5 Powerful Persuasion Methods for Engineering Managers](https://newsletter.manager.dev/p/5-powerful-persuasion-methods-for)
 * [How to Harden GitHub Actions: The Unofficial Guide](https://www.wiz.io/blog/github-actions-security-guide)
