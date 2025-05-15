@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [cve-documents](https://github.com/CVEProject/cve-documents)
+  Source for official CVE Program policy documents.
 * [firefox](https://github.com/mozilla-firefox/firefox)
   The official repository of Mozilla's Firefox web browser.
 * [gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite)
@@ -108,8 +110,6 @@ A table of things ...
   Presentation Slides for Developers
 * [mini-photo-editor](https://github.com/xdadda/mini-photo-editor)
   Online webgl photo editor with effects, filters and cropping
-* [sim](https://github.com/simstudioai/sim)
-  Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 
 ### My Blog Posts
 
