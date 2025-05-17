@@ -88,28 +88,6 @@ A table of things ...
 
 ### Things I'm star-ing
 
-* [cve-documents](https://github.com/CVEProject/cve-documents)
-  Source for official CVE Program policy documents.
-* [firefox](https://github.com/mozilla-firefox/firefox)
-  The official repository of Mozilla's Firefox web browser.
-* [gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite)
-  Index your Gmail account to a SQLite DB and play with the data.
-* [zizmor](https://github.com/zizmorcore/zizmor)
-  Static analysis for GitHub Actions
-* [clippy](https://github.com/felixrieseberg/clippy)
-  📎 Clippy, now with some AI
-* [open-webui](https://github.com/open-webui/open-webui)
-  User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-* [Forecastle](https://github.com/stakater/Forecastle)
-  Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you're using it!
-* [Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB)
-  Collection of decent Community-made GRUB themes. Contributions welcome!
-* [stride-gpt](https://github.com/mrwadams/stride-gpt)
-  An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
-* [slidev](https://github.com/slidevjs/slidev)
-  Presentation Slides for Developers
-* [mini-photo-editor](https://github.com/xdadda/mini-photo-editor)
-  Online webgl photo editor with effects, filters and cropping
 
 ### My Blog Posts
 
