@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [keycloak](https://github.com/keycloak/keycloak)
+  Open Source Identity and Access Management For Modern Applications and Services
 * [cve-documents](https://github.com/CVEProject/cve-documents)
   Source for official CVE Program policy documents.
 * [firefox](https://github.com/mozilla-firefox/firefox)
@@ -108,8 +110,6 @@ A table of things ...
   An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
 * [slidev](https://github.com/slidevjs/slidev)
   Presentation Slides for Developers
-* [mini-photo-editor](https://github.com/xdadda/mini-photo-editor)
-  Online webgl photo editor with effects, filters and cropping
 
 ### My Blog Posts
 
