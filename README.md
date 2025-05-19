@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
+  Community plugins list, theme list, and releases of Obsidian.
 * [keycloak](https://github.com/keycloak/keycloak)
   Open Source Identity and Access Management For Modern Applications and Services
 * [cve-documents](https://github.com/CVEProject/cve-documents)
@@ -108,8 +110,6 @@ A table of things ...
   Collection of decent Community-made GRUB themes. Contributions welcome!
 * [stride-gpt](https://github.com/mrwadams/stride-gpt)
   An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
-* [slidev](https://github.com/slidevjs/slidev)
-  Presentation Slides for Developers
 
 ### My Blog Posts
 
