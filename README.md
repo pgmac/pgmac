@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [act](https://github.com/nektos/act)
+  Run your GitHub Actions locally 🚀
 * [netbox](https://github.com/netbox-community/netbox)
   The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 * [obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
@@ -108,8 +110,6 @@ A table of things ...
   User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 * [Forecastle](https://github.com/stakater/Forecastle)
   Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you're using it!
-* [Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB)
-  Collection of decent Community-made GRUB themes. Contributions welcome!
 
 ### My Blog Posts
 
