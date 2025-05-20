@@ -88,28 +88,6 @@ A table of things ...
 
 ### Things I'm star-ing
 
-* [act](https://github.com/nektos/act)
-  Run your GitHub Actions locally 🚀
-* [netbox](https://github.com/netbox-community/netbox)
-  The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
-* [obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
-  Community plugins list, theme list, and releases of Obsidian.
-* [keycloak](https://github.com/keycloak/keycloak)
-  Open Source Identity and Access Management For Modern Applications and Services
-* [cve-documents](https://github.com/CVEProject/cve-documents)
-  Source for official CVE Program policy documents.
-* [firefox](https://github.com/mozilla-firefox/firefox)
-  The official repository of Mozilla's Firefox web browser.
-* [gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite)
-  Index your Gmail account to a SQLite DB and play with the data.
-* [zizmor](https://github.com/zizmorcore/zizmor)
-  Static analysis for GitHub Actions
-* [clippy](https://github.com/felixrieseberg/clippy)
-  📎 Clippy, now with some AI
-* [open-webui](https://github.com/open-webui/open-webui)
-  User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-* [Forecastle](https://github.com/stakater/Forecastle)
-  Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you're using it!
 
 ### My Blog Posts
 
