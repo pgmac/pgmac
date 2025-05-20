@@ -81,10 +81,10 @@ A table of things ...
 * [A First Glimpse of the Starlink User Ternimal](https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/)
 * [5 Powerful Persuasion Methods for Engineering Managers](https://newsletter.manager.dev/p/5-powerful-persuasion-methods-for)
 * [How to Harden GitHub Actions: The Unofficial Guide](https://www.wiz.io/blog/github-actions-security-guide)
-* [Mycoria](https://mycoria.org/)
 * [LegoGPT: Generating Physically Stable and Buildable LEGO Designs from Text](https://avalovelace1.github.io/LegoGPT/)
 * [I made my own Obsidian Sync server with my NAS and a free plugin, and it works perfectly](https://www.xda-developers.com/made-own-obsidian-sync-server-nas-plugin/)
 * [Iceland approved the 4-day workweek in 2019: nearly 6 years later, all the predictions made have come true.](https://farmingdale-observer.com/2025/05/10/iceland-approved-the-4-day-workweek-in-2019-nearly-6-years-later-all-the-predictions-made-have-come-true/)
+* [Have I Been Pwned 2.0 is Now Live!](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/)
 
 ### Things I'm star-ing
 
