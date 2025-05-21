@@ -95,7 +95,7 @@ A table of things ...
 * [act](https://github.com/nektos/act)
   Run your GitHub Actions locally 🚀
 * [netbox](https://github.com/netbox-community/netbox)
-  The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
+  The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 * [obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
   Community plugins list, theme list, and releases of Obsidian.
 * [keycloak](https://github.com/keycloak/keycloak)
