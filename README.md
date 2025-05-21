@@ -80,14 +80,16 @@ A table of things ...
 * [The Epochalypse Project](https://epochalypse-project.org/)
 * [A First Glimpse of the Starlink User Ternimal](https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/)
 * [5 Powerful Persuasion Methods for Engineering Managers](https://newsletter.manager.dev/p/5-powerful-persuasion-methods-for)
-* [How to Harden GitHub Actions: The Unofficial Guide](https://www.wiz.io/blog/github-actions-security-guide)
 * [LegoGPT: Generating Physically Stable and Buildable LEGO Designs from Text](https://avalovelace1.github.io/LegoGPT/)
 * [I made my own Obsidian Sync server with my NAS and a free plugin, and it works perfectly](https://www.xda-developers.com/made-own-obsidian-sync-server-nas-plugin/)
 * [Iceland approved the 4-day workweek in 2019: nearly 6 years later, all the predictions made have come true.](https://farmingdale-observer.com/2025/05/10/iceland-approved-the-4-day-workweek-in-2019-nearly-6-years-later-all-the-predictions-made-have-come-true/)
 * [Have I Been Pwned 2.0 is Now Live!](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/)
+* [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/)
 
 ### Things I'm star-ing
 
+* [cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+  Home for Cluster API, a subproject of sig-cluster-lifecycle
 * [ocm](https://github.com/open-cluster-management-io/ocm)
   Core components in the OCM project. Report here if you found any issues in OCM.
 * [act](https://github.com/nektos/act)
@@ -108,8 +110,6 @@ A table of things ...
   Static analysis for GitHub Actions
 * [clippy](https://github.com/felixrieseberg/clippy)
   📎 Clippy, now with some AI
-* [open-webui](https://github.com/open-webui/open-webui)
-  User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ### My Blog Posts
 
