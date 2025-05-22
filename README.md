@@ -75,12 +75,12 @@ A table of things ...
 
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
+* [Should I block ICMP?](http://shouldiblockicmp.com/)
 * [Dead Reckoning](https://www.damninteresting.com/dead-reckoning/)
 * [git-bug/git-bug](https://github.com/git-bug/git-bug)
 * [The Epochalypse Project](https://epochalypse-project.org/)
 * [A First Glimpse of the Starlink User Ternimal](https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/)
 * [5 Powerful Persuasion Methods for Engineering Managers](https://newsletter.manager.dev/p/5-powerful-persuasion-methods-for)
-* [LegoGPT: Generating Physically Stable and Buildable LEGO Designs from Text](https://avalovelace1.github.io/LegoGPT/)
 * [I made my own Obsidian Sync server with my NAS and a free plugin, and it works perfectly](https://www.xda-developers.com/made-own-obsidian-sync-server-nas-plugin/)
 * [Iceland approved the 4-day workweek in 2019: nearly 6 years later, all the predictions made have come true.](https://farmingdale-observer.com/2025/05/10/iceland-approved-the-4-day-workweek-in-2019-nearly-6-years-later-all-the-predictions-made-have-come-true/)
 * [Have I Been Pwned 2.0 is Now Live!](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/)
@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [crossplane](https://github.com/crossplane/crossplane)
+  The Cloud Native Control Plane
 * [cluster-api](https://github.com/kubernetes-sigs/cluster-api)
   Home for Cluster API, a subproject of sig-cluster-lifecycle
 * [ocm](https://github.com/open-cluster-management-io/ocm)
@@ -108,8 +110,6 @@ A table of things ...
   Index your Gmail account to a SQLite DB and play with the data.
 * [zizmor](https://github.com/zizmorcore/zizmor)
   Static analysis for GitHub Actions
-* [clippy](https://github.com/felixrieseberg/clippy)
-  📎 Clippy, now with some AI
 
 ### My Blog Posts
 
