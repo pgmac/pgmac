@@ -88,28 +88,6 @@ A table of things ...
 
 ### Things I'm star-ing
 
-* [crossplane](https://github.com/crossplane/crossplane)
-  The Cloud Native Control Plane
-* [cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-  Home for Cluster API, a subproject of sig-cluster-lifecycle
-* [ocm](https://github.com/open-cluster-management-io/ocm)
-  Core components in the OCM project. Report here if you found any issues in OCM.
-* [act](https://github.com/nektos/act)
-  Run your GitHub Actions locally 🚀
-* [netbox](https://github.com/netbox-community/netbox)
-  The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
-* [obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
-  Community plugins list, theme list, and releases of Obsidian.
-* [keycloak](https://github.com/keycloak/keycloak)
-  Open Source Identity and Access Management For Modern Applications and Services
-* [cve-documents](https://github.com/CVEProject/cve-documents)
-  Source for official CVE Program policy documents.
-* [firefox](https://github.com/mozilla-firefox/firefox)
-  The official repository of Mozilla's Firefox web browser.
-* [gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite)
-  Index your Gmail account to a SQLite DB and play with the data.
-* [zizmor](https://github.com/zizmorcore/zizmor)
-  Static analysis for GitHub Actions
 
 ### My Blog Posts
 
