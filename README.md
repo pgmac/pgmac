@@ -76,7 +76,6 @@ A table of things ...
 ### Articles I've added to my [GetPocket](https://getpocket.com/) list
 
 * [Should I block ICMP?](http://shouldiblockicmp.com/)
-* [Dead Reckoning](https://www.damninteresting.com/dead-reckoning/)
 * [git-bug/git-bug](https://github.com/git-bug/git-bug)
 * [The Epochalypse Project](https://epochalypse-project.org/)
 * [A First Glimpse of the Starlink User Ternimal](https://www.darknavy.org/blog/a_first_glimpse_of_the_starlink_user_ternimal/)
@@ -85,6 +84,7 @@ A table of things ...
 * [Iceland approved the 4-day workweek in 2019: nearly 6 years later, all the predictions made have come true.](https://farmingdale-observer.com/2025/05/10/iceland-approved-the-4-day-workweek-in-2019-nearly-6-years-later-all-the-predictions-made-have-come-true/)
 * [Have I Been Pwned 2.0 is Now Live!](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/)
 * [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/)
+* [ASD releases joint advice on AI data security](https://www.arnnet.com.au/article/3993677/asd-releases-joint-advice-on-ai-data-security.html)
 
 ### Things I'm star-ing
 
