@@ -88,6 +88,10 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [woodpecker](https://github.com/OperantAI/woodpecker)
+  Red Teaming for AI and Cloud
+* [tesseral](https://github.com/tesseral-labs/tesseral)
+  Open source auth infrastructure for B2B SaaS
 * [terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)
   The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.
 * [crossplane](https://github.com/crossplane/crossplane)
@@ -106,10 +110,6 @@ A table of things ...
   Open Source Identity and Access Management For Modern Applications and Services
 * [cve-documents](https://github.com/CVEProject/cve-documents)
   Source for official CVE Program policy documents.
-* [firefox](https://github.com/mozilla-firefox/firefox)
-  The official repository of Mozilla's Firefox web browser.
-* [gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite)
-  Index your Gmail account to a SQLite DB and play with the data.
 
 ### My Blog Posts
 
