@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [kan](https://github.com/kanbn/kan)
+  The open source Trello alternative.
 * [woodpecker](https://github.com/OperantAI/woodpecker)
   Red Teaming for AI and Cloud
 * [tesseral](https://github.com/tesseral-labs/tesseral)
@@ -108,8 +110,6 @@ A table of things ...
   Community plugins list, theme list, and releases of Obsidian.
 * [keycloak](https://github.com/keycloak/keycloak)
   Open Source Identity and Access Management For Modern Applications and Services
-* [cve-documents](https://github.com/CVEProject/cve-documents)
-  Source for official CVE Program policy documents.
 
 ### My Blog Posts
 
