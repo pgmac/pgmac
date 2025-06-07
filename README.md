@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [freelens](https://github.com/freelensapp/freelens)
+  Free IDE for Kubernetes
 * [kan](https://github.com/kanbn/kan)
   The open source Trello alternative.
 * [woodpecker](https://github.com/OperantAI/woodpecker)
@@ -108,8 +110,6 @@ A table of things ...
   The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 * [obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
   Community plugins list, theme list, and releases of Obsidian.
-* [keycloak](https://github.com/keycloak/keycloak)
-  Open Source Identity and Access Management For Modern Applications and Services
 
 ### My Blog Posts
 
