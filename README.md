@@ -73,19 +73,6 @@ A table of things ...
     </tr>
 </table>
 
-### Articles I've added to my [GetPocket](https://getpocket.com/) list
-
-* [Should I block ICMP?](http://shouldiblockicmp.com/)
-* [git-bug/git-bug](https://github.com/git-bug/git-bug)
-* [The Epochalypse Project](https://epochalypse-project.org/)
-* [5 Powerful Persuasion Methods for Engineering Managers](https://newsletter.manager.dev/p/5-powerful-persuasion-methods-for)
-* [I made my own Obsidian Sync server with my NAS and a free plugin, and it works perfectly](https://www.xda-developers.com/made-own-obsidian-sync-server-nas-plugin/)
-* [Iceland approved the 4-day workweek in 2019: nearly 6 years later, all the predictions made have come true.](https://farmingdale-observer.com/2025/05/10/iceland-approved-the-4-day-workweek-in-2019-nearly-6-years-later-all-the-predictions-made-have-come-true/)
-* [Have I Been Pwned 2.0 is Now Live!](https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/)
-* [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/)
-* [Securing CI/CD workflows with Wazuh](https://thehackernews.com/2025/05/securing-cicd-workflows-with-wazuh.html)
-* [ASD releases joint advice on AI data security](https://www.arnnet.com.au/article/3993677/asd-releases-joint-advice-on-ai-data-security.html)
-
 ### Things I'm star-ing
 
 * [is-even-ai](https://github.com/Calvin-LL/is-even-ai)
