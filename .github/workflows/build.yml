@@ -17,28 +17,29 @@ jobs:
     name: Build README.md
     runs-on: self-hosted
     steps:
-    - name: Checkout the repo
-      uses: actions/checkout@v4
-    - name: Setup python
-      uses: actions/setup-python@v5
-      with:
-        python-version: 3.8
-        cache: 'pip'
-    - name: Install Python dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r src/requirements.txt
-    - name: Update README
-      env:
-         POCKET_ACCTOK: ${{ secrets.POCKET_ACCTOK }}
-         POCKET_CONSKEY: ${{ secrets.POCKET_CONSKEY }}
-      run: |-
-        python src/update.py
-        cat README.md
-    - name: Commit and push if README changed
-      run: |-
-        git diff
-        git config --global user.email "readme-bot@pgmac.dev"
-        git config --global user.name "README-bot"
-        git diff --quiet || (git add README.md && git commit -m "Updated README")
-        git push
+      - name: Checkout the repo
+        uses: actions/checkout@v4
+      - name: Setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.8
+          cache: "pip"
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r src/requirements.txt
+      - name: Update README
+        env:
+          POCKET_ACCTOK: ${{ secrets.POCKET_ACCTOK }}
+          POCKET_CONSKEY: ${{ secrets.POCKET_CONSKEY }}
+          PGLINKS_KEY: ${{ secrets.PGLINKS_KEY }}
+        run: |-
+          python src/update.py
+          cat README.md
+      - name: Commit and push if README changed
+        run: |-
+          git diff
+          git config --global user.email "readme-bot@pgmac.dev"
+          git config --global user.name "README-bot"
+          git diff --quiet || (git add README.md && git commit -m "Updated README")
+          git push
