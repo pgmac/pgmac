@@ -72,6 +72,9 @@ A table of things ...
         <td>&nbsp;</td>
     </tr>
 </table>
+
+### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
+
 * [Designing Blue Team playbooks with Wazuh for proactive incident response](https://www.bleepingcomputer.com/news/security/designing-blue-team-playbooks-with-wazuh-for-proactive-incident-response/)
 * [I started using NotebookLM with Obsidian and it’s been a game-changer](https://www.xda-developers.com/using-notebooklm-with-obsidian/)
 * [Meta Pixel halts Android localhost tracking after disclosure • The Register](https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/)
@@ -82,6 +85,7 @@ A table of things ...
 * [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
 * [I vibe-coded a $20M YC app in a weekend, here's how🧙‍♂️ 🪄 - DEV Community](https://dev.to/composiodev/i-vibe-coded-a-20m-yc-app-in-a-weekend-heres-how-533o)
 * [TASK ERROR: activating LV 'pve/data' failed: Activation of logical volume pve/data is prohibited while logical volume pve/data_tdata is active. | Proxmox Support Forum](https://forum.proxmox.com/threads/task-error-activating-lv-pve-data-failed-activation-of-logical-volume-pve-data-is-prohibited-while-logical-volume-pve-data_tdata-is-active.106225/)
+
 ### Things I'm star-ing
 
 * [is-even-ai](https://github.com/Calvin-LL/is-even-ai)
