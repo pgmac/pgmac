@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [is-even-ai](https://github.com/Calvin-LL/is-even-ai)
+  Check if a number is even with the power of ✨AI✨
 * [freelens](https://github.com/freelensapp/freelens)
   Free IDE for Kubernetes
 * [kan](https://github.com/kanbn/kan)
@@ -108,8 +110,6 @@ A table of things ...
   Run your GitHub Actions locally 🚀
 * [netbox](https://github.com/netbox-community/netbox)
   The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
-* [obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
-  Community plugins list, theme list, and releases of Obsidian.
 
 ### My Blog Posts
 
