@@ -113,8 +113,11 @@ def write_file(l_string, l_file):
 readme = ""
 if __name__ == "__main__":
     readme = add_file("src/HEADER.md")
+
+    readme += "\n### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list\n\n"
     readme += '\n'.join([str(x) for x in links_pop()])
-    # readme += pocket_pop()
+    readme += "\n"
+
     readme += ghstars_pop('pgmac')
     readme += pgmac_pop('https://pgmac.net.au/feed.xml')
     readme += add_file("src/FOOTER.md")
