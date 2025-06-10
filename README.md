@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Canonical Confirms Ubuntu 25.10 Will Drop Support For GNOME On X.Org - Phoronix](https://www.phoronix.com/news/Ubuntu-25.10-No-GNOME-X.Org)
 * [Getting Past Procastination - IEEE Spectrum](https://spectrum.ieee.org/getting-past-procastination)
 * [GitHub - apple/containerization: Containerization is a Swift package for running Linux containers on macOS.](https://github.com/apple/containerization)
 * [5 Proxmox scripts I run on every new installation](https://www.xda-developers.com/proxmox-scripts-run-new-installation/)
@@ -84,7 +85,6 @@ A table of things ...
 * [I started using NotebookLM with Obsidian and it’s been a game-changer](https://www.xda-developers.com/using-notebooklm-with-obsidian/)
 * [Meta Pixel halts Android localhost tracking after disclosure • The Register](https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/)
 * [Kali GPT- AI Assistant That Transforms Penetration Testing on Kali Linux](https://cybersecuritynews.com/kali-gpt/)
-* [Japanese Researchers Develop ‘Transparent Paper’ as Alternative to Plastics; New Material Is Biodegradable, Can Be Produced with Low Carbon Emissions - The Japan News](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
 
 ### Things I'm star-ing
 
