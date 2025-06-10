@@ -75,19 +75,21 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Getting Past Procastination - IEEE Spectrum](https://spectrum.ieee.org/getting-past-procastination)
+* [GitHub - apple/containerization: Containerization is a Swift package for running Linux containers on macOS.](https://github.com/apple/containerization)
+* [5 Proxmox scripts I run on every new installation](https://www.xda-developers.com/proxmox-scripts-run-new-installation/)
+* [USB-C was a missed opportunity and it’s too late to fix the mess](https://www.androidauthority.com/usb-c-cant-be-fixed-3560127/)
+* [abcnews.go.com](https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345)
 * [Designing Blue Team playbooks with Wazuh for proactive incident response](https://www.bleepingcomputer.com/news/security/designing-blue-team-playbooks-with-wazuh-for-proactive-incident-response/)
 * [I started using NotebookLM with Obsidian and it’s been a game-changer](https://www.xda-developers.com/using-notebooklm-with-obsidian/)
 * [Meta Pixel halts Android localhost tracking after disclosure • The Register](https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/)
 * [Kali GPT- AI Assistant That Transforms Penetration Testing on Kali Linux](https://cybersecuritynews.com/kali-gpt/)
 * [Japanese Researchers Develop ‘Transparent Paper’ as Alternative to Plastics; New Material Is Biodegradable, Can Be Produced with Low Carbon Emissions - The Japan News](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/)
-* [HashiCorp speaks up about adjusting to life under IBM • The Register](https://www.theregister.com/2025/06/05/hashicorp_ibm_hashidays/)
-* [Buried under 2 kilometers of Antarctic ice, scientists find a 34-million-year-old lost world - The Brighter Side of News](https://www.thebrighterside.news/global-good/buried-under-2-kilometers-of-antarctic-ice-scientists-find-a-34-million-year-old-lost-world/)
-* [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
-* [I vibe-coded a $20M YC app in a weekend, here's how🧙‍♂️ 🪄 - DEV Community](https://dev.to/composiodev/i-vibe-coded-a-20m-yc-app-in-a-weekend-heres-how-533o)
-* [TASK ERROR: activating LV 'pve/data' failed: Activation of logical volume pve/data is prohibited while logical volume pve/data_tdata is active. | Proxmox Support Forum](https://forum.proxmox.com/threads/task-error-activating-lv-pve-data-failed-activation-of-logical-volume-pve-data-is-prohibited-while-logical-volume-pve-data_tdata-is-active.106225/)
 
 ### Things I'm star-ing
 
+* [containerization](https://github.com/apple/containerization)
+  Containerization is a Swift package for running Linux containers on macOS.
 * [is-even-ai](https://github.com/Calvin-LL/is-even-ai)
   Check if a number is even with the power of ✨AI✨
 * [freelens](https://github.com/freelensapp/freelens)
@@ -108,8 +110,6 @@ A table of things ...
   Core components in the OCM project. Report here if you found any issues in OCM.
 * [act](https://github.com/nektos/act)
   Run your GitHub Actions locally 🚀
-* [netbox](https://github.com/netbox-community/netbox)
-  The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 
 ### My Blog Posts
 
