@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [It's The End Of Observability As We Know It (And I Feel Fine) | Honeycomb](https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine)
 * [Canonical Confirms Ubuntu 25.10 Will Drop Support For GNOME On X.Org - Phoronix](https://www.phoronix.com/news/Ubuntu-25.10-No-GNOME-X.Org)
 * [Getting Past Procastination - IEEE Spectrum](https://spectrum.ieee.org/getting-past-procastination)
 * [GitHub - apple/containerization: Containerization is a Swift package for running Linux containers on macOS.](https://github.com/apple/containerization)
@@ -84,7 +85,6 @@ A table of things ...
 * [Designing Blue Team playbooks with Wazuh for proactive incident response](https://www.bleepingcomputer.com/news/security/designing-blue-team-playbooks-with-wazuh-for-proactive-incident-response/)
 * [I started using NotebookLM with Obsidian and it’s been a game-changer](https://www.xda-developers.com/using-notebooklm-with-obsidian/)
 * [Meta Pixel halts Android localhost tracking after disclosure • The Register](https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/)
-* [Kali GPT- AI Assistant That Transforms Penetration Testing on Kali Linux](https://cybersecuritynews.com/kali-gpt/)
 
 ### Things I'm star-ing
 
