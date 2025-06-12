@@ -75,19 +75,21 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [www.evolutionaustralia.com.au](https://www.evolutionaustralia.com.au/product-page/myenergi-ct-clamp)
+* [GitHub - jomjol/AI-on-the-edge-device: Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world](https://github.com/jomjol/AI-on-the-edge-device)
+* [IoTaWatt™ Open WiFi Electric Power Monitor](https://iotawatt.com/)
+* [GitHub - resemble-ai/chatterbox: SoTA open-source TTS](https://github.com/resemble-ai/chatterbox)
 * [It's The End Of Observability As We Know It (And I Feel Fine) | Honeycomb](https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine)
 * [Canonical Confirms Ubuntu 25.10 Will Drop Support For GNOME On X.Org - Phoronix](https://www.phoronix.com/news/Ubuntu-25.10-No-GNOME-X.Org)
 * [Getting Past Procastination - IEEE Spectrum](https://spectrum.ieee.org/getting-past-procastination)
 * [GitHub - apple/containerization: Containerization is a Swift package for running Linux containers on macOS.](https://github.com/apple/containerization)
 * [5 Proxmox scripts I run on every new installation](https://www.xda-developers.com/proxmox-scripts-run-new-installation/)
 * [USB-C was a missed opportunity and it’s too late to fix the mess](https://www.androidauthority.com/usb-c-cant-be-fixed-3560127/)
-* [abcnews.go.com](https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345)
-* [Designing Blue Team playbooks with Wazuh for proactive incident response](https://www.bleepingcomputer.com/news/security/designing-blue-team-playbooks-with-wazuh-for-proactive-incident-response/)
-* [I started using NotebookLM with Obsidian and it’s been a game-changer](https://www.xda-developers.com/using-notebooklm-with-obsidian/)
-* [Meta Pixel halts Android localhost tracking after disclosure • The Register](https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/)
 
 ### Things I'm star-ing
 
+* [chatterbox](https://github.com/resemble-ai/chatterbox)
+  SoTA open-source TTS
 * [containerization](https://github.com/apple/containerization)
   Containerization is a Swift package for running Linux containers on macOS.
 * [is-even-ai](https://github.com/Calvin-LL/is-even-ai)
@@ -108,8 +110,6 @@ A table of things ...
   Home for Cluster API, a subproject of sig-cluster-lifecycle
 * [ocm](https://github.com/open-cluster-management-io/ocm)
   Core components in the OCM project. Report here if you found any issues in OCM.
-* [act](https://github.com/nektos/act)
-  Run your GitHub Actions locally 🚀
 
 ### My Blog Posts
 
