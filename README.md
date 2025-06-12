@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Ubuntu 25.10 Replaces sudo With a Rust-Based Equivalent - The New Stack](https://thenewstack.io/ubuntu-25-10-replaces-sudo-with-a-rust-based-equivalent/)
 * [AWS Launches EKS Dashboard to Tackle Multi-Cloud Kubernetes Complexity - InfoQ](https://www.infoq.com/news/2025/06/aws-eks-dashboard-kubernetes/)
 * [immich.app](https://immich.app/)
 * [www.evolutionaustralia.com.au](https://www.evolutionaustralia.com.au/product-page/myenergi-ct-clamp)
@@ -84,7 +85,6 @@ A table of things ...
 * [It's The End Of Observability As We Know It (And I Feel Fine) | Honeycomb](https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine)
 * [Canonical Confirms Ubuntu 25.10 Will Drop Support For GNOME On X.Org - Phoronix](https://www.phoronix.com/news/Ubuntu-25.10-No-GNOME-X.Org)
 * [Getting Past Procastination - IEEE Spectrum](https://spectrum.ieee.org/getting-past-procastination)
-* [GitHub - apple/containerization: Containerization is a Swift package for running Linux containers on macOS.](https://github.com/apple/containerization)
 
 ### Things I'm star-ing
 
