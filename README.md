@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [www.spaceweatherlive.com](https://www.spaceweatherlive.com/en/solar-activity/solar-flares.html)
+* [Google Online Security Blog: On Fire Drills and Phishing Tests](https://security.googleblog.com/2024/05/on-fire-drills-and-phishing-tests.html)
+* [Cloudflare service outage June 12, 2025](https://blog.cloudflare.com/cloudflare-service-outage-june-12-2025/)
+* [A history of the Internet, part 2: The high-tech gold rush begins - Ars Technica](https://arstechnica.com/gadgets/2025/06/a-history-of-the-internet-part-2-the-high-tech-gold-rush-begins/)
+* [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
+* [Scammers impersonating the ASD's ACSC | Cyber.gov.au](https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/email-scammers-impersonating-asds-acsc)
+* [NIST Offers 19 Ways to Build Zero Trust Architectures | NIST](https://www.nist.gov/news-events/news/2025/06/nist-offers-19-ways-build-zero-trust-architectures)
 * [Ubuntu 25.10 Replaces sudo With a Rust-Based Equivalent - The New Stack](https://thenewstack.io/ubuntu-25-10-replaces-sudo-with-a-rust-based-equivalent/)
 * [AWS Launches EKS Dashboard to Tackle Multi-Cloud Kubernetes Complexity - InfoQ](https://www.infoq.com/news/2025/06/aws-eks-dashboard-kubernetes/)
 * [immich.app](https://immich.app/)
-* [www.evolutionaustralia.com.au](https://www.evolutionaustralia.com.au/product-page/myenergi-ct-clamp)
-* [GitHub - jomjol/AI-on-the-edge-device: Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world](https://github.com/jomjol/AI-on-the-edge-device)
-* [IoTaWatt™ Open WiFi Electric Power Monitor](https://iotawatt.com/)
-* [GitHub - resemble-ai/chatterbox: SoTA open-source TTS](https://github.com/resemble-ai/chatterbox)
-* [It's The End Of Observability As We Know It (And I Feel Fine) | Honeycomb](https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine)
-* [Canonical Confirms Ubuntu 25.10 Will Drop Support For GNOME On X.Org - Phoronix](https://www.phoronix.com/news/Ubuntu-25.10-No-GNOME-X.Org)
-* [Getting Past Procastination - IEEE Spectrum](https://spectrum.ieee.org/getting-past-procastination)
 
 ### Things I'm star-ing
 
