@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Remote GitHub MCP Server is now in public preview - GitHub Changelog](https://github.blog/changelog/2025-06-12-remote-github-mcp-server-is-now-available-in-public-preview/)
 * [www.spaceweatherlive.com](https://www.spaceweatherlive.com/en/solar-activity/solar-flares.html)
 * [Google Online Security Blog: On Fire Drills and Phishing Tests](https://security.googleblog.com/2024/05/on-fire-drills-and-phishing-tests.html)
 * [Cloudflare service outage June 12, 2025](https://blog.cloudflare.com/cloudflare-service-outage-june-12-2025/)
@@ -84,7 +85,6 @@ A table of things ...
 * [NIST Offers 19 Ways to Build Zero Trust Architectures | NIST](https://www.nist.gov/news-events/news/2025/06/nist-offers-19-ways-build-zero-trust-architectures)
 * [Ubuntu 25.10 Replaces sudo With a Rust-Based Equivalent - The New Stack](https://thenewstack.io/ubuntu-25-10-replaces-sudo-with-a-rust-based-equivalent/)
 * [AWS Launches EKS Dashboard to Tackle Multi-Cloud Kubernetes Complexity - InfoQ](https://www.infoq.com/news/2025/06/aws-eks-dashboard-kubernetes/)
-* [immich.app](https://immich.app/)
 
 ### Things I'm star-ing
 
