@@ -75,19 +75,25 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Auto activating a python virtualenv · GitHub](https://gist.github.com/pgmac/0bc0da3df511ca58993ec5416950a04d)
+* [I tried Google's secret open source app and glimpsed the power of offline AI](https://www.androidauthority.com/google-ai-edge-gallery-3565904/)
+* [Setup | Ruff](https://docs.astral.sh/ruff/editors/setup/#zed)
+* [Running scripts | uv](https://docs.astral.sh/uv/guides/scripts/#using-a-shebang-to-create-an-executable-file)
 * [Remote GitHub MCP Server is now in public preview - GitHub Changelog](https://github.blog/changelog/2025-06-12-remote-github-mcp-server-is-now-available-in-public-preview/)
 * [www.spaceweatherlive.com](https://www.spaceweatherlive.com/en/solar-activity/solar-flares.html)
 * [Google Online Security Blog: On Fire Drills and Phishing Tests](https://security.googleblog.com/2024/05/on-fire-drills-and-phishing-tests.html)
 * [Cloudflare service outage June 12, 2025](https://blog.cloudflare.com/cloudflare-service-outage-june-12-2025/)
 * [A history of the Internet, part 2: The high-tech gold rush begins - Ars Technica](https://arstechnica.com/gadgets/2025/06/a-history-of-the-internet-part-2-the-high-tech-gold-rush-begins/)
 * [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
-* [Scammers impersonating the ASD's ACSC | Cyber.gov.au](https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/email-scammers-impersonating-asds-acsc)
-* [NIST Offers 19 Ways to Build Zero Trust Architectures | NIST](https://www.nist.gov/news-events/news/2025/06/nist-offers-19-ways-build-zero-trust-architectures)
-* [Ubuntu 25.10 Replaces sudo With a Rust-Based Equivalent - The New Stack](https://thenewstack.io/ubuntu-25-10-replaces-sudo-with-a-rust-based-equivalent/)
-* [AWS Launches EKS Dashboard to Tackle Multi-Cloud Kubernetes Complexity - InfoQ](https://www.infoq.com/news/2025/06/aws-eks-dashboard-kubernetes/)
 
 ### Things I'm star-ing
 
+* [vaultwarden](https://github.com/guerzon/vaultwarden)
+  Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust
+* [vaultwarden](https://github.com/dani-garcia/vaultwarden)
+  Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+* [ruff](https://github.com/astral-sh/ruff)
+  An extremely fast Python linter and code formatter, written in Rust.
 * [chatterbox](https://github.com/resemble-ai/chatterbox)
   SoTA open-source TTS
 * [containerization](https://github.com/apple/containerization)
@@ -104,12 +110,6 @@ A table of things ...
   Open source auth infrastructure for B2B SaaS
 * [terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)
   The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.
-* [crossplane](https://github.com/crossplane/crossplane)
-  The Cloud Native Control Plane
-* [cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-  Home for Cluster API, a subproject of sig-cluster-lifecycle
-* [ocm](https://github.com/open-cluster-management-io/ocm)
-  Core components in the OCM project. Report here if you found any issues in OCM.
 
 ### My Blog Posts
 
