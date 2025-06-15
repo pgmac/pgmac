@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [CI/CD Observability with OpenTelemetry - A Step by Step Guide | SigNoz](https://signoz.io/blog/cicd-observability-with-opentelemetry/)
 * [Auto activating a python virtualenv · GitHub](https://gist.github.com/pgmac/0bc0da3df511ca58993ec5416950a04d)
 * [I tried Google's secret open source app and glimpsed the power of offline AI](https://www.androidauthority.com/google-ai-edge-gallery-3565904/)
 * [Setup | Ruff](https://docs.astral.sh/ruff/editors/setup/#zed)
@@ -84,7 +85,6 @@ A table of things ...
 * [Google Online Security Blog: On Fire Drills and Phishing Tests](https://security.googleblog.com/2024/05/on-fire-drills-and-phishing-tests.html)
 * [Cloudflare service outage June 12, 2025](https://blog.cloudflare.com/cloudflare-service-outage-june-12-2025/)
 * [A history of the Internet, part 2: The high-tech gold rush begins - Ars Technica](https://arstechnica.com/gadgets/2025/06/a-history-of-the-internet-part-2-the-high-tech-gold-rush-begins/)
-* [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
 
 ### Things I'm star-ing
 
