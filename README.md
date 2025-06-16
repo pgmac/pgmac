@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [samba-domain](https://github.com/Fmstrat/samba-domain)
+  Samba Active Directory Domain Controller for Docker
 * [vaultwarden](https://github.com/guerzon/vaultwarden)
   Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust
 * [vaultwarden](https://github.com/dani-garcia/vaultwarden)
@@ -108,8 +110,6 @@ A table of things ...
   Red Teaming for AI and Cloud
 * [tesseral](https://github.com/tesseral-labs/tesseral)
   Open source auth infrastructure for B2B SaaS
-* [terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)
-  The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.
 
 ### My Blog Posts
 
