@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Highlights from Git 2.50 - The GitHub Blog](https://github.blog/open-source/git/highlights-from-git-2-50/)
+* [I used Android 16’s Desktop Mode for work — here’s what surprised me](https://www.androidauthority.com/working-android-16-desktop-mode-3567057/)
 * [Why it’s nearly impossible to buy an original Bob Ross painting - The Hustle](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
 * [GitHub - automatisch/automatisch: The open source Zapier alternative. Build workflow automation without spending time and money.](https://github.com/automatisch/automatisch)
 * [CI/CD Observability with OpenTelemetry - A Step by Step Guide | SigNoz](https://signoz.io/blog/cicd-observability-with-opentelemetry/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Setup | Ruff](https://docs.astral.sh/ruff/editors/setup/#zed)
 * [Running scripts | uv](https://docs.astral.sh/uv/guides/scripts/#using-a-shebang-to-create-an-executable-file)
 * [Remote GitHub MCP Server is now in public preview - GitHub Changelog](https://github.blog/changelog/2025-06-12-remote-github-mcp-server-is-now-available-in-public-preview/)
-* [www.spaceweatherlive.com](https://www.spaceweatherlive.com/en/solar-activity/solar-flares.html)
-* [Google Online Security Blog: On Fire Drills and Phishing Tests](https://security.googleblog.com/2024/05/on-fire-drills-and-phishing-tests.html)
 
 ### Things I'm star-ing
 
