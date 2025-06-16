@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Why it’s nearly impossible to buy an original Bob Ross painting - The Hustle](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
+* [GitHub - automatisch/automatisch: The open source Zapier alternative. Build workflow automation without spending time and money.](https://github.com/automatisch/automatisch)
 * [CI/CD Observability with OpenTelemetry - A Step by Step Guide | SigNoz](https://signoz.io/blog/cicd-observability-with-opentelemetry/)
 * [Auto activating a python virtualenv · GitHub](https://gist.github.com/pgmac/0bc0da3df511ca58993ec5416950a04d)
 * [I tried Google's secret open source app and glimpsed the power of offline AI](https://www.androidauthority.com/google-ai-edge-gallery-3565904/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Remote GitHub MCP Server is now in public preview - GitHub Changelog](https://github.blog/changelog/2025-06-12-remote-github-mcp-server-is-now-available-in-public-preview/)
 * [www.spaceweatherlive.com](https://www.spaceweatherlive.com/en/solar-activity/solar-flares.html)
 * [Google Online Security Blog: On Fire Drills and Phishing Tests](https://security.googleblog.com/2024/05/on-fire-drills-and-phishing-tests.html)
-* [Cloudflare service outage June 12, 2025](https://blog.cloudflare.com/cloudflare-service-outage-june-12-2025/)
-* [A history of the Internet, part 2: The high-tech gold rush begins - Ars Technica](https://arstechnica.com/gadgets/2025/06/a-history-of-the-internet-part-2-the-high-tech-gold-rush-begins/)
 
 ### Things I'm star-ing
 
