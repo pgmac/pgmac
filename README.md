@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Chawan: 0.2.0](https://chawan.net/news/chawan-0-2-0.html)
+* [OpenTelemetry for Go: measuring the overhead | Coroot](https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/)
 * [Highlights from Git 2.50 - The GitHub Blog](https://github.blog/open-source/git/highlights-from-git-2-50/)
 * [I used Android 16’s Desktop Mode for work — here’s what surprised me](https://www.androidauthority.com/working-android-16-desktop-mode-3567057/)
 * [Why it’s nearly impossible to buy an original Bob Ross painting - The Hustle](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
@@ -83,8 +85,6 @@ A table of things ...
 * [Auto activating a python virtualenv · GitHub](https://gist.github.com/pgmac/0bc0da3df511ca58993ec5416950a04d)
 * [I tried Google's secret open source app and glimpsed the power of offline AI](https://www.androidauthority.com/google-ai-edge-gallery-3565904/)
 * [Setup | Ruff](https://docs.astral.sh/ruff/editors/setup/#zed)
-* [Running scripts | uv](https://docs.astral.sh/uv/guides/scripts/#using-a-shebang-to-create-an-executable-file)
-* [Remote GitHub MCP Server is now in public preview - GitHub Changelog](https://github.blog/changelog/2025-06-12-remote-github-mcp-server-is-now-available-in-public-preview/)
 
 ### Things I'm star-ing
 
