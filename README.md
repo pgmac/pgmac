@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Actions Runner Controller 0.12.0 release - GitHub Changelog](https://github.blog/changelog/2025-06-13-actions-runner-controller-0-12-0-release/)
 * [Chawan: 0.2.0](https://chawan.net/news/chawan-0-2-0.html)
 * [OpenTelemetry for Go: measuring the overhead | Coroot](https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/)
 * [Highlights from Git 2.50 - The GitHub Blog](https://github.blog/open-source/git/highlights-from-git-2-50/)
@@ -84,7 +85,6 @@ A table of things ...
 * [CI/CD Observability with OpenTelemetry - A Step by Step Guide | SigNoz](https://signoz.io/blog/cicd-observability-with-opentelemetry/)
 * [Auto activating a python virtualenv · GitHub](https://gist.github.com/pgmac/0bc0da3df511ca58993ec5416950a04d)
 * [I tried Google's secret open source app and glimpsed the power of offline AI](https://www.androidauthority.com/google-ai-edge-gallery-3565904/)
-* [Setup | Ruff](https://docs.astral.sh/ruff/editors/setup/#zed)
 
 ### Things I'm star-ing
 
