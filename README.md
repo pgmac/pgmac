@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Building Effective AI Agents \ Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
+* [Honda Conducts Successful Launch and Landing Test of Experimental Reusable Rocket | Honda Global Corporate Website](https://global.honda/en/topics/2025/c_2025-06-17ceng.html)
 * [Actions Runner Controller 0.12.0 release - GitHub Changelog](https://github.blog/changelog/2025-06-13-actions-runner-controller-0-12-0-release/)
 * [Chawan: 0.2.0](https://chawan.net/news/chawan-0-2-0.html)
 * [OpenTelemetry for Go: measuring the overhead | Coroot](https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Why it’s nearly impossible to buy an original Bob Ross painting - The Hustle](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
 * [GitHub - automatisch/automatisch: The open source Zapier alternative. Build workflow automation without spending time and money.](https://github.com/automatisch/automatisch)
 * [CI/CD Observability with OpenTelemetry - A Step by Step Guide | SigNoz](https://signoz.io/blog/cicd-observability-with-opentelemetry/)
-* [Auto activating a python virtualenv · GitHub](https://gist.github.com/pgmac/0bc0da3df511ca58993ec5416950a04d)
-* [I tried Google's secret open source app and glimpsed the power of offline AI](https://www.androidauthority.com/google-ai-edge-gallery-3565904/)
 
 ### Things I'm star-ing
 
