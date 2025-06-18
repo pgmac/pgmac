@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [These retro SEGA games are free on Android until they disappear - Android Authority](https://www.androidauthority.com/sega-retro-games-android-free-3568153/)
 * [Building Effective AI Agents \ Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
 * [Honda Conducts Successful Launch and Landing Test of Experimental Reusable Rocket | Honda Global Corporate Website](https://global.honda/en/topics/2025/c_2025-06-17ceng.html)
 * [Actions Runner Controller 0.12.0 release - GitHub Changelog](https://github.blog/changelog/2025-06-13-actions-runner-controller-0-12-0-release/)
@@ -84,7 +85,6 @@ A table of things ...
 * [I used Android 16’s Desktop Mode for work — here’s what surprised me](https://www.androidauthority.com/working-android-16-desktop-mode-3567057/)
 * [Why it’s nearly impossible to buy an original Bob Ross painting - The Hustle](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
 * [GitHub - automatisch/automatisch: The open source Zapier alternative. Build workflow automation without spending time and money.](https://github.com/automatisch/automatisch)
-* [CI/CD Observability with OpenTelemetry - A Step by Step Guide | SigNoz](https://signoz.io/blog/cicd-observability-with-opentelemetry/)
 
 ### Things I'm star-ing
 
