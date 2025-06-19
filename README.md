@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The Latest X.Org Server Activity Are A Lot Of Code Reverts - Phoronix](https://www.phoronix.com/news/X.Org-Server-Lots-Of-Reverts)
 * [These retro SEGA games are free on Android until they disappear - Android Authority](https://www.androidauthority.com/sega-retro-games-android-free-3568153/)
 * [Building Effective AI Agents \ Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
 * [Honda Conducts Successful Launch and Landing Test of Experimental Reusable Rocket | Honda Global Corporate Website](https://global.honda/en/topics/2025/c_2025-06-17ceng.html)
@@ -84,7 +85,6 @@ A table of things ...
 * [Highlights from Git 2.50 - The GitHub Blog](https://github.blog/open-source/git/highlights-from-git-2-50/)
 * [I used Android 16’s Desktop Mode for work — here’s what surprised me](https://www.androidauthority.com/working-android-16-desktop-mode-3567057/)
 * [Why it’s nearly impossible to buy an original Bob Ross painting - The Hustle](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
-* [GitHub - automatisch/automatisch: The open source Zapier alternative. Build workflow automation without spending time and money.](https://github.com/automatisch/automatisch)
 
 ### Things I'm star-ing
 
