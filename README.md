@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Defending the Internet: how Cloudflare blocked a monumental 7.3 Tbps DDoS attack](https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/)
+* [Dangerous by default: Insecure GitHub Actions found in MITRE, Splunk, and other open source repositories | Sysdig](https://sysdig.com/blog/insecure-github-actions-found-in-mitre-splunk-and-other-open-source-repositories/)
 * [The Latest X.Org Server Activity Are A Lot Of Code Reverts - Phoronix](https://www.phoronix.com/news/X.Org-Server-Lots-Of-Reverts)
 * [These retro SEGA games are free on Android until they disappear - Android Authority](https://www.androidauthority.com/sega-retro-games-android-free-3568153/)
 * [Building Effective AI Agents \ Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
@@ -83,8 +85,6 @@ A table of things ...
 * [Chawan: 0.2.0](https://chawan.net/news/chawan-0-2-0.html)
 * [OpenTelemetry for Go: measuring the overhead | Coroot](https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/)
 * [Highlights from Git 2.50 - The GitHub Blog](https://github.blog/open-source/git/highlights-from-git-2-50/)
-* [I used Android 16’s Desktop Mode for work — here’s what surprised me](https://www.androidauthority.com/working-android-16-desktop-mode-3567057/)
-* [Why it’s nearly impossible to buy an original Bob Ross painting - The Hustle](https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting)
 
 ### Things I'm star-ing
 
