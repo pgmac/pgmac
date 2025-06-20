@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Top 100 DOS games | Play CLASSIC games online](https://playclassic.games/top-100-dos-games/)
+* [GitHub - windmill-labs/windmill: Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.](https://github.com/windmill-labs/windmill)
 * [Defending the Internet: how Cloudflare blocked a monumental 7.3 Tbps DDoS attack](https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/)
 * [Dangerous by default: Insecure GitHub Actions found in MITRE, Splunk, and other open source repositories | Sysdig](https://sysdig.com/blog/insecure-github-actions-found-in-mitre-splunk-and-other-open-source-repositories/)
 * [The Latest X.Org Server Activity Are A Lot Of Code Reverts - Phoronix](https://www.phoronix.com/news/X.Org-Server-Lots-Of-Reverts)
@@ -83,11 +85,11 @@ A table of things ...
 * [Honda Conducts Successful Launch and Landing Test of Experimental Reusable Rocket | Honda Global Corporate Website](https://global.honda/en/topics/2025/c_2025-06-17ceng.html)
 * [Actions Runner Controller 0.12.0 release - GitHub Changelog](https://github.blog/changelog/2025-06-13-actions-runner-controller-0-12-0-release/)
 * [Chawan: 0.2.0](https://chawan.net/news/chawan-0-2-0.html)
-* [OpenTelemetry for Go: measuring the overhead | Coroot](https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/)
-* [Highlights from Git 2.50 - The GitHub Blog](https://github.blog/open-source/git/highlights-from-git-2-50/)
 
 ### Things I'm star-ing
 
+* [windmill](https://github.com/windmill-labs/windmill)
+  Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 * [samba-domain](https://github.com/Fmstrat/samba-domain)
   Samba Active Directory Domain Controller for Docker
 * [vaultwarden](https://github.com/guerzon/vaultwarden)
@@ -108,8 +110,6 @@ A table of things ...
   The open source Trello alternative.
 * [woodpecker](https://github.com/OperantAI/woodpecker)
   Red Teaming for AI and Cloud
-* [tesseral](https://github.com/tesseral-labs/tesseral)
-  Open source auth infrastructure for B2B SaaS
 
 ### My Blog Posts
 
