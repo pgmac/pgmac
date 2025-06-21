@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Introduction - External Secrets Operator](https://external-secrets.io/latest/)
+* [GitHub - netbox-community/netbox: The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/](https://github.com/netbox-community/netbox)
+* [nxtscape/nxtscape: Nxtscape is an open-source agentic browser.](https://github.com/nxtscape/nxtscape)
 * [Top 100 DOS games | Play CLASSIC games online](https://playclassic.games/top-100-dos-games/)
 * [GitHub - windmill-labs/windmill: Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.](https://github.com/windmill-labs/windmill)
 * [Defending the Internet: how Cloudflare blocked a monumental 7.3 Tbps DDoS attack](https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/)
@@ -82,9 +85,6 @@ A table of things ...
 * [The Latest X.Org Server Activity Are A Lot Of Code Reverts - Phoronix](https://www.phoronix.com/news/X.Org-Server-Lots-Of-Reverts)
 * [These retro SEGA games are free on Android until they disappear - Android Authority](https://www.androidauthority.com/sega-retro-games-android-free-3568153/)
 * [Building Effective AI Agents \ Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
-* [Honda Conducts Successful Launch and Landing Test of Experimental Reusable Rocket | Honda Global Corporate Website](https://global.honda/en/topics/2025/c_2025-06-17ceng.html)
-* [Actions Runner Controller 0.12.0 release - GitHub Changelog](https://github.blog/changelog/2025-06-13-actions-runner-controller-0-12-0-release/)
-* [Chawan: 0.2.0](https://chawan.net/news/chawan-0-2-0.html)
 
 ### Things I'm star-ing
 
