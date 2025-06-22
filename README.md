@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Astronomers locate universe's 'missing' matter in the largest cosmic structures | Space](https://www.space.com/astronomy/astronomers-turn-up-missing-matter-in-the-largest-structures-in-the-cosmos-the-models-were-right)
+* [LEGO® Island](https://isle.pizza/)
 * [Introduction - External Secrets Operator](https://external-secrets.io/latest/)
 * [GitHub - netbox-community/netbox: The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/](https://github.com/netbox-community/netbox)
 * [nxtscape/nxtscape: Nxtscape is an open-source agentic browser.](https://github.com/nxtscape/nxtscape)
@@ -83,8 +85,6 @@ A table of things ...
 * [Defending the Internet: how Cloudflare blocked a monumental 7.3 Tbps DDoS attack](https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/)
 * [Dangerous by default: Insecure GitHub Actions found in MITRE, Splunk, and other open source repositories | Sysdig](https://sysdig.com/blog/insecure-github-actions-found-in-mitre-splunk-and-other-open-source-repositories/)
 * [The Latest X.Org Server Activity Are A Lot Of Code Reverts - Phoronix](https://www.phoronix.com/news/X.Org-Server-Lots-Of-Reverts)
-* [These retro SEGA games are free on Android until they disappear - Android Authority](https://www.androidauthority.com/sega-retro-games-android-free-3568153/)
-* [Building Effective AI Agents \ Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
 
 ### Things I'm star-ing
 
