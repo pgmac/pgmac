@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [n8n](https://github.com/n8n-io/n8n)
+  Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 * [windmill](https://github.com/windmill-labs/windmill)
   Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 * [samba-domain](https://github.com/Fmstrat/samba-domain)
@@ -108,8 +110,6 @@ A table of things ...
   Free IDE for Kubernetes
 * [kan](https://github.com/kanbn/kan)
   The open source Trello alternative.
-* [woodpecker](https://github.com/OperantAI/woodpecker)
-  Red Teaming for AI and Cloud
 
 ### My Blog Posts
 
