@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+  🐊 Gatekeeper - Policy Controller for Kubernetes
 * [n8n](https://github.com/n8n-io/n8n)
   Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 * [windmill](https://github.com/windmill-labs/windmill)
@@ -108,8 +110,6 @@ A table of things ...
   Check if a number is even with the power of ✨AI✨
 * [freelens](https://github.com/freelensapp/freelens)
   Free IDE for Kubernetes
-* [kan](https://github.com/kanbn/kan)
-  The open source Trello alternative.
 
 ### My Blog Posts
 
