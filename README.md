@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The Cosmic Treasure Chest | Rubin Observatory](https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest)
 * [Congress, Now More Than Ever, Our Nation Needs Your Cowardice - The Onion](https://theonion.com/letter-to-congress/)
 * [Astronomers locate universe's 'missing' matter in the largest cosmic structures | Space](https://www.space.com/astronomy/astronomers-turn-up-missing-matter-in-the-largest-structures-in-the-cosmos-the-models-were-right)
 * [LEGO® Island](https://isle.pizza/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Top 100 DOS games | Play CLASSIC games online](https://playclassic.games/top-100-dos-games/)
 * [GitHub - windmill-labs/windmill: Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.](https://github.com/windmill-labs/windmill)
 * [Defending the Internet: how Cloudflare blocked a monumental 7.3 Tbps DDoS attack](https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/)
-* [Dangerous by default: Insecure GitHub Actions found in MITRE, Splunk, and other open source repositories | Sysdig](https://sysdig.com/blog/insecure-github-actions-found-in-mitre-splunk-and-other-open-source-repositories/)
 
 ### Things I'm star-ing
 
