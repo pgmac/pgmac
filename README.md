@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [China breaks RSA encryption with a quantum computer - Earth.com](https://www.earth.com/news/china-breaks-rsa-encryption-with-a-quantum-computer-threatening-global-data-security/)
 * [Writing Toy Software Is A Joy](https://blog.jsbarretto.com/post/software-is-joy)
 * [The Cosmic Treasure Chest | Rubin Observatory](https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest)
 * [Congress, Now More Than Ever, Our Nation Needs Your Cowardice - The Onion](https://theonion.com/letter-to-congress/)
@@ -84,7 +85,6 @@ A table of things ...
 * [GitHub - netbox-community/netbox: The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/](https://github.com/netbox-community/netbox)
 * [nxtscape/nxtscape: Nxtscape is an open-source agentic browser.](https://github.com/nxtscape/nxtscape)
 * [Top 100 DOS games | Play CLASSIC games online](https://playclassic.games/top-100-dos-games/)
-* [GitHub - windmill-labs/windmill: Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.](https://github.com/windmill-labs/windmill)
 
 ### Things I'm star-ing
 
