@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Writing Toy Software Is A Joy](https://blog.jsbarretto.com/post/software-is-joy)
 * [The Cosmic Treasure Chest | Rubin Observatory](https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest)
 * [Congress, Now More Than Ever, Our Nation Needs Your Cowardice - The Onion](https://theonion.com/letter-to-congress/)
 * [Astronomers locate universe's 'missing' matter in the largest cosmic structures | Space](https://www.space.com/astronomy/astronomers-turn-up-missing-matter-in-the-largest-structures-in-the-cosmos-the-models-were-right)
@@ -84,12 +85,32 @@ A table of things ...
 * [nxtscape/nxtscape: Nxtscape is an open-source agentic browser.](https://github.com/nxtscape/nxtscape)
 * [Top 100 DOS games | Play CLASSIC games online](https://playclassic.games/top-100-dos-games/)
 * [GitHub - windmill-labs/windmill: Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.](https://github.com/windmill-labs/windmill)
-* [Defending the Internet: how Cloudflare blocked a monumental 7.3 Tbps DDoS attack](https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/)
 
 ### Things I'm star-ing
 
+* [gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+  🐊 Gatekeeper - Policy Controller for Kubernetes
+* [n8n](https://github.com/n8n-io/n8n)
+  Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+* [windmill](https://github.com/windmill-labs/windmill)
+  Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
+* [samba-domain](https://github.com/Fmstrat/samba-domain)
+  Samba Active Directory Domain Controller for Docker
+* [vaultwarden](https://github.com/guerzon/vaultwarden)
+  Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust
+* [vaultwarden](https://github.com/dani-garcia/vaultwarden)
+  Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+* [ruff](https://github.com/astral-sh/ruff)
+  An extremely fast Python linter and code formatter, written in Rust.
+* [chatterbox](https://github.com/resemble-ai/chatterbox)
+  SoTA open-source TTS
+* [containerization](https://github.com/apple/containerization)
+  Containerization is a Swift package for running Linux containers on macOS.
+* [is-even-ai](https://github.com/Calvin-LL/is-even-ai)
+  Check if a number is even with the power of ✨AI✨
+* [freelens](https://github.com/freelensapp/freelens)
+  Free IDE for Kubernetes
 
 ### My Blog Posts
 
 * [Things I'm interested in Last Week](https://pgmac.net.au/last-week/)
-* [Fixing data corruption in a PostgreSQL database running in kubernetes as a non-root container](https://pgmac.net.au/tech/2025/04/19/bitnami-postgresql-corrupt-data-fix.html)
