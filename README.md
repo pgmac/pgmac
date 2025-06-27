@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [uv + Ray: Pain-Free Python Dependencies in Clusters | Anyscale](https://www.anyscale.com/blog/uv-ray-pain-free-python-dependencies-in-clusters)
 * [Shipwreck of Captain James Cook’s HMS Endeavour finally discovered after 250 years - The Brighter Side of News](https://www.thebrighterside.news/post/shipwreck-of-captain-james-cooks-hms-endeavour-finally-discovered-after-250-years/)
 * [Google announces Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 * [China breaks RSA encryption with a quantum computer - Earth.com](https://www.earth.com/news/china-breaks-rsa-encryption-with-a-quantum-computer-threatening-global-data-security/)
@@ -84,10 +85,31 @@ A table of things ...
 * [Astronomers locate universe's 'missing' matter in the largest cosmic structures | Space](https://www.space.com/astronomy/astronomers-turn-up-missing-matter-in-the-largest-structures-in-the-cosmos-the-models-were-right)
 * [LEGO® Island](https://isle.pizza/)
 * [Introduction - External Secrets Operator](https://external-secrets.io/latest/)
-* [GitHub - netbox-community/netbox: The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/](https://github.com/netbox-community/netbox)
 
 ### Things I'm star-ing
 
+* [gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+  🐊 Gatekeeper - Policy Controller for Kubernetes
+* [n8n](https://github.com/n8n-io/n8n)
+  Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+* [windmill](https://github.com/windmill-labs/windmill)
+  Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
+* [samba-domain](https://github.com/Fmstrat/samba-domain)
+  Samba Active Directory Domain Controller for Docker
+* [vaultwarden](https://github.com/guerzon/vaultwarden)
+  Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust
+* [vaultwarden](https://github.com/dani-garcia/vaultwarden)
+  Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+* [ruff](https://github.com/astral-sh/ruff)
+  An extremely fast Python linter and code formatter, written in Rust.
+* [chatterbox](https://github.com/resemble-ai/chatterbox)
+  SoTA open-source TTS
+* [containerization](https://github.com/apple/containerization)
+  Containerization is a Swift package for running Linux containers on macOS.
+* [is-even-ai](https://github.com/Calvin-LL/is-even-ai)
+  Check if a number is even with the power of ✨AI✨
+* [freelens](https://github.com/freelensapp/freelens)
+  Free IDE for Kubernetes
 
 ### My Blog Posts
 
