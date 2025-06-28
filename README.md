@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Humanity](https://www.smbc-comics.com/comic/humanity)
 * [www.smithsonianmag.com](https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-its-first-direct-image-discovery-of-an-exoplanet-180986886/)
 * [uv + Ray: Pain-Free Python Dependencies in Clusters | Anyscale](https://www.anyscale.com/blog/uv-ray-pain-free-python-dependencies-in-clusters)
 * [Shipwreck of Captain James Cook’s HMS Endeavour finally discovered after 250 years - The Brighter Side of News](https://www.thebrighterside.news/post/shipwreck-of-captain-james-cooks-hms-endeavour-finally-discovered-after-250-years/)
@@ -84,7 +85,6 @@ A table of things ...
 * [The Cosmic Treasure Chest | Rubin Observatory](https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest)
 * [Congress, Now More Than Ever, Our Nation Needs Your Cowardice - The Onion](https://theonion.com/letter-to-congress/)
 * [Astronomers locate universe's 'missing' matter in the largest cosmic structures | Space](https://www.space.com/astronomy/astronomers-turn-up-missing-matter-in-the-largest-structures-in-the-cosmos-the-models-were-right)
-* [LEGO® Island](https://isle.pizza/)
 
 ### Things I'm star-ing
 
