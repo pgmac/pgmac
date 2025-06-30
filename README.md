@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Open-Source Knob Packed With Precision | Hackaday](https://hackaday.com/2025/06/28/open-source-knob-packed-with-precision/)
 * [worksonmymachine.substack.com](https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin)
 * [Saturday Morning Breakfast Cereal - Humanity](https://www.smbc-comics.com/comic/humanity)
 * [www.smithsonianmag.com](https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-its-first-direct-image-discovery-of-an-exoplanet-180986886/)
@@ -84,7 +85,6 @@ A table of things ...
 * [China breaks RSA encryption with a quantum computer - Earth.com](https://www.earth.com/news/china-breaks-rsa-encryption-with-a-quantum-computer-threatening-global-data-security/)
 * [Writing Toy Software Is A Joy](https://blog.jsbarretto.com/post/software-is-joy)
 * [The Cosmic Treasure Chest | Rubin Observatory](https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest)
-* [Congress, Now More Than Ever, Our Nation Needs Your Cowardice - The Onion](https://theonion.com/letter-to-congress/)
 
 ### Things I'm star-ing
 
