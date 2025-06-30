@@ -88,28 +88,6 @@ A table of things ...
 
 ### Things I'm star-ing
 
-* [n8n-helm-chart](https://github.com/8gears/n8n-helm-chart)
-  A Kubernetes Helm chart for n8n - a workflow automation tool. Easily automate tasks across different services on self hosted onKubernetes
-* [gatekeeper](https://github.com/open-policy-agent/gatekeeper)
-  🐊 Gatekeeper - Policy Controller for Kubernetes
-* [n8n](https://github.com/n8n-io/n8n)
-  Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-* [windmill](https://github.com/windmill-labs/windmill)
-  Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
-* [samba-domain](https://github.com/Fmstrat/samba-domain)
-  Samba Active Directory Domain Controller for Docker
-* [vaultwarden](https://github.com/guerzon/vaultwarden)
-  Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust
-* [vaultwarden](https://github.com/dani-garcia/vaultwarden)
-  Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-* [ruff](https://github.com/astral-sh/ruff)
-  An extremely fast Python linter and code formatter, written in Rust.
-* [chatterbox](https://github.com/resemble-ai/chatterbox)
-  SoTA open-source TTS
-* [containerization](https://github.com/apple/containerization)
-  Containerization is a Swift package for running Linux containers on macOS.
-* [is-even-ai](https://github.com/Calvin-LL/is-even-ai)
-  Check if a number is even with the power of ✨AI✨
 
 ### My Blog Posts
 
