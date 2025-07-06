@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [These are the 15 best open source Android games you need to try](https://www.androidauthority.com/best-open-source-android-games-3571204/)
+* [Get the location of the ISS using DNS – Terence Eden’s Blog](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
 * [Astronomers discover 3I/ATLAS — third interstellar object to visit our Solar System - ABC News](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
 * [Boost application performance: Amazon CloudFront enables HTTPS record | Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/boost-application-performance-amazon-cloudfront-enables-https-record/)
 * [Spegel - A Terminal Browser That Uses LLMs to Rewrite Webpages - SimEdw's Blog](https://simedw.com/2025/06/23/introducing-spegel/)
@@ -83,8 +85,6 @@ A table of things ...
 * [worksonmymachine.substack.com](https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin)
 * [Saturday Morning Breakfast Cereal - Humanity](https://www.smbc-comics.com/comic/humanity)
 * [www.smithsonianmag.com](https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-its-first-direct-image-discovery-of-an-exoplanet-180986886/)
-* [uv + Ray: Pain-Free Python Dependencies in Clusters | Anyscale](https://www.anyscale.com/blog/uv-ray-pain-free-python-dependencies-in-clusters)
-* [Shipwreck of Captain James Cook’s HMS Endeavour finally discovered after 250 years - The Brighter Side of News](https://www.thebrighterside.news/post/shipwreck-of-captain-james-cooks-hms-endeavour-finally-discovered-after-250-years/)
 
 ### Things I'm star-ing
 
