@@ -88,6 +88,10 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [firefly-iii](https://github.com/firefly-iii/firefly-iii)
+  Firefly III: a personal finances manager
+* [kubernetes](https://github.com/firefly-iii/kubernetes)
+  Support repository: Firefly III Kubernetes (k8s) configuration files
 * [octelium](https://github.com/octelium/octelium)
   A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A architectures or even as an ngrok-alternative and a homelab infrastructure.
 * [n8n-helm-chart](https://github.com/8gears/n8n-helm-chart)
@@ -106,10 +110,6 @@ A table of things ...
   Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 * [ruff](https://github.com/astral-sh/ruff)
   An extremely fast Python linter and code formatter, written in Rust.
-* [chatterbox](https://github.com/resemble-ai/chatterbox)
-  SoTA open-source TTS
-* [containerization](https://github.com/apple/containerization)
-  Containerization is a Swift package for running Linux containers on macOS.
 
 ### My Blog Posts
 
