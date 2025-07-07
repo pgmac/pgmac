@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [opencode](https://github.com/sst/opencode)
+  AI coding agent, built for the terminal.
 * [firefly-iii](https://github.com/firefly-iii/firefly-iii)
   Firefly III: a personal finances manager
 * [kubernetes](https://github.com/firefly-iii/kubernetes)
@@ -108,8 +110,6 @@ A table of things ...
   Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust
 * [vaultwarden](https://github.com/dani-garcia/vaultwarden)
   Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-* [ruff](https://github.com/astral-sh/ruff)
-  An extremely fast Python linter and code formatter, written in Rust.
 
 ### My Blog Posts
 
