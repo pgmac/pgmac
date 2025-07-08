@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Bash 5.3 Release Adds 'Significant' New Features - OMG! Ubuntu](https://www.omgubuntu.co.uk/2025/07/bash-5-3-new-features/)
 * [These are the 15 best open source Android games you need to try](https://www.androidauthority.com/best-open-source-android-games-3571204/)
 * [Get the location of the ISS using DNS – Terence Eden’s Blog](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
 * [Astronomers discover 3I/ATLAS — third interstellar object to visit our Solar System - ABC News](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
@@ -84,7 +85,6 @@ A table of things ...
 * [Open-Source Knob Packed With Precision | Hackaday](https://hackaday.com/2025/06/28/open-source-knob-packed-with-precision/)
 * [worksonmymachine.substack.com](https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin)
 * [Saturday Morning Breakfast Cereal - Humanity](https://www.smbc-comics.com/comic/humanity)
-* [www.smithsonianmag.com](https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-its-first-direct-image-discovery-of-an-exoplanet-180986886/)
 
 ### Things I'm star-ing
 
