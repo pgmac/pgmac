@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Federated Open Key Service (FOKS)](https://foks.pub/)
+* [GitHub - fosrl/pangolin: Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI](https://github.com/fosrl/pangolin)
 * [Bash 5.3 Release Adds 'Significant' New Features - OMG! Ubuntu](https://www.omgubuntu.co.uk/2025/07/bash-5-3-new-features/)
 * [These are the 15 best open source Android games you need to try](https://www.androidauthority.com/best-open-source-android-games-3571204/)
 * [Get the location of the ISS using DNS – Terence Eden’s Blog](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
@@ -83,11 +85,13 @@ A table of things ...
 * [Spegel - A Terminal Browser That Uses LLMs to Rewrite Webpages - SimEdw's Blog](https://simedw.com/2025/06/23/introducing-spegel/)
 * [Hooks - Anthropic](https://docs.anthropic.com/en/docs/claude-code/hooks)
 * [Open-Source Knob Packed With Precision | Hackaday](https://hackaday.com/2025/06/28/open-source-knob-packed-with-precision/)
-* [worksonmymachine.substack.com](https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin)
-* [Saturday Morning Breakfast Cereal - Humanity](https://www.smbc-comics.com/comic/humanity)
 
 ### Things I'm star-ing
 
+* [go-foks](https://github.com/foks-proj/go-foks)
+  Go implementation of FOKS -- client and server
+* [pangolin](https://github.com/fosrl/pangolin)
+  Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
 * [opencode](https://github.com/sst/opencode)
   AI coding agent, built for the terminal.
 * [firefly-iii](https://github.com/firefly-iii/firefly-iii)
@@ -106,10 +110,6 @@ A table of things ...
   Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 * [samba-domain](https://github.com/Fmstrat/samba-domain)
   Samba Active Directory Domain Controller for Docker
-* [vaultwarden](https://github.com/guerzon/vaultwarden)
-  Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust
-* [vaultwarden](https://github.com/dani-garcia/vaultwarden)
-  Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 
 ### My Blog Posts
 
