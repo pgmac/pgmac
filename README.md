@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [@bagder.mastodon.social.ap.brid.gy on Bluesky](https://bsky.app/profile/bagder.mastodon.social.ap.brid.gy/post/3ltodxecunfy2)
 * [Federated Open Key Service (FOKS)](https://foks.pub/)
 * [GitHub - fosrl/pangolin: Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI](https://github.com/fosrl/pangolin)
 * [Bash 5.3 Release Adds 'Significant' New Features - OMG! Ubuntu](https://www.omgubuntu.co.uk/2025/07/bash-5-3-new-features/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Boost application performance: Amazon CloudFront enables HTTPS record | Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/boost-application-performance-amazon-cloudfront-enables-https-record/)
 * [Spegel - A Terminal Browser That Uses LLMs to Rewrite Webpages - SimEdw's Blog](https://simedw.com/2025/06/23/introducing-spegel/)
 * [Hooks - Anthropic](https://docs.anthropic.com/en/docs/claude-code/hooks)
-* [Open-Source Knob Packed With Precision | Hackaday](https://hackaday.com/2025/06/28/open-source-knob-packed-with-precision/)
 
 ### Things I'm star-ing
 
