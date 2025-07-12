@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [www.serdashop.com](https://www.serdashop.com/HDDClicker)
 * [Europe on a Roll: Plans Open Source Alternative to Confluence and Jira](https://news.itsfoss.com/europe-open-source-alternative-confluence/)
 * [@bagder.mastodon.social.ap.brid.gy on Bluesky](https://bsky.app/profile/bagder.mastodon.social.ap.brid.gy/post/3ltodxecunfy2)
 * [Federated Open Key Service (FOKS)](https://foks.pub/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Get the location of the ISS using DNS – Terence Eden’s Blog](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
 * [Astronomers discover 3I/ATLAS — third interstellar object to visit our Solar System - ABC News](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
 * [Boost application performance: Amazon CloudFront enables HTTPS record | Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/boost-application-performance-amazon-cloudfront-enables-https-record/)
-* [Spegel - A Terminal Browser That Uses LLMs to Rewrite Webpages - SimEdw's Blog](https://simedw.com/2025/06/23/introducing-spegel/)
 
 ### Things I'm star-ing
 
