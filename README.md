@@ -75,7 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-
+* [Second Variety, by Philip K. Dick.](https://www.gutenberg.org/files/32032/32032-h/32032-h.htm)
+* [GitHub - Forceu/Gokapi: Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.](https://github.com/Forceu/Gokapi)
+* [www.serdashop.com](https://www.serdashop.com/HDDClicker)
+* [Europe on a Roll: Plans Open Source Alternative to Confluence and Jira](https://news.itsfoss.com/europe-open-source-alternative-confluence/)
+* [@bagder.mastodon.social.ap.brid.gy on Bluesky](https://bsky.app/profile/bagder.mastodon.social.ap.brid.gy/post/3ltodxecunfy2)
+* [Federated Open Key Service (FOKS)](https://foks.pub/)
+* [GitHub - fosrl/pangolin: Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI](https://github.com/fosrl/pangolin)
+* [Bash 5.3 Release Adds 'Significant' New Features - OMG! Ubuntu](https://www.omgubuntu.co.uk/2025/07/bash-5-3-new-features/)
+* [These are the 15 best open source Android games you need to try](https://www.androidauthority.com/best-open-source-android-games-3571204/)
+* [Get the location of the ISS using DNS – Terence Eden’s Blog](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
 
 ### Things I'm star-ing
 
