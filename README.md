@@ -75,19 +75,12 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-* [www.serdashop.com](https://www.serdashop.com/HDDClicker)
-* [Europe on a Roll: Plans Open Source Alternative to Confluence and Jira](https://news.itsfoss.com/europe-open-source-alternative-confluence/)
-* [@bagder.mastodon.social.ap.brid.gy on Bluesky](https://bsky.app/profile/bagder.mastodon.social.ap.brid.gy/post/3ltodxecunfy2)
-* [Federated Open Key Service (FOKS)](https://foks.pub/)
-* [GitHub - fosrl/pangolin: Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI](https://github.com/fosrl/pangolin)
-* [Bash 5.3 Release Adds 'Significant' New Features - OMG! Ubuntu](https://www.omgubuntu.co.uk/2025/07/bash-5-3-new-features/)
-* [These are the 15 best open source Android games you need to try](https://www.androidauthority.com/best-open-source-android-games-3571204/)
-* [Get the location of the ISS using DNS – Terence Eden’s Blog](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
-* [Astronomers discover 3I/ATLAS — third interstellar object to visit our Solar System - ABC News](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
-* [Boost application performance: Amazon CloudFront enables HTTPS record | Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/boost-application-performance-amazon-cloudfront-enables-https-record/)
+
 
 ### Things I'm star-ing
 
+* [Gokapi](https://github.com/Forceu/Gokapi)
+  Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 * [go-foks](https://github.com/foks-proj/go-foks)
   Go implementation of FOKS -- client and server
 * [pangolin](https://github.com/fosrl/pangolin)
@@ -108,8 +101,6 @@ A table of things ...
   Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 * [windmill](https://github.com/windmill-labs/windmill)
   Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
-* [samba-domain](https://github.com/Fmstrat/samba-domain)
-  Samba Active Directory Domain Controller for Docker
 
 ### My Blog Posts
 
