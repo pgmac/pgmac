@@ -88,6 +88,10 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [xwiki-platform](https://github.com/xwiki/xwiki-platform)
+  The XWiki platform
+* [openproject](https://github.com/opf/openproject)
+  OpenProject is the leading open source project management software.
 * [Gokapi](https://github.com/Forceu/Gokapi)
   Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 * [go-foks](https://github.com/foks-proj/go-foks)
@@ -106,10 +110,6 @@ A table of things ...
   A Kubernetes Helm chart for n8n - a workflow automation tool. Easily automate tasks across different services on self hosted onKubernetes
 * [gatekeeper](https://github.com/open-policy-agent/gatekeeper)
   🐊 Gatekeeper - Policy Controller for Kubernetes
-* [n8n](https://github.com/n8n-io/n8n)
-  Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-* [windmill](https://github.com/windmill-labs/windmill)
-  Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 
 ### My Blog Posts
 
