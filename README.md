@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [We’ve discovered a new kind of magnetism. What can we do with it? | New Scientist](https://web.archive.org/web/20250716005935/https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/)
 * [Cloudflare 1.1.1.1 Incident on July 14, 2025](https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/)
 * [mbh4h.substack.com](https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson)
 * [Second Variety, by Philip K. Dick.](https://www.gutenberg.org/files/32032/32032-h/32032-h.htm)
@@ -84,7 +85,6 @@ A table of things ...
 * [@bagder.mastodon.social.ap.brid.gy on Bluesky](https://bsky.app/profile/bagder.mastodon.social.ap.brid.gy/post/3ltodxecunfy2)
 * [Federated Open Key Service (FOKS)](https://foks.pub/)
 * [GitHub - fosrl/pangolin: Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI](https://github.com/fosrl/pangolin)
-* [Bash 5.3 Release Adds 'Significant' New Features - OMG! Ubuntu](https://www.omgubuntu.co.uk/2025/07/bash-5-3-new-features/)
 
 ### Things I'm star-ing
 
