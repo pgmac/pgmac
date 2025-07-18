@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai – Krebs on Security](https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/)
 * [Gaslight-driven development @ tonsky.me](https://tonsky.me/blog/gaslight-driven-development/)
 * [We’ve discovered a new kind of magnetism. What can we do with it? | New Scientist](https://web.archive.org/web/20250716005935/https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/)
 * [Cloudflare 1.1.1.1 Incident on July 14, 2025](https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/)
@@ -84,7 +85,6 @@ A table of things ...
 * [www.serdashop.com](https://www.serdashop.com/HDDClicker)
 * [Europe on a Roll: Plans Open Source Alternative to Confluence and Jira](https://news.itsfoss.com/europe-open-source-alternative-confluence/)
 * [@bagder.mastodon.social.ap.brid.gy on Bluesky](https://bsky.app/profile/bagder.mastodon.social.ap.brid.gy/post/3ltodxecunfy2)
-* [Federated Open Key Service (FOKS)](https://foks.pub/)
 
 ### Things I'm star-ing
 
