@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [itnext.io](https://itnext.io/kubrix-your-out-of-the-box-internal-developer-platform-idp-for-kubernetes-ba4c2671e6d1)
+* [GitHub - badlogic/claude-commands: Global Claude Code commands and workflows](https://github.com/badlogic/claude-commands)
+* [Fully Homomorphic Encryption and the Dawn of A Truly Private Internet](https://bozmen.io/fhe)
 * [Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai – Krebs on Security](https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/)
 * [Gaslight-driven development @ tonsky.me](https://tonsky.me/blog/gaslight-driven-development/)
 * [We’ve discovered a new kind of magnetism. What can we do with it? | New Scientist](https://web.archive.org/web/20250716005935/https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/)
@@ -82,12 +85,11 @@ A table of things ...
 * [mbh4h.substack.com](https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson)
 * [Second Variety, by Philip K. Dick.](https://www.gutenberg.org/files/32032/32032-h/32032-h.htm)
 * [GitHub - Forceu/Gokapi: Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.](https://github.com/Forceu/Gokapi)
-* [www.serdashop.com](https://www.serdashop.com/HDDClicker)
-* [Europe on a Roll: Plans Open Source Alternative to Confluence and Jira](https://news.itsfoss.com/europe-open-source-alternative-confluence/)
-* [@bagder.mastodon.social.ap.brid.gy on Bluesky](https://bsky.app/profile/bagder.mastodon.social.ap.brid.gy/post/3ltodxecunfy2)
 
 ### Things I'm star-ing
 
+* [claude-commands](https://github.com/badlogic/claude-commands)
+  Global Claude Code commands and workflows
 * [xwiki-platform](https://github.com/xwiki/xwiki-platform)
   The XWiki platform
 * [openproject](https://github.com/opf/openproject)
@@ -108,8 +110,6 @@ A table of things ...
   A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A architectures or even as an ngrok-alternative and a homelab infrastructure.
 * [n8n-helm-chart](https://github.com/8gears/n8n-helm-chart)
   A Kubernetes Helm chart for n8n - a workflow automation tool. Easily automate tasks across different services on self hosted onKubernetes
-* [gatekeeper](https://github.com/open-policy-agent/gatekeeper)
-  🐊 Gatekeeper - Policy Controller for Kubernetes
 
 ### My Blog Posts
 
