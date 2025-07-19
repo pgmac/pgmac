@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Why your website should be under 14kB in size | endtimes.dev](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
+* [Taika Waititi to take on new Judge Dredd movie | Taika Waititi | The Guardian](https://www.theguardian.com/film/2025/jul/17/taika-waititi-judge-dredd-movie)
 * [itnext.io](https://itnext.io/kubrix-your-out-of-the-box-internal-developer-platform-idp-for-kubernetes-ba4c2671e6d1)
 * [GitHub - badlogic/claude-commands: Global Claude Code commands and workflows](https://github.com/badlogic/claude-commands)
 * [Fully Homomorphic Encryption and the Dawn of A Truly Private Internet](https://bozmen.io/fhe)
@@ -83,8 +85,6 @@ A table of things ...
 * [We’ve discovered a new kind of magnetism. What can we do with it? | New Scientist](https://web.archive.org/web/20250716005935/https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/)
 * [Cloudflare 1.1.1.1 Incident on July 14, 2025](https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/)
 * [mbh4h.substack.com](https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson)
-* [Second Variety, by Philip K. Dick.](https://www.gutenberg.org/files/32032/32032-h/32032-h.htm)
-* [GitHub - Forceu/Gokapi: Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.](https://github.com/Forceu/Gokapi)
 
 ### Things I'm star-ing
 
