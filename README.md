@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [firehydrant-mcp](https://github.com/firehydrant/firehydrant-mcp)
+  None
 * [claude-commands](https://github.com/badlogic/claude-commands)
   Global Claude Code commands and workflows
 * [xwiki-platform](https://github.com/xwiki/xwiki-platform)
@@ -108,8 +110,6 @@ A table of things ...
   Support repository: Firefly III Kubernetes (k8s) configuration files
 * [octelium](https://github.com/octelium/octelium)
   A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A architectures or even as an ngrok-alternative and a homelab infrastructure.
-* [n8n-helm-chart](https://github.com/8gears/n8n-helm-chart)
-  A Kubernetes Helm chart for n8n - a workflow automation tool. Easily automate tasks across different services on self hosted onKubernetes
 
 ### My Blog Posts
 
