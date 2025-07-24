@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [This Major Rule About Cooking Meat Turns out to Be Wrong](https://www.seriouseats.com/meat-resting-science-11776272)
+* [BGP.Tools](https://bgp.tools/)
+* [Antithesis: autonomous software testing](https://antithesis.com/)
+* [Virtual Backgrounds - NASA](https://www.nasa.gov/stem-content/virtual-backgrounds/)
 * [Why your website should be under 14kB in size | endtimes.dev](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
 * [Taika Waititi to take on new Judge Dredd movie | Taika Waititi | The Guardian](https://www.theguardian.com/film/2025/jul/17/taika-waititi-judge-dredd-movie)
 * [itnext.io](https://itnext.io/kubrix-your-out-of-the-box-internal-developer-platform-idp-for-kubernetes-ba4c2671e6d1)
 * [GitHub - badlogic/claude-commands: Global Claude Code commands and workflows](https://github.com/badlogic/claude-commands)
 * [Fully Homomorphic Encryption and the Dawn of A Truly Private Internet](https://bozmen.io/fhe)
 * [Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai – Krebs on Security](https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/)
-* [Gaslight-driven development @ tonsky.me](https://tonsky.me/blog/gaslight-driven-development/)
-* [We’ve discovered a new kind of magnetism. What can we do with it? | New Scientist](https://web.archive.org/web/20250716005935/https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/)
-* [Cloudflare 1.1.1.1 Incident on July 14, 2025](https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/)
-* [mbh4h.substack.com](https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson)
 
 ### Things I'm star-ing
 
