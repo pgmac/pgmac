@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Record and share your terminal sessions, the simple way - asciinema.org](https://asciinema.org/)
 * [This Major Rule About Cooking Meat Turns out to Be Wrong](https://www.seriouseats.com/meat-resting-science-11776272)
 * [BGP.Tools](https://bgp.tools/)
 * [Antithesis: autonomous software testing](https://antithesis.com/)
@@ -84,7 +85,6 @@ A table of things ...
 * [itnext.io](https://itnext.io/kubrix-your-out-of-the-box-internal-developer-platform-idp-for-kubernetes-ba4c2671e6d1)
 * [GitHub - badlogic/claude-commands: Global Claude Code commands and workflows](https://github.com/badlogic/claude-commands)
 * [Fully Homomorphic Encryption and the Dawn of A Truly Private Internet](https://bozmen.io/fhe)
-* [Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai – Krebs on Security](https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/)
 
 ### Things I'm star-ing
 
