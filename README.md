@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Do not download the app, use the website](https://idiallo.com/blog/dont-download-apps)
 * [Record and share your terminal sessions, the simple way - asciinema.org](https://asciinema.org/)
 * [This Major Rule About Cooking Meat Turns out to Be Wrong](https://www.seriouseats.com/meat-resting-science-11776272)
 * [BGP.Tools](https://bgp.tools/)
@@ -84,10 +85,11 @@ A table of things ...
 * [Taika Waititi to take on new Judge Dredd movie | Taika Waititi | The Guardian](https://www.theguardian.com/film/2025/jul/17/taika-waititi-judge-dredd-movie)
 * [itnext.io](https://itnext.io/kubrix-your-out-of-the-box-internal-developer-platform-idp-for-kubernetes-ba4c2671e6d1)
 * [GitHub - badlogic/claude-commands: Global Claude Code commands and workflows](https://github.com/badlogic/claude-commands)
-* [Fully Homomorphic Encryption and the Dawn of A Truly Private Internet](https://bozmen.io/fhe)
 
 ### Things I'm star-ing
 
+* [kubriX](https://github.com/suxess-it/kubriX)
+  None
 * [firehydrant-mcp](https://github.com/firehydrant/firehydrant-mcp)
   None
 * [claude-commands](https://github.com/badlogic/claude-commands)
@@ -108,8 +110,6 @@ A table of things ...
   Firefly III: a personal finances manager
 * [kubernetes](https://github.com/firefly-iii/kubernetes)
   Support repository: Firefly III Kubernetes (k8s) configuration files
-* [octelium](https://github.com/octelium/octelium)
-  A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A architectures or even as an ngrok-alternative and a homelab infrastructure.
 
 ### My Blog Posts
 
