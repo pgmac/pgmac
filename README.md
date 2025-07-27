@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [16colo.rs - ANSI/ASCII art archive](https://16colo.rs/)
 * [Do not download the app, use the website](https://idiallo.com/blog/dont-download-apps)
 * [Record and share your terminal sessions, the simple way - asciinema.org](https://asciinema.org/)
 * [This Major Rule About Cooking Meat Turns out to Be Wrong](https://www.seriouseats.com/meat-resting-science-11776272)
@@ -84,7 +85,6 @@ A table of things ...
 * [Why your website should be under 14kB in size | endtimes.dev](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
 * [Taika Waititi to take on new Judge Dredd movie | Taika Waititi | The Guardian](https://www.theguardian.com/film/2025/jul/17/taika-waititi-judge-dredd-movie)
 * [itnext.io](https://itnext.io/kubrix-your-out-of-the-box-internal-developer-platform-idp-for-kubernetes-ba4c2671e6d1)
-* [GitHub - badlogic/claude-commands: Global Claude Code commands and workflows](https://github.com/badlogic/claude-commands)
 
 ### Things I'm star-ing
 
