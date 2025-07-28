@@ -91,7 +91,7 @@ A table of things ...
 * [kubriX](https://github.com/suxess-it/kubriX)
   None
 * [firehydrant-mcp](https://github.com/firehydrant/firehydrant-mcp)
-  None
+  Official FireHydrant MCP server
 * [claude-commands](https://github.com/badlogic/claude-commands)
   Global Claude Code commands and workflows
 * [xwiki-platform](https://github.com/xwiki/xwiki-platform)
