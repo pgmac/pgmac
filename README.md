@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Dumb Pipe](https://www.dumbpipe.dev/)
 * [16colo.rs - ANSI/ASCII art archive](https://16colo.rs/)
 * [Do not download the app, use the website](https://idiallo.com/blog/dont-download-apps)
 * [Record and share your terminal sessions, the simple way - asciinema.org](https://asciinema.org/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Virtual Backgrounds - NASA](https://www.nasa.gov/stem-content/virtual-backgrounds/)
 * [Why your website should be under 14kB in size | endtimes.dev](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
 * [Taika Waititi to take on new Judge Dredd movie | Taika Waititi | The Guardian](https://www.theguardian.com/film/2025/jul/17/taika-waititi-judge-dredd-movie)
-* [itnext.io](https://itnext.io/kubrix-your-out-of-the-box-internal-developer-platform-idp-for-kubernetes-ba4c2671e6d1)
 
 ### Things I'm star-ing
 
