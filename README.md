@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - wshobson/agents: A collection of production-ready subagents for Claude Code](https://github.com/wshobson/agents)
 * [Dumb Pipe](https://www.dumbpipe.dev/)
 * [16colo.rs - ANSI/ASCII art archive](https://16colo.rs/)
 * [Do not download the app, use the website](https://idiallo.com/blog/dont-download-apps)
@@ -84,10 +85,11 @@ A table of things ...
 * [Antithesis: autonomous software testing](https://antithesis.com/)
 * [Virtual Backgrounds - NASA](https://www.nasa.gov/stem-content/virtual-backgrounds/)
 * [Why your website should be under 14kB in size | endtimes.dev](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
-* [Taika Waititi to take on new Judge Dredd movie | Taika Waititi | The Guardian](https://www.theguardian.com/film/2025/jul/17/taika-waititi-judge-dredd-movie)
 
 ### Things I'm star-ing
 
+* [agents](https://github.com/wshobson/agents)
+  A collection of production-ready subagents for Claude Code
 * [kubriX](https://github.com/suxess-it/kubriX)
   None
 * [firehydrant-mcp](https://github.com/firehydrant/firehydrant-mcp)
@@ -108,8 +110,6 @@ A table of things ...
   AI coding agent, built for the terminal.
 * [firefly-iii](https://github.com/firefly-iii/firefly-iii)
   Firefly III: a personal finances manager
-* [kubernetes](https://github.com/firefly-iii/kubernetes)
-  Support repository: Firefly III Kubernetes (k8s) configuration files
 
 ### My Blog Posts
 
