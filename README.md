@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - ethersync/ethersync: Editor-agnostic, real-time collaborative editing of local text files.](https://github.com/ethersync/ethersync)
 * [GitHub - wshobson/agents: A collection of production-ready subagents for Claude Code](https://github.com/wshobson/agents)
 * [Dumb Pipe](https://www.dumbpipe.dev/)
 * [16colo.rs - ANSI/ASCII art archive](https://16colo.rs/)
@@ -84,7 +85,6 @@ A table of things ...
 * [BGP.Tools](https://bgp.tools/)
 * [Antithesis: autonomous software testing](https://antithesis.com/)
 * [Virtual Backgrounds - NASA](https://www.nasa.gov/stem-content/virtual-backgrounds/)
-* [Why your website should be under 14kB in size | endtimes.dev](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
 
 ### Things I'm star-ing
 
