@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - booklore-app/BookLore: BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.](https://github.com/booklore-app/BookLore)
+* [keygenmusic.tk - tracker music player](https://keygenmusic.tk/)
+* [PixiEditor 2.0 - a FOSS Universal 2D Graphics Editor is here! | PixiEditor Blog](https://pixieditor.net/blog/2025/07/30/20-release/)
 * [archive.is](https://archive.is/20250729065259/https://www.nytimes.com/2025/07/23/well/apnimed-sleep-apnea-clinical-trial-ad109.html)
 * [A practical guide on how to use the GitHub MCP server - The GitHub Blog](https://github.blog/ai-and-ml/generative-ai/a-practical-guide-on-how-to-use-the-github-mcp-server/)
 * [GitHub - ethersync/ethersync: Editor-agnostic, real-time collaborative editing of local text files.](https://github.com/ethersync/ethersync)
@@ -82,12 +85,11 @@ A table of things ...
 * [Dumb Pipe](https://www.dumbpipe.dev/)
 * [16colo.rs - ANSI/ASCII art archive](https://16colo.rs/)
 * [Do not download the app, use the website](https://idiallo.com/blog/dont-download-apps)
-* [Record and share your terminal sessions, the simple way - asciinema.org](https://asciinema.org/)
-* [This Major Rule About Cooking Meat Turns out to Be Wrong](https://www.seriouseats.com/meat-resting-science-11776272)
-* [BGP.Tools](https://bgp.tools/)
 
 ### Things I'm star-ing
 
+* [BookLore](https://github.com/booklore-app/BookLore)
+  BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 * [openbench](https://github.com/groq/openbench)
   Provider-agnostic, open-source evaluation infrastructure for language models
 * [agents](https://github.com/wshobson/agents)
@@ -108,8 +110,6 @@ A table of things ...
   Go implementation of FOKS -- client and server
 * [pangolin](https://github.com/fosrl/pangolin)
   Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
-* [opencode](https://github.com/sst/opencode)
-  AI coding agent, built for the terminal.
 
 ### My Blog Posts
 
