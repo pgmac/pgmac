@@ -109,7 +109,7 @@ A table of things ...
 * [go-foks](https://github.com/foks-proj/go-foks)
   Go implementation of FOKS -- client and server
 * [pangolin](https://github.com/fosrl/pangolin)
-  Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
+  Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 
 ### My Blog Posts
 
