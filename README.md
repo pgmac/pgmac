@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [www.starwars.com](https://www.starwars.com/news/star-wars-50th-anniversary-theatrical-release)
 * [GitHub - booklore-app/BookLore: BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.](https://github.com/booklore-app/BookLore)
 * [keygenmusic.tk - tracker music player](https://keygenmusic.tk/)
 * [PixiEditor 2.0 - a FOSS Universal 2D Graphics Editor is here! | PixiEditor Blog](https://pixieditor.net/blog/2025/07/30/20-release/)
@@ -84,7 +85,6 @@ A table of things ...
 * [GitHub - wshobson/agents: A collection of production-ready subagents for Claude Code](https://github.com/wshobson/agents)
 * [Dumb Pipe](https://www.dumbpipe.dev/)
 * [16colo.rs - ANSI/ASCII art archive](https://16colo.rs/)
-* [Do not download the app, use the website](https://idiallo.com/blog/dont-download-apps)
 
 ### Things I'm star-ing
 
