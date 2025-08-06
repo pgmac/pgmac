@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - openai/gpt-oss: gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI](https://github.com/openai/gpt-oss)
 * [www.starwars.com](https://www.starwars.com/news/star-wars-50th-anniversary-theatrical-release)
 * [GitHub - booklore-app/BookLore: BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.](https://github.com/booklore-app/BookLore)
 * [keygenmusic.tk - tracker music player](https://keygenmusic.tk/)
@@ -84,11 +85,12 @@ A table of things ...
 * [GitHub - ethersync/ethersync: Editor-agnostic, real-time collaborative editing of local text files.](https://github.com/ethersync/ethersync)
 * [GitHub - wshobson/agents: A collection of production-ready subagents for Claude Code](https://github.com/wshobson/agents)
 * [Dumb Pipe](https://www.dumbpipe.dev/)
-* [16colo.rs - ANSI/ASCII art archive](https://16colo.rs/)
 
 ### Things I'm star-ing
 
-* [BookLore](https://github.com/booklore-app/BookLore)
+* [gpt-oss](https://github.com/openai/gpt-oss)
+  gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
+* [booklore](https://github.com/booklore-app/booklore)
   BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 * [openbench](https://github.com/groq/openbench)
   Provider-agnostic, open-source evaluation infrastructure for language models
@@ -108,8 +110,6 @@ A table of things ...
   Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 * [go-foks](https://github.com/foks-proj/go-foks)
   Go implementation of FOKS -- client and server
-* [pangolin](https://github.com/fosrl/pangolin)
-  Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 
 ### My Blog Posts
 
