@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Gemini CLI GitHub Actions: AI coding made for collaboration](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/)
+* [Cracking the Vault: how we found zero-day flaws in authentication, identity, and authorization in HashiCorp Vault - Cyata | The Control Plane for Agentic Identity](https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/)
 * [GitHub - openai/gpt-oss: gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI](https://github.com/openai/gpt-oss)
 * [www.starwars.com](https://www.starwars.com/news/star-wars-50th-anniversary-theatrical-release)
 * [GitHub - booklore-app/BookLore: BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.](https://github.com/booklore-app/BookLore)
@@ -83,8 +85,6 @@ A table of things ...
 * [archive.is](https://archive.is/20250729065259/https://www.nytimes.com/2025/07/23/well/apnimed-sleep-apnea-clinical-trial-ad109.html)
 * [A practical guide on how to use the GitHub MCP server - The GitHub Blog](https://github.blog/ai-and-ml/generative-ai/a-practical-guide-on-how-to-use-the-github-mcp-server/)
 * [GitHub - ethersync/ethersync: Editor-agnostic, real-time collaborative editing of local text files.](https://github.com/ethersync/ethersync)
-* [GitHub - wshobson/agents: A collection of production-ready subagents for Claude Code](https://github.com/wshobson/agents)
-* [Dumb Pipe](https://www.dumbpipe.dev/)
 
 ### Things I'm star-ing
 
