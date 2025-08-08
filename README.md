@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Astronomy Photographer of the Year 2025 shortlist](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist)
 * [Gemini CLI GitHub Actions: AI coding made for collaboration](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/)
 * [Cracking the Vault: how we found zero-day flaws in authentication, identity, and authorization in HashiCorp Vault - Cyata | The Control Plane for Agentic Identity](https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/)
 * [GitHub - openai/gpt-oss: gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI](https://github.com/openai/gpt-oss)
@@ -84,7 +85,6 @@ A table of things ...
 * [PixiEditor 2.0 - a FOSS Universal 2D Graphics Editor is here! | PixiEditor Blog](https://pixieditor.net/blog/2025/07/30/20-release/)
 * [archive.is](https://archive.is/20250729065259/https://www.nytimes.com/2025/07/23/well/apnimed-sleep-apnea-clinical-trial-ad109.html)
 * [A practical guide on how to use the GitHub MCP server - The GitHub Blog](https://github.blog/ai-and-ml/generative-ai/a-practical-guide-on-how-to-use-the-github-mcp-server/)
-* [GitHub - ethersync/ethersync: Editor-agnostic, real-time collaborative editing of local text files.](https://github.com/ethersync/ethersync)
 
 ### Things I'm star-ing
 
