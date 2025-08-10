@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [www.darkreading.com](https://www.darkreading.com/vulnerabilities-threats/critical-flaw-cve-scoring)
+* [GitHub - google/langextract: A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.](https://github.com/google/langextract)
+* [GitHub - denizsafak/abogen: Generate audiobooks from EPUBs, PDFs and text with synchronized captions.](https://github.com/denizsafak/abogen)
 * [Horizon at -27.46794, 153.02809](https://sky.dlazaro.ca/)
 * [Search for life on Mars takes major leap forward. Scientists detect longest organic molecules on planet to date | BBC Sky at Night Magazine](https://www.skyatnightmagazine.com/news/mars-longest-organic-molecules)
 * [Astronomy Photographer of the Year 2025 shortlist](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist)
@@ -82,12 +85,11 @@ A table of things ...
 * [Cracking the Vault: how we found zero-day flaws in authentication, identity, and authorization in HashiCorp Vault - Cyata | The Control Plane for Agentic Identity](https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/)
 * [GitHub - openai/gpt-oss: gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI](https://github.com/openai/gpt-oss)
 * [www.starwars.com](https://www.starwars.com/news/star-wars-50th-anniversary-theatrical-release)
-* [GitHub - booklore-app/BookLore: BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.](https://github.com/booklore-app/BookLore)
-* [keygenmusic.tk - tracker music player](https://keygenmusic.tk/)
-* [PixiEditor 2.0 - a FOSS Universal 2D Graphics Editor is here! | PixiEditor Blog](https://pixieditor.net/blog/2025/07/30/20-release/)
 
 ### Things I'm star-ing
 
+* [langextract](https://github.com/google/langextract)
+  A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 * [gpt-oss](https://github.com/openai/gpt-oss)
   gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 * [booklore](https://github.com/booklore-app/booklore)
@@ -108,8 +110,6 @@ A table of things ...
   OpenProject is the leading open source project management software.
 * [Gokapi](https://github.com/Forceu/Gokapi)
   Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
-* [go-foks](https://github.com/foks-proj/go-foks)
-  Go implementation of FOKS -- client and server
 
 ### My Blog Posts
 
