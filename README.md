@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [OpenSSH: Post-Quantum Cryptography](https://www.openssh.com/pq.html)
+* [GitHub just got less independent at Microsoft after CEO resignation | The Verge](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition)
 * [alumni.cs.ucr.edu](http://alumni.cs.ucr.edu/~ratana/PaneRatanamahatanaMyers00.pdf)
 * [www.darkreading.com](https://www.darkreading.com/vulnerabilities-threats/critical-flaw-cve-scoring)
 * [GitHub - google/langextract: A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.](https://github.com/google/langextract)
@@ -83,8 +85,6 @@ A table of things ...
 * [Search for life on Mars takes major leap forward. Scientists detect longest organic molecules on planet to date | BBC Sky at Night Magazine](https://www.skyatnightmagazine.com/news/mars-longest-organic-molecules)
 * [Astronomy Photographer of the Year 2025 shortlist](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist)
 * [Gemini CLI GitHub Actions: AI coding made for collaboration](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/)
-* [Cracking the Vault: how we found zero-day flaws in authentication, identity, and authorization in HashiCorp Vault - Cyata | The Control Plane for Agentic Identity](https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/)
-* [GitHub - openai/gpt-oss: gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI](https://github.com/openai/gpt-oss)
 
 ### Things I'm star-ing
 
