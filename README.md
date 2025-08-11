@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [alumni.cs.ucr.edu](http://alumni.cs.ucr.edu/~ratana/PaneRatanamahatanaMyers00.pdf)
 * [www.darkreading.com](https://www.darkreading.com/vulnerabilities-threats/critical-flaw-cve-scoring)
 * [GitHub - google/langextract: A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.](https://github.com/google/langextract)
 * [GitHub - denizsafak/abogen: Generate audiobooks from EPUBs, PDFs and text with synchronized captions.](https://github.com/denizsafak/abogen)
@@ -84,10 +85,11 @@ A table of things ...
 * [Gemini CLI GitHub Actions: AI coding made for collaboration](https://blog.google/technology/developers/introducing-gemini-cli-github-actions/)
 * [Cracking the Vault: how we found zero-day flaws in authentication, identity, and authorization in HashiCorp Vault - Cyata | The Control Plane for Agentic Identity](https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/)
 * [GitHub - openai/gpt-oss: gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI](https://github.com/openai/gpt-oss)
-* [www.starwars.com](https://www.starwars.com/news/star-wars-50th-anniversary-theatrical-release)
 
 ### Things I'm star-ing
 
+* [ubicloud](https://github.com/ubicloud/ubicloud)
+  Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
 * [langextract](https://github.com/google/langextract)
   A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 * [gpt-oss](https://github.com/openai/gpt-oss)
@@ -108,8 +110,6 @@ A table of things ...
   The XWiki platform
 * [openproject](https://github.com/opf/openproject)
   OpenProject is the leading open source project management software.
-* [Gokapi](https://github.com/Forceu/Gokapi)
-  Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 
 ### My Blog Posts
 
