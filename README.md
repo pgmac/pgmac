@@ -75,7 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-
+* [Auf Wiedersehen, GitHub ♥️ - The GitHub Blog](https://github.blog/news-insights/company-news/goodbye-github/)
+* [OpenSSH: Post-Quantum Cryptography](https://www.openssh.com/pq.html)
+* [GitHub just got less independent at Microsoft after CEO resignation | The Verge](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition)
+* [alumni.cs.ucr.edu](http://alumni.cs.ucr.edu/~ratana/PaneRatanamahatanaMyers00.pdf)
+* [www.darkreading.com](https://www.darkreading.com/vulnerabilities-threats/critical-flaw-cve-scoring)
+* [GitHub - google/langextract: A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.](https://github.com/google/langextract)
+* [GitHub - denizsafak/abogen: Generate audiobooks from EPUBs, PDFs and text with synchronized captions.](https://github.com/denizsafak/abogen)
+* [Horizon at -27.46794, 153.02809](https://sky.dlazaro.ca/)
+* [Search for life on Mars takes major leap forward. Scientists detect longest organic molecules on planet to date | BBC Sky at Night Magazine](https://www.skyatnightmagazine.com/news/mars-longest-organic-molecules)
+* [Astronomy Photographer of the Year 2025 shortlist](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist)
 
 ### Things I'm star-ing
 
