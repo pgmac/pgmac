@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [NGINX Introduces Native Support for ACME Protocol  – NGINX Community Blog](https://blog.nginx.org/blog/native-support-for-acme-protocol)
 * [Registry of Open Data on AWS](https://registry.opendata.aws/)
 * [Auf Wiedersehen, GitHub ♥️ - The GitHub Blog](https://github.blog/news-insights/company-news/goodbye-github/)
 * [OpenSSH: Post-Quantum Cryptography](https://www.openssh.com/pq.html)
@@ -84,7 +85,6 @@ A table of things ...
 * [GitHub - google/langextract: A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.](https://github.com/google/langextract)
 * [GitHub - denizsafak/abogen: Generate audiobooks from EPUBs, PDFs and text with synchronized captions.](https://github.com/denizsafak/abogen)
 * [Horizon at -27.46794, 153.02809](https://sky.dlazaro.ca/)
-* [Search for life on Mars takes major leap forward. Scientists detect longest organic molecules on planet to date | BBC Sky at Night Magazine](https://www.skyatnightmagazine.com/news/mars-longest-organic-molecules)
 
 ### Things I'm star-ing
 
