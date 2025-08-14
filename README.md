@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [133-year old Kodak says it might have to cease operations | CNN Business](https://edition.cnn.com/2025/08/12/business/kodak-survival-warning)
+* [NIST Finalizes ‘Lightweight Cryptography’ Standard to Protect Small Devices | NIST](https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices)
+* [pyx | Astral](https://astral.sh/pyx)
 * [NGINX Introduces Native Support for ACME Protocol  – NGINX Community Blog](https://blog.nginx.org/blog/native-support-for-acme-protocol)
 * [Registry of Open Data on AWS](https://registry.opendata.aws/)
 * [Auf Wiedersehen, GitHub ♥️ - The GitHub Blog](https://github.blog/news-insights/company-news/goodbye-github/)
@@ -82,12 +85,11 @@ A table of things ...
 * [GitHub just got less independent at Microsoft after CEO resignation | The Verge](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition)
 * [alumni.cs.ucr.edu](http://alumni.cs.ucr.edu/~ratana/PaneRatanamahatanaMyers00.pdf)
 * [www.darkreading.com](https://www.darkreading.com/vulnerabilities-threats/critical-flaw-cve-scoring)
-* [GitHub - google/langextract: A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.](https://github.com/google/langextract)
-* [GitHub - denizsafak/abogen: Generate audiobooks from EPUBs, PDFs and text with synchronized captions.](https://github.com/denizsafak/abogen)
-* [Horizon at -27.46794, 153.02809](https://sky.dlazaro.ca/)
 
 ### Things I'm star-ing
 
+* [consul-dataplane](https://github.com/hashicorp/consul-dataplane)
+  None
 * [ubicloud](https://github.com/ubicloud/ubicloud)
   Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
 * [langextract](https://github.com/google/langextract)
@@ -108,8 +110,6 @@ A table of things ...
   Global Claude Code commands and workflows
 * [xwiki-platform](https://github.com/xwiki/xwiki-platform)
   The XWiki platform
-* [openproject](https://github.com/opf/openproject)
-  OpenProject is the leading open source project management software.
 
 ### My Blog Posts
 
