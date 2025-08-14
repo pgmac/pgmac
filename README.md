@@ -75,16 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-* [133-year old Kodak says it might have to cease operations | CNN Business](https://edition.cnn.com/2025/08/12/business/kodak-survival-warning)
-* [NIST Finalizes ‘Lightweight Cryptography’ Standard to Protect Small Devices | NIST](https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices)
-* [pyx | Astral](https://astral.sh/pyx)
-* [NGINX Introduces Native Support for ACME Protocol  – NGINX Community Blog](https://blog.nginx.org/blog/native-support-for-acme-protocol)
-* [Registry of Open Data on AWS](https://registry.opendata.aws/)
-* [Auf Wiedersehen, GitHub ♥️ - The GitHub Blog](https://github.blog/news-insights/company-news/goodbye-github/)
-* [OpenSSH: Post-Quantum Cryptography](https://www.openssh.com/pq.html)
-* [GitHub just got less independent at Microsoft after CEO resignation | The Verge](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition)
-* [alumni.cs.ucr.edu](http://alumni.cs.ucr.edu/~ratana/PaneRatanamahatanaMyers00.pdf)
-* [www.darkreading.com](https://www.darkreading.com/vulnerabilities-threats/critical-flaw-cve-scoring)
+
 
 ### Things I'm star-ing
 
