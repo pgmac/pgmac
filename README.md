@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [unsloth](https://github.com/unslothai/unsloth)
+  Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 * [consul-dataplane](https://github.com/hashicorp/consul-dataplane)
   None
 * [ubicloud](https://github.com/ubicloud/ubicloud)
@@ -108,8 +110,6 @@ A table of things ...
   Official FireHydrant MCP server
 * [claude-commands](https://github.com/badlogic/claude-commands)
   Global Claude Code commands and workflows
-* [xwiki-platform](https://github.com/xwiki/xwiki-platform)
-  The XWiki platform
 
 ### My Blog Posts
 
