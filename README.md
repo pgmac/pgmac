@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [SuperSight: a graphical enhancement mod for Brøderbund's Stunts](https://marnetto.net/2025/02/20/broderbund-stunts-1)
+* [blog.openpolicyagent.org](https://blog.openpolicyagent.org/note-from-teemu-tim-and-torin-to-the-open-policy-agent-community-2dbbfe494371)
+* [GitHub - zedless-editor/zed: (WIP) Zed fork focused on privacy and being local-first](https://github.com/zedless-editor/zed)
 * [133-year old Kodak says it might have to cease operations | CNN Business](https://edition.cnn.com/2025/08/12/business/kodak-survival-warning)
 * [NIST Finalizes ‘Lightweight Cryptography’ Standard to Protect Small Devices | NIST](https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices)
 * [pyx | Astral](https://astral.sh/pyx)
@@ -82,12 +85,11 @@ A table of things ...
 * [Registry of Open Data on AWS](https://registry.opendata.aws/)
 * [Auf Wiedersehen, GitHub ♥️ - The GitHub Blog](https://github.blog/news-insights/company-news/goodbye-github/)
 * [OpenSSH: Post-Quantum Cryptography](https://www.openssh.com/pq.html)
-* [GitHub just got less independent at Microsoft after CEO resignation | The Verge](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition)
-* [alumni.cs.ucr.edu](http://alumni.cs.ucr.edu/~ratana/PaneRatanamahatanaMyers00.pdf)
-* [www.darkreading.com](https://www.darkreading.com/vulnerabilities-threats/critical-flaw-cve-scoring)
 
 ### Things I'm star-ing
 
+* [zed](https://github.com/zedless-editor/zed)
+  (WIP) Zed fork focused on privacy and being local-first
 * [unsloth](https://github.com/unslothai/unsloth)
   Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 * [consul-dataplane](https://github.com/hashicorp/consul-dataplane)
@@ -108,8 +110,6 @@ A table of things ...
   None
 * [firehydrant-mcp](https://github.com/firehydrant/firehydrant-mcp)
   Official FireHydrant MCP server
-* [claude-commands](https://github.com/badlogic/claude-commands)
-  Global Claude Code commands and workflows
 
 ### My Blog Posts
 
