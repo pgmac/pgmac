@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Sequoia Backs Zed's Vision for Collaborative Coding — Zed's Blog](https://zed.dev/blog/sequoia-backs-zed)
+* [GitHub - plutoprint/plutoprint: A Python Library for Generating PDFs and Images from HTML, powered by PlutoBook](https://github.com/plutoprint/plutoprint)
 * [SuperSight: a graphical enhancement mod for Brøderbund's Stunts](https://marnetto.net/2025/02/20/broderbund-stunts-1)
 * [blog.openpolicyagent.org](https://blog.openpolicyagent.org/note-from-teemu-tim-and-torin-to-the-open-policy-agent-community-2dbbfe494371)
 * [GitHub - zedless-editor/zed: (WIP) Zed fork focused on privacy and being local-first](https://github.com/zedless-editor/zed)
@@ -83,11 +85,13 @@ A table of things ...
 * [pyx | Astral](https://astral.sh/pyx)
 * [NGINX Introduces Native Support for ACME Protocol  – NGINX Community Blog](https://blog.nginx.org/blog/native-support-for-acme-protocol)
 * [Registry of Open Data on AWS](https://registry.opendata.aws/)
-* [Auf Wiedersehen, GitHub ♥️ - The GitHub Blog](https://github.blog/news-insights/company-news/goodbye-github/)
-* [OpenSSH: Post-Quantum Cryptography](https://www.openssh.com/pq.html)
 
 ### Things I'm star-ing
 
+* [plutoprint](https://github.com/plutoprint/plutoprint)
+  A Python Library for Generating PDFs and Images from HTML, powered by PlutoBook
+* [zed](https://github.com/zed-industries/zed)
+  Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 * [zed](https://github.com/zedless-editor/zed)
   (WIP) Zed fork focused on privacy and being local-first
 * [unsloth](https://github.com/unslothai/unsloth)
@@ -106,10 +110,6 @@ A table of things ...
   Provider-agnostic, open-source evaluation infrastructure for language models
 * [agents](https://github.com/wshobson/agents)
   A collection of production-ready subagents for Claude Code
-* [kubriX](https://github.com/suxess-it/kubriX)
-  None
-* [firehydrant-mcp](https://github.com/firehydrant/firehydrant-mcp)
-  Official FireHydrant MCP server
 
 ### My Blog Posts
 
