@@ -92,7 +92,7 @@ A table of things ...
   A Python Library for Generating PDFs and Images from HTML, powered by PlutoBook
 * [zed](https://github.com/zed-industries/zed)
   Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-* [zed](https://github.com/zedless-editor/zed)
+* [zedless](https://github.com/zedless-editor/zedless)
   (WIP) Zed fork focused on privacy and being local-first
 * [unsloth](https://github.com/unslothai/unsloth)
   Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
