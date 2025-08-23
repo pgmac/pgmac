@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [LabPlot – Scientific plotting and data analysis](https://labplot.org/)
 * [Sequoia Backs Zed's Vision for Collaborative Coding — Zed's Blog](https://zed.dev/blog/sequoia-backs-zed)
 * [GitHub - plutoprint/plutoprint: A Python Library for Generating PDFs and Images from HTML, powered by PlutoBook](https://github.com/plutoprint/plutoprint)
 * [SuperSight: a graphical enhancement mod for Brøderbund's Stunts](https://marnetto.net/2025/02/20/broderbund-stunts-1)
@@ -84,7 +85,6 @@ A table of things ...
 * [NIST Finalizes ‘Lightweight Cryptography’ Standard to Protect Small Devices | NIST](https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices)
 * [pyx | Astral](https://astral.sh/pyx)
 * [NGINX Introduces Native Support for ACME Protocol  – NGINX Community Blog](https://blog.nginx.org/blog/native-support-for-acme-protocol)
-* [Registry of Open Data on AWS](https://registry.opendata.aws/)
 
 ### Things I'm star-ing
 
