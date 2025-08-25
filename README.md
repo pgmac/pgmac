@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Critical Docker Desktop flaw lets attackers hijack Windows hosts](https://www.bleepingcomputer.com/news/security/critical-docker-desktop-flaw-lets-attackers-hijack-windows-hosts/)
 * [Commodore raked in over $2 million during the new C64 Ultimate's debut week — roadmap will include three major releases a year | Tom's Hardware](https://www.tomshardware.com/video-games/retro-gaming/commodore-took-in-over-usd2-million-during-the-c64-ultimates-debut-week-roadmap-will-include-three-major-releases-a-year)
 * [sping Documentation](https://dseltzer.gitlab.io/sping/docs/)
 * [simson.net](https://simson.net/ref/ugh.pdf)
@@ -84,7 +85,6 @@ A table of things ...
 * [SuperSight: a graphical enhancement mod for Brøderbund's Stunts](https://marnetto.net/2025/02/20/broderbund-stunts-1)
 * [blog.openpolicyagent.org](https://blog.openpolicyagent.org/note-from-teemu-tim-and-torin-to-the-open-policy-agent-community-2dbbfe494371)
 * [GitHub - zedless-editor/zed: (WIP) Zed fork focused on privacy and being local-first](https://github.com/zedless-editor/zed)
-* [133-year old Kodak says it might have to cease operations | CNN Business](https://edition.cnn.com/2025/08/12/business/kodak-survival-warning)
 
 ### Things I'm star-ing
 
