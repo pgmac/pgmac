@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Commodore raked in over $2 million during the new C64 Ultimate's debut week — roadmap will include three major releases a year | Tom's Hardware](https://www.tomshardware.com/video-games/retro-gaming/commodore-took-in-over-usd2-million-during-the-c64-ultimates-debut-week-roadmap-will-include-three-major-releases-a-year)
+* [sping Documentation](https://dseltzer.gitlab.io/sping/docs/)
+* [simson.net](https://simson.net/ref/ugh.pdf)
 * [LabPlot – Scientific plotting and data analysis](https://labplot.org/)
 * [Sequoia Backs Zed's Vision for Collaborative Coding — Zed's Blog](https://zed.dev/blog/sequoia-backs-zed)
 * [GitHub - plutoprint/plutoprint: A Python Library for Generating PDFs and Images from HTML, powered by PlutoBook](https://github.com/plutoprint/plutoprint)
@@ -82,12 +85,11 @@ A table of things ...
 * [blog.openpolicyagent.org](https://blog.openpolicyagent.org/note-from-teemu-tim-and-torin-to-the-open-policy-agent-community-2dbbfe494371)
 * [GitHub - zedless-editor/zed: (WIP) Zed fork focused on privacy and being local-first](https://github.com/zedless-editor/zed)
 * [133-year old Kodak says it might have to cease operations | CNN Business](https://edition.cnn.com/2025/08/12/business/kodak-survival-warning)
-* [NIST Finalizes ‘Lightweight Cryptography’ Standard to Protect Small Devices | NIST](https://www.nist.gov/news-events/news/2025/08/nist-finalizes-lightweight-cryptography-standard-protect-small-devices)
-* [pyx | Astral](https://astral.sh/pyx)
-* [NGINX Introduces Native Support for ACME Protocol  – NGINX Community Blog](https://blog.nginx.org/blog/native-support-for-acme-protocol)
 
 ### Things I'm star-ing
 
+* [supersonic](https://github.com/dweymouth/supersonic)
+  A lightweight and full-featured cross-platform desktop client for self-hosted music servers
 * [plutoprint](https://github.com/plutoprint/plutoprint)
   A Python Library for Generating PDFs and Images from HTML, powered by PlutoBook
 * [zed](https://github.com/zed-industries/zed)
@@ -108,8 +110,6 @@ A table of things ...
   BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
 * [openbench](https://github.com/groq/openbench)
   Provider-agnostic, open-source evaluation infrastructure for language models
-* [agents](https://github.com/wshobson/agents)
-  A collection of production-ready subagents for Claude Code
 
 ### My Blog Posts
 
