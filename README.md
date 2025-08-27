@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [boingboing.net](https://boingboing.net/2025/08/26/80s-star-yahoo-serious-missing-after-eviction.html)
 * [Piloting Claude for Chrome \ Anthropic](https://www.anthropic.com/news/claude-for-chrome)
 * [rv, a new kind of Ruby management tool](https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/)
 * [www.abc.net.au](https://www.abc.net.au/news/2025-08-26/near-complete-ichthyosaur-fossil-found-in-western-queensland/105693176)
@@ -84,7 +85,6 @@ A table of things ...
 * [simson.net](https://simson.net/ref/ugh.pdf)
 * [LabPlot – Scientific plotting and data analysis](https://labplot.org/)
 * [Sequoia Backs Zed's Vision for Collaborative Coding — Zed's Blog](https://zed.dev/blog/sequoia-backs-zed)
-* [GitHub - plutoprint/plutoprint: A Python Library for Generating PDFs and Images from HTML, powered by PlutoBook](https://github.com/plutoprint/plutoprint)
 
 ### Things I'm star-ing
 
