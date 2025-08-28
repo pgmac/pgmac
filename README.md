@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [How to prepare for the Bitnami Changes coming soon](https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon)
 * [boingboing.net](https://boingboing.net/2025/08/26/80s-star-yahoo-serious-missing-after-eviction.html)
 * [Piloting Claude for Chrome \ Anthropic](https://www.anthropic.com/news/claude-for-chrome)
 * [rv, a new kind of Ruby management tool](https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/)
@@ -84,7 +85,6 @@ A table of things ...
 * [sping Documentation](https://dseltzer.gitlab.io/sping/docs/)
 * [simson.net](https://simson.net/ref/ugh.pdf)
 * [LabPlot – Scientific plotting and data analysis](https://labplot.org/)
-* [Sequoia Backs Zed's Vision for Collaborative Coding — Zed's Blog](https://zed.dev/blog/sequoia-backs-zed)
 
 ### Things I'm star-ing
 
