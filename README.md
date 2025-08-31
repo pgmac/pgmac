@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [awx](https://github.com/ansible/awx)
+  AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 * [supersonic](https://github.com/dweymouth/supersonic)
   A lightweight and full-featured cross-platform desktop client for self-hosted music servers
 * [plutoprint](https://github.com/plutoprint/plutoprint)
@@ -108,8 +110,6 @@ A table of things ...
   gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 * [booklore](https://github.com/booklore-app/booklore)
   BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
-* [openbench](https://github.com/groq/openbench)
-  Provider-agnostic, open-source evaluation infrastructure for language models
 
 ### My Blog Posts
 
