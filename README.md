@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Kazeta - Just Play](https://kazeta.org/)
 * [How to prepare for the Bitnami Changes coming soon](https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon)
 * [boingboing.net](https://boingboing.net/2025/08/26/80s-star-yahoo-serious-missing-after-eviction.html)
 * [Piloting Claude for Chrome \ Anthropic](https://www.anthropic.com/news/claude-for-chrome)
@@ -84,7 +85,6 @@ A table of things ...
 * [Commodore raked in over $2 million during the new C64 Ultimate's debut week — roadmap will include three major releases a year | Tom's Hardware](https://www.tomshardware.com/video-games/retro-gaming/commodore-took-in-over-usd2-million-during-the-c64-ultimates-debut-week-roadmap-will-include-three-major-releases-a-year)
 * [sping Documentation](https://dseltzer.gitlab.io/sping/docs/)
 * [simson.net](https://simson.net/ref/ugh.pdf)
-* [LabPlot – Scientific plotting and data analysis](https://labplot.org/)
 
 ### Things I'm star-ing
 
