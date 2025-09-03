@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - aws-samples/sample-developer-tutorials](https://github.com/aws-samples/sample-developer-tutorials/tree/main)
 * [Kazeta - Just Play](https://kazeta.org/)
 * [How to prepare for the Bitnami Changes coming soon](https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon)
 * [boingboing.net](https://boingboing.net/2025/08/26/80s-star-yahoo-serious-missing-after-eviction.html)
@@ -84,10 +85,11 @@ A table of things ...
 * [Critical Docker Desktop flaw lets attackers hijack Windows hosts](https://www.bleepingcomputer.com/news/security/critical-docker-desktop-flaw-lets-attackers-hijack-windows-hosts/)
 * [Commodore raked in over $2 million during the new C64 Ultimate's debut week — roadmap will include three major releases a year | Tom's Hardware](https://www.tomshardware.com/video-games/retro-gaming/commodore-took-in-over-usd2-million-during-the-c64-ultimates-debut-week-roadmap-will-include-three-major-releases-a-year)
 * [sping Documentation](https://dseltzer.gitlab.io/sping/docs/)
-* [simson.net](https://simson.net/ref/ugh.pdf)
 
 ### Things I'm star-ing
 
+* [sample-developer-tutorials](https://github.com/aws-samples/sample-developer-tutorials)
+  None
 * [pogocache](https://github.com/tidwall/pogocache)
   Fast caching software with a focus on low latency and cpu efficiency.
 * [awx](https://github.com/ansible/awx)
@@ -108,8 +110,6 @@ A table of things ...
   Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
 * [langextract](https://github.com/google/langextract)
   A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-* [gpt-oss](https://github.com/openai/gpt-oss)
-  gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
 
 ### My Blog Posts
 
