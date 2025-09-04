@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [zed.dev](https://zed.dev/blog/claude-code-via-acp)
 * [GitHub - aws-samples/sample-developer-tutorials](https://github.com/aws-samples/sample-developer-tutorials/tree/main)
 * [Kazeta - Just Play](https://kazeta.org/)
 * [How to prepare for the Bitnami Changes coming soon](https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon)
@@ -84,7 +85,6 @@ A table of things ...
 * [www.abc.net.au](https://www.abc.net.au/news/2025-08-26/near-complete-ichthyosaur-fossil-found-in-western-queensland/105693176)
 * [Critical Docker Desktop flaw lets attackers hijack Windows hosts](https://www.bleepingcomputer.com/news/security/critical-docker-desktop-flaw-lets-attackers-hijack-windows-hosts/)
 * [Commodore raked in over $2 million during the new C64 Ultimate's debut week — roadmap will include three major releases a year | Tom's Hardware](https://www.tomshardware.com/video-games/retro-gaming/commodore-took-in-over-usd2-million-during-the-c64-ultimates-debut-week-roadmap-will-include-three-major-releases-a-year)
-* [sping Documentation](https://dseltzer.gitlab.io/sping/docs/)
 
 ### Things I'm star-ing
 
