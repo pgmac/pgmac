@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Addressing the unauthorized issuance of multiple TLS certificates for 1.1.1.1](https://blog.cloudflare.com/unauthorized-issuance-of-certificates-for-1-1-1-1/)
 * [zed.dev](https://zed.dev/blog/claude-code-via-acp)
 * [GitHub - aws-samples/sample-developer-tutorials](https://github.com/aws-samples/sample-developer-tutorials/tree/main)
 * [Kazeta - Just Play](https://kazeta.org/)
@@ -84,7 +85,6 @@ A table of things ...
 * [rv, a new kind of Ruby management tool](https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/)
 * [www.abc.net.au](https://www.abc.net.au/news/2025-08-26/near-complete-ichthyosaur-fossil-found-in-western-queensland/105693176)
 * [Critical Docker Desktop flaw lets attackers hijack Windows hosts](https://www.bleepingcomputer.com/news/security/critical-docker-desktop-flaw-lets-attackers-hijack-windows-hosts/)
-* [Commodore raked in over $2 million during the new C64 Ultimate's debut week — roadmap will include three major releases a year | Tom's Hardware](https://www.tomshardware.com/video-games/retro-gaming/commodore-took-in-over-usd2-million-during-the-c64-ultimates-debut-week-roadmap-will-include-three-major-releases-a-year)
 
 ### Things I'm star-ing
 
