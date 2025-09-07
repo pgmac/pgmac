@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - docker/cagent: Agent Builder and Runtime by Docker Engineering](https://github.com/docker/cagent)
 * [WiFi signals can measure heart rate—no wearables needed - News](https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/)
 * [Addressing the unauthorized issuance of multiple TLS certificates for 1.1.1.1](https://blog.cloudflare.com/unauthorized-issuance-of-certificates-for-1-1-1-1/)
 * [zed.dev](https://zed.dev/blog/claude-code-via-acp)
@@ -84,10 +85,11 @@ A table of things ...
 * [boingboing.net](https://boingboing.net/2025/08/26/80s-star-yahoo-serious-missing-after-eviction.html)
 * [Piloting Claude for Chrome \ Anthropic](https://www.anthropic.com/news/claude-for-chrome)
 * [rv, a new kind of Ruby management tool](https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/)
-* [www.abc.net.au](https://www.abc.net.au/news/2025-08-26/near-complete-ichthyosaur-fossil-found-in-western-queensland/105693176)
 
 ### Things I'm star-ing
 
+* [cagent](https://github.com/docker/cagent)
+  Agent Builder and Runtime by Docker Engineering
 * [sample-developer-tutorials](https://github.com/aws-samples/sample-developer-tutorials)
   None
 * [pogocache](https://github.com/tidwall/pogocache)
@@ -108,8 +110,6 @@ A table of things ...
   None
 * [ubicloud](https://github.com/ubicloud/ubicloud)
   Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
-* [langextract](https://github.com/google/langextract)
-  A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 
 ### My Blog Posts
 
