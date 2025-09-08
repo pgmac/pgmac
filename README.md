@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The Demo Scene is Dying, But That's Alright | datagubbe.se](https://www.datagubbe.se/sceneherit/)
 * [GitHub - docker/cagent: Agent Builder and Runtime by Docker Engineering](https://github.com/docker/cagent)
 * [WiFi signals can measure heart rate—no wearables needed - News](https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/)
 * [Addressing the unauthorized issuance of multiple TLS certificates for 1.1.1.1](https://blog.cloudflare.com/unauthorized-issuance-of-certificates-for-1-1-1-1/)
@@ -84,7 +85,6 @@ A table of things ...
 * [How to prepare for the Bitnami Changes coming soon](https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon)
 * [boingboing.net](https://boingboing.net/2025/08/26/80s-star-yahoo-serious-missing-after-eviction.html)
 * [Piloting Claude for Chrome \ Anthropic](https://www.anthropic.com/news/claude-for-chrome)
-* [rv, a new kind of Ruby management tool](https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/)
 
 ### Things I'm star-ing
 
