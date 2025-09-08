@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The story of Creative Technology](https://www.abortretry.fail/p/the-story-of-creative-technology)
 * [The Demo Scene is Dying, But That's Alright | datagubbe.se](https://www.datagubbe.se/sceneherit/)
 * [GitHub - docker/cagent: Agent Builder and Runtime by Docker Engineering](https://github.com/docker/cagent)
 * [WiFi signals can measure heart rate—no wearables needed - News](https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/)
@@ -84,32 +85,9 @@ A table of things ...
 * [Kazeta - Just Play](https://kazeta.org/)
 * [How to prepare for the Bitnami Changes coming soon](https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon)
 * [boingboing.net](https://boingboing.net/2025/08/26/80s-star-yahoo-serious-missing-after-eviction.html)
-* [Piloting Claude for Chrome \ Anthropic](https://www.anthropic.com/news/claude-for-chrome)
 
 ### Things I'm star-ing
 
-* [cagent](https://github.com/docker/cagent)
-  Agent Builder and Runtime by Docker Engineering
-* [sample-developer-tutorials](https://github.com/aws-samples/sample-developer-tutorials)
-  None
-* [pogocache](https://github.com/tidwall/pogocache)
-  Fast caching software with a focus on low latency and cpu efficiency.
-* [awx](https://github.com/ansible/awx)
-  AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
-* [supersonic](https://github.com/dweymouth/supersonic)
-  A lightweight and full-featured cross-platform desktop client for self-hosted music servers
-* [plutoprint](https://github.com/plutoprint/plutoprint)
-  A Python Library for Generating PDFs and Images from HTML, powered by PlutoBook
-* [zed](https://github.com/zed-industries/zed)
-  Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-* [zedless](https://github.com/zedless-editor/zedless)
-  (WIP) Zed fork focused on privacy and being local-first
-* [unsloth](https://github.com/unslothai/unsloth)
-  Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
-* [consul-dataplane](https://github.com/hashicorp/consul-dataplane)
-  None
-* [ubicloud](https://github.com/ubicloud/ubicloud)
-  Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
 
 ### My Blog Posts
 
