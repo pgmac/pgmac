@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [DOOMscroll — The Game](https://gisnep.com/doomscroll/)
 * [We all dodged a bullet - Xe Iaso](https://xeiaso.net/notes/2025/we-dodged-a-bullet/)
 * [The story of Creative Technology](https://www.abortretry.fail/p/the-story-of-creative-technology)
 * [The Demo Scene is Dying, But That's Alright | datagubbe.se](https://www.datagubbe.se/sceneherit/)
@@ -84,7 +85,6 @@ A table of things ...
 * [zed.dev](https://zed.dev/blog/claude-code-via-acp)
 * [GitHub - aws-samples/sample-developer-tutorials](https://github.com/aws-samples/sample-developer-tutorials/tree/main)
 * [Kazeta - Just Play](https://kazeta.org/)
-* [How to prepare for the Bitnami Changes coming soon](https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon)
 
 ### Things I'm star-ing
 
