@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - iannuttall/fartscroll-lid: A hilarious macOS app that plays fart sounds as you open and close your MacBook lid](https://github.com/iannuttall/fartscroll-lid)
 * [DOOMscroll — The Game](https://gisnep.com/doomscroll/)
 * [We all dodged a bullet - Xe Iaso](https://xeiaso.net/notes/2025/we-dodged-a-bullet/)
 * [The story of Creative Technology](https://www.abortretry.fail/p/the-story-of-creative-technology)
@@ -84,10 +85,11 @@ A table of things ...
 * [Addressing the unauthorized issuance of multiple TLS certificates for 1.1.1.1](https://blog.cloudflare.com/unauthorized-issuance-of-certificates-for-1-1-1-1/)
 * [zed.dev](https://zed.dev/blog/claude-code-via-acp)
 * [GitHub - aws-samples/sample-developer-tutorials](https://github.com/aws-samples/sample-developer-tutorials/tree/main)
-* [Kazeta - Just Play](https://kazeta.org/)
 
 ### Things I'm star-ing
 
+* [fartscroll-lid](https://github.com/iannuttall/fartscroll-lid)
+  A hilarious macOS app that plays fart sounds as you open and close your MacBook lid
 * [cagent](https://github.com/docker/cagent)
   Agent Builder and Runtime by Docker Engineering
 * [sample-developer-tutorials](https://github.com/aws-samples/sample-developer-tutorials)
@@ -108,8 +110,6 @@ A table of things ...
   Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 * [consul-dataplane](https://github.com/hashicorp/consul-dataplane)
   None
-* [ubicloud](https://github.com/ubicloud/ubicloud)
-  Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
 
 ### My Blog Posts
 
