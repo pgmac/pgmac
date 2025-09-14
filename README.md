@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [vicinae](https://github.com/vicinaehq/vicinae)
+  A focused launcher for your desktop — native, fast, extensible
 * [fartscroll-lid](https://github.com/iannuttall/fartscroll-lid)
   A hilarious macOS app that plays fart sounds as you open and close your MacBook lid
 * [cagent](https://github.com/docker/cagent)
@@ -108,8 +110,6 @@ A table of things ...
   (WIP) Zed fork focused on privacy and being local-first
 * [unsloth](https://github.com/unslothai/unsloth)
   Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
-* [consul-dataplane](https://github.com/hashicorp/consul-dataplane)
-  None
 
 ### My Blog Posts
 
