@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [One Token to rule them all - obtaining Global Admin in every Entra ID tenant via Actor tokens - dirkjanm.io](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/)
 * [How to Use Claude Code Subagents to Parallelize Development | zach wills](https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/)
 * [GitHub - iannuttall/fartscroll-lid: A hilarious macOS app that plays fart sounds as you open and close your MacBook lid](https://github.com/iannuttall/fartscroll-lid)
 * [DOOMscroll — The Game](https://gisnep.com/doomscroll/)
@@ -84,7 +85,6 @@ A table of things ...
 * [GitHub - docker/cagent: Agent Builder and Runtime by Docker Engineering](https://github.com/docker/cagent)
 * [WiFi signals can measure heart rate—no wearables needed - News](https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/)
 * [Addressing the unauthorized issuance of multiple TLS certificates for 1.1.1.1](https://blog.cloudflare.com/unauthorized-issuance-of-certificates-for-1-1-1-1/)
-* [zed.dev](https://zed.dev/blog/claude-code-via-acp)
 
 ### Things I'm star-ing
 
