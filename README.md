@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Playing "Minecraft" without Minecraft (free minecraft-like/compatible game) - LenOwO](https://lenowo.org/viewtopic.php?t=5)
 * [One Token to rule them all - obtaining Global Admin in every Entra ID tenant via Actor tokens - dirkjanm.io](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/)
 * [How to Use Claude Code Subagents to Parallelize Development | zach wills](https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/)
 * [GitHub - iannuttall/fartscroll-lid: A hilarious macOS app that plays fart sounds as you open and close your MacBook lid](https://github.com/iannuttall/fartscroll-lid)
@@ -84,7 +85,6 @@ A table of things ...
 * [The Demo Scene is Dying, But That's Alright | datagubbe.se](https://www.datagubbe.se/sceneherit/)
 * [GitHub - docker/cagent: Agent Builder and Runtime by Docker Engineering](https://github.com/docker/cagent)
 * [WiFi signals can measure heart rate—no wearables needed - News](https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/)
-* [Addressing the unauthorized issuance of multiple TLS certificates for 1.1.1.1](https://blog.cloudflare.com/unauthorized-issuance-of-certificates-for-1-1-1-1/)
 
 ### Things I'm star-ing
 
@@ -109,7 +109,7 @@ A table of things ...
 * [zedless](https://github.com/zedless-editor/zedless)
   (WIP) Zed fork focused on privacy and being local-first
 * [unsloth](https://github.com/unslothai/unsloth)
-  Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+  Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
 
 ### My Blog Posts
 
