@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [blog.inf.ed.ac.uk](https://blog.inf.ed.ac.uk/sapm/2014/03/14/we-could-write-nearly-perfect-software-but-we-choose-not-to/)
 * [Playing "Minecraft" without Minecraft (free minecraft-like/compatible game) - LenOwO](https://lenowo.org/viewtopic.php?t=5)
 * [One Token to rule them all - obtaining Global Admin in every Entra ID tenant via Actor tokens - dirkjanm.io](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/)
 * [How to Use Claude Code Subagents to Parallelize Development | zach wills](https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/)
@@ -84,10 +85,11 @@ A table of things ...
 * [The story of Creative Technology](https://www.abortretry.fail/p/the-story-of-creative-technology)
 * [The Demo Scene is Dying, But That's Alright | datagubbe.se](https://www.datagubbe.se/sceneherit/)
 * [GitHub - docker/cagent: Agent Builder and Runtime by Docker Engineering](https://github.com/docker/cagent)
-* [WiFi signals can measure heart rate—no wearables needed - News](https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/)
 
 ### Things I'm star-ing
 
+* [helm-ls](https://github.com/mrjosh/helm-ls)
+  ⎈ Language server for Helm ⎈
 * [vicinae](https://github.com/vicinaehq/vicinae)
   A focused launcher for your desktop — native, fast, extensible
 * [fartscroll-lid](https://github.com/iannuttall/fartscroll-lid)
@@ -108,8 +110,6 @@ A table of things ...
   Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 * [zedless](https://github.com/zedless-editor/zedless)
   (WIP) Zed fork focused on privacy and being local-first
-* [unsloth](https://github.com/unslothai/unsloth)
-  Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
 
 ### My Blog Posts
 
