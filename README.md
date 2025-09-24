@@ -75,7 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-* [New Tab](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner)
+* [OpenSSF to freeloaders: Open source infra isn't free • The Register](https://www.theregister.com/2025/09/23/openssf_open_source_infrastructure/)
+* [How I, a non-developer, read the tutorial you, a developer, wrote for me, a beginner](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner)
 * [blog.inf.ed.ac.uk](https://blog.inf.ed.ac.uk/sapm/2014/03/14/we-could-write-nearly-perfect-software-but-we-choose-not-to/)
 * [Playing "Minecraft" without Minecraft (free minecraft-like/compatible game) - LenOwO](https://lenowo.org/viewtopic.php?t=5)
 * [One Token to rule them all - obtaining Global Admin in every Entra ID tenant via Actor tokens - dirkjanm.io](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/)
@@ -84,7 +85,6 @@ A table of things ...
 * [DOOMscroll — The Game](https://gisnep.com/doomscroll/)
 * [We all dodged a bullet - Xe Iaso](https://xeiaso.net/notes/2025/we-dodged-a-bullet/)
 * [The story of Creative Technology](https://www.abortretry.fail/p/the-story-of-creative-technology)
-* [The Demo Scene is Dying, But That's Alright | datagubbe.se](https://www.datagubbe.se/sceneherit/)
 
 ### Things I'm star-ing
 
