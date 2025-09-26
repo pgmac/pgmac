@@ -75,7 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-
+* [Helium Browser](https://helium.computer/)
+* [OpenSSF to freeloaders: Open source infra isn't free • The Register](https://www.theregister.com/2025/09/23/openssf_open_source_infrastructure/)
+* [How I, a non-developer, read the tutorial you, a developer, wrote for me, a beginner](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner)
+* [blog.inf.ed.ac.uk](https://blog.inf.ed.ac.uk/sapm/2014/03/14/we-could-write-nearly-perfect-software-but-we-choose-not-to/)
+* [Playing "Minecraft" without Minecraft (free minecraft-like/compatible game) - LenOwO](https://lenowo.org/viewtopic.php?t=5)
+* [One Token to rule them all - obtaining Global Admin in every Entra ID tenant via Actor tokens - dirkjanm.io](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/)
+* [How to Use Claude Code Subagents to Parallelize Development | zach wills](https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/)
+* [GitHub - iannuttall/fartscroll-lid: A hilarious macOS app that plays fart sounds as you open and close your MacBook lid](https://github.com/iannuttall/fartscroll-lid)
+* [DOOMscroll — The Game](https://gisnep.com/doomscroll/)
+* [We all dodged a bullet - Xe Iaso](https://xeiaso.net/notes/2025/we-dodged-a-bullet/)
 
 ### Things I'm star-ing
 
