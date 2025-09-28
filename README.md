@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - francoismichel/ssh3: SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/](https://github.com/francoismichel/ssh3)
 * [Helium Browser](https://helium.computer/)
 * [OpenSSF to freeloaders: Open source infra isn't free • The Register](https://www.theregister.com/2025/09/23/openssf_open_source_infrastructure/)
 * [How I, a non-developer, read the tutorial you, a developer, wrote for me, a beginner](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner)
@@ -84,10 +85,11 @@ A table of things ...
 * [How to Use Claude Code Subagents to Parallelize Development | zach wills](https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/)
 * [GitHub - iannuttall/fartscroll-lid: A hilarious macOS app that plays fart sounds as you open and close your MacBook lid](https://github.com/iannuttall/fartscroll-lid)
 * [DOOMscroll — The Game](https://gisnep.com/doomscroll/)
-* [We all dodged a bullet - Xe Iaso](https://xeiaso.net/notes/2025/we-dodged-a-bullet/)
 
 ### Things I'm star-ing
 
+* [ssh3](https://github.com/francoismichel/ssh3)
+  SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 * [stack-overflow-import](https://github.com/drathier/stack-overflow-import)
   Import arbitrary code from Stack Overflow as Python modules.
 * [helm-ls](https://github.com/mrjosh/helm-ls)
@@ -108,8 +110,6 @@ A table of things ...
   A lightweight and full-featured cross-platform desktop client for self-hosted music servers
 * [plutoprint](https://github.com/plutoprint/plutoprint)
   A Python Library for Generating PDFs and Images from HTML, powered by PlutoBook
-* [zed](https://github.com/zed-industries/zed)
-  Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 ### My Blog Posts
 
