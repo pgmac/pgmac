@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [ty](https://github.com/astral-sh/ty)
+  An extremely fast Python type checker and language server, written in Rust.
 * [ssh3](https://github.com/francoismichel/ssh3)
   SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 * [stack-overflow-import](https://github.com/drathier/stack-overflow-import)
@@ -108,8 +110,6 @@ A table of things ...
   AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 * [supersonic](https://github.com/dweymouth/supersonic)
   A lightweight and full-featured cross-platform desktop client for self-hosted music servers
-* [plutoprint](https://github.com/plutoprint/plutoprint)
-  A Python Library for Generating PDFs and Images from HTML, powered by PlutoBook
 
 ### My Blog Posts
 
