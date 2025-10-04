@@ -92,7 +92,7 @@ def add_link_to_linkace(url, title, tags=None, timeout=30):
                 if 'url has already been taken' in str(error_data).lower():
                     print(f"- Already exists: {title}")
                     return False
-            except:
+            except ValueError:
                 pass
         print(f"✗ Error adding '{title}': {e}")
         return False
