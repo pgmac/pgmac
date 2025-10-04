@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Where It's at:// — overreacted](https://overreacted.io/where-its-at/)
+* [www.reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/almost-1-billion-salesforce-records-stolen-hacker-group-claims-2025-10-03/)
+* [Discord customer service data breach leaks user info and scanned photo IDs | The Verge](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack)
 * [Finding THE RAREST 90's arcade game!! Fun World arcade tour (Nashua NH)](https://www.youtube.com/watch?v=7mdxKHzoVPA)
 * [Making Python in Zed Fun — Zed's Blog](https://zed.dev/blog/making-python-in-zed-fun)
 * [Rugby Live Data](https://rapidapi.com/sportcontentapi/api/rugby-live-data)
@@ -82,9 +85,6 @@ A table of things ...
 * [Creating Python GUIs With GIMP | Hackaday](https://hackaday.com/2025/09/29/creating-python-guis-with-gimp/)
 * [Messenger](https://messenger.abeto.co/)
 * [Kairos](https://kairos.io/)
-* [Red Hat confirms security incident after hackers claim GitHub breach](https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/)
-* [GitHub - francoismichel/ssh3: SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/](https://github.com/francoismichel/ssh3)
-* [Helium Browser](https://helium.computer/)
 
 ### Things I'm star-ing
 
