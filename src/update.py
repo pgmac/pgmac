@@ -256,7 +256,7 @@ def format_stars_section(stars):
         str: Formatted section
     """
     section = "\n### Things I'm star-ing\n\n"
-    lines = [f"* [{star['name']}]({star['url']})\n  {star['description']}" for star in stars]
+    lines = [f"* [{star['name']}]({star['url']})\n  {star.get('description', '') or ''}" for star in stars]
     section += '\n'.join(lines)
     section += "\n"
     return section
