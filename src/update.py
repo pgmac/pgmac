@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-# from pocket import Pocket, PocketException
 from os import environ
 import feedparser
 import requests
@@ -37,28 +36,6 @@ def links_pop():
         print(f"Error fetching links from API: {e}")
         return {}
     return {}
-
-
-def pocket_pop():
-    conskey = environ.get("POCKET_CONSKEY")
-    acctok = environ.get("POCKET_ACCTOK")
-
-    p = Pocket(
-        consumer_key=conskey,
-        access_token=acctok
-    )
-
-    retstr = "\n### Articles I've added to my [GetPocket](https://getpocket.com/) list\n\n"
-
-    try:
-        articles = p.retrieve(offset=0, count=10)
-        for url in articles['list'].values():
-            # print("* [{}]({})\n".format(url['resolved_title'], url['resolved_url']))
-            retstr += "* [{}]({})\n".format(url.get('resolved_title', '&nbsp;'), url.get('resolved_url', '#'))
-    except PocketException as e:
-        print(e.message)
-
-    return retstr
 
 
 def pgmac_pop(l_url):
