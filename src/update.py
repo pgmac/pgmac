@@ -89,7 +89,8 @@ def add_link_to_linkace(url, title, tags=None, timeout=30):
         if e.response.status_code == 422:
             try:
                 error_data = e.response.json()
-                if 'url has already been taken' in str(error_data).lower():
+                duplicate_url_message = 'url has already been taken'
+                if duplicate_url_message in str(error_data).lower():
                     print(f"- Already exists: {title}")
                     return False
             except ValueError:
