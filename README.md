@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Making Python in Zed Fun — Zed's Blog](https://zed.dev/blog/making-python-in-zed-fun)
 * [Rugby Live Data](https://rapidapi.com/sportcontentapi/api/rugby-live-data)
 * [Cloud Intelligence Dashboards Framework - Cloud Intelligence Dashboards on AWS](https://docs.aws.amazon.com/guidance/latest/cloud-intelligence-dashboards/getting-started.html)
 * [Creating Python GUIs With GIMP | Hackaday](https://hackaday.com/2025/09/29/creating-python-guis-with-gimp/)
@@ -84,7 +85,6 @@ A table of things ...
 * [GitHub - francoismichel/ssh3: SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/](https://github.com/francoismichel/ssh3)
 * [Helium Browser](https://helium.computer/)
 * [OpenSSF to freeloaders: Open source infra isn't free • The Register](https://www.theregister.com/2025/09/23/openssf_open_source_infrastructure/)
-* [How I, a non-developer, read the tutorial you, a developer, wrote for me, a beginner](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner)
 
 ### Things I'm star-ing
 
@@ -108,9 +108,8 @@ A table of things ...
   Fast caching software with a focus on low latency and cpu efficiency.
 * [awx](https://github.com/ansible/awx)
   AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
-* [supersonic](https://github.com/dweymouth/supersonic)
-  A lightweight and full-featured cross-platform desktop client for self-hosted music servers
 
 ### My Blog Posts
 
 * [Things I'm interested in Last Week](https://pgmac.net.au/last-week/)
+

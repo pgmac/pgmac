@@ -30,8 +30,6 @@ jobs:
           pip install -r src/requirements.txt
       - name: Update README
         env:
-          POCKET_ACCTOK: ${{ secrets.POCKET_ACCTOK }}
-          POCKET_CONSKEY: ${{ secrets.POCKET_CONSKEY }}
           PGLINKS_KEY: ${{ secrets.PGLINKS_KEY }}
         run: |-
           python src/update.py
