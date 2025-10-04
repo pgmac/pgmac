@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Finding THE RAREST 90's arcade game!! Fun World arcade tour (Nashua NH)](https://www.youtube.com/watch?v=7mdxKHzoVPA)
 * [Making Python in Zed Fun — Zed's Blog](https://zed.dev/blog/making-python-in-zed-fun)
 * [Rugby Live Data](https://rapidapi.com/sportcontentapi/api/rugby-live-data)
 * [Cloud Intelligence Dashboards Framework - Cloud Intelligence Dashboards on AWS](https://docs.aws.amazon.com/guidance/latest/cloud-intelligence-dashboards/getting-started.html)
@@ -84,7 +85,6 @@ A table of things ...
 * [Red Hat confirms security incident after hackers claim GitHub breach](https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/)
 * [GitHub - francoismichel/ssh3: SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/](https://github.com/francoismichel/ssh3)
 * [Helium Browser](https://helium.computer/)
-* [OpenSSF to freeloaders: Open source infra isn't free • The Register](https://www.theregister.com/2025/09/23/openssf_open_source_infrastructure/)
 
 ### Things I'm star-ing
 
