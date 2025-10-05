@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [How to Save Your SSH Key Passphrase to Your Apple Keychain On MacOS](https://hyperion360.com/blog/how-to-save-ssh-key-passphrase-to-apple-keychain-macos/)
+* [GitHub - activepieces/activepieces: AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents](https://github.com/activepieces/activepieces)
 * [Where It's at:// — overreacted](https://overreacted.io/where-its-at/)
-* [www.reuters.com](https://www.reuters.com/sustainability/boards-policy-regulation/almost-1-billion-salesforce-records-stolen-hacker-group-claims-2025-10-03/)
+* [Almost 1 billion Salesforce records stolen, hacker group claims](https://www.reuters.com/sustainability/boards-policy-regulation/almost-1-billion-salesforce-records-stolen-hacker-group-claims-2025-10-03/)
 * [Discord customer service data breach leaks user info and scanned photo IDs | The Verge](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack)
 * [Finding THE RAREST 90's arcade game!! Fun World arcade tour (Nashua NH)](https://www.youtube.com/watch?v=7mdxKHzoVPA)
 * [Making Python in Zed Fun — Zed's Blog](https://zed.dev/blog/making-python-in-zed-fun)
 * [Rugby Live Data](https://rapidapi.com/sportcontentapi/api/rugby-live-data)
 * [Cloud Intelligence Dashboards Framework - Cloud Intelligence Dashboards on AWS](https://docs.aws.amazon.com/guidance/latest/cloud-intelligence-dashboards/getting-started.html)
 * [Creating Python GUIs With GIMP | Hackaday](https://hackaday.com/2025/09/29/creating-python-guis-with-gimp/)
-* [Messenger](https://messenger.abeto.co/)
-* [Kairos](https://kairos.io/)
 
 ### Things I'm star-ing
 
