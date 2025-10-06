@@ -73,7 +73,8 @@ def add_link_to_linkace(url, title, tags=None, timeout=30):
 
     data = {
         'url': url,
-        'title': title
+        'title': title,
+        'visibility': 1
     }
 
     if tags:
