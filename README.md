@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
 * [Sonic Robo Blast 2: 25 year old continuously developed DOOM engine-based fangame](https://www.srb2.org/)
 * [Way past its prime: how did Amazon get so rubbish?](https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish)
 * [How to Save Your SSH Key Passphrase to Your Apple Keychain On MacOS](https://hyperion360.com/blog/how-to-save-ssh-key-passphrase-to-apple-keychain-macos/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Discord customer service data breach leaks user info and scanned photo IDs | The Verge](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack)
 * [Finding THE RAREST 90's arcade game!! Fun World arcade tour (Nashua NH)](https://www.youtube.com/watch?v=7mdxKHzoVPA)
 * [Bringing Observability to Claude Code: OpenTelemetry in Action](https://signoz.io/blog/claude-code-monitoring-with-opentelemetry/)
-* [Sj.h: A tiny little JSON parsing library in ~150 lines of C99](https://github.com/rxi/sj.h)
 
 ### Things I'm star-ing
 
