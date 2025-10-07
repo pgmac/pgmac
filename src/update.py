@@ -27,6 +27,7 @@ def fetch_hn_favorites(username="pgmac", max_count=10, timeout=30):
         items = soup.find_all('tr', class_='athing')
 
         for item in items[:max_count]:
+            item_id = item.get('id', '')
             titleline = item.find('span', class_='titleline')
             if not titleline:
                 continue
@@ -39,9 +40,11 @@ def fetch_hn_favorites(username="pgmac", max_count=10, timeout=30):
             link_url = link_tag.get('href', '')
 
             if link_url:
+                hn_url = f"https://news.ycombinator.com/item?id={item_id}" if item_id else None
                 favorites.append({
                     'title': title,
-                    'url': link_url
+                    'url': link_url,
+                    'hn_url': hn_url
                 })
 
     except requests.RequestException as e:
@@ -52,13 +55,14 @@ def fetch_hn_favorites(username="pgmac", max_count=10, timeout=30):
     return favorites
 
 
-def add_link_to_linkace(url, title, tags=None, timeout=30):
+def add_link_to_linkace(url, title, tags=None, note=None, timeout=30):
     """Add a link to Link Ace.
 
     Args:
         url: Link URL
         title: Link title
         tags: List of tag names or IDs
+        note: Optional note to add to the link
         timeout: Request timeout in seconds
 
     Returns:
@@ -79,6 +83,9 @@ def add_link_to_linkace(url, title, tags=None, timeout=30):
 
     if tags:
         data['tags'] = tags
+
+    if note:
+        data['description'] = f"Found @ YCombinator Hacker News: {note}"
 
     try:
         response = requests.post(api_url, headers=headers, json=data, timeout=timeout)
@@ -119,7 +126,8 @@ def sync_hn_favorites_to_linkace(username="pgmac", max_count=10):
 
     added_count = 0
     for fav in favorites:
-        if add_link_to_linkace(fav['url'], fav['title'], tags=['hackernews']):
+        note = fav.get('hn_url')
+        if add_link_to_linkace(fav['url'], fav['title'], tags=['hackernews'], note=note):
             added_count += 1
 
     print(f"Sync complete: {added_count} new links added, {len(favorites) - added_count} already existed.\n")
