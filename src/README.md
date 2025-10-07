@@ -7,8 +7,10 @@
 ```
 python -m pip install --upgrade pip
 ```
-
-**Pocket-API**
+- beautifulsoup4
+- feedparser
+- requests
+- urllib3
 
 ```
 pip install -r src/requirements.txt
