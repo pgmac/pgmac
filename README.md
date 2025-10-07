@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The least amount of CSS for a decent looking site (2023)](https://thecascade.dev/article/least-amount-of-css/)
 * [Introducing CodeMender: an AI agent for code security - Google DeepMind](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/)
 * [Red Hat data breach escalates as ShinyHunters joins extortion](https://www.bleepingcomputer.com/news/security/red-hat-data-breach-escalates-as-shinyhunters-joins-extortion/)
 * [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
@@ -84,7 +85,6 @@ A table of things ...
 * [GitHub - activepieces/activepieces: AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents](https://github.com/activepieces/activepieces)
 * [Where It's at:// — overreacted](https://overreacted.io/where-its-at/)
 * [Almost 1 billion Salesforce records stolen, hacker group claims](https://www.reuters.com/sustainability/boards-policy-regulation/almost-1-billion-salesforce-records-stolen-hacker-group-claims-2025-10-03/)
-* [Discord customer service data breach leaks user info and scanned photo IDs | The Verge](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack)
 
 ### Things I'm star-ing
 
