@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Introducing CodeMender: an AI agent for code security - Google DeepMind](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/)
+* [Red Hat data breach escalates as ShinyHunters joins extortion](https://www.bleepingcomputer.com/news/security/red-hat-data-breach-escalates-as-shinyhunters-joins-extortion/)
 * [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
 * [Sonic Robo Blast 2: 25 year old continuously developed DOOM engine-based fangame](https://www.srb2.org/)
 * [Way past its prime: how did Amazon get so rubbish?](https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish)
@@ -83,8 +85,6 @@ A table of things ...
 * [Where It's at:// — overreacted](https://overreacted.io/where-its-at/)
 * [Almost 1 billion Salesforce records stolen, hacker group claims](https://www.reuters.com/sustainability/boards-policy-regulation/almost-1-billion-salesforce-records-stolen-hacker-group-claims-2025-10-03/)
 * [Discord customer service data breach leaks user info and scanned photo IDs | The Verge](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack)
-* [Finding THE RAREST 90's arcade game!! Fun World arcade tour (Nashua NH)](https://www.youtube.com/watch?v=7mdxKHzoVPA)
-* [Bringing Observability to Claude Code: OpenTelemetry in Action](https://signoz.io/blog/claude-code-monitoring-with-opentelemetry/)
 
 ### Things I'm star-ing
 
