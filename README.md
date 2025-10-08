@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Honest Trailers | Tron: Legacy - YouTube](https://youtu.be/LSsYT0utKHw?si=jqKWo473xcyKuqJn)
+* [A cartoonist's review of AI art - The Oatmeal](https://theoatmeal.com/comics/ai_art)
 * [Pdoc – Generate API documentation for Python projects](https://pdoc.dev/)
 * [Deloitte delivers report to government using AI which contained errors | ABC NEWS - YouTube](https://youtu.be/C17KWJ02Goo)
 * [OpenSSH Vulnerability Exploited Via ProxyCommand to Execute Remote Code](https://cybersecuritynews.com/openssh-vulnerability-proxycommand/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Red Hat data breach escalates as ShinyHunters joins extortion](https://www.bleepingcomputer.com/news/security/red-hat-data-breach-escalates-as-shinyhunters-joins-extortion/)
 * [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
 * [Sonic Robo Blast 2: 25 year old continuously developed DOOM engine-based fangame](https://www.srb2.org/)
-* [Way past its prime: how did Amazon get so rubbish?](https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish)
-* [How to Save Your SSH Key Passphrase to Your Apple Keychain On MacOS](https://hyperion360.com/blog/how-to-save-ssh-key-passphrase-to-apple-keychain-macos/)
 
 ### Things I'm star-ing
 
