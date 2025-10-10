@@ -75,16 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-* [Show HN: Timelinize – Privately organize your own data from everywhere, locally](https://timelinize.com)
-* [Honest Trailers | Tron: Legacy - YouTube](https://youtu.be/LSsYT0utKHw?si=jqKWo473xcyKuqJn)
-* [A cartoonist's review of AI art - The Oatmeal](https://theoatmeal.com/comics/ai_art)
-* [Pdoc – Generate API documentation for Python projects](https://pdoc.dev/)
-* [Deloitte delivers report to government using AI which contained errors | ABC NEWS - YouTube](https://youtu.be/C17KWJ02Goo)
-* [OpenSSH Vulnerability Exploited Via ProxyCommand to Execute Remote Code](https://cybersecuritynews.com/openssh-vulnerability-proxycommand/)
-* [The least amount of CSS for a decent looking site (2023)](https://thecascade.dev/article/least-amount-of-css/)
-* [Introducing CodeMender: an AI agent for code security - Google DeepMind](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/)
-* [Red Hat data breach escalates as ShinyHunters joins extortion](https://www.bleepingcomputer.com/news/security/red-hat-data-breach-escalates-as-shinyhunters-joins-extortion/)
-* [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
+
 
 ### Things I'm star-ing
 
