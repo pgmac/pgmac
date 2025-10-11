@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
 * [Show HN: Timelinize – Privately organize your own data from everywhere, locally](https://timelinize.com)
 * [Honest Trailers | Tron: Legacy - YouTube](https://youtu.be/LSsYT0utKHw?si=jqKWo473xcyKuqJn)
 * [A cartoonist's review of AI art - The Oatmeal](https://theoatmeal.com/comics/ai_art)
@@ -84,7 +85,6 @@ A table of things ...
 * [The least amount of CSS for a decent looking site (2023)](https://thecascade.dev/article/least-amount-of-css/)
 * [Introducing CodeMender: an AI agent for code security - Google DeepMind](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/)
 * [Red Hat data breach escalates as ShinyHunters joins extortion](https://www.bleepingcomputer.com/news/security/red-hat-data-breach-escalates-as-shinyhunters-joins-extortion/)
-* [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
 
 ### Things I'm star-ing
 
