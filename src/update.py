@@ -55,18 +55,17 @@ def fetch_hn_favorites(username="pgmac", max_count=10, timeout=30):
     return favorites
 
 
-def add_link_to_linkace(url, title, tags=None, note=None, timeout=30):
+def add_link_to_linkace(url, title, tags=None, timeout=30):
     """Add a link to Link Ace.
 
     Args:
         url: Link URL
         title: Link title
         tags: List of tag names or IDs
-        note: Optional note to add to the link
         timeout: Request timeout in seconds
 
     Returns:
-        bool: True if successful, False otherwise
+        int or None: Link ID if successful, None otherwise
     """
     api_url = "https://links.pgmac.net.au/api/v2/links"
     headers = {
@@ -84,14 +83,13 @@ def add_link_to_linkace(url, title, tags=None, note=None, timeout=30):
     if tags:
         data['tags'] = tags
 
-    if note:
-        data['description'] = f"Found @ YCombinator Hacker News: {note}"
-
     try:
         response = requests.post(api_url, headers=headers, json=data, timeout=timeout)
         response.raise_for_status()
+        link_data = response.json()
+        link_id = link_data.get('data', {}).get('id')
         print(f"✓ Added: {title}")
-        return True
+        return link_id
     except requests.HTTPError as e:
         # Check if it's a duplicate URL error
         if e.response.status_code == 422:
@@ -100,18 +98,53 @@ def add_link_to_linkace(url, title, tags=None, note=None, timeout=30):
                 duplicate_url_message = 'url has already been taken'
                 if duplicate_url_message in str(error_data).lower():
                     print(f"- Already exists: {title}")
-                    return False
+                    return None
             except ValueError:
                 pass
         print(f"✗ Error adding '{title}': {e}")
-        return False
+        return None
     except requests.RequestException as e:
         print(f"✗ Error adding '{title}': {e}")
+        return None
+
+
+def add_note_to_link(link_id, note_text, visibility=1, timeout=30):
+    """Add a note to a Link Ace link.
+
+    Args:
+        link_id: ID of the link to add the note to
+        note_text: Text content of the note
+        visibility: Note visibility (1=public, 2=internal, 3=private)
+        timeout: Request timeout in seconds
+
+    Returns:
+        bool: True if successful, False otherwise
+    """
+    api_url = "https://links.pgmac.net.au/api/v2/notes"
+    headers = {
+        'Authorization': f"Bearer {environ.get('PGLINKS_KEY')}",
+        'accept': 'application/json',
+        'Content-Type': 'application/json'
+    }
+
+    data = {
+        'link_id': link_id,
+        'note': note_text,
+        'visibility': visibility
+    }
+
+    try:
+        response = requests.post(api_url, headers=headers, json=data, timeout=timeout)
+        response.raise_for_status()
+        print(f"  ✓ Added note to link {link_id}")
+        return True
+    except requests.RequestException as e:
+        print(f"  ✗ Error adding note to link {link_id}: {e}")
         return False
 
 
 def sync_hn_favorites_to_linkace(username="pgmac", max_count=10):
-    """Fetch HN favorites and add them to Link Ace with 'hackernews' tag.
+    """Fetch HN favorites and add them to Link Ace with 'hackernews' tag and HN URL as note.
 
     Args:
         username: HN username
@@ -126,9 +159,14 @@ def sync_hn_favorites_to_linkace(username="pgmac", max_count=10):
 
     added_count = 0
     for fav in favorites:
-        note = fav.get('hn_url')
-        if add_link_to_linkace(fav['url'], fav['title'], tags=['hackernews'], note=note):
+        hn_url = fav.get('hn_url')
+        link_id = add_link_to_linkace(fav['url'], fav['title'], tags=['hackernews'])
+
+        if link_id:
             added_count += 1
+            # Add note with HN URL if available
+            if hn_url:
+                add_note_to_link(link_id, f"Found @ YCombinator Hacker News: {hn_url}")
 
     print(f"Sync complete: {added_count} new links added, {len(favorites) - added_count} already existed.\n")
 

@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Show HN: Rift – A tiling window manager for macOS](https://github.com/acsandmann/rift)
+* [Vibing a non-trivial Ghostty feature](https://mitchellh.com/writing/non-trivial-vibing)
+* [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
 * [Show HN: Timelinize – Privately organize your own data from everywhere, locally](https://timelinize.com)
 * [Honest Trailers | Tron: Legacy - YouTube](https://youtu.be/LSsYT0utKHw?si=jqKWo473xcyKuqJn)
 * [A cartoonist's review of AI art - The Oatmeal](https://theoatmeal.com/comics/ai_art)
@@ -82,12 +85,11 @@ A table of things ...
 * [Deloitte delivers report to government using AI which contained errors | ABC NEWS - YouTube](https://youtu.be/C17KWJ02Goo)
 * [OpenSSH Vulnerability Exploited Via ProxyCommand to Execute Remote Code](https://cybersecuritynews.com/openssh-vulnerability-proxycommand/)
 * [The least amount of CSS for a decent looking site (2023)](https://thecascade.dev/article/least-amount-of-css/)
-* [Introducing CodeMender: an AI agent for code security - Google DeepMind](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/)
-* [Red Hat data breach escalates as ShinyHunters joins extortion](https://www.bleepingcomputer.com/news/security/red-hat-data-breach-escalates-as-shinyhunters-joins-extortion/)
-* [Mise: Monorepo Tasks](https://github.com/jdx/mise/discussions/6564)
 
 ### Things I'm star-ing
 
+* [rift](https://github.com/acsandmann/rift)
+  a tiling window manager for macos
 * [ty](https://github.com/astral-sh/ty)
   An extremely fast Python type checker and language server, written in Rust.
 * [ssh3](https://github.com/francoismichel/ssh3)
@@ -106,8 +108,6 @@ A table of things ...
   
 * [pogocache](https://github.com/pogocache/pogocache)
   Fast caching software with a focus on low latency and cpu efficiency.
-* [awx](https://github.com/ansible/awx)
-  AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 
 ### My Blog Posts
 
