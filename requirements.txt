@@ -1,0 +1,3 @@
+feedparser
+BeautifulSoup4
+requests
