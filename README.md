@@ -85,7 +85,6 @@ A table of things ...
 * [Deloitte delivers report to government using AI which contained errors | ABC NEWS - YouTube](https://youtu.be/C17KWJ02Goo)
 * [OpenSSH Vulnerability Exploited Via ProxyCommand to Execute Remote Code](https://cybersecuritynews.com/openssh-vulnerability-proxycommand/)
 * [The least amount of CSS for a decent looking site (2023)](https://thecascade.dev/article/least-amount-of-css/)
-* [Introducing CodeMender: an AI agent for code security - Google DeepMind](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/)
 
 ### Things I'm star-ing
 
