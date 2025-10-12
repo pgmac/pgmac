@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Vibing a non-trivial Ghostty feature](https://mitchellh.com/writing/non-trivial-vibing)
 * [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
 * [Show HN: Timelinize – Privately organize your own data from everywhere, locally](https://timelinize.com)
 * [Honest Trailers | Tron: Legacy - YouTube](https://youtu.be/LSsYT0utKHw?si=jqKWo473xcyKuqJn)
@@ -84,7 +85,6 @@ A table of things ...
 * [OpenSSH Vulnerability Exploited Via ProxyCommand to Execute Remote Code](https://cybersecuritynews.com/openssh-vulnerability-proxycommand/)
 * [The least amount of CSS for a decent looking site (2023)](https://thecascade.dev/article/least-amount-of-css/)
 * [Introducing CodeMender: an AI agent for code security - Google DeepMind](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/)
-* [Red Hat data breach escalates as ShinyHunters joins extortion](https://www.bleepingcomputer.com/news/security/red-hat-data-breach-escalates-as-shinyhunters-joins-extortion/)
 
 ### Things I'm star-ing
 
