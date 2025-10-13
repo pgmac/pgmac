@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Anthropic's Prompt Engineering Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
+* [The Prodigy Medley | The Bands of HM Royal Marines - YouTube](https://youtu.be/FJBdGTN56rU?si=w9K1mweFTm3pjYTN)
 * [Show HN: Rift – A tiling window manager for macOS](https://github.com/acsandmann/rift)
 * [Vibing a non-trivial Ghostty feature](https://mitchellh.com/writing/non-trivial-vibing)
 * [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
@@ -83,9 +85,6 @@ A table of things ...
 * [A cartoonist's review of AI art - The Oatmeal](https://theoatmeal.com/comics/ai_art)
 * [Pdoc – Generate API documentation for Python projects](https://pdoc.dev/)
 * [Deloitte delivers report to government using AI which contained errors | ABC NEWS - YouTube](https://youtu.be/C17KWJ02Goo)
-* [OpenSSH Vulnerability Exploited Via ProxyCommand to Execute Remote Code](https://cybersecuritynews.com/openssh-vulnerability-proxycommand/)
-* [The least amount of CSS for a decent looking site (2023)](https://thecascade.dev/article/least-amount-of-css/)
-* [Introducing CodeMender: an AI agent for code security - Google DeepMind](https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/)
 
 ### Things I'm star-ing
 
