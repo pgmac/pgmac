@@ -166,7 +166,7 @@ def sync_hn_favorites_to_linkace(username="pgmac", max_count=10):
             added_count += 1
             # Add note with HN URL if available
             if hn_url:
-                add_note_to_link(link_id, f"Found @ YCombinator Hacker News: {hn_url}")
+                add_note_to_link(link_id, f"[Found @ YCombinator Hacker News]({hn_url})")
 
     print(f"Sync complete: {added_count} new links added, {len(favorites) - added_count} already existed.\n")
 
