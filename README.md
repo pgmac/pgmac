@@ -75,16 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-* [Root cause analysis? You're doing it wrong](https://entropicthoughts.com/root-cause-analysis-youre-doing-it-wrong)
-* [Anthropic's Prompt Engineering Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
-* [The Prodigy Medley | The Bands of HM Royal Marines - YouTube](https://youtu.be/FJBdGTN56rU?si=w9K1mweFTm3pjYTN)
-* [Show HN: Rift – A tiling window manager for macOS](https://github.com/acsandmann/rift)
-* [Vibing a non-trivial Ghostty feature](https://mitchellh.com/writing/non-trivial-vibing)
-* [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
-* [Show HN: Timelinize – Privately organize your own data from everywhere, locally](https://timelinize.com)
-* [Honest Trailers | Tron: Legacy - YouTube](https://youtu.be/LSsYT0utKHw?si=jqKWo473xcyKuqJn)
-* [A cartoonist's review of AI art - The Oatmeal](https://theoatmeal.com/comics/ai_art)
-* [Pdoc – Generate API documentation for Python projects](https://pdoc.dev/)
+
 
 ### Things I'm star-ing
 
