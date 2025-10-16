@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [New coding models and integrations](https://ollama.com/blog/coding-models)
 * [FSF announces Librephone project — Free Software Foundation — Working together for free software](https://www.fsf.org/news/librephone-project)
 * [Root cause analysis? You're doing it wrong](https://entropicthoughts.com/root-cause-analysis-youre-doing-it-wrong)
 * [Anthropic's Prompt Engineering Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
@@ -84,7 +85,6 @@ A table of things ...
 * [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
 * [Show HN: Timelinize – Privately organize your own data from everywhere, locally](https://timelinize.com)
 * [Honest Trailers | Tron: Legacy - YouTube](https://youtu.be/LSsYT0utKHw?si=jqKWo473xcyKuqJn)
-* [A cartoonist's review of AI art - The Oatmeal](https://theoatmeal.com/comics/ai_art)
 
 ### Things I'm star-ing
 
