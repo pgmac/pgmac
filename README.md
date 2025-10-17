@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Claude Skills](https://www.anthropic.com/news/skills)
+* [Secure AI/ML-Driven Software Development (LFEL1012): Learn to Build Safer Software with AI](https://openssf.org/blog/2025/10/16/a-new-course-on-secure-ai-ml-driven-software-development/)
 * [New coding models and integrations](https://ollama.com/blog/coding-models)
 * [FSF announces Librephone project — Free Software Foundation — Working together for free software](https://www.fsf.org/news/librephone-project)
 * [Root cause analysis? You're doing it wrong](https://entropicthoughts.com/root-cause-analysis-youre-doing-it-wrong)
@@ -83,8 +85,6 @@ A table of things ...
 * [Show HN: Rift – A tiling window manager for macOS](https://github.com/acsandmann/rift)
 * [Vibing a non-trivial Ghostty feature](https://mitchellh.com/writing/non-trivial-vibing)
 * [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
-* [Show HN: Timelinize – Privately organize your own data from everywhere, locally](https://timelinize.com)
-* [Honest Trailers | Tron: Legacy - YouTube](https://youtu.be/LSsYT0utKHw?si=jqKWo473xcyKuqJn)
 
 ### Things I'm star-ing
 
