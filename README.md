@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [New Work by Gary Larson | TheFarSide.com](https://www.thefarside.com/new-stuff)
 * [WebMCP](https://github.com/jasonjmcghee/WebMCP)
 * [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
 * [Accelerate developer productivity with these 9 open source AI and MCP projects - The GitHub Blog](https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/)
@@ -84,7 +85,6 @@ A table of things ...
 * [FSF announces Librephone project — Free Software Foundation — Working together for free software](https://www.fsf.org/news/librephone-project)
 * [Root cause analysis? You're doing it wrong](https://entropicthoughts.com/root-cause-analysis-youre-doing-it-wrong)
 * [Anthropic's Prompt Engineering Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
-* [The Prodigy Medley | The Bands of HM Royal Marines - YouTube](https://youtu.be/FJBdGTN56rU?si=w9K1mweFTm3pjYTN)
 
 ### Things I'm star-ing
 
