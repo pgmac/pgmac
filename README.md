@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Free Programing Books](https://github.com/EbookFoundation/free-programming-books)
+* [IDEs we had 30 years ago and lost (2023)](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
 * [New Work by Gary Larson | TheFarSide.com](https://www.thefarside.com/new-stuff)
 * [WebMCP](https://github.com/jasonjmcghee/WebMCP)
 * [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
@@ -83,11 +85,11 @@ A table of things ...
 * [Secure AI/ML-Driven Software Development (LFEL1012): Learn to Build Safer Software with AI](https://openssf.org/blog/2025/10/16/a-new-course-on-secure-ai-ml-driven-software-development/)
 * [New coding models and integrations](https://ollama.com/blog/coding-models)
 * [FSF announces Librephone project — Free Software Foundation — Working together for free software](https://www.fsf.org/news/librephone-project)
-* [Root cause analysis? You're doing it wrong](https://entropicthoughts.com/root-cause-analysis-youre-doing-it-wrong)
-* [Anthropic's Prompt Engineering Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
 
 ### Things I'm star-ing
 
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+  :books: Freely available programming books
 * [rift](https://github.com/acsandmann/rift)
   a tiling window manager for macos
 * [ty](https://github.com/astral-sh/ty)
@@ -106,8 +108,6 @@ A table of things ...
   Agent Builder and Runtime by Docker Engineering
 * [sample-developer-tutorials](https://github.com/aws-samples/sample-developer-tutorials)
   
-* [pogocache](https://github.com/pogocache/pogocache)
-  Fast caching software with a focus on low latency and cpu efficiency.
 
 ### My Blog Posts
 
