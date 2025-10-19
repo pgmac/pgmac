@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
+* [./watch](https://dotslashwatch.com/)
+* [K8s with 1M nodes](https://bchess.github.io/k8s-1m/)
 * [Free Programing Books](https://github.com/EbookFoundation/free-programming-books)
 * [IDEs we had 30 years ago and lost (2023)](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
 * [New Work by Gary Larson | TheFarSide.com](https://www.thefarside.com/new-stuff)
@@ -82,9 +85,6 @@ A table of things ...
 * [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
 * [Accelerate developer productivity with these 9 open source AI and MCP projects - The GitHub Blog](https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/)
 * [Claude Skills](https://www.anthropic.com/news/skills)
-* [Secure AI/ML-Driven Software Development (LFEL1012): Learn to Build Safer Software with AI](https://openssf.org/blog/2025/10/16/a-new-course-on-secure-ai-ml-driven-software-development/)
-* [New coding models and integrations](https://ollama.com/blog/coding-models)
-* [FSF announces Librephone project — Free Software Foundation — Working together for free software](https://www.fsf.org/news/librephone-project)
 
 ### Things I'm star-ing
 
