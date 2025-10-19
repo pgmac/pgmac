@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [EQ: A video about all forms of equalizers](https://www.youtube.com/watch?v=CLAt95PrwL4)
 * [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
 * [./watch](https://dotslashwatch.com/)
 * [K8s with 1M nodes](https://bchess.github.io/k8s-1m/)
@@ -84,7 +85,6 @@ A table of things ...
 * [WebMCP](https://github.com/jasonjmcghee/WebMCP)
 * [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
 * [Accelerate developer productivity with these 9 open source AI and MCP projects - The GitHub Blog](https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/)
-* [Claude Skills](https://www.anthropic.com/news/skills)
 
 ### Things I'm star-ing
 
