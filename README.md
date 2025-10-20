@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Major AWS Outage Happening](https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/)
+* [Docker Systems Status: Full Service Disruption](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c)
 * [Replacement.ai](https://replacement.ai)
 * [Feed me up, Scotty – custom RSS feed generation using CSS selectors](https://feed-me-up-scotty.vincenttunru.com/)
 * [EQ: A video about all forms of equalizers](https://www.youtube.com/watch?v=CLAt95PrwL4)
@@ -83,8 +85,6 @@ A table of things ...
 * [K8s with 1M nodes](https://bchess.github.io/k8s-1m/)
 * [Free Programing Books](https://github.com/EbookFoundation/free-programming-books)
 * [IDEs we had 30 years ago and lost (2023)](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
-* [New Work by Gary Larson | TheFarSide.com](https://www.thefarside.com/new-stuff)
-* [WebMCP](https://github.com/jasonjmcghee/WebMCP)
 
 ### Things I'm star-ing
 
