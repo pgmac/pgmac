@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Replacement.ai](https://replacement.ai)
+* [Feed me up, Scotty – custom RSS feed generation using CSS selectors](https://feed-me-up-scotty.vincenttunru.com/)
 * [EQ: A video about all forms of equalizers](https://www.youtube.com/watch?v=CLAt95PrwL4)
 * [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
 * [./watch](https://dotslashwatch.com/)
@@ -83,8 +85,6 @@ A table of things ...
 * [IDEs we had 30 years ago and lost (2023)](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
 * [New Work by Gary Larson | TheFarSide.com](https://www.thefarside.com/new-stuff)
 * [WebMCP](https://github.com/jasonjmcghee/WebMCP)
-* [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
-* [Accelerate developer productivity with these 9 open source AI and MCP projects - The GitHub Blog](https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/)
 
 ### Things I'm star-ing
 
