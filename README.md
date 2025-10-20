@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The working-class hero of Bletchley Park you didn't see in the movies](https://www.theguardian.com/world/2025/oct/12/move-over-alan-turing-meet-the-working-class-hero-of-bletchley-park-you-didnt-see-in-the-movies)
+* [Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook](https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html)
 * [Major AWS Outage Happening](https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/)
 * [Docker Systems Status: Full Service Disruption](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c)
 * [Replacement.ai](https://replacement.ai)
@@ -83,8 +85,6 @@ A table of things ...
 * [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
 * [./watch](https://dotslashwatch.com/)
 * [K8s with 1M nodes](https://bchess.github.io/k8s-1m/)
-* [Free Programing Books](https://github.com/EbookFoundation/free-programming-books)
-* [IDEs we had 30 years ago and lost (2023)](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
 
 ### Things I'm star-ing
 
