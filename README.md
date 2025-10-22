@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Doomsday scoreboard](https://doomsday.march1studios.com/)
+* [Rectal oxygen delivery might soon be a real medical treatment](https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/)
 * [Claude Code on the web](https://www.anthropic.com/news/claude-code-on-the-web)
 * [The working-class hero of Bletchley Park you didn't see in the movies](https://www.theguardian.com/world/2025/oct/12/move-over-alan-turing-meet-the-working-class-hero-of-bletchley-park-you-didnt-see-in-the-movies)
 * [Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook](https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html)
@@ -83,8 +85,6 @@ A table of things ...
 * [Replacement.ai](https://replacement.ai)
 * [Feed me up, Scotty – custom RSS feed generation using CSS selectors](https://feed-me-up-scotty.vincenttunru.com/)
 * [EQ: A video about all forms of equalizers](https://www.youtube.com/watch?v=CLAt95PrwL4)
-* [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
-* [./watch](https://dotslashwatch.com/)
 
 ### Things I'm star-ing
 
