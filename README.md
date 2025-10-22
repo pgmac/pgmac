@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [MinIO stops distributing free Docker images](https://github.com/minio/minio/issues/21647#issuecomment-3418675115)
 * [Doomsday scoreboard](https://doomsday.march1studios.com/)
 * [Rectal oxygen delivery might soon be a real medical treatment](https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/)
 * [Claude Code on the web](https://www.anthropic.com/news/claude-code-on-the-web)
@@ -84,7 +85,6 @@ A table of things ...
 * [Docker Systems Status: Full Service Disruption](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c)
 * [Replacement.ai](https://replacement.ai)
 * [Feed me up, Scotty – custom RSS feed generation using CSS selectors](https://feed-me-up-scotty.vincenttunru.com/)
-* [EQ: A video about all forms of equalizers](https://www.youtube.com/watch?v=CLAt95PrwL4)
 
 ### Things I'm star-ing
 
