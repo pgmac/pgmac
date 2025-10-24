@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [$165 Banana Pi BPI-R4 Pro board offers 2x 10GbE SFP+ cages, 7x 10GbE/2.5GbE/GbE RJ45 ports, WiFi 7 support - CNX Software](https://www.cnx-software.com/2025/10/20/banana-pi-bpi-r4-pro-board-offers-2x-10gbe-sfp-cages-6x-10gbe-2-5gbe-gbe-ports-wifi-7-support/)
 * [Claude Memory](https://www.anthropic.com/news/memory)
 * [MinIO stops distributing free Docker images](https://github.com/minio/minio/issues/21647#issuecomment-3418675115)
 * [Doomsday scoreboard](https://doomsday.march1studios.com/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook](https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html)
 * [Major AWS Outage Happening](https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/)
 * [Docker Systems Status: Full Service Disruption](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c)
-* [Replacement.ai](https://replacement.ai)
 
 ### Things I'm star-ing
 
