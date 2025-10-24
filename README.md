@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [/dev/null is an ACID compliant database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
+* [Summary of the Amazon DynamoDB Service Disruption in Northern Virginia (US-EAST-1) Region](https://aws.amazon.com/message/101925/)
 * [$165 Banana Pi BPI-R4 Pro board offers 2x 10GbE SFP+ cages, 7x 10GbE/2.5GbE/GbE RJ45 ports, WiFi 7 support - CNX Software](https://www.cnx-software.com/2025/10/20/banana-pi-bpi-r4-pro-board-offers-2x-10gbe-sfp-cages-6x-10gbe-2-5gbe-gbe-ports-wifi-7-support/)
 * [Claude Memory](https://www.anthropic.com/news/memory)
 * [MinIO stops distributing free Docker images](https://github.com/minio/minio/issues/21647#issuecomment-3418675115)
@@ -83,8 +85,6 @@ A table of things ...
 * [Claude Code on the web](https://www.anthropic.com/news/claude-code-on-the-web)
 * [The working-class hero of Bletchley Park you didn't see in the movies](https://www.theguardian.com/world/2025/oct/12/move-over-alan-turing-meet-the-working-class-hero-of-bletchley-park-you-didnt-see-in-the-movies)
 * [Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook](https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html)
-* [Major AWS Outage Happening](https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/)
-* [Docker Systems Status: Full Service Disruption](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c)
 
 ### Things I'm star-ing
 
