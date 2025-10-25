@@ -88,26 +88,7 @@ A table of things ...
 
 ### Things I'm star-ing
 
-* [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-  :books: Freely available programming books
-* [rift](https://github.com/acsandmann/rift)
-  a tiling window manager for macos
-* [ty](https://github.com/astral-sh/ty)
-  An extremely fast Python type checker and language server, written in Rust.
-* [ssh3](https://github.com/francoismichel/ssh3)
-  SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
-* [stack-overflow-import](https://github.com/drathier/stack-overflow-import)
-  Import arbitrary code from Stack Overflow as Python modules.
-* [helm-ls](https://github.com/mrjosh/helm-ls)
-  ⎈ Language server for Helm ⎈
-* [vicinae](https://github.com/vicinaehq/vicinae)
-  A focused launcher for your desktop — native, fast, extensible
-* [fartscroll-lid](https://github.com/iannuttall/fartscroll-lid)
-  A hilarious macOS app that plays fart sounds as you open and close your MacBook lid
-* [cagent](https://github.com/docker/cagent)
-  Agent Builder and Runtime by Docker Engineering
-* [sample-developer-tutorials](https://github.com/aws-samples/sample-developer-tutorials)
-  
+
 
 ### My Blog Posts
 
