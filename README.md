@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Claudeskills.cc – Share, Discover, and Reuse Claude/OpenAI Agent Skills](https://claudeskills.cc)
+* [How a programmer got Doom to run on a space satellite and what happened next | ZDNET](https://www.zdnet.com/article/how-a-programmer-got-doom-to-run-on-a-space-satellite-and-what-happened-next/)
 * [This is my favorite MCP server to use with my local LLM](https://www.xda-developers.com/favorite-mcp-server-use-local-llm/)
 * [Roc Camera](https://roc.camera/)
 * [/dev/null is an ACID compliant database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Claude Memory](https://www.anthropic.com/news/memory)
 * [MinIO stops distributing free Docker images](https://github.com/minio/minio/issues/21647#issuecomment-3418675115)
 * [Doomsday scoreboard](https://doomsday.march1studios.com/)
-* [Rectal oxygen delivery might soon be a real medical treatment](https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/)
-* [Claude Code on the web](https://www.anthropic.com/news/claude-code-on-the-web)
 
 ### Things I'm star-ing
 
