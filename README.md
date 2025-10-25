@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [This is my favorite MCP server to use with my local LLM](https://www.xda-developers.com/favorite-mcp-server-use-local-llm/)
 * [Roc Camera](https://roc.camera/)
 * [/dev/null is an ACID compliant database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
 * [Summary of the Amazon DynamoDB Service Disruption in Northern Virginia (US-EAST-1) Region](https://aws.amazon.com/message/101925/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Doomsday scoreboard](https://doomsday.march1studios.com/)
 * [Rectal oxygen delivery might soon be a real medical treatment](https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/)
 * [Claude Code on the web](https://www.anthropic.com/news/claude-code-on-the-web)
-* [The working-class hero of Bletchley Park you didn't see in the movies](https://www.theguardian.com/world/2025/oct/12/move-over-alan-turing-meet-the-working-class-hero-of-bletchley-park-you-didnt-see-in-the-movies)
 
 ### Things I'm star-ing
 
