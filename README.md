@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Show HN: Diagram as code tool with draggable customizations](https://github.com/RohanAdwankar/oxdraw)
+* [WebDAV isn't dead yet](https://blog.feld.me/posts/2025/09/webdav-isnt-dead-yet/)
 * [Claudeskills.cc – Share, Discover, and Reuse Claude/OpenAI Agent Skills](https://claudeskills.cc)
 * [How a programmer got Doom to run on a space satellite and what happened next | ZDNET](https://www.zdnet.com/article/how-a-programmer-got-doom-to-run-on-a-space-satellite-and-what-happened-next/)
 * [This is my favorite MCP server to use with my local LLM](https://www.xda-developers.com/favorite-mcp-server-use-local-llm/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Summary of the Amazon DynamoDB Service Disruption in Northern Virginia (US-EAST-1) Region](https://aws.amazon.com/message/101925/)
 * [$165 Banana Pi BPI-R4 Pro board offers 2x 10GbE SFP+ cages, 7x 10GbE/2.5GbE/GbE RJ45 ports, WiFi 7 support - CNX Software](https://www.cnx-software.com/2025/10/20/banana-pi-bpi-r4-pro-board-offers-2x-10gbe-sfp-cages-6x-10gbe-2-5gbe-gbe-ports-wifi-7-support/)
 * [Claude Memory](https://www.anthropic.com/news/memory)
-* [MinIO stops distributing free Docker images](https://github.com/minio/minio/issues/21647#issuecomment-3418675115)
-* [Doomsday scoreboard](https://doomsday.march1studios.com/)
 
 ### Things I'm star-ing
 
