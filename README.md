@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [D2: Diagram Scripting Language](https://d2lang.com/tour/intro/)
+* [A worker fell into a nuclear reactor pool](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE)
 * [Show HN: Diagram as code tool with draggable customizations](https://github.com/RohanAdwankar/oxdraw)
 * [WebDAV isn't dead yet](https://blog.feld.me/posts/2025/09/webdav-isnt-dead-yet/)
 * [Claudeskills.cc – Share, Discover, and Reuse Claude/OpenAI Agent Skills](https://claudeskills.cc)
@@ -83,8 +85,6 @@ A table of things ...
 * [Roc Camera](https://roc.camera/)
 * [/dev/null is an ACID compliant database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
 * [Summary of the Amazon DynamoDB Service Disruption in Northern Virginia (US-EAST-1) Region](https://aws.amazon.com/message/101925/)
-* [$165 Banana Pi BPI-R4 Pro board offers 2x 10GbE SFP+ cages, 7x 10GbE/2.5GbE/GbE RJ45 ports, WiFi 7 support - CNX Software](https://www.cnx-software.com/2025/10/20/banana-pi-bpi-r4-pro-board-offers-2x-10gbe-sfp-cages-6x-10gbe-2-5gbe-gbe-ports-wifi-7-support/)
-* [Claude Memory](https://www.anthropic.com/news/memory)
 
 ### Things I'm star-ing
 
