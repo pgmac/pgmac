@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Downloadable movie posters from the 40s, 50s, 60s, and 70s](https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search)
 * [D2: Diagram Scripting Language](https://d2lang.com/tour/intro/)
 * [A worker fell into a nuclear reactor pool](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE)
 * [Show HN: Diagram as code tool with draggable customizations](https://github.com/RohanAdwankar/oxdraw)
@@ -84,7 +85,6 @@ A table of things ...
 * [This is my favorite MCP server to use with my local LLM](https://www.xda-developers.com/favorite-mcp-server-use-local-llm/)
 * [Roc Camera](https://roc.camera/)
 * [/dev/null is an ACID compliant database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
-* [Summary of the Amazon DynamoDB Service Disruption in Northern Virginia (US-EAST-1) Region](https://aws.amazon.com/message/101925/)
 
 ### Things I'm star-ing
 
