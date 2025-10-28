@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [10M people watched a YouTuber shim a lock; the lock company sued him – bad idea](https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/)
+* [MCP-Scanner – Scan MCP Servers for vulnerabilities](https://github.com/cisco-ai-defense/mcp-scanner)
 * [Downloadable movie posters from the 40s, 50s, 60s, and 70s](https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search)
 * [D2: Diagram Scripting Language](https://d2lang.com/tour/intro/)
 * [A worker fell into a nuclear reactor pool](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE)
@@ -83,8 +85,6 @@ A table of things ...
 * [Claudeskills.cc – Share, Discover, and Reuse Claude/OpenAI Agent Skills](https://claudeskills.cc)
 * [How a programmer got Doom to run on a space satellite and what happened next | ZDNET](https://www.zdnet.com/article/how-a-programmer-got-doom-to-run-on-a-space-satellite-and-what-happened-next/)
 * [This is my favorite MCP server to use with my local LLM](https://www.xda-developers.com/favorite-mcp-server-use-local-llm/)
-* [Roc Camera](https://roc.camera/)
-* [/dev/null is an ACID compliant database](https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/)
 
 ### Things I'm star-ing
 
