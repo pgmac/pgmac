@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [STPA (System Theoretic Process Analysis) -- Teaching a new way to prevent outages at Google](https://sre.google/stpa/teaching/)
 * [medium.com](https://medium.com/data-science-in-your-pocket/model-context-protocol-mcp-using-ollama-e719b2d9fd7a)
 * [Fnox, a secret manager that pairs well with mise](https://github.com/jdx/mise/discussions/6779)
 * [10M people watched a YouTuber shim a lock; the lock company sued him – bad idea](https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/)
@@ -84,7 +85,6 @@ A table of things ...
 * [A worker fell into a nuclear reactor pool](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE)
 * [Show HN: Diagram as code tool with draggable customizations](https://github.com/RohanAdwankar/oxdraw)
 * [WebDAV isn't dead yet](https://blog.feld.me/posts/2025/09/webdav-isnt-dead-yet/)
-* [Claudeskills.cc – Share, Discover, and Reuse Claude/OpenAI Agent Skills](https://claudeskills.cc)
 
 ### Things I'm star-ing
 
