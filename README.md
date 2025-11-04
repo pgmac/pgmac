@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought)
+* [You can't cURL a Border](https://drobinin.com/posts/you-cant-curl-a-border/)
 * [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/)
 * [Info - Sailfish OS](https://sailfishos.org/info/)
 * [Kitchen Soap – The Infinite Hows (or, the Dangers Of The Five Whys)](https://www.kitchensoap.com/2014/11/14/the-infinite-hows-or-the-dangers-of-the-five-whys/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Fnox, a secret manager that pairs well with mise](https://github.com/jdx/mise/discussions/6779)
 * [10M people watched a YouTuber shim a lock; the lock company sued him – bad idea](https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/)
 * [MCP-Scanner – Scan MCP Servers for vulnerabilities](https://github.com/cisco-ai-defense/mcp-scanner)
-* [Downloadable movie posters from the 40s, 50s, 60s, and 70s](https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search)
-* [D2: Diagram Scripting Language](https://d2lang.com/tour/intro/)
 
 ### Things I'm star-ing
 
