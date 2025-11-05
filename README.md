@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Mr Tiff](https://inventingthefuture.ghost.io/mr-tiff/)
 * [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought)
 * [You can't cURL a Border](https://drobinin.com/posts/you-cant-curl-a-border/)
 * [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/)
@@ -84,7 +85,6 @@ A table of things ...
 * [medium.com](https://medium.com/data-science-in-your-pocket/model-context-protocol-mcp-using-ollama-e719b2d9fd7a)
 * [Fnox, a secret manager that pairs well with mise](https://github.com/jdx/mise/discussions/6779)
 * [10M people watched a YouTuber shim a lock; the lock company sued him – bad idea](https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/)
-* [MCP-Scanner – Scan MCP Servers for vulnerabilities](https://github.com/cisco-ai-defense/mcp-scanner)
 
 ### Things I'm star-ing
 
