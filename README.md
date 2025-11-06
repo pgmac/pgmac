@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Ratatui – App Showcase](https://ratatui.rs/showcase/apps/)
+* [Movie Car Museum Liquidating 50 Famous Vehicles at No Reserve](https://www.thedrive.com/news/movie-car-museum-liquidating-50-famous-vehicles-at-no-reserve)
 * [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
 * [Epic and Google agree to settle their lawsuit and change Android’s fate globally | The Verge](https://www.theverge.com/policy/813991/epic-google-proposed-settlement)
 * [Google gets the US government's green light to acquire Wiz for $32B | TechCrunch](https://techcrunch.com/2025/11/05/google-gets-the-us-governments-green-light-to-acquire-wiz-for-32b/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Mr Tiff](https://inventingthefuture.ghost.io/mr-tiff/)
 * [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought)
 * [You can't cURL a Border](https://drobinin.com/posts/you-cant-curl-a-border/)
-* [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/)
-* [Info - Sailfish OS](https://sailfishos.org/info/)
 
 ### Things I'm star-ing
 
