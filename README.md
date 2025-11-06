@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Inside the breach that broke the internet: The untold story of Log4Shell - The GitHub Blog](https://github.blog/open-source/inside-the-breach-that-broke-the-internet-the-untold-story-of-log4shell/)
+* [Louvre Heist Fallout Reveals Museum’s Video Security Password Was 'Louvre'](https://www.vice.com/en/article/louvre-heist-fallout-reveals-museums-video-security-password-was-louvre/)
 * [Mr Tiff](https://inventingthefuture.ghost.io/mr-tiff/)
 * [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought)
 * [You can't cURL a Border](https://drobinin.com/posts/you-cant-curl-a-border/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Kitchen Soap – The Infinite Hows (or, the Dangers Of The Five Whys)](https://www.kitchensoap.com/2014/11/14/the-infinite-hows-or-the-dangers-of-the-five-whys/)
 * [STPA (System Theoretic Process Analysis) -- Teaching a new way to prevent outages at Google](https://sre.google/stpa/teaching/)
 * [medium.com](https://medium.com/data-science-in-your-pocket/model-context-protocol-mcp-using-ollama-e719b2d9fd7a)
-* [Fnox, a secret manager that pairs well with mise](https://github.com/jdx/mise/discussions/6779)
-* [10M people watched a YouTuber shim a lock; the lock company sued him – bad idea](https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/)
 
 ### Things I'm star-ing
 
