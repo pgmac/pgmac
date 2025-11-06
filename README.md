@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
+* [Epic and Google agree to settle their lawsuit and change Android’s fate globally | The Verge](https://www.theverge.com/policy/813991/epic-google-proposed-settlement)
+* [Google gets the US government's green light to acquire Wiz for $32B | TechCrunch](https://techcrunch.com/2025/11/05/google-gets-the-us-governments-green-light-to-acquire-wiz-for-32b/)
 * [Inside the breach that broke the internet: The untold story of Log4Shell - The GitHub Blog](https://github.blog/open-source/inside-the-breach-that-broke-the-internet-the-untold-story-of-log4shell/)
 * [Louvre Heist Fallout Reveals Museum’s Video Security Password Was 'Louvre'](https://www.vice.com/en/article/louvre-heist-fallout-reveals-museums-video-security-password-was-louvre/)
 * [Mr Tiff](https://inventingthefuture.ghost.io/mr-tiff/)
@@ -82,9 +85,6 @@ A table of things ...
 * [You can't cURL a Border](https://drobinin.com/posts/you-cant-curl-a-border/)
 * [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/)
 * [Info - Sailfish OS](https://sailfishos.org/info/)
-* [Kitchen Soap – The Infinite Hows (or, the Dangers Of The Five Whys)](https://www.kitchensoap.com/2014/11/14/the-infinite-hows-or-the-dangers-of-the-five-whys/)
-* [STPA (System Theoretic Process Analysis) -- Teaching a new way to prevent outages at Google](https://sre.google/stpa/teaching/)
-* [medium.com](https://medium.com/data-science-in-your-pocket/model-context-protocol-mcp-using-ollama-e719b2d9fd7a)
 
 ### Things I'm star-ing
 
