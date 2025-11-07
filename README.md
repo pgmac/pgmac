@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - gensyn-ai/codeassist: A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.](https://github.com/gensyn-ai/codeassist)
 * [Ratatui – App Showcase](https://ratatui.rs/showcase/apps/)
 * [Movie Car Museum Liquidating 50 Famous Vehicles at No Reserve](https://www.thedrive.com/news/movie-car-museum-liquidating-50-famous-vehicles-at-no-reserve)
 * [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
@@ -84,10 +85,11 @@ A table of things ...
 * [Louvre Heist Fallout Reveals Museum’s Video Security Password Was 'Louvre'](https://www.vice.com/en/article/louvre-heist-fallout-reveals-museums-video-security-password-was-louvre/)
 * [Mr Tiff](https://inventingthefuture.ghost.io/mr-tiff/)
 * [When stick figures fought](https://animationobsessive.substack.com/p/when-stick-figures-fought)
-* [You can't cURL a Border](https://drobinin.com/posts/you-cant-curl-a-border/)
 
 ### Things I'm star-ing
 
+* [codeassist](https://github.com/gensyn-ai/codeassist)
+  A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
   :books: Freely available programming books
 * [rift](https://github.com/acsandmann/rift)
@@ -106,8 +108,6 @@ A table of things ...
   A hilarious macOS app that plays fart sounds as you open and close your MacBook lid
 * [cagent](https://github.com/docker/cagent)
   Agent Builder and Runtime by Docker Engineering
-* [sample-developer-tutorials](https://github.com/aws-samples/sample-developer-tutorials)
-  
 
 ### My Blog Posts
 
