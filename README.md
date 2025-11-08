@@ -75,7 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-
+* ["This has Never happened" Diecast Rally Racing FORD vs AUDI - YouTube](https://youtu.be/aR9VAXdLxus?si=JaY3_09G1N9OACzA)
+* [You should write an agent](https://fly.io/blog/everyone-write-an-agent/)
+* [Ikea’s Big Smart Home Push Arrives With 21 New Matter Devices](https://www.forbes.com/sites/paullamkin/2025/11/06/ikeas-big-smart-home-push-arrives-with-21-new-matter-devices/)
+* [GitHub - gensyn-ai/codeassist: A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.](https://github.com/gensyn-ai/codeassist)
+* [Ratatui – App Showcase](https://ratatui.rs/showcase/apps/)
+* [Movie Car Museum Liquidating 50 Famous Vehicles at No Reserve](https://www.thedrive.com/news/movie-car-museum-liquidating-50-famous-vehicles-at-no-reserve)
+* [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
+* [Epic and Google agree to settle their lawsuit and change Android’s fate globally | The Verge](https://www.theverge.com/policy/813991/epic-google-proposed-settlement)
+* [Google gets the US government's green light to acquire Wiz for $32B | TechCrunch](https://techcrunch.com/2025/11/05/google-gets-the-us-governments-green-light-to-acquire-wiz-for-32b/)
+* [Inside the breach that broke the internet: The untold story of Log4Shell - The GitHub Blog](https://github.blog/open-source/inside-the-breach-that-broke-the-internet-the-untold-story-of-log4shell/)
 
 ### Things I'm star-ing
 
