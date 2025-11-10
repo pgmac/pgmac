@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Beets: The music geek’s media organizer](https://beets.io/)
 * [Zensical – A modern static site generator built by the Material for MkDocs team](https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/)
 * [Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology](https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/)
 * ["This has Never happened" Diecast Rally Racing FORD vs AUDI - YouTube](https://youtu.be/aR9VAXdLxus?si=JaY3_09G1N9OACzA)
@@ -84,7 +85,6 @@ A table of things ...
 * [Ratatui – App Showcase](https://ratatui.rs/showcase/apps/)
 * [Movie Car Museum Liquidating 50 Famous Vehicles at No Reserve](https://www.thedrive.com/news/movie-car-museum-liquidating-50-famous-vehicles-at-no-reserve)
 * [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
-* [Epic and Google agree to settle their lawsuit and change Android’s fate globally | The Verge](https://www.theverge.com/policy/813991/epic-google-proposed-settlement)
 
 ### Things I'm star-ing
 
