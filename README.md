@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [10 Weird Facts About The Goodies You Never Knew! - YouTube](https://youtu.be/93sKWN2zv38?si=a3q2hbFdeUeWOCk4)
 * [Unexpected things that are people](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people)
 * [Beets: The music geek’s media organizer](https://beets.io/)
 * [Zensical – A modern static site generator built by the Material for MkDocs team](https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/)
@@ -84,10 +85,11 @@ A table of things ...
 * [Ikea’s Big Smart Home Push Arrives With 21 New Matter Devices](https://www.forbes.com/sites/paullamkin/2025/11/06/ikeas-big-smart-home-push-arrives-with-21-new-matter-devices/)
 * [GitHub - gensyn-ai/codeassist: A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.](https://github.com/gensyn-ai/codeassist)
 * [Ratatui – App Showcase](https://ratatui.rs/showcase/apps/)
-* [Movie Car Museum Liquidating 50 Famous Vehicles at No Reserve](https://www.thedrive.com/news/movie-car-museum-liquidating-50-famous-vehicles-at-no-reserve)
 
 ### Things I'm star-ing
 
+* [rotel](https://github.com/streamfold/rotel)
+  Lightweight OpenTelemetry collection
 * [codeassist](https://github.com/gensyn-ai/codeassist)
   A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
@@ -106,8 +108,6 @@ A table of things ...
   A focused launcher for your desktop — native, fast, extensible
 * [fartscroll-lid](https://github.com/iannuttall/fartscroll-lid)
   A hilarious macOS app that plays fart sounds as you open and close your MacBook lid
-* [cagent](https://github.com/docker/cagent)
-  Agent Builder and Runtime by Docker Engineering
 
 ### My Blog Posts
 
