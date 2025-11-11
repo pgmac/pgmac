@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Unix v4 Tape Found](https://discuss.systems/@ricci/115504720054699983)
+* [Time to start de-Appling](https://heatherburns.tech/2025/11/10/time-to-start-de-appling/)
+* [With FARTS! | Jurassic World Rebirth - YouTube](https://youtu.be/d-L264UQoJk?si=q2CNzMR6z_ckouQi)
 * [10 Weird Facts About The Goodies You Never Knew! - YouTube](https://youtu.be/93sKWN2zv38?si=a3q2hbFdeUeWOCk4)
 * [Unexpected things that are people](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people)
 * [Beets: The music geek’s media organizer](https://beets.io/)
@@ -82,9 +85,6 @@ A table of things ...
 * [Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology](https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/)
 * ["This has Never happened" Diecast Rally Racing FORD vs AUDI - YouTube](https://youtu.be/aR9VAXdLxus?si=JaY3_09G1N9OACzA)
 * [You should write an agent](https://fly.io/blog/everyone-write-an-agent/)
-* [Ikea’s Big Smart Home Push Arrives With 21 New Matter Devices](https://www.forbes.com/sites/paullamkin/2025/11/06/ikeas-big-smart-home-push-arrives-with-21-new-matter-devices/)
-* [GitHub - gensyn-ai/codeassist: A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.](https://github.com/gensyn-ai/codeassist)
-* [Ratatui – App Showcase](https://ratatui.rs/showcase/apps/)
 
 ### Things I'm star-ing
 
