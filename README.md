@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Unexpected things that are people](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people)
 * [Beets: The music geek’s media organizer](https://beets.io/)
 * [Zensical – A modern static site generator built by the Material for MkDocs team](https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/)
 * [Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology](https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/)
@@ -84,7 +85,6 @@ A table of things ...
 * [GitHub - gensyn-ai/codeassist: A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.](https://github.com/gensyn-ai/codeassist)
 * [Ratatui – App Showcase](https://ratatui.rs/showcase/apps/)
 * [Movie Car Museum Liquidating 50 Famous Vehicles at No Reserve](https://www.thedrive.com/news/movie-car-museum-liquidating-50-famous-vehicles-at-no-reserve)
-* [Firefox profiles: Private, focused spaces for all the ways you browse](https://blog.mozilla.org/en/firefox/profile-management/)
 
 ### Things I'm star-ing
 
