@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Weebl & Bob Compilation No.1 - YouTube](https://youtu.be/F2tC7G2SCLM?si=xDNkY1CJ5slM6KV3)
 * [Perkeep – Personal storage system for life](https://perkeep.org/)
 * [X5.1 solar flare, G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html)
 * [FFmpeg to Google: Fund us or stop sending bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Time to start de-Appling](https://heatherburns.tech/2025/11/10/time-to-start-de-appling/)
 * [With FARTS! | Jurassic World Rebirth - YouTube](https://youtu.be/d-L264UQoJk?si=q2CNzMR6z_ckouQi)
 * [10 Weird Facts About The Goodies You Never Knew! - YouTube](https://youtu.be/93sKWN2zv38?si=a3q2hbFdeUeWOCk4)
-* [Unexpected things that are people](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people)
 
 ### Things I'm star-ing
 
