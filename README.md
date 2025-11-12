@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Firefox expands fingerprint protections: advancing towards a more private web](https://blog.mozilla.org/en/firefox/fingerprinting-protections/)
 * [What if ALL the sun’s power was focused in one place? - YouTube](https://youtu.be/qu8nx1qUwEU?si=x8pI2F3lCVPLbcPG)
 * [Unix v4 Tape Found](https://discuss.systems/@ricci/115504720054699983)
 * [Time to start de-Appling](https://heatherburns.tech/2025/11/10/time-to-start-de-appling/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Beets: The music geek’s media organizer](https://beets.io/)
 * [Zensical – A modern static site generator built by the Material for MkDocs team](https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/)
 * [Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology](https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/)
-* ["This has Never happened" Diecast Rally Racing FORD vs AUDI - YouTube](https://youtu.be/aR9VAXdLxus?si=JaY3_09G1N9OACzA)
 
 ### Things I'm star-ing
 
