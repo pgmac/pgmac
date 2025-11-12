@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Perkeep – Personal storage system for life](https://perkeep.org/)
+* [X5.1 solar flare, G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html)
+* [FFmpeg to Google: Fund us or stop sending bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
 * [Firefox expands fingerprint protections: advancing towards a more private web](https://blog.mozilla.org/en/firefox/fingerprinting-protections/)
 * [What if ALL the sun’s power was focused in one place? - YouTube](https://youtu.be/qu8nx1qUwEU?si=x8pI2F3lCVPLbcPG)
 * [Unix v4 Tape Found](https://discuss.systems/@ricci/115504720054699983)
@@ -82,9 +85,6 @@ A table of things ...
 * [With FARTS! | Jurassic World Rebirth - YouTube](https://youtu.be/d-L264UQoJk?si=q2CNzMR6z_ckouQi)
 * [10 Weird Facts About The Goodies You Never Knew! - YouTube](https://youtu.be/93sKWN2zv38?si=a3q2hbFdeUeWOCk4)
 * [Unexpected things that are people](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people)
-* [Beets: The music geek’s media organizer](https://beets.io/)
-* [Zensical – A modern static site generator built by the Material for MkDocs team](https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/)
-* [Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology](https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/)
 
 ### Things I'm star-ing
 
