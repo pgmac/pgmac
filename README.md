@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Steam Frame](https://store.steampowered.com/sale/steamframe)
+* [A brief look at FreeBSD](https://yorickpeterse.com/articles/a-brief-look-at-freebsd/)
+* [On November 13, 2026, A Human-Made Object Will Reach One Light-Day From The Earth For The First Time In History | IFLScience](https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432)
+* [sudo-rs Affected By Multiple Security Vulnerabilities - Impacting Ubuntu 25.10 - Phoronix](https://www.phoronix.com/news/sudo-rs-security-ubuntu-25.10)
 * [Weebl & Bob Compilation No.1 - YouTube](https://youtu.be/F2tC7G2SCLM?si=xDNkY1CJ5slM6KV3)
-* [Perkeep – Personal storage system for life](https://perkeep.org/)
 * [X5.1 solar flare, G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html)
+* [Perkeep – Personal storage system for life](https://perkeep.org/)
 * [FFmpeg to Google: Fund us or stop sending bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
 * [Firefox expands fingerprint protections: advancing towards a more private web](https://blog.mozilla.org/en/firefox/fingerprinting-protections/)
 * [What if ALL the sun’s power was focused in one place? - YouTube](https://youtu.be/qu8nx1qUwEU?si=x8pI2F3lCVPLbcPG)
-* [Unix v4 Tape Found](https://discuss.systems/@ricci/115504720054699983)
-* [Time to start de-Appling](https://heatherburns.tech/2025/11/10/time-to-start-de-appling/)
-* [With FARTS! | Jurassic World Rebirth - YouTube](https://youtu.be/d-L264UQoJk?si=q2CNzMR6z_ckouQi)
-* [10 Weird Facts About The Goodies You Never Knew! - YouTube](https://youtu.be/93sKWN2zv38?si=a3q2hbFdeUeWOCk4)
 
 ### Things I'm star-ing
 
