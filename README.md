@@ -75,19 +75,21 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Show HN: Gerbil – an open source desktop app for running LLMs locally](https://github.com/lone-cloud/gerbil)
+* [Are We Doomed?](https://www.lrb.co.uk/the-paper/v47/n21/david-runciman/are-we-doomed)
+* [Steam Machine](https://store.steampowered.com/sale/steammachine)
+* [Helm 4.0](https://github.com/helm/helm/releases/tag/v4.0.0)
 * [Steam Frame](https://store.steampowered.com/sale/steamframe)
 * [A brief look at FreeBSD](https://yorickpeterse.com/articles/a-brief-look-at-freebsd/)
 * [On November 13, 2026, A Human-Made Object Will Reach One Light-Day From The Earth For The First Time In History | IFLScience](https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432)
 * [sudo-rs Affected By Multiple Security Vulnerabilities - Impacting Ubuntu 25.10 - Phoronix](https://www.phoronix.com/news/sudo-rs-security-ubuntu-25.10)
 * [Weebl & Bob Compilation No.1 - YouTube](https://youtu.be/F2tC7G2SCLM?si=xDNkY1CJ5slM6KV3)
 * [X5.1 solar flare, G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html)
-* [Perkeep – Personal storage system for life](https://perkeep.org/)
-* [FFmpeg to Google: Fund us or stop sending bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
-* [Firefox expands fingerprint protections: advancing towards a more private web](https://blog.mozilla.org/en/firefox/fingerprinting-protections/)
-* [What if ALL the sun’s power was focused in one place? - YouTube](https://youtu.be/qu8nx1qUwEU?si=x8pI2F3lCVPLbcPG)
 
 ### Things I'm star-ing
 
+* [gerbil](https://github.com/lone-cloud/gerbil)
+  A desktop app for running Large Language Models locally. 
 * [rotel](https://github.com/streamfold/rotel)
   Lightweight OpenTelemetry collection
 * [codeassist](https://github.com/gensyn-ai/codeassist)
@@ -106,8 +108,6 @@ A table of things ...
   ⎈ Language server for Helm ⎈
 * [vicinae](https://github.com/vicinaehq/vicinae)
   A focused launcher for your desktop — native, fast, extensible
-* [fartscroll-lid](https://github.com/iannuttall/fartscroll-lid)
-  A hilarious macOS app that plays fart sounds as you open and close your MacBook lid
 
 ### My Blog Posts
 
