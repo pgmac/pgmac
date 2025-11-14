@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web](https://www.tweeks.io/onboarding)
+* [Kubernetes Ingress Nginx is retiring](https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/)
+* [KubeCon: A Terraform Killer Built on Apple's Pkl - The New Stack](https://thenewstack.io/kubecon-a-terraform-killer-built-on-apples-pkl/)
 * [Show HN: Gerbil – an open source desktop app for running LLMs locally](https://github.com/lone-cloud/gerbil)
 * [Are We Doomed?](https://www.lrb.co.uk/the-paper/v47/n21/david-runciman/are-we-doomed)
 * [Steam Machine](https://store.steampowered.com/sale/steammachine)
@@ -82,9 +85,6 @@ A table of things ...
 * [Steam Frame](https://store.steampowered.com/sale/steamframe)
 * [A brief look at FreeBSD](https://yorickpeterse.com/articles/a-brief-look-at-freebsd/)
 * [On November 13, 2026, A Human-Made Object Will Reach One Light-Day From The Earth For The First Time In History | IFLScience](https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432)
-* [sudo-rs Affected By Multiple Security Vulnerabilities - Impacting Ubuntu 25.10 - Phoronix](https://www.phoronix.com/news/sudo-rs-security-ubuntu-25.10)
-* [Weebl & Bob Compilation No.1 - YouTube](https://youtu.be/F2tC7G2SCLM?si=xDNkY1CJ5slM6KV3)
-* [X5.1 solar flare, G4 geomagnetic storm watch](https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html)
 
 ### Things I'm star-ing
 
