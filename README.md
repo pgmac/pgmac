@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [This automation platform is Zapier and n8n on steroids and I can’t recommend it enough](https://www.xda-developers.com/automation-platform-is-zapier-and-n8n-on-steroids/)
 * [“The Fall Of Icarus”: Astrophotographer Snaps Skydiver Falling In Front Of The Sun In Spectacular Photo | IFLScience](https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570)
 * [Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web](https://www.tweeks.io/onboarding)
 * [Kubernetes Ingress Nginx is retiring](https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Steam Machine](https://store.steampowered.com/sale/steammachine)
 * [Helm 4.0](https://github.com/helm/helm/releases/tag/v4.0.0)
 * [Steam Frame](https://store.steampowered.com/sale/steamframe)
-* [A brief look at FreeBSD](https://yorickpeterse.com/articles/a-brief-look-at-freebsd/)
 
 ### Things I'm star-ing
 
