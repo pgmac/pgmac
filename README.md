@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [“The Fall Of Icarus”: Astrophotographer Snaps Skydiver Falling In Front Of The Sun In Spectacular Photo | IFLScience](https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570)
 * [Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web](https://www.tweeks.io/onboarding)
 * [Kubernetes Ingress Nginx is retiring](https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/)
 * [KubeCon: A Terraform Killer Built on Apple's Pkl - The New Stack](https://thenewstack.io/kubecon-a-terraform-killer-built-on-apples-pkl/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Helm 4.0](https://github.com/helm/helm/releases/tag/v4.0.0)
 * [Steam Frame](https://store.steampowered.com/sale/steamframe)
 * [A brief look at FreeBSD](https://yorickpeterse.com/articles/a-brief-look-at-freebsd/)
-* [On November 13, 2026, A Human-Made Object Will Reach One Light-Day From The Earth For The First Time In History | IFLScience](https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432)
 
 ### Things I'm star-ing
 
