@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Conscious](https://www.smbc-comics.com/comic/conscious-8)
 * [This automation platform is Zapier and n8n on steroids and I can’t recommend it enough](https://www.xda-developers.com/automation-platform-is-zapier-and-n8n-on-steroids/)
 * [“The Fall Of Icarus”: Astrophotographer Snaps Skydiver Falling In Front Of The Sun In Spectacular Photo | IFLScience](https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570)
 * [Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web](https://www.tweeks.io/onboarding)
@@ -84,7 +85,6 @@ A table of things ...
 * [Are We Doomed?](https://www.lrb.co.uk/the-paper/v47/n21/david-runciman/are-we-doomed)
 * [Steam Machine](https://store.steampowered.com/sale/steammachine)
 * [Helm 4.0](https://github.com/helm/helm/releases/tag/v4.0.0)
-* [Steam Frame](https://store.steampowered.com/sale/steamframe)
 
 ### Things I'm star-ing
 
