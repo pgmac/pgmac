@@ -75,19 +75,21 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub: Git operation failures](https://www.githubstatus.com/incidents/5q7nmlxz30sk)
+* [Cloudflare Global Network experiencing issues](https://www.cloudflarestatus.com/incidents/8gmgl950y3h7)
+* [Show HN: RowboatX – open-source Claude Code for everyday automations](https://github.com/rowboatlabs/rowboat)
+* [Cloudflare outage on November 18, 2025 post mortem](https://blog.cloudflare.com/18-november-2025-outage/)
+* [Google Antigravity](https://antigravity.google/)
+* [Gemini 3](https://blog.google/products/gemini/gemini-3/)
 * [Azure hit by 15 Tbps DDoS attack using 500k IP addresses](https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/)
 * [How when AWS was down, we were not](https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts)
 * [Why don't people return their shopping carts?](https://behavioralscientist.org/why-dont-people-return-their-shopping-carts-a-somewhat-scientific-investigation/)
 * [Azure hit by 15 Tbps DDoS attack using 500k IP addresses](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/defending-the-cloud-azure-neutralized-a-record-breaking-15-tbps-ddos-attack/4470422)
-* [WeatherNext 2: Our most advanced weather forecasting model](https://blog.google/technology/google-deepmind/weathernext-2/)
-* [Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis](https://github.com/francescopace/espectre)
-* [Saturday Morning Breakfast Cereal - Conscious](https://www.smbc-comics.com/comic/conscious-8)
-* [This automation platform is Zapier and n8n on steroids and I can’t recommend it enough](https://www.xda-developers.com/automation-platform-is-zapier-and-n8n-on-steroids/)
-* [“The Fall Of Icarus”: Astrophotographer Snaps Skydiver Falling In Front Of The Sun In Spectacular Photo | IFLScience](https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570)
-* [Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web](https://www.tweeks.io/onboarding)
 
 ### Things I'm star-ing
 
+* [rowboat](https://github.com/rowboatlabs/rowboat)
+  AI-powered CLI for background agents
 * [gerbil](https://github.com/lone-cloud/gerbil)
   A desktop app for running Large Language Models locally. 
 * [rotel](https://github.com/streamfold/rotel)
@@ -106,8 +108,6 @@ A table of things ...
   Import arbitrary code from Stack Overflow as Python modules.
 * [helm-ls](https://github.com/mrjosh/helm-ls)
   ⎈ Language server for Helm ⎈
-* [vicinae](https://github.com/vicinaehq/vicinae)
-  A focused launcher for your desktop — native, fast, extensible
 
 ### My Blog Posts
 
