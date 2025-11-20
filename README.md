@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - fleetdm/fleet: Open device management](https://github.com/fleetdm/fleet)
 * [Researchers discover security vulnerability in WhatsApp](https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp)
 * [GitHub: Git operation failures](https://www.githubstatus.com/incidents/5q7nmlxz30sk)
 * [Cloudflare Global Network experiencing issues](https://www.cloudflarestatus.com/incidents/8gmgl950y3h7)
@@ -84,10 +85,11 @@ A table of things ...
 * [Gemini 3](https://blog.google/products/gemini/gemini-3/)
 * [Azure hit by 15 Tbps DDoS attack using 500k IP addresses](https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/)
 * [How when AWS was down, we were not](https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts)
-* [Why don't people return their shopping carts?](https://behavioralscientist.org/why-dont-people-return-their-shopping-carts-a-somewhat-scientific-investigation/)
 
 ### Things I'm star-ing
 
+* [fleet](https://github.com/fleetdm/fleet)
+  Open device management
 * [rowboat](https://github.com/rowboatlabs/rowboat)
   AI-powered CLI for background agents
 * [gerbil](https://github.com/lone-cloud/gerbil)
@@ -106,8 +108,6 @@ A table of things ...
   SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 * [stack-overflow-import](https://github.com/drathier/stack-overflow-import)
   Import arbitrary code from Stack Overflow as Python modules.
-* [helm-ls](https://github.com/mrjosh/helm-ls)
-  ⎈ Language server for Helm ⎈
 
 ### My Blog Posts
 
