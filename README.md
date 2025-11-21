@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [DRC Rally Event FINALS (Audi vs Alfa Romeo) Diecast Racing - YouTube](https://youtu.be/kLaputJ6PUk?si=r7ICm5lLYX3HhLQV)
 * [GitHub - fleetdm/fleet: Open device management](https://github.com/fleetdm/fleet)
 * [Researchers discover security vulnerability in WhatsApp](https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp)
 * [GitHub: Git operation failures](https://www.githubstatus.com/incidents/5q7nmlxz30sk)
@@ -84,7 +85,6 @@ A table of things ...
 * [Google Antigravity](https://antigravity.google/)
 * [Gemini 3](https://blog.google/products/gemini/gemini-3/)
 * [Azure hit by 15 Tbps DDoS attack using 500k IP addresses](https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/)
-* [How when AWS was down, we were not](https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts)
 
 ### Things I'm star-ing
 
