@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Oops. Cryptographers cancel election results after losing decryption key. - Ars Technica](https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/)
 * [LACK Side table, white stained oak effect - IKEA](https://www.ikea.com/au/en/p/lack-side-table-white-stained-oak-effect-70431534/)
 * [DRC Rally Event FINALS (Audi vs Alfa Romeo) Diecast Racing - YouTube](https://youtu.be/kLaputJ6PUk?si=r7ICm5lLYX3HhLQV)
 * [GitHub - fleetdm/fleet: Open device management](https://github.com/fleetdm/fleet)
@@ -84,7 +85,6 @@ A table of things ...
 * [Show HN: RowboatX – open-source Claude Code for everyday automations](https://github.com/rowboatlabs/rowboat)
 * [Cloudflare outage on November 18, 2025 post mortem](https://blog.cloudflare.com/18-november-2025-outage/)
 * [Google Antigravity](https://antigravity.google/)
-* [Gemini 3](https://blog.google/products/gemini/gemini-3/)
 
 ### Things I'm star-ing
 
