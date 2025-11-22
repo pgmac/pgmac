@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Personal blogs are back, should niche blogs be next?](https://disassociated.com/personal-blogs-back-niche-blogs-next/)
+* [ADHD and monotropism (2023)](https://monotropism.org/adhd/)
 * [Oops. Cryptographers cancel election results after losing decryption key. - Ars Technica](https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/)
 * [LACK Side table, white stained oak effect - IKEA](https://www.ikea.com/au/en/p/lack-side-table-white-stained-oak-effect-70431534/)
 * [DRC Rally Event FINALS (Audi vs Alfa Romeo) Diecast Racing - YouTube](https://youtu.be/kLaputJ6PUk?si=r7ICm5lLYX3HhLQV)
@@ -83,8 +85,6 @@ A table of things ...
 * [GitHub: Git operation failures](https://www.githubstatus.com/incidents/5q7nmlxz30sk)
 * [Cloudflare Global Network experiencing issues](https://www.cloudflarestatus.com/incidents/8gmgl950y3h7)
 * [Show HN: RowboatX – open-source Claude Code for everyday automations](https://github.com/rowboatlabs/rowboat)
-* [Cloudflare outage on November 18, 2025 post mortem](https://blog.cloudflare.com/18-november-2025-outage/)
-* [Google Antigravity](https://antigravity.google/)
 
 ### Things I'm star-ing
 
