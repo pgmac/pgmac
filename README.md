@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Shai-Hulud Returns: Over 300 NPM Packages Infected](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24)
+* [We stopped roadmap work for a week and fixed bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
+* [Disney Lost Roger Rabbit](https://pluralistic.net/2025/11/18/im-not-bad/)
 * [The Cloudflare outage was a good thing](https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048)
 * [Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf)
 * [One of the Best Mecha Anime of All Time Finally Gets New First-Look Reveal After 45 Years](https://www.cbr.com/best-mecha-anime-finally-gets-new-first-look-reveal/)
@@ -82,9 +85,6 @@ A table of things ...
 * [ADHD and monotropism (2023)](https://monotropism.org/adhd/)
 * [Oops. Cryptographers cancel election results after losing decryption key. - Ars Technica](https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/)
 * [LACK Side table, white stained oak effect - IKEA](https://www.ikea.com/au/en/p/lack-side-table-white-stained-oak-effect-70431534/)
-* [DRC Rally Event FINALS (Audi vs Alfa Romeo) Diecast Racing - YouTube](https://youtu.be/kLaputJ6PUk?si=r7ICm5lLYX3HhLQV)
-* [GitHub - fleetdm/fleet: Open device management](https://github.com/fleetdm/fleet)
-* [Researchers discover security vulnerability in WhatsApp](https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp)
 
 ### Things I'm star-ing
 
