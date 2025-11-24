@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf)
 * [One of the Best Mecha Anime of All Time Finally Gets New First-Look Reveal After 45 Years](https://www.cbr.com/best-mecha-anime-finally-gets-new-first-look-reveal/)
 * [Personal blogs are back, should niche blogs be next?](https://disassociated.com/personal-blogs-back-niche-blogs-next/)
 * [ADHD and monotropism (2023)](https://monotropism.org/adhd/)
@@ -84,7 +85,6 @@ A table of things ...
 * [GitHub - fleetdm/fleet: Open device management](https://github.com/fleetdm/fleet)
 * [Researchers discover security vulnerability in WhatsApp](https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp)
 * [GitHub: Git operation failures](https://www.githubstatus.com/incidents/5q7nmlxz30sk)
-* [Cloudflare Global Network experiencing issues](https://www.cloudflarestatus.com/incidents/8gmgl950y3h7)
 
 ### Things I'm star-ing
 
