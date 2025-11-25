@@ -75,19 +75,31 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-* [Anthropic's Prompt Engineering Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial)
-* [The Prodigy Medley | The Bands of HM Royal Marines - YouTube](https://youtu.be/FJBdGTN56rU?si=w9K1mweFTm3pjYTN)
-* [Show HN: Rift – A tiling window manager for macOS](https://github.com/acsandmann/rift)
-* [Vibing a non-trivial Ghostty feature](https://mitchellh.com/writing/non-trivial-vibing)
-* [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
-* [Show HN: Timelinize – Privately organize your own data from everywhere, locally](https://timelinize.com)
-* [Honest Trailers | Tron: Legacy - YouTube](https://youtu.be/LSsYT0utKHw?si=jqKWo473xcyKuqJn)
-* [A cartoonist's review of AI art - The Oatmeal](https://theoatmeal.com/comics/ai_art)
-* [Pdoc – Generate API documentation for Python projects](https://pdoc.dev/)
-* [Deloitte delivers report to government using AI which contained errors | ABC NEWS - YouTube](https://youtu.be/C17KWJ02Goo)
+* [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
+* [ericmigi.com](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
+* [The Letter — Stop Hacklore!](https://www.hacklore.org/letter)
+* [Years-old bugs in open source took out major clouds at risk • The Register](https://www.theregister.com/2025/11/24/fluent_bit_cves/)
+* [Shai-Hulud Returns: Over 300 NPM Packages Infected](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24)
+* [We stopped roadmap work for a week and fixed bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
+* [Disney Lost Roger Rabbit](https://pluralistic.net/2025/11/18/im-not-bad/)
+* [The Cloudflare outage was a good thing](https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048)
+* [Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf)
+* [One of the Best Mecha Anime of All Time Finally Gets New First-Look Reveal After 45 Years](https://www.cbr.com/best-mecha-anime-finally-gets-new-first-look-reveal/)
 
 ### Things I'm star-ing
 
+* [fleet](https://github.com/fleetdm/fleet)
+  Open device management
+* [rowboat](https://github.com/rowboatlabs/rowboat)
+  AI-powered CLI for background agents
+* [gerbil](https://github.com/lone-cloud/gerbil)
+  A desktop app for running Large Language Models locally. 
+* [rotel](https://github.com/streamfold/rotel)
+  High Performance, Resource Efficient OpenTelemetry Collection
+* [codeassist](https://github.com/gensyn-ai/codeassist)
+  A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+  :books: Freely available programming books
 * [rift](https://github.com/acsandmann/rift)
   a tiling window manager for macos
 * [ty](https://github.com/astral-sh/ty)
@@ -96,18 +108,6 @@ A table of things ...
   SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 * [stack-overflow-import](https://github.com/drathier/stack-overflow-import)
   Import arbitrary code from Stack Overflow as Python modules.
-* [helm-ls](https://github.com/mrjosh/helm-ls)
-  ⎈ Language server for Helm ⎈
-* [vicinae](https://github.com/vicinaehq/vicinae)
-  A focused launcher for your desktop — native, fast, extensible
-* [fartscroll-lid](https://github.com/iannuttall/fartscroll-lid)
-  A hilarious macOS app that plays fart sounds as you open and close your MacBook lid
-* [cagent](https://github.com/docker/cagent)
-  Agent Builder and Runtime by Docker Engineering
-* [sample-developer-tutorials](https://github.com/aws-samples/sample-developer-tutorials)
-  
-* [pogocache](https://github.com/pogocache/pogocache)
-  Fast caching software with a focus on low latency and cpu efficiency.
 
 ### My Blog Posts
 
