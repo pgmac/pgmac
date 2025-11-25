@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/)
+* [thenounproject.com](https://thenounproject.com/)
 * [Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5)
 * [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
 * [ericmigi.com](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
@@ -83,8 +85,6 @@ A table of things ...
 * [Shai-Hulud Returns: Over 300 NPM Packages Infected](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24)
 * [We stopped roadmap work for a week and fixed bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
 * [Disney Lost Roger Rabbit](https://pluralistic.net/2025/11/18/im-not-bad/)
-* [The Cloudflare outage was a good thing](https://gist.github.com/jbreckmckye/32587f2907e473dd06d68b0362fb0048)
-* [Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf)
 
 ### Things I'm star-ing
 
