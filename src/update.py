@@ -127,7 +127,8 @@ def add_link_to_linkace(url, title, tags=None, timeout=30):
         response.raise_for_status()
         link_data = response.json()
 
-        link_id = link_data.get("data", {}).get("id")
+        # Try to get ID from root level first, then fall back to nested data structure
+        link_id = link_data.get("id") or link_data.get("data", {}).get("id")
         if link_id:
             print(f"✓ Added: {title} (ID: {link_id})")
             return (link_id, True)
