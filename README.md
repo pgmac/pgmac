@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Announcing n8n version 2.0 - coming soon! - Announcements - n8n Community](https://community.n8n.io/t/announcing-n8n-version-2-0-coming-soon/226475)
 * [Making Crash Bandicoot (2011)](https://all-things-andy-gavin.com/video-games/making-crash/)
 * [Copyparty, the FOSS file server [video]](https://www.youtube.com/watch?v=15_-hgsX2V0)
 * [Space Truckin' – The Nostromo (2012)](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
@@ -84,7 +85,6 @@ A table of things ...
 * [thenounproject.com](https://thenounproject.com/)
 * [Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5)
 * [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
-* [ericmigi.com](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
 
 ### Things I'm star-ing
 
