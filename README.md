@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Space Truckin' – The Nostromo (2012)](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
+* [Stridspiloten förevisar JAS Gripen: "Här sitter atombomben" - YouTube](https://youtu.be/Q6I3UUXSWBM?si=OJCpd-2YlukUneCC)
 * [infisical.com](https://infisical.com/)
 * [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/)
 * [thenounproject.com](https://thenounproject.com/)
@@ -83,15 +85,13 @@ A table of things ...
 * [ericmigi.com](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
 * [The Letter — Stop Hacklore!](https://www.hacklore.org/letter)
 * [Years-old bugs in open source took out major clouds at risk • The Register](https://www.theregister.com/2025/11/24/fluent_bit_cves/)
-* [Shai-Hulud Returns: Over 300 NPM Packages Infected](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24)
-* [We stopped roadmap work for a week and fixed bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
 
 ### Things I'm star-ing
 
 * [fleet](https://github.com/fleetdm/fleet)
   Open device management
 * [rowboat](https://github.com/rowboatlabs/rowboat)
-  AI-powered CLI for background agents
+  The local-first agent OS
 * [gerbil](https://github.com/lone-cloud/gerbil)
   A desktop app for running Large Language Models locally. 
 * [rotel](https://github.com/streamfold/rotel)
