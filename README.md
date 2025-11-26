@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [infisical.com](https://infisical.com/)
 * [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/)
 * [thenounproject.com](https://thenounproject.com/)
 * [Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5)
@@ -84,7 +85,6 @@ A table of things ...
 * [Years-old bugs in open source took out major clouds at risk • The Register](https://www.theregister.com/2025/11/24/fluent_bit_cves/)
 * [Shai-Hulud Returns: Over 300 NPM Packages Infected](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24)
 * [We stopped roadmap work for a week and fixed bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
-* [Disney Lost Roger Rabbit](https://pluralistic.net/2025/11/18/im-not-bad/)
 
 ### Things I'm star-ing
 
