@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Making Crash Bandicoot (2011)](https://all-things-andy-gavin.com/video-games/making-crash/)
+* [Copyparty, the FOSS file server [video]](https://www.youtube.com/watch?v=15_-hgsX2V0)
 * [Space Truckin' – The Nostromo (2012)](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
 * [Stridspiloten förevisar JAS Gripen: "Här sitter atombomben" - YouTube](https://youtu.be/Q6I3UUXSWBM?si=OJCpd-2YlukUneCC)
 * [infisical.com](https://infisical.com/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5)
 * [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
 * [ericmigi.com](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
-* [The Letter — Stop Hacklore!](https://www.hacklore.org/letter)
-* [Years-old bugs in open source took out major clouds at risk • The Register](https://www.theregister.com/2025/11/24/fluent_bit_cves/)
 
 ### Things I'm star-ing
 
