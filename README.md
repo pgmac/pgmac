@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Penpot: The Open-Source Figma](https://github.com/penpot/penpot)
+* [DIY NAS: 2026 Edition - briancmoses.com](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html)
+* [www.abc.net.au](https://www.abc.net.au/news/science/2025-11-27/mars-rover-lightning-perseverance-dust-devils-storms-audio/106049240)
 * [Gemini CLI Tips and Tricks for Agentic Coding](https://github.com/addyosmani/gemini-cli-tips)
 * [Announcing n8n version 2.0 - coming soon! - Announcements - n8n Community](https://community.n8n.io/t/announcing-n8n-version-2-0-coming-soon/226475)
 * [Making Crash Bandicoot (2011)](https://all-things-andy-gavin.com/video-games/making-crash/)
@@ -82,9 +85,6 @@ A table of things ...
 * [Space Truckin' – The Nostromo (2012)](https://alienseries.wordpress.com/2012/10/23/space-truckin-the-nostromo/)
 * [Stridspiloten förevisar JAS Gripen: "Här sitter atombomben" - YouTube](https://youtu.be/Q6I3UUXSWBM?si=OJCpd-2YlukUneCC)
 * [infisical.com](https://infisical.com/)
-* [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/)
-* [thenounproject.com](https://thenounproject.com/)
-* [Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5)
 
 ### Things I'm star-ing
 
