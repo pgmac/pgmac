@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Gemini CLI Tips and Tricks for Agentic Coding](https://github.com/addyosmani/gemini-cli-tips)
 * [Announcing n8n version 2.0 - coming soon! - Announcements - n8n Community](https://community.n8n.io/t/announcing-n8n-version-2-0-coming-soon/226475)
 * [Making Crash Bandicoot (2011)](https://all-things-andy-gavin.com/video-games/making-crash/)
 * [Copyparty, the FOSS file server [video]](https://www.youtube.com/watch?v=15_-hgsX2V0)
@@ -84,7 +85,6 @@ A table of things ...
 * [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/)
 * [thenounproject.com](https://thenounproject.com/)
 * [Claude Opus 4.5](https://www.anthropic.com/news/claude-opus-4-5)
-* [Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)
 
 ### Things I'm star-ing
 
