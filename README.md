@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Show HN: Boing](https://boing.greg.technology/)
 * [DNS LOC Record (2014)](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/)
 * [The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types](https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/)
 * [Be Like Clippy](https://be-clippy.com/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Penpot: The Open-Source Figma](https://github.com/penpot/penpot)
 * [DIY NAS: 2026 Edition - briancmoses.com](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html)
 * [www.abc.net.au](https://www.abc.net.au/news/science/2025-11-27/mars-rover-lightning-perseverance-dust-devils-storms-audio/106049240)
-* [Gemini CLI Tips and Tricks for Agentic Coding](https://github.com/addyosmani/gemini-cli-tips)
 
 ### Things I'm star-ing
 
