@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [DNS LOC Record (2014)](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/)
+* [The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types](https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/)
+* [Be Like Clippy](https://be-clippy.com/)
 * [AI CEO – Replace your boss before they replace you](https://replaceyourboss.ai/)
 * [Voyager 1 is about to reach one light-day from Earth](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/)
 * [The engineer–manager pendulum is breaking](https://www.modernleader.is/p/pendulum-revisited)
@@ -82,9 +85,6 @@ A table of things ...
 * [DIY NAS: 2026 Edition - briancmoses.com](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html)
 * [www.abc.net.au](https://www.abc.net.au/news/science/2025-11-27/mars-rover-lightning-perseverance-dust-devils-storms-audio/106049240)
 * [Gemini CLI Tips and Tricks for Agentic Coding](https://github.com/addyosmani/gemini-cli-tips)
-* [Announcing n8n version 2.0 - coming soon! - Announcements - n8n Community](https://community.n8n.io/t/announcing-n8n-version-2-0-coming-soon/226475)
-* [Making Crash Bandicoot (2011)](https://all-things-andy-gavin.com/video-games/making-crash/)
-* [Copyparty, the FOSS file server [video]](https://www.youtube.com/watch?v=15_-hgsX2V0)
 
 ### Things I'm star-ing
 
