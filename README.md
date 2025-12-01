@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Writing a good Claude.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
 * [Show HN: Boing](https://boing.greg.technology/)
 * [DNS LOC Record (2014)](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/)
 * [The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types](https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/)
@@ -84,10 +85,13 @@ A table of things ...
 * [The engineer–manager pendulum is breaking](https://www.modernleader.is/p/pendulum-revisited)
 * [Penpot: The Open-Source Figma](https://github.com/penpot/penpot)
 * [DIY NAS: 2026 Edition - briancmoses.com](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html)
-* [www.abc.net.au](https://www.abc.net.au/news/science/2025-11-27/mars-rover-lightning-perseverance-dust-devils-storms-audio/106049240)
 
 ### Things I'm star-ing
 
+* [minecraft-server-charts](https://github.com/itzg/minecraft-server-charts)
+  
+* [Paper](https://github.com/PaperMC/Paper)
+  The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 * [fleet](https://github.com/fleetdm/fleet)
   Open device management
 * [rowboat](https://github.com/rowboatlabs/rowboat)
@@ -104,10 +108,6 @@ A table of things ...
   a tiling window manager for macos
 * [ty](https://github.com/astral-sh/ty)
   An extremely fast Python type checker and language server, written in Rust.
-* [ssh3](https://github.com/francoismichel/ssh3)
-  SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
-* [stack-overflow-import](https://github.com/drathier/stack-overflow-import)
-  Import arbitrary code from Stack Overflow as Python modules.
 
 ### My Blog Posts
 
