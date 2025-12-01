@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Advent of Sysadmin 2025](https://sadservers.com/advent)
 * [Writing a good Claude.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
 * [Show HN: Boing](https://boing.greg.technology/)
 * [DNS LOC Record (2014)](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Voyager 1 is about to reach one light-day from Earth](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/)
 * [The engineer–manager pendulum is breaking](https://www.modernleader.is/p/pendulum-revisited)
 * [Penpot: The Open-Source Figma](https://github.com/penpot/penpot)
-* [DIY NAS: 2026 Edition - briancmoses.com](https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html)
 
 ### Things I'm star-ing
 
