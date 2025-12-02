@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Decreasing Certificate Lifetimes to 45 Days](https://letsencrypt.org/2025/12/02/from-90-to-45.html)
 * [Advent of Sysadmin 2025](https://sadservers.com/advent)
 * [Writing a good Claude.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
 * [Show HN: Boing](https://boing.greg.technology/)
@@ -84,7 +85,6 @@ A table of things ...
 * [AI CEO – Replace your boss before they replace you](https://replaceyourboss.ai/)
 * [Voyager 1 is about to reach one light-day from Earth](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/)
 * [The engineer–manager pendulum is breaking](https://www.modernleader.is/p/pendulum-revisited)
-* [Penpot: The Open-Source Figma](https://github.com/penpot/penpot)
 
 ### Things I'm star-ing
 
