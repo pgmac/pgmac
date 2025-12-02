@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [raptor](https://github.com/gadievron/raptor)
+  Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, we configure the agent for adversarial thinking, and perform research or attack/defense operations.
 * [minecraft-server-charts](https://github.com/itzg/minecraft-server-charts)
   
 * [Paper](https://github.com/PaperMC/Paper)
@@ -106,8 +108,6 @@ A table of things ...
   :books: Freely available programming books
 * [rift](https://github.com/acsandmann/rift)
   a tiling window manager for macos
-* [ty](https://github.com/astral-sh/ty)
-  An extremely fast Python type checker and language server, written in Rust.
 
 ### My Blog Posts
 
