@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Valve reveals it’s the architect behind a push to bring Windows games to Arm](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
 * [Ghostty is now non-profit](https://mitchellh.com/writing/ghostty-non-profit)
 * [GitHub - minio/minio: MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.](https://github.com/minio/minio?tab=readme-ov-file#maintenance-mode)
 * [T O K Y O　1 9 8 0 - Discover The Groovy Sounds of 1980s Japanese Funk! - YouTube](https://www.youtube.com/watch?v=wFUeXvdHkxE)
@@ -84,7 +85,6 @@ A table of things ...
 * [Show HN: Boing](https://boing.greg.technology/)
 * [DNS LOC Record (2014)](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/)
 * [The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types](https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/)
-* [Be Like Clippy](https://be-clippy.com/)
 
 ### Things I'm star-ing
 
