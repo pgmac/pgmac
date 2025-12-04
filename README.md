@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Honest Trailers | Kill Bill: Vol 1 & 2 - YouTube](https://youtu.be/tnWWEWC85rA?si=CEepfggfHcuvB2Yk)
+* [cr0bar's bastardization of hackers](https://attrition.org/archive/www.detonate.net/hackers/)
 * [Valve reveals it’s the architect behind a push to bring Windows games to Arm](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
 * [Ghostty is now non-profit](https://mitchellh.com/writing/ghostty-non-profit)
 * [GitHub - minio/minio: MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.](https://github.com/minio/minio?tab=readme-ov-file#maintenance-mode)
@@ -83,8 +85,6 @@ A table of things ...
 * [Advent of Sysadmin 2025](https://sadservers.com/advent)
 * [Writing a good Claude.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
 * [Show HN: Boing](https://boing.greg.technology/)
-* [DNS LOC Record (2014)](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/)
-* [The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types](https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/)
 
 ### Things I'm star-ing
 
