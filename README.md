@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Ghostty is now non-profit](https://mitchellh.com/writing/ghostty-non-profit)
+* [GitHub - minio/minio: MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.](https://github.com/minio/minio?tab=readme-ov-file#maintenance-mode)
+* [T O K Y O　1 9 8 0 - Discover The Groovy Sounds of 1980s Japanese Funk! - YouTube](https://www.youtube.com/watch?v=wFUeXvdHkxE)
 * [Decreasing Certificate Lifetimes to 45 Days](https://letsencrypt.org/2025/12/02/from-90-to-45.html)
 * [Advent of Sysadmin 2025](https://sadservers.com/advent)
 * [Writing a good Claude.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
@@ -82,9 +85,6 @@ A table of things ...
 * [DNS LOC Record (2014)](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/)
 * [The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types](https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary/)
 * [Be Like Clippy](https://be-clippy.com/)
-* [AI CEO – Replace your boss before they replace you](https://replaceyourboss.ai/)
-* [Voyager 1 is about to reach one light-day from Earth](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/)
-* [The engineer–manager pendulum is breaking](https://www.modernleader.is/p/pendulum-revisited)
 
 ### Things I'm star-ing
 
