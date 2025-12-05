@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Netflix to Acquire Warner Bros](https://about.netflix.com/en/news/netflix-to-acquire-warner-bros)
+* [Making RSS More Fun](https://matduggan.com/making-rss-more-fun/)
 * [Honest Trailers | Kill Bill: Vol 1 & 2 - YouTube](https://youtu.be/tnWWEWC85rA?si=CEepfggfHcuvB2Yk)
 * [cr0bar's bastardization of hackers](https://attrition.org/archive/www.detonate.net/hackers/)
 * [Valve reveals it’s the architect behind a push to bring Windows games to Arm](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
@@ -83,8 +85,6 @@ A table of things ...
 * [T O K Y O　1 9 8 0 - Discover The Groovy Sounds of 1980s Japanese Funk! - YouTube](https://www.youtube.com/watch?v=wFUeXvdHkxE)
 * [Decreasing Certificate Lifetimes to 45 Days](https://letsencrypt.org/2025/12/02/from-90-to-45.html)
 * [Advent of Sysadmin 2025](https://sadservers.com/advent)
-* [Writing a good Claude.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
-* [Show HN: Boing](https://boing.greg.technology/)
 
 ### Things I'm star-ing
 
