@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Turtletoy](https://turtletoy.net/)
 * [The Little Drummer Boy - YouTube](https://www.youtube.com/watch?v=hiRjmD9h-YY&list=PLNhiYBzvsWqaFEE5SF-EpBtIoDBCCcG0K)
 * [Saturday Morning Breakfast Cereal - Dunno](https://www.smbc-comics.com/comic/dunno-2)
 * [Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A)
@@ -84,7 +85,6 @@ A table of things ...
 * [cr0bar's bastardization of hackers](https://attrition.org/archive/www.detonate.net/hackers/)
 * [Valve reveals it’s the architect behind a push to bring Windows games to Arm](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
 * [Ghostty is now non-profit](https://mitchellh.com/writing/ghostty-non-profit)
-* [GitHub - minio/minio: MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.](https://github.com/minio/minio?tab=readme-ov-file#maintenance-mode)
 
 ### Things I'm star-ing
 
