@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The Little Drummer Boy - YouTube](https://www.youtube.com/watch?v=hiRjmD9h-YY&list=PLNhiYBzvsWqaFEE5SF-EpBtIoDBCCcG0K)
+* [Saturday Morning Breakfast Cereal - Dunno](https://www.smbc-comics.com/comic/dunno-2)
 * [Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A)
 * [Netflix to Acquire Warner Bros](https://about.netflix.com/en/news/netflix-to-acquire-warner-bros)
 * [Making RSS More Fun](https://matduggan.com/making-rss-more-fun/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Valve reveals it’s the architect behind a push to bring Windows games to Arm](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
 * [Ghostty is now non-profit](https://mitchellh.com/writing/ghostty-non-profit)
 * [GitHub - minio/minio: MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.](https://github.com/minio/minio?tab=readme-ov-file#maintenance-mode)
-* [T O K Y O　1 9 8 0 - Discover The Groovy Sounds of 1980s Japanese Funk! - YouTube](https://www.youtube.com/watch?v=wFUeXvdHkxE)
-* [Decreasing Certificate Lifetimes to 45 Days](https://letsencrypt.org/2025/12/02/from-90-to-45.html)
 
 ### Things I'm star-ing
 
