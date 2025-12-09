@@ -97,7 +97,7 @@ A table of things ...
 * [fleet](https://github.com/fleetdm/fleet)
   Open device management
 * [rowboat](https://github.com/rowboatlabs/rowboat)
-  The local-first agent OS
+  Local-first, open-source tools for automating everyday work.
 * [gerbil](https://github.com/lone-cloud/gerbil)
   A desktop app for running Large Language Models locally. 
 * [rotel](https://github.com/streamfold/rotel)
