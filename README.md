@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [10 Years of Let's Encrypt](https://letsencrypt.org/2025/12/09/10-years)
 * [Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now](https://dosaygo-studio.github.io/hn-front-page-2035/news)
 * [Turtletoy](https://turtletoy.net/)
 * [The Little Drummer Boy - YouTube](https://www.youtube.com/watch?v=hiRjmD9h-YY&list=PLNhiYBzvsWqaFEE5SF-EpBtIoDBCCcG0K)
@@ -84,7 +85,6 @@ A table of things ...
 * [Making RSS More Fun](https://matduggan.com/making-rss-more-fun/)
 * [Honest Trailers | Kill Bill: Vol 1 & 2 - YouTube](https://youtu.be/tnWWEWC85rA?si=CEepfggfHcuvB2Yk)
 * [cr0bar's bastardization of hackers](https://attrition.org/archive/www.detonate.net/hackers/)
-* [Valve reveals it’s the architect behind a push to bring Windows games to Arm](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
 
 ### Things I'm star-ing
 
