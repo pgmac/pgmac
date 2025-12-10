@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now](https://dosaygo-studio.github.io/hn-front-page-2035/news)
 * [Turtletoy](https://turtletoy.net/)
 * [The Little Drummer Boy - YouTube](https://www.youtube.com/watch?v=hiRjmD9h-YY&list=PLNhiYBzvsWqaFEE5SF-EpBtIoDBCCcG0K)
 * [Saturday Morning Breakfast Cereal - Dunno](https://www.smbc-comics.com/comic/dunno-2)
@@ -84,12 +85,9 @@ A table of things ...
 * [Honest Trailers | Kill Bill: Vol 1 & 2 - YouTube](https://youtu.be/tnWWEWC85rA?si=CEepfggfHcuvB2Yk)
 * [cr0bar's bastardization of hackers](https://attrition.org/archive/www.detonate.net/hackers/)
 * [Valve reveals it’s the architect behind a push to bring Windows games to Arm](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
-* [Ghostty is now non-profit](https://mitchellh.com/writing/ghostty-non-profit)
 
 ### Things I'm star-ing
 
-* [raptor](https://github.com/gadievron/raptor)
-  Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations.
 * [minecraft-server-charts](https://github.com/itzg/minecraft-server-charts)
   
 * [Paper](https://github.com/PaperMC/Paper)
@@ -108,6 +106,8 @@ A table of things ...
   :books: Freely available programming books
 * [rift](https://github.com/acsandmann/rift)
   a tiling window manager for macos
+* [ty](https://github.com/astral-sh/ty)
+  An extremely fast Python type checker and language server, written in Rust.
 
 ### My Blog Posts
 
