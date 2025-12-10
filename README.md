@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [If you're going to vibe code, why not do it in C?](https://stephenramsay.net/posts/vibe-coding.html)
+* [[HOONIGAN] Gymkhana 2025: Aussie Shred — Travis Pastrana Does the IMPOSSIBLE in a Subaru Brat - YouTube](https://youtu.be/daYgg2YSA2g?si=xMHbkRATwPjBPBKt)
 * [10 Years of Let's Encrypt](https://letsencrypt.org/2025/12/09/10-years)
 * [Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now](https://dosaygo-studio.github.io/hn-front-page-2035/news)
 * [Turtletoy](https://turtletoy.net/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A)
 * [Netflix to Acquire Warner Bros](https://about.netflix.com/en/news/netflix-to-acquire-warner-bros)
 * [Making RSS More Fun](https://matduggan.com/making-rss-more-fun/)
-* [Honest Trailers | Kill Bill: Vol 1 & 2 - YouTube](https://youtu.be/tnWWEWC85rA?si=CEepfggfHcuvB2Yk)
-* [cr0bar's bastardization of hackers](https://attrition.org/archive/www.detonate.net/hackers/)
 
 ### Things I'm star-ing
 
