@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [An SVG is all you need](https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html)
 * [If you're going to vibe code, why not do it in C?](https://stephenramsay.net/posts/vibe-coding.html)
 * [[HOONIGAN] Gymkhana 2025: Aussie Shred — Travis Pastrana Does the IMPOSSIBLE in a Subaru Brat - YouTube](https://youtu.be/daYgg2YSA2g?si=xMHbkRATwPjBPBKt)
 * [10 Years of Let's Encrypt](https://letsencrypt.org/2025/12/09/10-years)
@@ -84,7 +85,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Dunno](https://www.smbc-comics.com/comic/dunno-2)
 * [Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A)
 * [Netflix to Acquire Warner Bros](https://about.netflix.com/en/news/netflix-to-acquire-warner-bros)
-* [Making RSS More Fun](https://matduggan.com/making-rss-more-fun/)
 
 ### Things I'm star-ing
 
