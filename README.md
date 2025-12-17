@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Pricing Changes for GitHub Actions](https://resources.github.com/actions/2026-pricing-changes-for-github-actions/)
+* [Announcing the Beta release of ty](https://astral.sh/blog/ty)
 * [Upcoming Changes to Let's Encrypt Certificates](https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873)
 * [Ubuntu's New Telemetry Tool Will 'Phone Home' Monthly - OMG! Ubuntu](https://www.omgubuntu.co.uk/2025/12/ubuntu-insights-telemetry-26-04-lts)
 * [An SVG is all you need](https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html)
@@ -83,8 +85,6 @@ A table of things ...
 * [10 Years of Let's Encrypt](https://letsencrypt.org/2025/12/09/10-years)
 * [Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now](https://dosaygo-studio.github.io/hn-front-page-2035/news)
 * [Turtletoy](https://turtletoy.net/)
-* [The Little Drummer Boy - YouTube](https://www.youtube.com/watch?v=hiRjmD9h-YY&list=PLNhiYBzvsWqaFEE5SF-EpBtIoDBCCcG0K)
-* [Saturday Morning Breakfast Cereal - Dunno](https://www.smbc-comics.com/comic/dunno-2)
 
 ### Things I'm star-ing
 
