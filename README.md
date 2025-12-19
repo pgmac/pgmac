@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
+* [AI vending machine was tricked into giving away everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
 * [Pricing Changes for GitHub Actions](https://resources.github.com/actions/2026-pricing-changes-for-github-actions/)
 * [Announcing the Beta release of ty](https://astral.sh/blog/ty)
 * [Upcoming Changes to Let's Encrypt Certificates](https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873)
@@ -83,8 +85,6 @@ A table of things ...
 * [If you're going to vibe code, why not do it in C?](https://stephenramsay.net/posts/vibe-coding.html)
 * [[HOONIGAN] Gymkhana 2025: Aussie Shred — Travis Pastrana Does the IMPOSSIBLE in a Subaru Brat - YouTube](https://youtu.be/daYgg2YSA2g?si=xMHbkRATwPjBPBKt)
 * [10 Years of Let's Encrypt](https://letsencrypt.org/2025/12/09/10-years)
-* [Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now](https://dosaygo-studio.github.io/hn-front-page-2035/news)
-* [Turtletoy](https://turtletoy.net/)
 
 ### Things I'm star-ing
 
