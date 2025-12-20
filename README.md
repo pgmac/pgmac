@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GotaTun – Mullvad's WireGuard Implementation in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn)
+* [Garage – An S3 object store so reliable you can run it outside datacenters](https://garagehq.deuxfleurs.fr/)
 * [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
 * [AI vending machine was tricked into giving away everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
 * [Pricing Changes for GitHub Actions](https://resources.github.com/actions/2026-pricing-changes-for-github-actions/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Ubuntu's New Telemetry Tool Will 'Phone Home' Monthly - OMG! Ubuntu](https://www.omgubuntu.co.uk/2025/12/ubuntu-insights-telemetry-26-04-lts)
 * [An SVG is all you need](https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html)
 * [If you're going to vibe code, why not do it in C?](https://stephenramsay.net/posts/vibe-coding.html)
-* [[HOONIGAN] Gymkhana 2025: Aussie Shred — Travis Pastrana Does the IMPOSSIBLE in a Subaru Brat - YouTube](https://youtu.be/daYgg2YSA2g?si=xMHbkRATwPjBPBKt)
-* [10 Years of Let's Encrypt](https://letsencrypt.org/2025/12/09/10-years)
 
 ### Things I'm star-ing
 
