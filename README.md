@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
 * [You have reached the end of the internet (2006)](https://hmpg.net/)
 * [Claude in Chrome](https://claude.com/chrome)
 * [GotaTun – Mullvad's WireGuard Implementation in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn)
@@ -84,7 +85,6 @@ A table of things ...
 * [Pricing Changes for GitHub Actions](https://resources.github.com/actions/2026-pricing-changes-for-github-actions/)
 * [Announcing the Beta release of ty](https://astral.sh/blog/ty)
 * [Upcoming Changes to Let's Encrypt Certificates](https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873)
-* [Ubuntu's New Telemetry Tool Will 'Phone Home' Monthly - OMG! Ubuntu](https://www.omgubuntu.co.uk/2025/12/ubuntu-insights-telemetry-26-04-lts)
 
 ### Things I'm star-ing
 
