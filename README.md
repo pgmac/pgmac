@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch)
 * [A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
 * [You have reached the end of the internet (2006)](https://hmpg.net/)
 * [Claude in Chrome](https://claude.com/chrome)
@@ -84,7 +85,6 @@ A table of things ...
 * [AI vending machine was tricked into giving away everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
 * [Pricing Changes for GitHub Actions](https://resources.github.com/actions/2026-pricing-changes-for-github-actions/)
 * [Announcing the Beta release of ty](https://astral.sh/blog/ty)
-* [Upcoming Changes to Let's Encrypt Certificates](https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873)
 
 ### Things I'm star-ing
 
