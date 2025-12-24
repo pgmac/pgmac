@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [UNIX V4 tape successfully recovered • The Register](https://www.theregister.com/2025/12/23/unix_v4_tape_successfully_recovered/)
+* [Santa Claus on delivering 99% Uptime - YouTube](https://youtu.be/uMoql_RYVBQ?si=bSNi7dgZzvJCYO7l)
 * [Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch)
 * [A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
 * [You have reached the end of the internet (2006)](https://hmpg.net/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Garage – An S3 object store so reliable you can run it outside datacenters](https://garagehq.deuxfleurs.fr/)
 * [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
 * [AI vending machine was tricked into giving away everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
-* [Pricing Changes for GitHub Actions](https://resources.github.com/actions/2026-pricing-changes-for-github-actions/)
-* [Announcing the Beta release of ty](https://astral.sh/blog/ty)
 
 ### Things I'm star-ing
 
