@@ -75,7 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-* [Your browser is deprecated, please upgrade.](https://music.youtube.com/watch?v=WjGfT6DA-hY)
+* [GitHub - ComposioHQ/awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows](https://github.com/ComposioHQ/awesome-claude-skills)
+* [The Itsy Bitsy Spider - Fisher-Price music](https://music.youtube.com/watch?v=WjGfT6DA-hY)
 * ["12 Days of Christmas" - Reggie Watts - YouTube](https://youtu.be/AQf21KATD4Y?si=V8BT70Zz3HL8c5h7)
 * [UNIX V4 tape successfully recovered • The Register](https://www.theregister.com/2025/12/23/unix_v4_tape_successfully_recovered/)
 * [Santa Claus on delivering 99% Uptime - YouTube](https://youtu.be/uMoql_RYVBQ?si=bSNi7dgZzvJCYO7l)
@@ -84,10 +85,11 @@ A table of things ...
 * [You have reached the end of the internet (2006)](https://hmpg.net/)
 * [Claude in Chrome](https://claude.com/chrome)
 * [GotaTun – Mullvad's WireGuard Implementation in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn)
-* [Garage – An S3 object store so reliable you can run it outside datacenters](https://garagehq.deuxfleurs.fr/)
 
 ### Things I'm star-ing
 
+* [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+  A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 * [raptor](https://github.com/gadievron/raptor)
   Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations.
 * [minecraft-server-charts](https://github.com/itzg/minecraft-server-charts)
@@ -106,8 +108,6 @@ A table of things ...
   A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
   :books: Freely available programming books
-* [rift](https://github.com/acsandmann/rift)
-  a tiling window manager for macos
 
 ### My Blog Posts
 
