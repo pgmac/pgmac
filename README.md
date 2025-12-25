@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Your browser is deprecated, please upgrade.](https://music.youtube.com/watch?v=WjGfT6DA-hY)
+* ["12 Days of Christmas" - Reggie Watts - YouTube](https://youtu.be/AQf21KATD4Y?si=V8BT70Zz3HL8c5h7)
 * [UNIX V4 tape successfully recovered • The Register](https://www.theregister.com/2025/12/23/unix_v4_tape_successfully_recovered/)
 * [Santa Claus on delivering 99% Uptime - YouTube](https://youtu.be/uMoql_RYVBQ?si=bSNi7dgZzvJCYO7l)
 * [Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch)
@@ -83,8 +85,6 @@ A table of things ...
 * [Claude in Chrome](https://claude.com/chrome)
 * [GotaTun – Mullvad's WireGuard Implementation in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn)
 * [Garage – An S3 object store so reliable you can run it outside datacenters](https://garagehq.deuxfleurs.fr/)
-* [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
-* [AI vending machine was tricked into giving away everything](https://kottke.org/25/12/this-ai-vending-machine-was-tricked-into-giving-away-everything)
 
 ### Things I'm star-ing
 
