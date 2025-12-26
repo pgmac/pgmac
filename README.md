@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The Predator | Holiday Special | 20th Century FOX - YouTube](https://youtu.be/rVrRjt69lhU?si=mrfsHhPdGb8pi6yv)
+* [etc.octavore.com](https://etc.octavore.com/2025/12/archiving-git-branches-as-tags/)
+* [Google will finally allow you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/)
+* [Saturday Morning Breakfast Cereal - Butterfly](https://www.smbc-comics.com/comic/butterfly)
 * [GitHub - ComposioHQ/awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows](https://github.com/ComposioHQ/awesome-claude-skills)
 * [The Itsy Bitsy Spider - Fisher-Price music](https://music.youtube.com/watch?v=WjGfT6DA-hY)
 * ["12 Days of Christmas" - Reggie Watts - YouTube](https://youtu.be/AQf21KATD4Y?si=V8BT70Zz3HL8c5h7)
 * [UNIX V4 tape successfully recovered • The Register](https://www.theregister.com/2025/12/23/unix_v4_tape_successfully_recovered/)
 * [Santa Claus on delivering 99% Uptime - YouTube](https://youtu.be/uMoql_RYVBQ?si=bSNi7dgZzvJCYO7l)
 * [Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch)
-* [A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
-* [You have reached the end of the internet (2006)](https://hmpg.net/)
-* [Claude in Chrome](https://claude.com/chrome)
-* [GotaTun – Mullvad's WireGuard Implementation in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn)
 
 ### Things I'm star-ing
 
