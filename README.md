@@ -75,19 +75,21 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Gpg.fail](https://gpg.fail)
+* [Show HN: Mysti – Claude, Codex, and Gemini debate your code, then synthesize](https://github.com/DeepMyst/Mysti)
+* [Pre-commit hooks are broken](https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/)
+* [Clock synchronization is a nightmare](https://arpitbhayani.me/blogs/clock-sync-nightmare/)
+* [How we lost communication to entertainment](https://ploum.net/2025-12-15-communication-entertainment.html)
 * [Maybe the default settings are too high](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)
 * [The Predator | Holiday Special | 20th Century FOX - YouTube](https://youtu.be/rVrRjt69lhU?si=mrfsHhPdGb8pi6yv)
 * [etc.octavore.com](https://etc.octavore.com/2025/12/archiving-git-branches-as-tags/)
 * [Google will finally allow you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/)
 * [Saturday Morning Breakfast Cereal - Butterfly](https://www.smbc-comics.com/comic/butterfly)
-* [GitHub - ComposioHQ/awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows](https://github.com/ComposioHQ/awesome-claude-skills)
-* [The Itsy Bitsy Spider - Fisher-Price music](https://music.youtube.com/watch?v=WjGfT6DA-hY)
-* ["12 Days of Christmas" - Reggie Watts - YouTube](https://youtu.be/AQf21KATD4Y?si=V8BT70Zz3HL8c5h7)
-* [UNIX V4 tape successfully recovered • The Register](https://www.theregister.com/2025/12/23/unix_v4_tape_successfully_recovered/)
-* [Santa Claus on delivering 99% Uptime - YouTube](https://youtu.be/uMoql_RYVBQ?si=bSNi7dgZzvJCYO7l)
 
 ### Things I'm star-ing
 
+* [Mysti](https://github.com/DeepMyst/Mysti)
+  AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.
 * [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
   A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 * [raptor](https://github.com/gadievron/raptor)
@@ -106,8 +108,6 @@ A table of things ...
   High Performance, Resource Efficient OpenTelemetry Collection
 * [codeassist](https://github.com/gensyn-ai/codeassist)
   A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.
-* [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-  :books: Freely available programming books
 
 ### My Blog Posts
 
