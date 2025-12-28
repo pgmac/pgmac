@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
 * [Gpg.fail](https://gpg.fail)
 * [Show HN: Mysti – Claude, Codex, and Gemini debate your code, then synthesize](https://github.com/DeepMyst/Mysti)
 * [Pre-commit hooks are broken](https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/)
@@ -84,7 +85,6 @@ A table of things ...
 * [The Predator | Holiday Special | 20th Century FOX - YouTube](https://youtu.be/rVrRjt69lhU?si=mrfsHhPdGb8pi6yv)
 * [etc.octavore.com](https://etc.octavore.com/2025/12/archiving-git-branches-as-tags/)
 * [Google will finally allow you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/)
-* [Saturday Morning Breakfast Cereal - Butterfly](https://www.smbc-comics.com/comic/butterfly)
 
 ### Things I'm star-ing
 
