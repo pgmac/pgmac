@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [IUseLinux: Access iMessage from your Linux (or windows) computer](https://www.iuselinux.com/)
+* [Kubernetes egress control with squid proxy](https://interlaye.red/kubernetes_002degress_002dsquid.html)
 * [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
 * [Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
 * [Gpg.fail](https://gpg.fail)
@@ -83,8 +85,6 @@ A table of things ...
 * [Clock synchronization is a nightmare](https://arpitbhayani.me/blogs/clock-sync-nightmare/)
 * [How we lost communication to entertainment](https://ploum.net/2025-12-15-communication-entertainment.html)
 * [Maybe the default settings are too high](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)
-* [The Predator | Holiday Special | 20th Century FOX - YouTube](https://youtu.be/rVrRjt69lhU?si=mrfsHhPdGb8pi6yv)
-* [etc.octavore.com](https://etc.octavore.com/2025/12/archiving-git-branches-as-tags/)
 
 ### Things I'm star-ing
 
