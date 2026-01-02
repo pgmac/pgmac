@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Standard Ebooks: Public Domain Day 2026 in Literature](https://standardebooks.org/blog/public-domain-day-2026)
 * [Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt](https://enroll.sh)
 * [www.geeky-gadgets.com](https://www.geeky-gadgets.com/claude-ralph-plugin/)
 * [www.abc.net.au](https://www.abc.net.au/news/2026-01-02/rapa-nui-easter-island-moai-creation-and-movement-explained/106077706)
@@ -84,7 +85,6 @@ A table of things ...
 * [Tixl: Open-source realtime motion graphics](https://github.com/tixl3d/tixl)
 * [IUseLinux: Access iMessage from your Linux (or windows) computer](https://www.iuselinux.com/)
 * [Kubernetes egress control with squid proxy](https://interlaye.red/kubernetes_002degress_002dsquid.html)
-* [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
 
 ### Things I'm star-ing
 
