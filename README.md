@@ -88,26 +88,7 @@ A table of things ...
 
 ### Things I'm star-ing
 
-* [Mysti](https://github.com/DeepMyst/Mysti)
-  AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.
-* [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
-  A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-* [raptor](https://github.com/gadievron/raptor)
-  Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations.
-* [minecraft-server-charts](https://github.com/itzg/minecraft-server-charts)
-  
-* [Paper](https://github.com/PaperMC/Paper)
-  The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
-* [fleet](https://github.com/fleetdm/fleet)
-  Open device management
-* [rowboat](https://github.com/rowboatlabs/rowboat)
-  Local-first, open-source tools for automating everyday work.
-* [gerbil](https://github.com/lone-cloud/gerbil)
-  A desktop app for running Large Language Models locally. 
-* [rotel](https://github.com/streamfold/rotel)
-  High Performance, Resource Efficient OpenTelemetry Collection
-* [codeassist](https://github.com/gensyn-ai/codeassist)
-  A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.
+
 
 ### My Blog Posts
 
