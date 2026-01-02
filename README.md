@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt](https://enroll.sh)
+* [www.geeky-gadgets.com](https://www.geeky-gadgets.com/claude-ralph-plugin/)
+* [www.abc.net.au](https://www.abc.net.au/news/2026-01-02/rapa-nui-easter-island-moai-creation-and-movement-explained/106077706)
 * [Show HN: OpenWorkers – Self-hosted Cloudflare workers in Rust](https://openworkers.com/introducing-openworkers)
 * [Akin's Laws of Spacecraft Design [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
 * [Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.](https://exopriors.com/scry)
@@ -82,9 +85,6 @@ A table of things ...
 * [IUseLinux: Access iMessage from your Linux (or windows) computer](https://www.iuselinux.com/)
 * [Kubernetes egress control with squid proxy](https://interlaye.red/kubernetes_002degress_002dsquid.html)
 * [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
-* [Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
-* [Gpg.fail](https://gpg.fail)
-* [Show HN: Mysti – Claude, Codex, and Gemini debate your code, then synthesize](https://github.com/DeepMyst/Mysti)
 
 ### Things I'm star-ing
 
