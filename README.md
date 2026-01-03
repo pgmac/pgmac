@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [www.friskyradio.com](https://www.friskyradio.com/)
 * [Unix v4 (1973) – Live Terminal](https://unixv4.dev/)
 * [Publish on your own site, syndicate elsewhere](https://indieweb.org/POSSE#)
 * [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)
@@ -84,7 +85,6 @@ A table of things ...
 * [www.abc.net.au](https://www.abc.net.au/news/2026-01-02/rapa-nui-easter-island-moai-creation-and-movement-explained/106077706)
 * [Show HN: OpenWorkers – Self-hosted Cloudflare workers in Rust](https://openworkers.com/introducing-openworkers)
 * [Akin's Laws of Spacecraft Design [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
-* [Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.](https://exopriors.com/scry)
 
 ### Things I'm star-ing
 
