@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Unix v4 (1973) – Live Terminal](https://unixv4.dev/)
+* [Publish on your own site, syndicate elsewhere](https://indieweb.org/POSSE#)
+* [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)
 * [Standard Ebooks: Public Domain Day 2026 in Literature](https://standardebooks.org/blog/public-domain-day-2026)
 * [Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt](https://enroll.sh)
 * [www.geeky-gadgets.com](https://www.geeky-gadgets.com/claude-ralph-plugin/)
@@ -82,13 +85,29 @@ A table of things ...
 * [Show HN: OpenWorkers – Self-hosted Cloudflare workers in Rust](https://openworkers.com/introducing-openworkers)
 * [Akin's Laws of Spacecraft Design [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
 * [Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.](https://exopriors.com/scry)
-* [Tixl: Open-source realtime motion graphics](https://github.com/tixl3d/tixl)
-* [IUseLinux: Access iMessage from your Linux (or windows) computer](https://www.iuselinux.com/)
-* [Kubernetes egress control with squid proxy](https://interlaye.red/kubernetes_002degress_002dsquid.html)
 
 ### Things I'm star-ing
 
-
+* [Mysti](https://github.com/DeepMyst/Mysti)
+  AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.
+* [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+  A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+* [raptor](https://github.com/gadievron/raptor)
+  Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations.
+* [minecraft-server-charts](https://github.com/itzg/minecraft-server-charts)
+  
+* [Paper](https://github.com/PaperMC/Paper)
+  The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
+* [fleet](https://github.com/fleetdm/fleet)
+  Open device management
+* [rowboat](https://github.com/rowboatlabs/rowboat)
+  Local-first, open-source tools for automating everyday work.
+* [gerbil](https://github.com/lone-cloud/gerbil)
+  A desktop app for running Large Language Models locally. 
+* [rotel](https://github.com/streamfold/rotel)
+  High Performance, Resource Efficient OpenTelemetry Collection
+* [codeassist](https://github.com/gensyn-ai/codeassist)
+  A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.
 
 ### My Blog Posts
 
