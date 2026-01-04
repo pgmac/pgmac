@@ -1,4 +1,14 @@
 #!/usr/bin/env python3
+"""
+GitHub Profile README Generator.
+
+This module automatically updates a GitHub profile README with dynamic content from:
+- Hacker News favorites (synced to Link Ace)
+- YouTube playlist videos (synced to Link Ace)
+- Recent links from Link Ace
+- GitHub starred repositories
+- Blog posts from RSS feed
+"""
 
 from os import environ
 
@@ -132,10 +142,10 @@ def add_link_to_linkace(url, title, tags=None, timeout=30):
         if link_id:
             print(f"✓ Added: {title} (ID: {link_id})")
             return (link_id, True)
-        else:
-            print(f"✗ Link created but no ID found in response for: {title}")
-            print(f"  → Response structure: {link_data}")
-            return (None, False)
+
+        print(f"✗ Link created but no ID found in response for: {title}")
+        print(f"  → Response structure: {link_data}")
+        return (None, False)
 
     except requests.HTTPError as e:
         # Check if it's a duplicate URL error
@@ -154,16 +164,16 @@ def add_link_to_linkace(url, title, tags=None, timeout=30):
                     # Try to find the existing link ID
                     existing_link_id = find_existing_link_by_url(url)
                     return (existing_link_id, False)
-                else:
-                    print(f"✗ 422 validation error (not duplicate): {title}")
-                    print(f"  → Error details: {error_data}")
-                    return (None, False)
+
+                print(f"✗ 422 validation error (not duplicate): {title}")
+                print(f"  → Error details: {error_data}")
+                return (None, False)
             except ValueError:
                 print(f"✗ Could not parse 422 error response for: {title}")
                 return (None, False)
-        else:
-            print(f"✗ HTTP Error {e.response.status_code} adding '{title}': {e}")
-            return (None, False)
+
+        print(f"✗ HTTP Error {e.response.status_code} adding '{title}': {e}")
+        return (None, False)
     except requests.RequestException as e:
         print(f"✗ Request error adding '{title}': {e}")
         return (None, False)
@@ -388,13 +398,11 @@ def fetch_youtube_playlist(playlist_id, max_count=10):
 
             title = entry.get("title", "Untitled")
             link = entry.get("link", "")
-            video_id = entry.get("yt_videoid", "")
 
             if link:
                 videos.append({
                     "title": title,
                     "url": link,
-                    "video_id": video_id
                 })
 
     except Exception as e:
@@ -510,7 +518,7 @@ def read_file(filepath):
     Returns:
         str: File contents
     """
-    with open(filepath, "r") as f:
+    with open(filepath, "r", encoding="utf-8") as f:
         return f.read()
 
 
@@ -521,7 +529,7 @@ def write_file(content, filepath):
         content: Content to write
         filepath: Path to the file
     """
-    with open(filepath, "w") as f:
+    with open(filepath, "w", encoding="utf-8") as f:
         f.write(content)
 
 
