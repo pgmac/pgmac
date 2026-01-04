@@ -387,6 +387,9 @@ def fetch_youtube_playlist(playlist_id, max_count=10):
     Returns:
         list: List of dicts containing video information
     """
+    if not playlist_id:
+        print("Error fetching YouTube playlist: playlist_id is required and cannot be empty.")
+        return []
     videos = []
     try:
         feed_url = f"https://www.youtube.com/feeds/videos.xml?playlist_id={playlist_id}"
