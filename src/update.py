@@ -367,6 +367,85 @@ def fetch_blog_posts(feed_url):
     return posts
 
 
+def fetch_youtube_playlist(playlist_id, max_count=10):
+    """Fetch videos from a YouTube playlist RSS feed.
+
+    Args:
+        playlist_id: YouTube playlist ID
+        max_count: Maximum number of videos to retrieve
+
+    Returns:
+        list: List of dicts containing video information
+    """
+    videos = []
+    try:
+        feed_url = f"https://www.youtube.com/feeds/videos.xml?playlist_id={playlist_id}"
+        feed = feedparser.parse(feed_url)
+
+        for idx, entry in enumerate(feed.get("entries", [])):
+            if idx >= max_count:
+                break
+
+            title = entry.get("title", "Untitled")
+            link = entry.get("link", "")
+            video_id = entry.get("yt_videoid", "")
+
+            if link:
+                videos.append({
+                    "title": title,
+                    "url": link,
+                    "video_id": video_id
+                })
+
+    except Exception as e:
+        print(f"Error fetching YouTube playlist: {e}")
+
+    return videos
+
+
+def sync_youtube_playlist_to_linkace(playlist_id, tag="youtube", max_count=10):
+    """Fetch YouTube playlist videos and add them to Link Ace with specified tag.
+
+    Args:
+        playlist_id: YouTube playlist ID
+        tag: Tag to apply to the links (default: "youtube")
+        max_count: Maximum number of videos to sync
+    """
+    print(f"\nSyncing top {max_count} videos from YouTube playlist to Link Ace...")
+    videos = fetch_youtube_playlist(playlist_id, max_count)
+
+    if not videos:
+        print("No videos found to sync.")
+        return
+
+    added_count = 0
+    already_existed = 0
+    errors = 0
+
+    for video in videos:
+        print(f"\nProcessing: {video['title']}")
+
+        result = add_link_to_linkace(video["url"], video["title"], tags=[tag])
+        link_id, was_created = (
+            result if isinstance(result, tuple) else (result, result is not None)
+        )
+
+        if link_id:
+            if was_created:
+                added_count += 1
+            else:
+                already_existed += 1
+        else:
+            errors += 1
+
+    print("\nSync complete:")
+    print(f"  • {added_count} new links added")
+    print(f"  • {already_existed} links already existed")
+    if errors > 0:
+        print(f"  • {errors} errors occurred")
+    print()
+
+
 def format_links_section(links):
     """Format Link Ace links as a README section.
 
@@ -450,6 +529,9 @@ def main():
     """Build the README.md file from various sources."""
     # First, sync HN favorites to Link Ace
     sync_hn_favorites_to_linkace()
+
+    # Sync YouTube playlist to Link Ace
+    sync_youtube_playlist_to_linkace("PLWfiBYGRBPAX2TsTJLC_Fy31obsBb9ETs", tag="youtube")
 
     sections = []
 
