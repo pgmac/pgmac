@@ -1,4 +1,14 @@
 #!/usr/bin/env python3
+"""
+GitHub Profile README Generator.
+
+This module automatically updates a GitHub profile README with dynamic content from:
+- Hacker News favorites (synced to Link Ace)
+- YouTube playlist videos (synced to Link Ace)
+- Recent links from Link Ace
+- GitHub starred repositories
+- Blog posts from RSS feed
+"""
 
 from os import environ
 
@@ -132,10 +142,10 @@ def add_link_to_linkace(url, title, tags=None, timeout=30):
         if link_id:
             print(f"✓ Added: {title} (ID: {link_id})")
             return (link_id, True)
-        else:
-            print(f"✗ Link created but no ID found in response for: {title}")
-            print(f"  → Response structure: {link_data}")
-            return (None, False)
+
+        print(f"✗ Link created but no ID found in response for: {title}")
+        print(f"  → Response structure: {link_data}")
+        return (None, False)
 
     except requests.HTTPError as e:
         # Check if it's a duplicate URL error
@@ -154,16 +164,16 @@ def add_link_to_linkace(url, title, tags=None, timeout=30):
                     # Try to find the existing link ID
                     existing_link_id = find_existing_link_by_url(url)
                     return (existing_link_id, False)
-                else:
-                    print(f"✗ 422 validation error (not duplicate): {title}")
-                    print(f"  → Error details: {error_data}")
-                    return (None, False)
+
+                print(f"✗ 422 validation error (not duplicate): {title}")
+                print(f"  → Error details: {error_data}")
+                return (None, False)
             except ValueError:
                 print(f"✗ Could not parse 422 error response for: {title}")
                 return (None, False)
-        else:
-            print(f"✗ HTTP Error {e.response.status_code} adding '{title}': {e}")
-            return (None, False)
+
+        print(f"✗ HTTP Error {e.response.status_code} adding '{title}': {e}")
+        return (None, False)
     except requests.RequestException as e:
         print(f"✗ Request error adding '{title}': {e}")
         return (None, False)
@@ -367,6 +377,86 @@ def fetch_blog_posts(feed_url):
     return posts
 
 
+def fetch_youtube_playlist(playlist_id, max_count=10):
+    """Fetch videos from a YouTube playlist RSS feed.
+
+    Args:
+        playlist_id: YouTube playlist ID
+        max_count: Maximum number of videos to retrieve
+
+    Returns:
+        list: List of dicts containing video information
+    """
+    if not playlist_id:
+        print("Error fetching YouTube playlist: playlist_id is required and cannot be empty.")
+        return []
+    videos = []
+    try:
+        feed_url = f"https://www.youtube.com/feeds/videos.xml?playlist_id={playlist_id}"
+        feed = feedparser.parse(feed_url)
+
+        for idx, entry in enumerate(feed.get("entries", [])):
+            if idx >= max_count:
+                break
+
+            title = entry.get("title", "Untitled")
+            link = entry.get("link", "")
+
+            if link:
+                videos.append({
+                    "title": title,
+                    "url": link,
+                })
+
+    except Exception as e:
+        print(f"Error fetching YouTube playlist: {e}")
+
+    return videos
+
+
+def sync_youtube_playlist_to_linkace(playlist_id, tag="youtube", max_count=10):
+    """Fetch YouTube playlist videos and add them to Link Ace with specified tag.
+
+    Args:
+        playlist_id: YouTube playlist ID
+        tag: Tag to apply to the links (default: "youtube")
+        max_count: Maximum number of videos to sync
+    """
+    print(f"\nSyncing top {max_count} videos from YouTube playlist to Link Ace...")
+    videos = fetch_youtube_playlist(playlist_id, max_count)
+
+    if not videos:
+        print("No videos found to sync.")
+        return
+
+    added_count = 0
+    already_existed = 0
+    errors = 0
+
+    for video in videos:
+        print(f"\nProcessing: {video['title']}")
+
+        result = add_link_to_linkace(video["url"], video["title"], tags=[tag])
+        link_id, was_created = (
+            result if isinstance(result, tuple) else (result, result is not None)
+        )
+
+        if link_id:
+            if was_created:
+                added_count += 1
+            else:
+                already_existed += 1
+        else:
+            errors += 1
+
+    print("\nSync complete:")
+    print(f"  • {added_count} new links added")
+    print(f"  • {already_existed} links already existed")
+    if errors > 0:
+        print(f"  • {errors} errors occurred")
+    print()
+
+
 def format_links_section(links):
     """Format Link Ace links as a README section.
 
@@ -431,7 +521,7 @@ def read_file(filepath):
     Returns:
         str: File contents
     """
-    with open(filepath, "r") as f:
+    with open(filepath, "r", encoding="utf-8") as f:
         return f.read()
 
 
@@ -442,7 +532,7 @@ def write_file(content, filepath):
         content: Content to write
         filepath: Path to the file
     """
-    with open(filepath, "w") as f:
+    with open(filepath, "w", encoding="utf-8") as f:
         f.write(content)
 
 
@@ -450,6 +540,9 @@ def main():
     """Build the README.md file from various sources."""
     # First, sync HN favorites to Link Ace
     sync_hn_favorites_to_linkace()
+
+    # Sync YouTube playlist to Link Ace
+    sync_youtube_playlist_to_linkace("PLWfiBYGRBPAX2TsTJLC_Fy31obsBb9ETs", tag="youtube")
 
     sections = []
 
