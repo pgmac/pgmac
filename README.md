@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The 2026 Grammys...Proof Music is Getting Worse](https://www.youtube.com/watch?v=YXzB4v1Toj4)
+* [Google engineer says Claude Code built in one hour what her team spent a year on](https://the-decoder.com/google-engineer-says-claude-code-built-in-one-hour-what-her-team-spent-a-year-on/)
 * [www.friskyradio.com](https://www.friskyradio.com/)
 * [Unix v4 (1973) – Live Terminal](https://unixv4.dev/)
 * [Publish on your own site, syndicate elsewhere](https://indieweb.org/POSSE#)
@@ -83,8 +85,6 @@ A table of things ...
 * [Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt](https://enroll.sh)
 * [www.geeky-gadgets.com](https://www.geeky-gadgets.com/claude-ralph-plugin/)
 * [www.abc.net.au](https://www.abc.net.au/news/2026-01-02/rapa-nui-easter-island-moai-creation-and-movement-explained/106077706)
-* [Show HN: OpenWorkers – Self-hosted Cloudflare workers in Rust](https://openworkers.com/introducing-openworkers)
-* [Akin's Laws of Spacecraft Design [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
 
 ### Things I'm star-ing
 
