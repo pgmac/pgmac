@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Odoo: Open-Source ERP](https://github.com/odoo/odoo)
+* [The PGP problem (2019)](https://www.latacora.com/blog/2019/07/16/the-pgp-problem/)
 * [The 2026 Grammys...Proof Music is Getting Worse](https://www.youtube.com/watch?v=YXzB4v1Toj4)
 * [Google engineer says Claude Code built in one hour what her team spent a year on](https://the-decoder.com/google-engineer-says-claude-code-built-in-one-hour-what-her-team-spent-a-year-on/)
 * [www.friskyradio.com](https://www.friskyradio.com/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)
 * [Standard Ebooks: Public Domain Day 2026 in Literature](https://standardebooks.org/blog/public-domain-day-2026)
 * [Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt](https://enroll.sh)
-* [www.geeky-gadgets.com](https://www.geeky-gadgets.com/claude-ralph-plugin/)
-* [www.abc.net.au](https://www.abc.net.au/news/2026-01-02/rapa-nui-easter-island-moai-creation-and-movement-explained/106077706)
 
 ### Things I'm star-ing
 
