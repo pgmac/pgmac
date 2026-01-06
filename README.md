@@ -75,7 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-
+* [Ten-thousand character brocade pattern tea tray万字锦地纹茶盘#中国传统技艺#China tea#countryside #handmade](https://www.youtube.com/watch?v=IltdjJFUe_M)
+* [Honest Trailers | The Transformers: The Movie (1986)](https://www.youtube.com/watch?v=ub12DkmRUnI)
+* [Australia v England 2025-26 | Fifth #Ashes Test | Day Three](https://www.youtube.com/watch?v=-YJyjehce0w)
+* [Ghostbusters (SKA COVER)](https://www.youtube.com/watch?v=LnYfIIdKT5k)
+* [The Australian Lamb ad is back for 2026!](https://www.youtube.com/watch?v=1GkrzLIttdI)
+* [GBC Boot Animation 88×31 Web Button](https://zakhary.dev/blog/gbc-web-button)
+* [enclose.horse](https://enclose.horse/)
+* [The Post-American Internet](https://pluralistic.net/2026/01/01/39c3/)
+* [SCiZE's Classic Warez Collection](https://scenelist.org/)
+* [Show HN: Terminal UI for AWS](https://github.com/huseyinbabal/taws)
 
 ### Things I'm star-ing
 
