@@ -75,16 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-* [Show HN: Terminal UI for AWS](https://github.com/huseyinbabal/taws)
-* [Show HN: Tailsnitch – A security auditor for Tailscale](https://github.com/Adversis/tailsnitch)
-* [There were BGP anomalies during the Venezuela blackout](https://loworbitsecurity.com/radar/radar16/)
-* [Sega co-founder David Rosen has died](https://www.theguardian.com/games/2026/jan/05/sega-co-founder-david-rosen-dies)
-* [Welcome to Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04)
-* [Odoo: Open-Source ERP](https://github.com/odoo/odoo)
-* [The PGP problem (2019)](https://www.latacora.com/blog/2019/07/16/the-pgp-problem/)
-* [The 2026 Grammys...Proof Music is Getting Worse](https://www.youtube.com/watch?v=YXzB4v1Toj4)
-* [Google engineer says Claude Code built in one hour what her team spent a year on](https://the-decoder.com/google-engineer-says-claude-code-built-in-one-hour-what-her-team-spent-a-year-on/)
-* [www.friskyradio.com](https://www.friskyradio.com/)
+
 
 ### Things I'm star-ing
 
