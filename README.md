@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [PassSeeds – hijacking Passkeys to unlock new cryptographic use cases](https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/)
 * [Vietnam bans unskippable ads](https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds)
 * [Spherical Snake](https://kevinalbs.com/spherical_snake/)
 * [Ten-thousand character brocade pattern tea tray万字锦地纹茶盘#中国传统技艺#China tea#countryside #handmade](https://www.youtube.com/watch?v=IltdjJFUe_M)
@@ -84,7 +85,6 @@ A table of things ...
 * [The Australian Lamb ad is back for 2026!](https://www.youtube.com/watch?v=1GkrzLIttdI)
 * [GBC Boot Animation 88×31 Web Button](https://zakhary.dev/blog/gbc-web-button)
 * [enclose.horse](https://enclose.horse/)
-* [The Post-American Internet](https://pluralistic.net/2026/01/01/39c3/)
 
 ### Things I'm star-ing
 
