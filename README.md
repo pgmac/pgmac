@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Don't want to pay for YouTube Premium? Morphe picks up where Revanced left off.](https://www.androidauthority.com/morphe-youtube-revanced-3629859/)
+* [NASA's Curiosity rover sends stunning new panorama from high on Mars' Mount Sharp | Space](https://www.space.com/space-exploration/mars-rovers/nasas-curiosity-rover-sends-stunning-new-panorama-from-high-on-mars-mount-sharp)
 * [PassSeeds – hijacking Passkeys to unlock new cryptographic use cases](https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/)
 * [Vietnam bans unskippable ads](https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds)
 * [Spherical Snake](https://kevinalbs.com/spherical_snake/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Australia v England 2025-26 | Fifth #Ashes Test | Day Three](https://www.youtube.com/watch?v=-YJyjehce0w)
 * [Ghostbusters (SKA COVER)](https://www.youtube.com/watch?v=LnYfIIdKT5k)
 * [The Australian Lamb ad is back for 2026!](https://www.youtube.com/watch?v=1GkrzLIttdI)
-* [GBC Boot Animation 88×31 Web Button](https://zakhary.dev/blog/gbc-web-button)
-* [enclose.horse](https://enclose.horse/)
 
 ### Things I'm star-ing
 
