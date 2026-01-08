@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Notion AI: Unpatched data exfiltration](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 * [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
 * [Don't want to pay for YouTube Premium? Morphe picks up where Revanced left off.](https://www.androidauthority.com/morphe-youtube-revanced-3629859/)
 * [NASA's Curiosity rover sends stunning new panorama from high on Mars' Mount Sharp | Space](https://www.space.com/space-exploration/mars-rovers/nasas-curiosity-rover-sends-stunning-new-panorama-from-high-on-mars-mount-sharp)
@@ -84,7 +85,6 @@ A table of things ...
 * [Ten-thousand character brocade pattern tea tray万字锦地纹茶盘#中国传统技艺#China tea#countryside #handmade](https://www.youtube.com/watch?v=IltdjJFUe_M)
 * [Honest Trailers | The Transformers: The Movie (1986)](https://www.youtube.com/watch?v=ub12DkmRUnI)
 * [Australia v England 2025-26 | Fifth #Ashes Test | Day Three](https://www.youtube.com/watch?v=-YJyjehce0w)
-* [Ghostbusters (SKA COVER)](https://www.youtube.com/watch?v=LnYfIIdKT5k)
 
 ### Things I'm star-ing
 
