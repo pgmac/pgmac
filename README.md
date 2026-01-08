@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
 * [Don't want to pay for YouTube Premium? Morphe picks up where Revanced left off.](https://www.androidauthority.com/morphe-youtube-revanced-3629859/)
 * [NASA's Curiosity rover sends stunning new panorama from high on Mars' Mount Sharp | Space](https://www.space.com/space-exploration/mars-rovers/nasas-curiosity-rover-sends-stunning-new-panorama-from-high-on-mars-mount-sharp)
 * [PassSeeds – hijacking Passkeys to unlock new cryptographic use cases](https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Honest Trailers | The Transformers: The Movie (1986)](https://www.youtube.com/watch?v=ub12DkmRUnI)
 * [Australia v England 2025-26 | Fifth #Ashes Test | Day Three](https://www.youtube.com/watch?v=-YJyjehce0w)
 * [Ghostbusters (SKA COVER)](https://www.youtube.com/watch?v=LnYfIIdKT5k)
-* [The Australian Lamb ad is back for 2026!](https://www.youtube.com/watch?v=1GkrzLIttdI)
 
 ### Things I'm star-ing
 
