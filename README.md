@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Bose has released API docs and opened the API for its EoL SoundTouch speakers](https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/)
+* [How Samba Was Written (2003)](https://download.samba.org/pub/tridge/misc/french_cafe.txt)
 * [A closer look at a BGP anomaly in Venezuela](https://blog.cloudflare.com/bgp-route-leak-venezuela/)
 * [Notion AI: Unpatched data exfiltration](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
 * [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
@@ -83,8 +85,6 @@ A table of things ...
 * [PassSeeds – hijacking Passkeys to unlock new cryptographic use cases](https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/)
 * [Vietnam bans unskippable ads](https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds)
 * [Spherical Snake](https://kevinalbs.com/spherical_snake/)
-* [Ten-thousand character brocade pattern tea tray万字锦地纹茶盘#中国传统技艺#China tea#countryside #handmade](https://www.youtube.com/watch?v=IltdjJFUe_M)
-* [Honest Trailers | The Transformers: The Movie (1986)](https://www.youtube.com/watch?v=ub12DkmRUnI)
 
 ### Things I'm star-ing
 
