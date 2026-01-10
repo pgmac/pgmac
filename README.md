@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [www.abc.net.au](https://www.abc.net.au/news/2026-01-10/trump-power-venezuela-greenland-international-law-morality/106214406)
 * [Bose has released API docs and opened the API for its EoL SoundTouch speakers](https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/)
 * [How Samba Was Written (2003)](https://download.samba.org/pub/tridge/misc/french_cafe.txt)
 * [A closer look at a BGP anomaly in Venezuela](https://blog.cloudflare.com/bgp-route-leak-venezuela/)
@@ -84,7 +85,6 @@ A table of things ...
 * [NASA's Curiosity rover sends stunning new panorama from high on Mars' Mount Sharp | Space](https://www.space.com/space-exploration/mars-rovers/nasas-curiosity-rover-sends-stunning-new-panorama-from-high-on-mars-mount-sharp)
 * [PassSeeds – hijacking Passkeys to unlock new cryptographic use cases](https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/)
 * [Vietnam bans unskippable ads](https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds)
-* [Spherical Snake](https://kevinalbs.com/spherical_snake/)
 
 ### Things I'm star-ing
 
