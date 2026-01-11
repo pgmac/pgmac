@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Open Chaos: A self-evolving open-source project](https://www.openchaos.dev/)
+* [GitHub - kepano/obsidian-skills: Claude Skills for Obsidian](https://github.com/kepano/obsidian-skills)
 * [Finding and fixing Ghostty's largest memory leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
 * [Show HN: I used Claude Code to discover connections between 100 books](https://trails.pieterma.es/)
 * [GitHub - pgmac-net/nagios-public-status-page: Show a public status page for configured nagios hosts and services](https://github.com/pgmac-net/nagios-public-status-page)
@@ -83,11 +85,11 @@ A table of things ...
 * [Coffee Beans Online | Fast & Fresh – Fox Coffee](https://www.foxcoffee.com.au/)
 * [Coffee Beans, Premium Roasted Coffee Beans For Sale Online – JustFreshRoasted](https://justfreshroasted.com.au/)
 * [LANCIA DELTA S4 | BEST OF 2015-2024 Accelerations, Drift, Jump, Turbo sounds - YouTube](https://youtu.be/wb5rQefOrKg?si=l04kdiVP5V5DkxGk)
-* [www.abc.net.au](https://www.abc.net.au/news/2026-01-10/trump-power-venezuela-greenland-international-law-morality/106214406)
-* [Bose has released API docs and opened the API for its EoL SoundTouch speakers](https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/)
 
 ### Things I'm star-ing
 
+* [obsidian-skills](https://github.com/kepano/obsidian-skills)
+  Claude Skills for Obsidian
 * [Mysti](https://github.com/DeepMyst/Mysti)
   AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.
 * [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
@@ -106,8 +108,6 @@ A table of things ...
   A desktop app for running Large Language Models locally. 
 * [rotel](https://github.com/streamfold/rotel)
   High Performance, Resource Efficient OpenTelemetry Collection
-* [codeassist](https://github.com/gensyn-ai/codeassist)
-  A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.
 
 ### My Blog Posts
 
