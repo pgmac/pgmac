@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Finding and fixing Ghostty's largest memory leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
+* [Show HN: I used Claude Code to discover connections between 100 books](https://trails.pieterma.es/)
+* [GitHub - pgmac-net/nagios-public-status-page: Show a public status page for configured nagios hosts and services](https://github.com/pgmac-net/nagios-public-status-page)
+* [Cyber Fidget - A Pocket-Sized Electronic Gadget](https://www.kickstarter.com/projects/dismoindustries/cyber-fidget-a-pocket-sized-electronic-gadget)
+* [Buy Coffee Online | Gold Medal Winning Coffee | Manna Beans](https://mannabeans.com.au/)
+* [Coffee Beans Online | Fast & Fresh – Fox Coffee](https://www.foxcoffee.com.au/)
+* [Coffee Beans, Premium Roasted Coffee Beans For Sale Online – JustFreshRoasted](https://justfreshroasted.com.au/)
+* [LANCIA DELTA S4 | BEST OF 2015-2024 Accelerations, Drift, Jump, Turbo sounds - YouTube](https://youtu.be/wb5rQefOrKg?si=l04kdiVP5V5DkxGk)
 * [www.abc.net.au](https://www.abc.net.au/news/2026-01-10/trump-power-venezuela-greenland-international-law-morality/106214406)
 * [Bose has released API docs and opened the API for its EoL SoundTouch speakers](https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/)
-* [How Samba Was Written (2003)](https://download.samba.org/pub/tridge/misc/french_cafe.txt)
-* [A closer look at a BGP anomaly in Venezuela](https://blog.cloudflare.com/bgp-route-leak-venezuela/)
-* [Notion AI: Unpatched data exfiltration](https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration)
-* [Tailscale state file encryption no longer enabled by default](https://tailscale.com/changelog)
-* [Don't want to pay for YouTube Premium? Morphe picks up where Revanced left off.](https://www.androidauthority.com/morphe-youtube-revanced-3629859/)
-* [NASA's Curiosity rover sends stunning new panorama from high on Mars' Mount Sharp | Space](https://www.space.com/space-exploration/mars-rovers/nasas-curiosity-rover-sends-stunning-new-panorama-from-high-on-mars-mount-sharp)
-* [PassSeeds – hijacking Passkeys to unlock new cryptographic use cases](https://backalleycoder.com/posts/passseeds-an-experiment-in-hijacking-passkeys-to-unlock-cryptographic-use-cases/)
-* [Vietnam bans unskippable ads](https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds)
 
 ### Things I'm star-ing
 
