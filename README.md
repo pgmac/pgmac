@@ -89,7 +89,7 @@ A table of things ...
 ### Things I'm star-ing
 
 * [obsidian-skills](https://github.com/kepano/obsidian-skills)
-  Claude Skills for Obsidian
+  Agent skills for Obsidian
 * [Mysti](https://github.com/DeepMyst/Mysti)
   AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.
 * [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
