@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
+* [Floppy disks turn out to be the greatest TV remote for kids](https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/)
+* [Ansible battle tested hardening for Linux, SSH, Nginx, MySQL](https://github.com/dev-sec/ansible-collection-hardening)
 * [Open Chaos: A self-evolving open-source project](https://www.openchaos.dev/)
 * [GitHub - kepano/obsidian-skills: Claude Skills for Obsidian](https://github.com/kepano/obsidian-skills)
 * [Finding and fixing Ghostty's largest memory leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
@@ -82,12 +85,11 @@ A table of things ...
 * [GitHub - pgmac-net/nagios-public-status-page: Show a public status page for configured nagios hosts and services](https://github.com/pgmac-net/nagios-public-status-page)
 * [Cyber Fidget - A Pocket-Sized Electronic Gadget](https://www.kickstarter.com/projects/dismoindustries/cyber-fidget-a-pocket-sized-electronic-gadget)
 * [Buy Coffee Online | Gold Medal Winning Coffee | Manna Beans](https://mannabeans.com.au/)
-* [Coffee Beans Online | Fast & Fresh – Fox Coffee](https://www.foxcoffee.com.au/)
-* [Coffee Beans, Premium Roasted Coffee Beans For Sale Online – JustFreshRoasted](https://justfreshroasted.com.au/)
-* [LANCIA DELTA S4 | BEST OF 2015-2024 Accelerations, Drift, Jump, Turbo sounds - YouTube](https://youtu.be/wb5rQefOrKg?si=l04kdiVP5V5DkxGk)
 
 ### Things I'm star-ing
 
+* [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening)
+  This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 * [obsidian-skills](https://github.com/kepano/obsidian-skills)
   Agent skills for Obsidian
 * [Mysti](https://github.com/DeepMyst/Mysti)
@@ -106,8 +108,6 @@ A table of things ...
   Local-first, open-source tools for automating everyday work.
 * [gerbil](https://github.com/lone-cloud/gerbil)
   A desktop app for running Large Language Models locally. 
-* [rotel](https://github.com/streamfold/rotel)
-  High Performance, Resource Efficient OpenTelemetry Collection
 
 ### My Blog Posts
 
