@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The chess bot on Delta Air Lines will destroy you (2024) [video]](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 * [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
 * [Floppy disks turn out to be the greatest TV remote for kids](https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/)
 * [Ansible battle tested hardening for Linux, SSH, Nginx, MySQL](https://github.com/dev-sec/ansible-collection-hardening)
@@ -84,7 +85,6 @@ A table of things ...
 * [Show HN: I used Claude Code to discover connections between 100 books](https://trails.pieterma.es/)
 * [GitHub - pgmac-net/nagios-public-status-page: Show a public status page for configured nagios hosts and services](https://github.com/pgmac-net/nagios-public-status-page)
 * [Cyber Fidget - A Pocket-Sized Electronic Gadget](https://www.kickstarter.com/projects/dismoindustries/cyber-fidget-a-pocket-sized-electronic-gadget)
-* [Buy Coffee Online | Gold Medal Winning Coffee | Manna Beans](https://mannabeans.com.au/)
 
 ### Things I'm star-ing
 
