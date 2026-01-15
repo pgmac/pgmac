@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [How much of my observability data is waste?](https://usetero.com/blog/the-question-your-observability-vendor-wont-answer)
+* [Show HN: Webctl – Browser automation for agents based on CLI instead of MCP](https://github.com/cosinusalpha/webctl)
+* [LMArena | Benchmark & Compare the Best AI Models](https://lmarena.ai/)
+* [OpenRouter](https://openrouter.ai/)
 * [Honest Trailers | The Lord of the Rings: The Fellowship of the Ring](https://www.youtube.com/watch?v=LZm5DiW-u1Q)
 * [The chess bot on Delta Air Lines will destroy you (2024) [video]](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 * [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
 * [Floppy disks turn out to be the greatest TV remote for kids](https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/)
 * [Ansible battle tested hardening for Linux, SSH, Nginx, MySQL](https://github.com/dev-sec/ansible-collection-hardening)
 * [Open Chaos: A self-evolving open-source project](https://www.openchaos.dev/)
-* [GitHub - kepano/obsidian-skills: Claude Skills for Obsidian](https://github.com/kepano/obsidian-skills)
-* [Finding and fixing Ghostty's largest memory leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
-* [Show HN: I used Claude Code to discover connections between 100 books](https://trails.pieterma.es/)
-* [GitHub - pgmac-net/nagios-public-status-page: Show a public status page for configured nagios hosts and services](https://github.com/pgmac-net/nagios-public-status-page)
 
 ### Things I'm star-ing
 
