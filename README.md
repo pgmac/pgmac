@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Show HN: OpenWork – An open-source alternative to Claude Cowork](https://github.com/different-ai/openwork)
 * [Found: Medieval Cargo Ship – Largest Vessel of Its Kind Ever](https://www.smithsonianmag.com/smart-news/archaeologists-say-theyve-unearthed-a-massive-medieval-cargo-ship-thats-the-largest-vessel-of-its-kind-ever-found-180987984/)
 * [Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console](https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild)
 * [How much of my observability data is waste?](https://usetero.com/blog/the-question-your-observability-vendor-wont-answer)
@@ -84,10 +85,11 @@ A table of things ...
 * [Honest Trailers | The Lord of the Rings: The Fellowship of the Ring](https://www.youtube.com/watch?v=LZm5DiW-u1Q)
 * [The chess bot on Delta Air Lines will destroy you (2024) [video]](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 * [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
-* [Floppy disks turn out to be the greatest TV remote for kids](https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/)
 
 ### Things I'm star-ing
 
+* [openwork](https://github.com/different-ai/openwork)
+  An open-source alternative to Claude Cowork, powered by OpenCode
 * [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening)
   This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 * [obsidian-skills](https://github.com/kepano/obsidian-skills)
@@ -106,8 +108,6 @@ A table of things ...
   Open device management
 * [rowboat](https://github.com/rowboatlabs/rowboat)
   Local-first, open-source tools for automating everyday work.
-* [gerbil](https://github.com/lone-cloud/gerbil)
-  A desktop app for running Large Language Models locally. 
 
 ### My Blog Posts
 
