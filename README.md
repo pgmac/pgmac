@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [6-Day and IP Address Certificates Are Generally Available](https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability)
 * [Inside The Internet Archive's Infrastructure](https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting)
 * [Show HN: OpenWork – An open-source alternative to Claude Cowork](https://github.com/different-ai/openwork)
 * [Found: Medieval Cargo Ship – Largest Vessel of Its Kind Ever](https://www.smithsonianmag.com/smart-news/archaeologists-say-theyve-unearthed-a-massive-medieval-cargo-ship-thats-the-largest-vessel-of-its-kind-ever-found-180987984/)
@@ -84,7 +85,6 @@ A table of things ...
 * [LMArena | Benchmark & Compare the Best AI Models](https://lmarena.ai/)
 * [OpenRouter](https://openrouter.ai/)
 * [Honest Trailers | The Lord of the Rings: The Fellowship of the Ring](https://www.youtube.com/watch?v=LZm5DiW-u1Q)
-* [The chess bot on Delta Air Lines will destroy you (2024) [video]](https://www.youtube.com/watch?v=c0mLhHDcY3I)
 
 ### Things I'm star-ing
 
