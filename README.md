@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss](https://getdock.io/)
+* [Claude Code with Anthropic API compatibility · Ollama Blog](https://ollama.com/blog/claude)
 * [6-Day and IP Address Certificates Are Generally Available](https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability)
 * [Inside The Internet Archive's Infrastructure](https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting)
 * [Show HN: OpenWork – An open-source alternative to Claude Cowork](https://github.com/different-ai/openwork)
@@ -83,8 +85,6 @@ A table of things ...
 * [How much of my observability data is waste?](https://usetero.com/blog/the-question-your-observability-vendor-wont-answer)
 * [Show HN: Webctl – Browser automation for agents based on CLI instead of MCP](https://github.com/cosinusalpha/webctl)
 * [LMArena | Benchmark & Compare the Best AI Models](https://lmarena.ai/)
-* [OpenRouter](https://openrouter.ai/)
-* [Honest Trailers | The Lord of the Rings: The Fellowship of the Ring](https://www.youtube.com/watch?v=LZm5DiW-u1Q)
 
 ### Things I'm star-ing
 
