@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Luxury Yacht is a desktop app for managing Kubernetes clusters](https://github.com/luxury-yacht/app)
 * [Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss](https://getdock.io/)
 * [Claude Code with Anthropic API compatibility · Ollama Blog](https://ollama.com/blog/claude)
 * [6-Day and IP Address Certificates Are Generally Available](https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability)
@@ -84,7 +85,6 @@ A table of things ...
 * [Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console](https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild)
 * [How much of my observability data is waste?](https://usetero.com/blog/the-question-your-observability-vendor-wont-answer)
 * [Show HN: Webctl – Browser automation for agents based on CLI instead of MCP](https://github.com/cosinusalpha/webctl)
-* [LMArena | Benchmark & Compare the Best AI Models](https://lmarena.ai/)
 
 ### Things I'm star-ing
 
