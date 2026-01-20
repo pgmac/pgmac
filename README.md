@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Reticulum, a secure and anonymous mesh networking stack](https://github.com/markqvist/Reticulum)
 * [Luxury Yacht is a desktop app for managing Kubernetes clusters](https://github.com/luxury-yacht/app)
 * [Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss](https://getdock.io/)
 * [Claude Code with Anthropic API compatibility · Ollama Blog](https://ollama.com/blog/claude)
@@ -84,7 +85,6 @@ A table of things ...
 * [Found: Medieval Cargo Ship – Largest Vessel of Its Kind Ever](https://www.smithsonianmag.com/smart-news/archaeologists-say-theyve-unearthed-a-massive-medieval-cargo-ship-thats-the-largest-vessel-of-its-kind-ever-found-180987984/)
 * [Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console](https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild)
 * [How much of my observability data is waste?](https://usetero.com/blog/the-question-your-observability-vendor-wont-answer)
-* [Show HN: Webctl – Browser automation for agents based on CLI instead of MCP](https://github.com/cosinusalpha/webctl)
 
 ### Things I'm star-ing
 
