@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [www.abc.net.au](https://www.abc.net.au/news/2026-01-21/spectacular-aurora-australis-seen-across-australia/106251474)
+* [Scientists Discover the Body’s Natural “Off Switch” for Inflammation](https://scitechdaily.com/scientists-discover-the-bodys-natural-off-switch-for-inflammation/)
 * [A 26,000-year astronomical monument hidden in plain sight (2019)](https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/)
 * [Building Robust Helm Charts](https://www.willmunn.xyz/devops/helm/kubernetes/2026/01/17/building-robust-helm-charts.html)
 * [Honest Trailers | The Lord of the Rings: The Two Towers](https://www.youtube.com/watch?v=h5CtjDLvUVk)
@@ -83,8 +85,6 @@ A table of things ...
 * [Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss](https://getdock.io/)
 * [Claude Code with Anthropic API compatibility · Ollama Blog](https://ollama.com/blog/claude)
 * [6-Day and IP Address Certificates Are Generally Available](https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability)
-* [Inside The Internet Archive's Infrastructure](https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting)
-* [Show HN: OpenWork – An open-source alternative to Claude Cowork](https://github.com/different-ai/openwork)
 
 ### Things I'm star-ing
 
