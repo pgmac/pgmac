@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [cURL removes bug bounties](https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html)
 * [www.abc.net.au](https://www.abc.net.au/news/2026-01-21/spectacular-aurora-australis-seen-across-australia/106251474)
 * [Scientists Discover the Body’s Natural “Off Switch” for Inflammation](https://scitechdaily.com/scientists-discover-the-bodys-natural-off-switch-for-inflammation/)
 * [A 26,000-year astronomical monument hidden in plain sight (2019)](https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Luxury Yacht is a desktop app for managing Kubernetes clusters](https://github.com/luxury-yacht/app)
 * [Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss](https://getdock.io/)
 * [Claude Code with Anthropic API compatibility · Ollama Blog](https://ollama.com/blog/claude)
-* [6-Day and IP Address Certificates Are Generally Available](https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability)
 
 ### Things I'm star-ing
 
@@ -107,7 +107,7 @@ A table of things ...
 * [fleet](https://github.com/fleetdm/fleet)
   Open device management
 * [rowboat](https://github.com/rowboatlabs/rowboat)
-  Local-first, open-source tools for automating everyday work.
+  Local-first AI coworker, with memory
 
 ### My Blog Posts
 
