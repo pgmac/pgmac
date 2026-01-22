@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [I was banned from Claude for scaffolding a Claude.md file?](https://hugodaniel.com/posts/claude-code-banned-me/)
 * [He-Man: Masters Of The Universe | Official Trailer (2025) Teaser 4K - YouTube](https://www.youtube.com/watch?v=i50s-gTOF3g)
 * [Claude's new constitution](https://www.anthropic.com/news/claude-new-constitution)
 * [Scientists find a way to regrow cartilage in mice and human tissue samples](https://www.sciencedaily.com/releases/2026/01/260120000333.htm)
@@ -84,7 +85,6 @@ A table of things ...
 * [A 26,000-year astronomical monument hidden in plain sight (2019)](https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/)
 * [Building Robust Helm Charts](https://www.willmunn.xyz/devops/helm/kubernetes/2026/01/17/building-robust-helm-charts.html)
 * [Honest Trailers | The Lord of the Rings: The Two Towers](https://www.youtube.com/watch?v=h5CtjDLvUVk)
-* [Reticulum, a secure and anonymous mesh networking stack](https://github.com/markqvist/Reticulum)
 
 ### Things I'm star-ing
 
