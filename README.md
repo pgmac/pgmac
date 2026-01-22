@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Claude's new constitution](https://www.anthropic.com/news/claude-new-constitution)
+* [Scientists find a way to regrow cartilage in mice and human tissue samples](https://www.sciencedaily.com/releases/2026/01/260120000333.htm)
 * [cURL removes bug bounties](https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html)
 * [www.abc.net.au](https://www.abc.net.au/news/2026-01-21/spectacular-aurora-australis-seen-across-australia/106251474)
 * [Scientists Discover the Body’s Natural “Off Switch” for Inflammation](https://scitechdaily.com/scientists-discover-the-bodys-natural-off-switch-for-inflammation/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Honest Trailers | The Lord of the Rings: The Two Towers](https://www.youtube.com/watch?v=h5CtjDLvUVk)
 * [Reticulum, a secure and anonymous mesh networking stack](https://github.com/markqvist/Reticulum)
 * [Luxury Yacht is a desktop app for managing Kubernetes clusters](https://github.com/luxury-yacht/app)
-* [Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss](https://getdock.io/)
-* [Claude Code with Anthropic API compatibility · Ollama Blog](https://ollama.com/blog/claude)
 
 ### Things I'm star-ing
 
