@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [He-Man: Masters Of The Universe | Official Trailer (2025) Teaser 4K - YouTube](https://www.youtube.com/watch?v=i50s-gTOF3g)
 * [Claude's new constitution](https://www.anthropic.com/news/claude-new-constitution)
 * [Scientists find a way to regrow cartilage in mice and human tissue samples](https://www.sciencedaily.com/releases/2026/01/260120000333.htm)
 * [cURL removes bug bounties](https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html)
@@ -84,7 +85,6 @@ A table of things ...
 * [Building Robust Helm Charts](https://www.willmunn.xyz/devops/helm/kubernetes/2026/01/17/building-robust-helm-charts.html)
 * [Honest Trailers | The Lord of the Rings: The Two Towers](https://www.youtube.com/watch?v=h5CtjDLvUVk)
 * [Reticulum, a secure and anonymous mesh networking stack](https://github.com/markqvist/Reticulum)
-* [Luxury Yacht is a desktop app for managing Kubernetes clusters](https://github.com/luxury-yacht/app)
 
 ### Things I'm star-ing
 
