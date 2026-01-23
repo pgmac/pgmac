@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [We will ban you and ridicule you in public if you waste our time on crap reports](https://curl.se/.well-known/security.txt)
 * [I was banned from Claude for scaffolding a Claude.md file?](https://hugodaniel.com/posts/claude-code-banned-me/)
 * [He-Man: Masters Of The Universe | Official Trailer (2025) Teaser 4K - YouTube](https://www.youtube.com/watch?v=i50s-gTOF3g)
 * [Claude's new constitution](https://www.anthropic.com/news/claude-new-constitution)
@@ -84,12 +85,11 @@ A table of things ...
 * [Scientists Discover the Body’s Natural “Off Switch” for Inflammation](https://scitechdaily.com/scientists-discover-the-bodys-natural-off-switch-for-inflammation/)
 * [A 26,000-year astronomical monument hidden in plain sight (2019)](https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/)
 * [Building Robust Helm Charts](https://www.willmunn.xyz/devops/helm/kubernetes/2026/01/17/building-robust-helm-charts.html)
-* [Honest Trailers | The Lord of the Rings: The Two Towers](https://www.youtube.com/watch?v=h5CtjDLvUVk)
 
 ### Things I'm star-ing
 
 * [openwork](https://github.com/different-ai/openwork)
-  An open-source alternative to Claude Cowork, powered by OpenCode
+  An open-source alternative to Claude Cowork, powered by opencode
 * [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening)
   This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 * [obsidian-skills](https://github.com/kepano/obsidian-skills)
