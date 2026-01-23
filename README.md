@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Star Wars Is Officially Bringing Back George Lucas' Episode VII Plan Following Kathleen Kennedy's Lucasfilm Exit](https://screenrant.com/star-wars-maul-apprentice-darth-talon-george-lucas-episode-7-plans-canon/)
 * [We will ban you and ridicule you in public if you waste our time on crap reports](https://curl.se/.well-known/security.txt)
 * [I was banned from Claude for scaffolding a Claude.md file?](https://hugodaniel.com/posts/claude-code-banned-me/)
 * [He-Man: Masters Of The Universe | Official Trailer (2025) Teaser 4K - YouTube](https://www.youtube.com/watch?v=i50s-gTOF3g)
@@ -84,7 +85,6 @@ A table of things ...
 * [www.abc.net.au](https://www.abc.net.au/news/2026-01-21/spectacular-aurora-australis-seen-across-australia/106251474)
 * [Scientists Discover the Body’s Natural “Off Switch” for Inflammation](https://scitechdaily.com/scientists-discover-the-bodys-natural-off-switch-for-inflammation/)
 * [A 26,000-year astronomical monument hidden in plain sight (2019)](https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/)
-* [Building Robust Helm Charts](https://www.willmunn.xyz/devops/helm/kubernetes/2026/01/17/building-robust-helm-charts.html)
 
 ### Things I'm star-ing
 
