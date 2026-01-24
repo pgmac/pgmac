@@ -75,19 +75,21 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Route leak incident on January 22, 2026](https://blog.cloudflare.com/route-leak-incident-january-22-2026/)
+* [KORG phase8 – Acoustic Synthesizer](https://www.korg.com/us/products/dj/phase8/)
+* [Tesla kills Autopilot, locks lane-keeping behind $99/month fee](https://arstechnica.com/cars/2026/01/tesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd/)
+* [Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go](https://github.com/ramonvermeulen/whosthere)
+* [Certificate Transparency Log Explorer](https://certs.swerdlow.dev)
+* [GitHub - scanopy/scanopy: Clean network diagrams. One-time setup, zero upkeep.](https://github.com/scanopy/scanopy)
 * [Star Wars Is Officially Bringing Back George Lucas' Episode VII Plan Following Kathleen Kennedy's Lucasfilm Exit](https://screenrant.com/star-wars-maul-apprentice-darth-talon-george-lucas-episode-7-plans-canon/)
 * [We will ban you and ridicule you in public if you waste our time on crap reports](https://curl.se/.well-known/security.txt)
 * [I was banned from Claude for scaffolding a Claude.md file?](https://hugodaniel.com/posts/claude-code-banned-me/)
 * [He-Man: Masters Of The Universe | Official Trailer (2025) Teaser 4K - YouTube](https://www.youtube.com/watch?v=i50s-gTOF3g)
-* [Claude's new constitution](https://www.anthropic.com/news/claude-new-constitution)
-* [Scientists find a way to regrow cartilage in mice and human tissue samples](https://www.sciencedaily.com/releases/2026/01/260120000333.htm)
-* [cURL removes bug bounties](https://etn.se/index.php/nyheter/72808-curl-removes-bug-bounties.html)
-* [www.abc.net.au](https://www.abc.net.au/news/2026-01-21/spectacular-aurora-australis-seen-across-australia/106251474)
-* [Scientists Discover the Body’s Natural “Off Switch” for Inflammation](https://scitechdaily.com/scientists-discover-the-bodys-natural-off-switch-for-inflammation/)
-* [A 26,000-year astronomical monument hidden in plain sight (2019)](https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/)
 
 ### Things I'm star-ing
 
+* [shm](https://github.com/btouchard/shm)
+  🛡️ Privacy-first, Agnostic Telemetry for Self-Hosted Software.
 * [openwork](https://github.com/different-ai/openwork)
   An open-source alternative to Claude Cowork, powered by opencode
 * [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening)
@@ -106,8 +108,6 @@ A table of things ...
   The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 * [fleet](https://github.com/fleetdm/fleet)
   Open device management
-* [rowboat](https://github.com/rowboatlabs/rowboat)
-  Local-first AI coworker, with memory
 
 ### My Blog Posts
 
