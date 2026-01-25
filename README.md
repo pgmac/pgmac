@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - geo-tp/ESP32-Bus-Pirate: A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol](https://github.com/geo-tp/ESP32-Bus-Pirate)
 * [Claude Code's new hidden feature: Swarms](https://twitter.com/NicerInPerson/status/2014989679796347375)
 * [Europe wants to end its dangerous reliance on US internet technology](https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042)
 * [Internet Archive's Storage](https://blog.dshr.org/2026/01/internet-archives-storage.html)
@@ -84,10 +85,11 @@ A table of things ...
 * [Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go](https://github.com/ramonvermeulen/whosthere)
 * [Certificate Transparency Log Explorer](https://certs.swerdlow.dev)
 * [GitHub - scanopy/scanopy: Clean network diagrams. One-time setup, zero upkeep.](https://github.com/scanopy/scanopy)
-* [Star Wars Is Officially Bringing Back George Lucas' Episode VII Plan Following Kathleen Kennedy's Lucasfilm Exit](https://screenrant.com/star-wars-maul-apprentice-darth-talon-george-lucas-episode-7-plans-canon/)
 
 ### Things I'm star-ing
 
+* [ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate)
+  A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol 
 * [shm](https://github.com/btouchard/shm)
   🛡️ Privacy-first, Agnostic Telemetry for Self-Hosted Software.
 * [openwork](https://github.com/different-ai/openwork)
@@ -106,8 +108,6 @@ A table of things ...
   
 * [Paper](https://github.com/PaperMC/Paper)
   The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
-* [fleet](https://github.com/fleetdm/fleet)
-  Open device management
 
 ### My Blog Posts
 
