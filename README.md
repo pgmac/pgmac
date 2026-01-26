@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [OSS ChatGPT WebUI – 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen](https://llmspy.org/docs/v3)
+* [Television is 100 years old today](https://diamondgeezer.blogspot.com/2026/01/tv100.html)
 * [The future of software engineering is SRE](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
 * [Show HN: Fence – Sandbox CLI commands with network/filesystem restrictions](https://github.com/Use-Tusk/fence)
 * [GitHub - geo-tp/ESP32-Bus-Pirate: A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol](https://github.com/geo-tp/ESP32-Bus-Pirate)
@@ -83,8 +85,6 @@ A table of things ...
 * [Internet Archive's Storage](https://blog.dshr.org/2026/01/internet-archives-storage.html)
 * [Route leak incident on January 22, 2026](https://blog.cloudflare.com/route-leak-incident-january-22-2026/)
 * [KORG phase8 – Acoustic Synthesizer](https://www.korg.com/us/products/dj/phase8/)
-* [Tesla kills Autopilot, locks lane-keeping behind $99/month fee](https://arstechnica.com/cars/2026/01/tesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd/)
-* [Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go](https://github.com/ramonvermeulen/whosthere)
 
 ### Things I'm star-ing
 
