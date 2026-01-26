@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Show HN: Fence – Sandbox CLI commands with network/filesystem restrictions](https://github.com/Use-Tusk/fence)
 * [GitHub - geo-tp/ESP32-Bus-Pirate: A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol](https://github.com/geo-tp/ESP32-Bus-Pirate)
 * [Claude Code's new hidden feature: Swarms](https://twitter.com/NicerInPerson/status/2014989679796347375)
 * [Europe wants to end its dangerous reliance on US internet technology](https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042)
@@ -84,10 +85,11 @@ A table of things ...
 * [Tesla kills Autopilot, locks lane-keeping behind $99/month fee](https://arstechnica.com/cars/2026/01/tesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd/)
 * [Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go](https://github.com/ramonvermeulen/whosthere)
 * [Certificate Transparency Log Explorer](https://certs.swerdlow.dev)
-* [GitHub - scanopy/scanopy: Clean network diagrams. One-time setup, zero upkeep.](https://github.com/scanopy/scanopy)
 
 ### Things I'm star-ing
 
+* [fence](https://github.com/Use-Tusk/fence)
+  Lightweight, container-free sandbox for running commands with network and filesystem restrictions
 * [ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate)
   A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol 
 * [shm](https://github.com/btouchard/shm)
@@ -106,8 +108,6 @@ A table of things ...
   Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations.
 * [minecraft-server-charts](https://github.com/itzg/minecraft-server-charts)
   
-* [Paper](https://github.com/PaperMC/Paper)
-  The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 
 ### My Blog Posts
 
