@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The future of software engineering is SRE](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
 * [Show HN: Fence – Sandbox CLI commands with network/filesystem restrictions](https://github.com/Use-Tusk/fence)
 * [GitHub - geo-tp/ESP32-Bus-Pirate: A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol](https://github.com/geo-tp/ESP32-Bus-Pirate)
 * [Claude Code's new hidden feature: Swarms](https://twitter.com/NicerInPerson/status/2014989679796347375)
@@ -84,7 +85,6 @@ A table of things ...
 * [KORG phase8 – Acoustic Synthesizer](https://www.korg.com/us/products/dj/phase8/)
 * [Tesla kills Autopilot, locks lane-keeping behind $99/month fee](https://arstechnica.com/cars/2026/01/tesla-wants-recurring-revenue-discontinues-autopilot-in-favor-of-fsd/)
 * [Show HN: Whosthere: A LAN discovery tool with a modern TUI, written in Go](https://github.com/ramonvermeulen/whosthere)
-* [Certificate Transparency Log Explorer](https://certs.swerdlow.dev)
 
 ### Things I'm star-ing
 
