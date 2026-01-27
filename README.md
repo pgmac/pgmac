@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [A list of fun destinations for telnet](https://telnet.org/htm/places.htm)
 * [OSS ChatGPT WebUI – 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen](https://llmspy.org/docs/v3)
 * [Television is 100 years old today](https://diamondgeezer.blogspot.com/2026/01/tv100.html)
 * [The future of software engineering is SRE](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Europe wants to end its dangerous reliance on US internet technology](https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042)
 * [Internet Archive's Storage](https://blog.dshr.org/2026/01/internet-archives-storage.html)
 * [Route leak incident on January 22, 2026](https://blog.cloudflare.com/route-leak-incident-january-22-2026/)
-* [KORG phase8 – Acoustic Synthesizer](https://www.korg.com/us/products/dj/phase8/)
 
 ### Things I'm star-ing
 
