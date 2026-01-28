@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Honest Trailers | The Lord of the Rings: The Return of the King](https://www.youtube.com/watch?v=oJ7mRS5XZZY)
+* [430k-year-old well-preserved wooden tools are the oldest ever found](https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html)
 * [GitHub - affaan-m/everything-claude-code: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.](https://github.com/affaan-m/everything-claude-code)
 * [GitHub - LearningCircuit/local-deep-research: Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local & Encrypted.](https://github.com/LearningCircuit/local-deep-research)
 * [Challenger: The disaster five people saw coming](https://www.abc.net.au/news/science/2026-01-28/space-shuttle-challenger-disaster-nasa-explosion-video-engineers/106162902)
@@ -83,8 +85,6 @@ A table of things ...
 * [Television is 100 years old today](https://diamondgeezer.blogspot.com/2026/01/tv100.html)
 * [The future of software engineering is SRE](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
 * [Show HN: Fence – Sandbox CLI commands with network/filesystem restrictions](https://github.com/Use-Tusk/fence)
-* [GitHub - geo-tp/ESP32-Bus-Pirate: A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol](https://github.com/geo-tp/ESP32-Bus-Pirate)
-* [Claude Code's new hidden feature: Swarms](https://twitter.com/NicerInPerson/status/2014989679796347375)
 
 ### Things I'm star-ing
 
