@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - affaan-m/everything-claude-code: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.](https://github.com/affaan-m/everything-claude-code)
+* [GitHub - LearningCircuit/local-deep-research: Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local & Encrypted.](https://github.com/LearningCircuit/local-deep-research)
+* [Challenger: The disaster five people saw coming](https://www.abc.net.au/news/science/2026-01-28/space-shuttle-challenger-disaster-nasa-explosion-video-engineers/106162902)
 * [A list of fun destinations for telnet](https://telnet.org/htm/places.htm)
 * [OSS ChatGPT WebUI – 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen](https://llmspy.org/docs/v3)
 * [Television is 100 years old today](https://diamondgeezer.blogspot.com/2026/01/tv100.html)
@@ -82,12 +85,11 @@ A table of things ...
 * [Show HN: Fence – Sandbox CLI commands with network/filesystem restrictions](https://github.com/Use-Tusk/fence)
 * [GitHub - geo-tp/ESP32-Bus-Pirate: A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol](https://github.com/geo-tp/ESP32-Bus-Pirate)
 * [Claude Code's new hidden feature: Swarms](https://twitter.com/NicerInPerson/status/2014989679796347375)
-* [Europe wants to end its dangerous reliance on US internet technology](https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042)
-* [Internet Archive's Storage](https://blog.dshr.org/2026/01/internet-archives-storage.html)
-* [Route leak incident on January 22, 2026](https://blog.cloudflare.com/route-leak-incident-january-22-2026/)
 
 ### Things I'm star-ing
 
+* [local-deep-research](https://github.com/LearningCircuit/local-deep-research)
+  Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local & Encrypted.
 * [fence](https://github.com/Use-Tusk/fence)
   Lightweight, container-free sandbox for running commands with network and filesystem restrictions
 * [ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate)
@@ -106,8 +108,6 @@ A table of things ...
   A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 * [raptor](https://github.com/gadievron/raptor)
   Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations.
-* [minecraft-server-charts](https://github.com/itzg/minecraft-server-charts)
-  
 
 ### My Blog Posts
 
