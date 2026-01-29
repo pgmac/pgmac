@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Positive Affirmations for Site Reliability Engineers](https://www.youtube.com/watch?v=ia8Q51ouA_s)
+* [We can't send mail farther than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
+* [Render Mermaid diagrams as SVGs or ASCII art](https://github.com/lukilabs/beautiful-mermaid)
 * [Honest Trailers | The Lord of the Rings: The Return of the King](https://www.youtube.com/watch?v=oJ7mRS5XZZY)
 * [430k-year-old well-preserved wooden tools are the oldest ever found](https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html)
 * [GitHub - affaan-m/everything-claude-code: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.](https://github.com/affaan-m/everything-claude-code)
@@ -82,9 +85,6 @@ A table of things ...
 * [Challenger: The disaster five people saw coming](https://www.abc.net.au/news/science/2026-01-28/space-shuttle-challenger-disaster-nasa-explosion-video-engineers/106162902)
 * [A list of fun destinations for telnet](https://telnet.org/htm/places.htm)
 * [OSS ChatGPT WebUI – 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen](https://llmspy.org/docs/v3)
-* [Television is 100 years old today](https://diamondgeezer.blogspot.com/2026/01/tv100.html)
-* [The future of software engineering is SRE](https://swizec.com/blog/the-future-of-software-engineering-is-sre/)
-* [Show HN: Fence – Sandbox CLI commands with network/filesystem restrictions](https://github.com/Use-Tusk/fence)
 
 ### Things I'm star-ing
 
