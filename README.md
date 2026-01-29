@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Mermaid ASCII: Render Mermaid diagrams in your terminal](https://mermaid-ascii.art/)
 * [An Illustrated Guide to Hippo Castration (2014)](https://www.science.org/content/article/scienceshot-illustrated-guide-hippo-castration)
 * [Positive Affirmations for Site Reliability Engineers](https://www.youtube.com/watch?v=ia8Q51ouA_s)
 * [We can't send mail farther than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
@@ -84,7 +85,6 @@ A table of things ...
 * [GitHub - affaan-m/everything-claude-code: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.](https://github.com/affaan-m/everything-claude-code)
 * [GitHub - LearningCircuit/local-deep-research: Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local & Encrypted.](https://github.com/LearningCircuit/local-deep-research)
 * [Challenger: The disaster five people saw coming](https://www.abc.net.au/news/science/2026-01-28/space-shuttle-challenger-disaster-nasa-explosion-video-engineers/106162902)
-* [A list of fun destinations for telnet](https://telnet.org/htm/places.htm)
 
 ### Things I'm star-ing
 
