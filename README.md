@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [OpenClaw – Moltbot Renamed Again](https://openclaw.ai/blog/introducing-openclaw)
+* [The Memory Paradox: Why Our Brains Need Knowledge in an Age of AI by Barbara Oakley, Michael Johnston, Kenzen Chen, Eulho Jung, Terrence Sejnowski :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5250447)
+* [arxiv.org](https://arxiv.org/pdf/2601.20245)
 * [Users flock to open source Moltbot for always-on AI, despite major risks - Ars Technica](https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/)
 * [GitHub - moltbot/moltbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞](https://github.com/moltbot/moltbot)
 * [PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)
@@ -82,9 +85,6 @@ A table of things ...
 * [An Illustrated Guide to Hippo Castration (2014)](https://www.science.org/content/article/scienceshot-illustrated-guide-hippo-castration)
 * [Positive Affirmations for Site Reliability Engineers](https://www.youtube.com/watch?v=ia8Q51ouA_s)
 * [We can't send mail farther than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
-* [Render Mermaid diagrams as SVGs or ASCII art](https://github.com/lukilabs/beautiful-mermaid)
-* [Honest Trailers | The Lord of the Rings: The Return of the King](https://www.youtube.com/watch?v=oJ7mRS5XZZY)
-* [430k-year-old well-preserved wooden tools are the oldest ever found](https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html)
 
 ### Things I'm star-ing
 
