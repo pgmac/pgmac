@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Users flock to open source Moltbot for always-on AI, despite major risks - Ars Technica](https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/)
+* [GitHub - moltbot/moltbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞](https://github.com/moltbot/moltbot)
 * [PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)
 * [Mermaid ASCII: Render Mermaid diagrams in your terminal](https://mermaid-ascii.art/)
 * [An Illustrated Guide to Hippo Castration (2014)](https://www.science.org/content/article/scienceshot-illustrated-guide-hippo-castration)
@@ -83,11 +85,11 @@ A table of things ...
 * [Render Mermaid diagrams as SVGs or ASCII art](https://github.com/lukilabs/beautiful-mermaid)
 * [Honest Trailers | The Lord of the Rings: The Return of the King](https://www.youtube.com/watch?v=oJ7mRS5XZZY)
 * [430k-year-old well-preserved wooden tools are the oldest ever found](https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html)
-* [GitHub - affaan-m/everything-claude-code: Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.](https://github.com/affaan-m/everything-claude-code)
-* [GitHub - LearningCircuit/local-deep-research: Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local & Encrypted.](https://github.com/LearningCircuit/local-deep-research)
 
 ### Things I'm star-ing
 
+* [openclaw](https://github.com/openclaw/openclaw)
+  Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 * [local-deep-research](https://github.com/LearningCircuit/local-deep-research)
   Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local & Encrypted.
 * [fence](https://github.com/Use-Tusk/fence)
@@ -106,8 +108,6 @@ A table of things ...
   AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.
 * [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
   A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-* [raptor](https://github.com/gadievron/raptor)
-  Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations.
 
 ### My Blog Posts
 
