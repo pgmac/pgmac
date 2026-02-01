@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Formae Documentation](https://docs.formae.io/en/latest/)
 * [HTTP Cats](https://http.cat/)
 * [Grid.Space for Education - STEM Learning Tools](https://grid.space/stem/)
 * [OpenClaw – Moltbot Renamed Again](https://openclaw.ai/blog/introducing-openclaw)
@@ -84,7 +85,6 @@ A table of things ...
 * [GitHub - moltbot/moltbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞](https://github.com/moltbot/moltbot)
 * [PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)
 * [Mermaid ASCII: Render Mermaid diagrams in your terminal](https://mermaid-ascii.art/)
-* [An Illustrated Guide to Hippo Castration (2014)](https://www.science.org/content/article/scienceshot-illustrated-guide-hippo-castration)
 
 ### Things I'm star-ing
 
