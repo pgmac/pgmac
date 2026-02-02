@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Netbird – Open Source Zero Trust Networking](https://netbird.io/)
+* [Teaching my neighbor to keep the volume down](https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down)
+* [HTTP Status Dogs API - A dog image for every HTTP Status Code](https://http.dog/)
+* [NONO - Secure Shell for AI Agents](https://nono.sh/)
 * [Formae Documentation](https://docs.formae.io/en/latest/)
 * [HTTP Cats](https://http.cat/)
 * [Grid.Space for Education - STEM Learning Tools](https://grid.space/stem/)
 * [OpenClaw – Moltbot Renamed Again](https://openclaw.ai/blog/introducing-openclaw)
 * [The Memory Paradox: Why Our Brains Need Knowledge in an Age of AI by Barbara Oakley, Michael Johnston, Kenzen Chen, Eulho Jung, Terrence Sejnowski :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5250447)
 * [arxiv.org](https://arxiv.org/pdf/2601.20245)
-* [Users flock to open source Moltbot for always-on AI, despite major risks - Ars Technica](https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/)
-* [GitHub - moltbot/moltbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞](https://github.com/moltbot/moltbot)
-* [PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)
-* [Mermaid ASCII: Render Mermaid diagrams in your terminal](https://mermaid-ascii.art/)
 
 ### Things I'm star-ing
 
