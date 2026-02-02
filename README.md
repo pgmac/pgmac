@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw)
 * [Netbird – Open Source Zero Trust Networking](https://netbird.io/)
 * [Teaching my neighbor to keep the volume down](https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down)
 * [HTTP Status Dogs API - A dog image for every HTTP Status Code](https://http.dog/)
@@ -84,10 +85,11 @@ A table of things ...
 * [Grid.Space for Education - STEM Learning Tools](https://grid.space/stem/)
 * [OpenClaw – Moltbot Renamed Again](https://openclaw.ai/blog/introducing-openclaw)
 * [The Memory Paradox: Why Our Brains Need Knowledge in an Age of AI by Barbara Oakley, Michael Johnston, Kenzen Chen, Eulho Jung, Terrence Sejnowski :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5250447)
-* [arxiv.org](https://arxiv.org/pdf/2601.20245)
 
 ### Things I'm star-ing
 
+* [nanoclaw](https://github.com/gavrielc/nanoclaw)
+  My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.
 * [openclaw](https://github.com/openclaw/openclaw)
   Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 * [local-deep-research](https://github.com/LearningCircuit/local-deep-research)
@@ -106,8 +108,6 @@ A table of things ...
   Agent skills for Obsidian
 * [Mysti](https://github.com/DeepMyst/Mysti)
   AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.
-* [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
-  A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
 ### My Blog Posts
 
