@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The Codex App](https://openai.com/index/introducing-the-codex-app/)
+* [I tried a Claude Code alternative that&apos;s local, open source, and completely free - how it works | ZDNET](https://www.zdnet.com/article/claude-code-alternative-free-local-open-source-goose-getting-started/)
 * [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw)
 * [Netbird – Open Source Zero Trust Networking](https://netbird.io/)
 * [Teaching my neighbor to keep the volume down](https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down)
@@ -83,11 +85,11 @@ A table of things ...
 * [Formae Documentation](https://docs.formae.io/en/latest/)
 * [HTTP Cats](https://http.cat/)
 * [Grid.Space for Education - STEM Learning Tools](https://grid.space/stem/)
-* [OpenClaw – Moltbot Renamed Again](https://openclaw.ai/blog/introducing-openclaw)
-* [The Memory Paradox: Why Our Brains Need Knowledge in an Age of AI by Barbara Oakley, Michael Johnston, Kenzen Chen, Eulho Jung, Terrence Sejnowski :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5250447)
 
 ### Things I'm star-ing
 
+* [goose](https://github.com/block/goose)
+  an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 * [nanoclaw](https://github.com/gavrielc/nanoclaw)
   My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.
 * [openclaw](https://github.com/openclaw/openclaw)
@@ -106,8 +108,6 @@ A table of things ...
   This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 * [obsidian-skills](https://github.com/kepano/obsidian-skills)
   Agent skills for Obsidian
-* [Mysti](https://github.com/DeepMyst/Mysti)
-  AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.
 
 ### My Blog Posts
 
