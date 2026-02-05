@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Claude Code: connect to a local model when your quota runs out](https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/)
+* [Claude Code for Infrastructure](https://www.fluid.sh/)
+* [Claude is a space to think](https://www.anthropic.com/news/claude-is-a-space-to-think)
+* [A sane but bull case on Clawdbot / OpenClaw](https://brandon.wang/2026/clawdbot)
 * [Agent Skills](https://agentskills.io/home)
 * [Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust](https://github.com/j178/prek)
 * [Qwen3-Coder-Next](https://qwen.ai/blog?id=qwen3-coder-next)
 * [GitHub - ace-step/ACE-Step-1.5: The most powerful local music generation model that outperforms most commercial alternatives](https://github.com/ace-step/ACE-Step-1.5)
 * [Kusari](https://us.kusari.cloud/signup)
 * [The Codex App](https://openai.com/index/introducing-the-codex-app/)
-* [I tried a Claude Code alternative that&apos;s local, open source, and completely free - how it works | ZDNET](https://www.zdnet.com/article/claude-code-alternative-free-local-open-source-goose-getting-started/)
-* [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw)
-* [Netbird – Open Source Zero Trust Networking](https://netbird.io/)
-* [Teaching my neighbor to keep the volume down](https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down)
 
 ### Things I'm star-ing
 
