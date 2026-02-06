@@ -91,7 +91,7 @@ A table of things ...
 * [goose](https://github.com/block/goose)
   an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 * [nanoclaw](https://github.com/gavrielc/nanoclaw)
-  My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.
+  A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 * [openclaw](https://github.com/openclaw/openclaw)
   Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 * [local-deep-research](https://github.com/LearningCircuit/local-deep-research)
