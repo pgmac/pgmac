@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Orchestrate teams of Claude Code sessions](https://code.claude.com/docs/en/agent-teams)
+* [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
+* [GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/)
+* [Don't rent the cloud, own instead](https://blog.comma.ai/datacenter/)
+* [PsiACE/Skills – A small, shared skill library](https://github.com/PsiACE/skills)
+* [Company as Code](https://blog.42futures.com/p/company-as-code)
+* [Opus 4.6 uncovers 500 zero-day flaws in open-source code](https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting)
 * [Claude Code: connect to a local model when your quota runs out](https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/)
 * [Claude Code for Infrastructure](https://www.fluid.sh/)
 * [Claude is a space to think](https://www.anthropic.com/news/claude-is-a-space-to-think)
-* [A sane but bull case on Clawdbot / OpenClaw](https://brandon.wang/2026/clawdbot)
-* [Agent Skills](https://agentskills.io/home)
-* [Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust](https://github.com/j178/prek)
-* [Qwen3-Coder-Next](https://qwen.ai/blog?id=qwen3-coder-next)
-* [GitHub - ace-step/ACE-Step-1.5: The most powerful local music generation model that outperforms most commercial alternatives](https://github.com/ace-step/ACE-Step-1.5)
-* [Kusari](https://us.kusari.cloud/signup)
-* [The Codex App](https://openai.com/index/introducing-the-codex-app/)
 
 ### Things I'm star-ing
 
