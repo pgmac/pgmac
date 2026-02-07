@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [France's homegrown open source online office suite](https://github.com/suitenumerique)
 * [Show HN: If you lose your memory, how to regain access to your computer?](https://eljojo.github.io/rememory/)
 * [Microsoft open-sources LiteBox, a security-focused library OS](https://github.com/microsoft/litebox)
 * [How to effectively write quality code with AI](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Show HN: Smooth CLI – Token-efficient browser for AI agents](https://docs.smooth.sh/cli/overview)
 * [Orchestrate teams of Claude Code sessions](https://code.claude.com/docs/en/agent-teams)
 * [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
-* [GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/)
 
 ### Things I'm star-ing
 
