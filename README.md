@@ -75,19 +75,21 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Show HN: If you lose your memory, how to regain access to your computer?](https://eljojo.github.io/rememory/)
+* [Microsoft open-sources LiteBox, a security-focused library OS](https://github.com/microsoft/litebox)
+* [How to effectively write quality code with AI](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
+* [Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/)
+* [Claude Composer](https://www.josh.ing/blog/claude-composer)
+* [Show HN: Slack CLI for Agents](https://github.com/stablyai/agent-slack)
+* [Show HN: Smooth CLI – Token-efficient browser for AI agents](https://docs.smooth.sh/cli/overview)
 * [Orchestrate teams of Claude Code sessions](https://code.claude.com/docs/en/agent-teams)
 * [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
 * [GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/)
-* [Don't rent the cloud, own instead](https://blog.comma.ai/datacenter/)
-* [PsiACE/Skills – A small, shared skill library](https://github.com/PsiACE/skills)
-* [Company as Code](https://blog.42futures.com/p/company-as-code)
-* [Opus 4.6 uncovers 500 zero-day flaws in open-source code](https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting)
-* [Claude Code: connect to a local model when your quota runs out](https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/)
-* [Claude Code for Infrastructure](https://www.fluid.sh/)
-* [Claude is a space to think](https://www.anthropic.com/news/claude-is-a-space-to-think)
 
 ### Things I'm star-ing
 
+* [agent-slack](https://github.com/stablyai/agent-slack)
+  Slack automation CLI for AI agents
 * [goose](https://github.com/block/goose)
   an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 * [nanoclaw](https://github.com/gavrielc/nanoclaw)
@@ -106,8 +108,6 @@ A table of things ...
   An open-source alternative to Claude Cowork, powered by opencode
 * [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening)
   This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
-* [obsidian-skills](https://github.com/kepano/obsidian-skills)
-  Agent skills for Obsidian
 
 ### My Blog Posts
 
