@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt)
+* [GitHub - pydantic/monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty)
 * [France's homegrown open source online office suite](https://github.com/suitenumerique)
 * [Show HN: If you lose your memory, how to regain access to your computer?](https://eljojo.github.io/rememory/)
 * [Microsoft open-sources LiteBox, a security-focused library OS](https://github.com/microsoft/litebox)
@@ -83,8 +85,6 @@ A table of things ...
 * [Claude Composer](https://www.josh.ing/blog/claude-composer)
 * [Show HN: Slack CLI for Agents](https://github.com/stablyai/agent-slack)
 * [Show HN: Smooth CLI – Token-efficient browser for AI agents](https://docs.smooth.sh/cli/overview)
-* [Orchestrate teams of Claude Code sessions](https://code.claude.com/docs/en/agent-teams)
-* [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
 
 ### Things I'm star-ing
 
