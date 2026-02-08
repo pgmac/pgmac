@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Vouch](https://github.com/mitchellh/vouch)
+* [The Little Bool of Doom (2025)](https://blog.svgames.pl/article/the-little-bool-of-doom)
 * [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt)
 * [GitHub - pydantic/monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty)
 * [France's homegrown open source online office suite](https://github.com/suitenumerique)
@@ -83,8 +85,6 @@ A table of things ...
 * [How to effectively write quality code with AI](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 * [Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/)
 * [Claude Composer](https://www.josh.ing/blog/claude-composer)
-* [Show HN: Slack CLI for Agents](https://github.com/stablyai/agent-slack)
-* [Show HN: Smooth CLI – Token-efficient browser for AI agents](https://docs.smooth.sh/cli/overview)
 
 ### Things I'm star-ing
 
