@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [AI gold rush sees tech firms embracing 72-hour weeks](https://www.bbc.com/news/articles/cvgn2k285ypo)
+* [I put Claude Code inside Obsidian, and it was awesome](https://www.xda-developers.com/claude-code-inside-obsidian-and-it-was-eye-opening/)
 * [Vouch](https://github.com/mitchellh/vouch)
 * [The Little Bool of Doom (2025)](https://blog.svgames.pl/article/the-little-bool-of-doom)
 * [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt)
@@ -83,8 +85,6 @@ A table of things ...
 * [Show HN: If you lose your memory, how to regain access to your computer?](https://eljojo.github.io/rememory/)
 * [Microsoft open-sources LiteBox, a security-focused library OS](https://github.com/microsoft/litebox)
 * [How to effectively write quality code with AI](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
-* [Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/)
-* [Claude Composer](https://www.josh.ing/blog/claude-composer)
 
 ### Things I'm star-ing
 
