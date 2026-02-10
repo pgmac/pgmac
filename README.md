@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Zulip.com Values](https://zulip.com/values/)
 * [AI gold rush sees tech firms embracing 72-hour weeks](https://www.bbc.com/news/articles/cvgn2k285ypo)
 * [I put Claude Code inside Obsidian, and it was awesome](https://www.xda-developers.com/claude-code-inside-obsidian-and-it-was-eye-opening/)
 * [Vouch](https://github.com/mitchellh/vouch)
@@ -84,7 +85,6 @@ A table of things ...
 * [France's homegrown open source online office suite](https://github.com/suitenumerique)
 * [Show HN: If you lose your memory, how to regain access to your computer?](https://eljojo.github.io/rememory/)
 * [Microsoft open-sources LiteBox, a security-focused library OS](https://github.com/microsoft/litebox)
-* [How to effectively write quality code with AI](https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/)
 
 ### Things I'm star-ing
 
