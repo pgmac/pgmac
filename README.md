@@ -75,19 +75,21 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Windows Notepad App Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-20841)
+* [The Feynman Lectures on Physics (1961-1964)](https://www.feynmanlectures.caltech.edu/)
+* [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
+* [Ex-GitHub CEO launches a new developer platform for AI agents](https://entire.io/blog/hello-entire-world/)
+* [Fun With Pinball](https://www.funwithpinball.com/exhibits/small-boards)
 * [Zulip.com Values](https://zulip.com/values/)
 * [AI gold rush sees tech firms embracing 72-hour weeks](https://www.bbc.com/news/articles/cvgn2k285ypo)
 * [I put Claude Code inside Obsidian, and it was awesome](https://www.xda-developers.com/claude-code-inside-obsidian-and-it-was-eye-opening/)
 * [Vouch](https://github.com/mitchellh/vouch)
 * [The Little Bool of Doom (2025)](https://blog.svgames.pl/article/the-little-bool-of-doom)
-* [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt)
-* [GitHub - pydantic/monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty)
-* [France's homegrown open source online office suite](https://github.com/suitenumerique)
-* [Show HN: If you lose your memory, how to regain access to your computer?](https://eljojo.github.io/rememory/)
-* [Microsoft open-sources LiteBox, a security-focused library OS](https://github.com/microsoft/litebox)
 
 ### Things I'm star-ing
 
+* [cli](https://github.com/entireio/cli)
+  Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
 * [agent-slack](https://github.com/stablyai/agent-slack)
   Slack automation CLI for AI agents
 * [goose](https://github.com/block/goose)
@@ -106,8 +108,6 @@ A table of things ...
   🛡️ Privacy-first, Agnostic Telemetry for Self-Hosted Software.
 * [openwork](https://github.com/different-ai/openwork)
   An open-source alternative to Claude Cowork, powered by opencode
-* [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening)
-  This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 
 ### My Blog Posts
 
