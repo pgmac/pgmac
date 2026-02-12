@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Using an engineering notebook](https://ntietz.com/blog/using-an-engineering-notebook/)
+* [Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)
 * [Single bone in Spain offers first direct evidence of Hannibal's war elephants](https://phys.org/news/2026-02-hannibal-famous-war-elephants-bone.html)
 * [Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)
 * [Windows Notepad App Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-20841)
@@ -83,8 +85,6 @@ A table of things ...
 * [Ex-GitHub CEO launches a new developer platform for AI agents](https://entire.io/blog/hello-entire-world/)
 * [Fun With Pinball](https://www.funwithpinball.com/exhibits/small-boards)
 * [Zulip.com Values](https://zulip.com/values/)
-* [AI gold rush sees tech firms embracing 72-hour weeks](https://www.bbc.com/news/articles/cvgn2k285ypo)
-* [I put Claude Code inside Obsidian, and it was awesome](https://www.xda-developers.com/claude-code-inside-obsidian-and-it-was-eye-opening/)
 
 ### Things I'm star-ing
 
