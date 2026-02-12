@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Single bone in Spain offers first direct evidence of Hannibal's war elephants](https://phys.org/news/2026-02-hannibal-famous-war-elephants-bone.html)
+* [Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)
 * [Windows Notepad App Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-20841)
 * [The Feynman Lectures on Physics (1961-1964)](https://www.feynmanlectures.caltech.edu/)
 * [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
@@ -83,8 +85,6 @@ A table of things ...
 * [Zulip.com Values](https://zulip.com/values/)
 * [AI gold rush sees tech firms embracing 72-hour weeks](https://www.bbc.com/news/articles/cvgn2k285ypo)
 * [I put Claude Code inside Obsidian, and it was awesome](https://www.xda-developers.com/claude-code-inside-obsidian-and-it-was-eye-opening/)
-* [Vouch](https://github.com/mitchellh/vouch)
-* [The Little Bool of Doom (2025)](https://blog.svgames.pl/article/the-little-bool-of-doom)
 
 ### Things I'm star-ing
 
