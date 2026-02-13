@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - s2-streamstore/claude-batch-toolkit: Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code](https://github.com/s2-streamstore/claude-batch-toolkit)
 * [An AI agent published a hit piece on me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 * [AI agent opens a PR write a blogpost to shames the maintainer who closes it](https://github.com/matplotlib/matplotlib/pull/31132)
 * [GPT‑5.3‑Codex‑Spark](https://openai.com/index/introducing-gpt-5-3-codex-spark/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)
 * [Single bone in Spain offers first direct evidence of Hannibal's war elephants](https://phys.org/news/2026-02-hannibal-famous-war-elephants-bone.html)
 * [Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)
-* [Windows Notepad App Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-20841)
 
 ### Things I'm star-ing
 
