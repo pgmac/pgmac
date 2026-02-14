@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md)
+* [Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL](https://github.com/mickamy/sql-tap)
 * [Sandwich Bill of Materials](https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html)
 * [An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 * [GitHub - s2-streamstore/claude-batch-toolkit: Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code](https://github.com/s2-streamstore/claude-batch-toolkit)
@@ -83,11 +85,11 @@ A table of things ...
 * [GPT‑5.3‑Codex‑Spark](https://openai.com/index/introducing-gpt-5-3-codex-spark/)
 * [Gemini 3 Deep Think](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/)
 * [The Missing GitHub Status Page](https://mrshu.github.io/github-statuses/)
-* [Using an engineering notebook](https://ntietz.com/blog/using-an-engineering-notebook/)
-* [Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)
 
 ### Things I'm star-ing
 
+* [sql-tap](https://github.com/mickamy/sql-tap)
+  Watch SQL traffic in real-time with a TUI
 * [data_engineering_book](https://github.com/datascale-ai/data_engineering_book)
   data engineering book
 * [cli](https://github.com/entireio/cli)
@@ -106,8 +108,6 @@ A table of things ...
   Lightweight, container-free sandbox for running commands with network and filesystem restrictions
 * [ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate)
   A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol 
-* [shm](https://github.com/btouchard/shm)
-  🛡️ Privacy-first, Agnostic Telemetry for Self-Hosted Software.
 
 ### My Blog Posts
 
