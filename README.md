@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Sandwich Bill of Materials](https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html)
+* [An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 * [GitHub - s2-streamstore/claude-batch-toolkit: Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code](https://github.com/s2-streamstore/claude-batch-toolkit)
 * [An AI agent published a hit piece on me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 * [AI agent opens a PR write a blogpost to shames the maintainer who closes it](https://github.com/matplotlib/matplotlib/pull/31132)
@@ -83,11 +85,11 @@ A table of things ...
 * [The Missing GitHub Status Page](https://mrshu.github.io/github-statuses/)
 * [Using an engineering notebook](https://ntietz.com/blog/using-an-engineering-notebook/)
 * [Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)
-* [Single bone in Spain offers first direct evidence of Hannibal's war elephants](https://phys.org/news/2026-02-hannibal-famous-war-elephants-bone.html)
-* [Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)
 
 ### Things I'm star-ing
 
+* [data_engineering_book](https://github.com/datascale-ai/data_engineering_book)
+  data engineering book
 * [cli](https://github.com/entireio/cli)
   Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
 * [agent-slack](https://github.com/stablyai/agent-slack)
@@ -106,8 +108,6 @@ A table of things ...
   A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol 
 * [shm](https://github.com/btouchard/shm)
   🛡️ Privacy-first, Agnostic Telemetry for Self-Hosted Software.
-* [openwork](https://github.com/different-ai/openwork)
-  An open-source alternative to Claude Cowork, powered by opencode
 
 ### My Blog Posts
 
