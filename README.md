@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Descent, ported to the web](https://mrdoob.github.io/three-descent/)
+* [IBM tripling entry-level jobs after finding the limits of AI adoption](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
+* [The Israeli Spyware Firm That Accidentally Just Exposed Itself](https://ahmedeldin.substack.com/p/the-israeli-spyware-firm-that-accidentally)
+* [Hasbro Celebrates 'Transformers: The Movie' by Apologizing for It](https://gizmodo.com/hasbro-celebrates-transformers-the-movie-by-apologizing-for-it-2000721696)
 * [Backblaze Drive Stats for 2025](https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/)
 * [YouTube as Storage](https://github.com/PulseBeat02/yt-media-storage)
 * [Genuine RAAF WWII bunker for sale an hour from Brisbane - realestate.com.au](https://www.realestate.com.au/news/genuine-raaf-wwii-bunker-for-sale-an-hour-from-brisbane/)
 * [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md)
 * [Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL](https://github.com/mickamy/sql-tap)
 * [Sandwich Bill of Materials](https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html)
-* [An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
-* [GitHub - s2-streamstore/claude-batch-toolkit: Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code](https://github.com/s2-streamstore/claude-batch-toolkit)
-* [An AI agent published a hit piece on me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
-* [AI agent opens a PR write a blogpost to shames the maintainer who closes it](https://github.com/matplotlib/matplotlib/pull/31132)
 
 ### Things I'm star-ing
 
