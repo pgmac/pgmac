@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Zvec: A lightweight, fast, in-process vector database](https://github.com/alibaba/zvec)
 * [Descent, ported to the web](https://mrdoob.github.io/three-descent/)
 * [IBM tripling entry-level jobs after finding the limits of AI adoption](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
 * [The Israeli Spyware Firm That Accidentally Just Exposed Itself](https://ahmedeldin.substack.com/p/the-israeli-spyware-firm-that-accidentally)
@@ -84,7 +85,6 @@ A table of things ...
 * [Genuine RAAF WWII bunker for sale an hour from Brisbane - realestate.com.au](https://www.realestate.com.au/news/genuine-raaf-wwii-bunker-for-sale-an-hour-from-brisbane/)
 * [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md)
 * [Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL](https://github.com/mickamy/sql-tap)
-* [Sandwich Bill of Materials](https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html)
 
 ### Things I'm star-ing
 
