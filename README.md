@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/)
+* [Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library](https://oat.ink/)
+* [A practical guide to observing the night sky for real skies and real equipment](https://stargazingbuddy.com/)
 * [Zvec: A lightweight, fast, in-process vector database](https://github.com/alibaba/zvec)
 * [Descent, ported to the web](https://mrdoob.github.io/three-descent/)
 * [IBM tripling entry-level jobs after finding the limits of AI adoption](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
@@ -82,9 +85,6 @@ A table of things ...
 * [Hasbro Celebrates 'Transformers: The Movie' by Apologizing for It](https://gizmodo.com/hasbro-celebrates-transformers-the-movie-by-apologizing-for-it-2000721696)
 * [Backblaze Drive Stats for 2025](https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/)
 * [YouTube as Storage](https://github.com/PulseBeat02/yt-media-storage)
-* [Genuine RAAF WWII bunker for sale an hour from Brisbane - realestate.com.au](https://www.realestate.com.au/news/genuine-raaf-wwii-bunker-for-sale-an-hour-from-brisbane/)
-* [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md)
-* [Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL](https://github.com/mickamy/sql-tap)
 
 ### Things I'm star-ing
 
