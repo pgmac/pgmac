@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Talking Oglaf with Trudy Cooper and Doug Bayne: 'We'd stay up all night drawing stuff to make each other laugh' - The Comics Journal](https://www.tcj.com/talking-oglaf-with-trudy-cooper-and-doug-bayne-wed-stay-up-all-night-drawing-stuff-to-make-each-other-laugh/)
 * [Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI](https://github.com/gpasquero/voog)
 * [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502)
 * [NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Descent, ported to the web](https://mrdoob.github.io/three-descent/)
 * [IBM tripling entry-level jobs after finding the limits of AI adoption](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
 * [The Israeli Spyware Firm That Accidentally Just Exposed Itself](https://ahmedeldin.substack.com/p/the-israeli-spyware-firm-that-accidentally)
-* [Hasbro Celebrates 'Transformers: The Movie' by Apologizing for It](https://gizmodo.com/hasbro-celebrates-transformers-the-movie-by-apologizing-for-it-2000721696)
 
 ### Things I'm star-ing
 
