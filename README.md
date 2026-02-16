@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI](https://github.com/gpasquero/voog)
+* [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502)
 * [NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/)
 * [Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library](https://oat.ink/)
 * [A practical guide to observing the night sky for real skies and real equipment](https://stargazingbuddy.com/)
@@ -83,8 +85,6 @@ A table of things ...
 * [IBM tripling entry-level jobs after finding the limits of AI adoption](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
 * [The Israeli Spyware Firm That Accidentally Just Exposed Itself](https://ahmedeldin.substack.com/p/the-israeli-spyware-firm-that-accidentally)
 * [Hasbro Celebrates 'Transformers: The Movie' by Apologizing for It](https://gizmodo.com/hasbro-celebrates-transformers-the-movie-by-apologizing-for-it-2000721696)
-* [Backblaze Drive Stats for 2025](https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/)
-* [YouTube as Storage](https://github.com/PulseBeat02/yt-media-storage)
 
 ### Things I'm star-ing
 
