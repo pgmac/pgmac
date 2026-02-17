@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Use protocols, not services](https://notnotp.com/notes/use-protocols-not-services/)
+* [Ghidra by NSA](https://github.com/NationalSecurityAgency/ghidra)
+* [ACCC Says Fine to Coles for Misleading Consumers Should Be Reduced From $150 Million to Just $200 Million — The Shovel](https://theshovel.com.au/2026/02/17/accc-says-fine-to-coles-for-misleading-consumers-should-be-reduced/)
+* [Your Desk Needs an ESP32 DataDisplay Terminal - Hackster.io](https://www.hackster.io/news/your-desk-needs-an-esp32-datadisplay-terminal-0e1562b5c473.amp)
 * [Talking Oglaf with Trudy Cooper and Doug Bayne: 'We'd stay up all night drawing stuff to make each other laugh' - The Comics Journal](https://www.tcj.com/talking-oglaf-with-trudy-cooper-and-doug-bayne-wed-stay-up-all-night-drawing-stuff-to-make-each-other-laugh/)
 * [Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI](https://github.com/gpasquero/voog)
 * [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502)
 * [NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/)
 * [Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library](https://oat.ink/)
 * [A practical guide to observing the night sky for real skies and real equipment](https://stargazingbuddy.com/)
-* [Zvec: A lightweight, fast, in-process vector database](https://github.com/alibaba/zvec)
-* [Descent, ported to the web](https://mrdoob.github.io/three-descent/)
-* [IBM tripling entry-level jobs after finding the limits of AI adoption](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
-* [The Israeli Spyware Firm That Accidentally Just Exposed Itself](https://ahmedeldin.substack.com/p/the-israeli-spyware-firm-that-accidentally)
 
 ### Things I'm star-ing
 
