@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
+* [GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)
+* [Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway](https://asteroidos.org/news/2-0-release/index.html)
 * [Use protocols, not services](https://notnotp.com/notes/use-protocols-not-services/)
 * [Ghidra by NSA](https://github.com/NationalSecurityAgency/ghidra)
 * [ACCC Says Fine to Coles for Misleading Consumers Should Be Reduced From $150 Million to Just $200 Million — The Shovel](https://theshovel.com.au/2026/02/17/accc-says-fine-to-coles-for-misleading-consumers-should-be-reduced/)
@@ -82,12 +85,11 @@ A table of things ...
 * [Talking Oglaf with Trudy Cooper and Doug Bayne: 'We'd stay up all night drawing stuff to make each other laugh' - The Comics Journal](https://www.tcj.com/talking-oglaf-with-trudy-cooper-and-doug-bayne-wed-stay-up-all-night-drawing-stuff-to-make-each-other-laugh/)
 * [Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI](https://github.com/gpasquero/voog)
 * [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502)
-* [NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/)
-* [Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library](https://oat.ink/)
-* [A practical guide to observing the night sky for real skies and real equipment](https://stargazingbuddy.com/)
 
 ### Things I'm star-ing
 
+* [visual-explainer](https://github.com/nicobailon/visual-explainer)
+  Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps
 * [sql-tap](https://github.com/mickamy/sql-tap)
   Watch SQL traffic in real-time with a TUI
 * [data_engineering_book](https://github.com/datascale-ai/data_engineering_book)
@@ -106,8 +108,6 @@ A table of things ...
   Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local & Encrypted.
 * [fence](https://github.com/Use-Tusk/fence)
   Lightweight, container-free sandbox for running commands with network and filesystem restrictions
-* [ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate)
-  A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol 
 
 ### My Blog Posts
 
