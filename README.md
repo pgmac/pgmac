@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [DNS-Persist-01: A New Model for DNS-Based Challenge Validation](https://letsencrypt.org/2026/02/18/dns-persist-01.html)
 * [Native FreeBSD Kerberos/LDAP with FreeIPA/IDM](https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/)
 * [15 years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
 * [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
@@ -84,7 +85,6 @@ A table of things ...
 * [Ghidra by NSA](https://github.com/NationalSecurityAgency/ghidra)
 * [ACCC Says Fine to Coles for Misleading Consumers Should Be Reduced From $150 Million to Just $200 Million — The Shovel](https://theshovel.com.au/2026/02/17/accc-says-fine-to-coles-for-misleading-consumers-should-be-reduced/)
 * [Your Desk Needs an ESP32 DataDisplay Terminal - Hackster.io](https://www.hackster.io/news/your-desk-needs-an-esp32-datadisplay-terminal-0e1562b5c473.amp)
-* [Talking Oglaf with Trudy Cooper and Doug Bayne: 'We'd stay up all night drawing stuff to make each other laugh' - The Comics Journal](https://www.tcj.com/talking-oglaf-with-trudy-cooper-and-doug-bayne-wed-stay-up-all-night-drawing-stuff-to-make-each-other-laugh/)
 
 ### Things I'm star-ing
 
