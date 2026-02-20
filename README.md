@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [My 1981 adventure game is now a multimedia extravaganza](https://technologizer.com/home/2026/02/16/arctic-adventure-2026/)
 * [DNS-Persist-01: A New Model for DNS-Based Challenge Validation](https://letsencrypt.org/2026/02/18/dns-persist-01.html)
 * [Native FreeBSD Kerberos/LDAP with FreeIPA/IDM](https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/)
 * [15 years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Use protocols, not services](https://notnotp.com/notes/use-protocols-not-services/)
 * [Ghidra by NSA](https://github.com/NationalSecurityAgency/ghidra)
 * [ACCC Says Fine to Coles for Misleading Consumers Should Be Reduced From $150 Million to Just $200 Million — The Shovel](https://theshovel.com.au/2026/02/17/accc-says-fine-to-coles-for-misleading-consumers-should-be-reduced/)
-* [Your Desk Needs an ESP32 DataDisplay Terminal - Hackster.io](https://www.hackster.io/news/your-desk-needs-an-esp32-datadisplay-terminal-0e1562b5c473.amp)
 
 ### Things I'm star-ing
 
