@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)
+* [The SRE Report 2026](https://resources.catchpoint.com/hubfs/Website%20Assets%20-%20Briefs%2c%20EBooks%2c%20etc/The%20SRE%20Report%202026%20Catchpoint.pdf)
 * [Scientists discover recent tectonic activity on the moon](https://phys.org/news/2026-02-scientists-tectonic-moon.html)
 * [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
 * [A Botnet Accidentally Destroyed I2P](https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/)
@@ -83,8 +85,6 @@ A table of things ...
 * [How far back in time can you understand English?](https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english)
 * [I found a useful Git one liner buried in leaked CIA developer docs](https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html)
 * [Keep Android Open](https://f-droid.org/2026/02/20/twif.html)
-* [Turn Dependabot Off](https://words.filippo.io/dependabot/)
-* [OpenScan](https://openscan.eu/pages/scan-gallery)
 
 ### Things I'm star-ing
 
