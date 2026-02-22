@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Scientists discover recent tectonic activity on the moon](https://phys.org/news/2026-02-scientists-tectonic-moon.html)
 * [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
 * [A Botnet Accidentally Destroyed I2P](https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/)
 * [EDuke32 – Duke Nukem 3D (Open-Source)](https://www.eduke32.com/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Keep Android Open](https://f-droid.org/2026/02/20/twif.html)
 * [Turn Dependabot Off](https://words.filippo.io/dependabot/)
 * [OpenScan](https://openscan.eu/pages/scan-gallery)
-* [CERN rebuilt the original browser from 1989 (2019)](https://worldwideweb.cern.ch)
 
 ### Things I'm star-ing
 
