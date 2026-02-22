@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
+* [A Botnet Accidentally Destroyed I2P](https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/)
 * [EDuke32 – Duke Nukem 3D (Open-Source)](https://www.eduke32.com/)
 * [I verified my LinkedIn identity. Here's what I handed over](https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/)
 * [How far back in time can you understand English?](https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english)
@@ -83,8 +85,6 @@ A table of things ...
 * [Turn Dependabot Off](https://words.filippo.io/dependabot/)
 * [OpenScan](https://openscan.eu/pages/scan-gallery)
 * [CERN rebuilt the original browser from 1989 (2019)](https://worldwideweb.cern.ch)
-* [AI is not a coworker, it's an exoskeleton](https://www.kasava.dev/blog/ai-as-exoskeleton)
-* [An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
 
 ### Things I'm star-ing
 
