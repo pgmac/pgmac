@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [EDuke32 – Duke Nukem 3D (Open-Source)](https://www.eduke32.com/)
+* [I verified my LinkedIn identity. Here's what I handed over](https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/)
+* [How far back in time can you understand English?](https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english)
 * [I found a useful Git one liner buried in leaked CIA developer docs](https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html)
 * [Keep Android Open](https://f-droid.org/2026/02/20/twif.html)
 * [Turn Dependabot Off](https://words.filippo.io/dependabot/)
@@ -82,9 +85,6 @@ A table of things ...
 * [CERN rebuilt the original browser from 1989 (2019)](https://worldwideweb.cern.ch)
 * [AI is not a coworker, it's an exoskeleton](https://www.kasava.dev/blog/ai-as-exoskeleton)
 * [An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
-* [My 1981 adventure game is now a multimedia extravaganza](https://technologizer.com/home/2026/02/16/arctic-adventure-2026/)
-* [DNS-Persist-01: A New Model for DNS-Based Challenge Validation](https://letsencrypt.org/2026/02/18/dns-persist-01.html)
-* [Native FreeBSD Kerberos/LDAP with FreeIPA/IDM](https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/)
 
 ### Things I'm star-ing
 
