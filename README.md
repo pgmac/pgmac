@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html)
+* [Using the new bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
+* [Open-Source Community Launches MinIO Fork](https://linuxiac.com/open-source-community-launches-minio-fork/)
 * [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)
 * [The SRE Report 2026](https://resources.catchpoint.com/hubfs/Website%20Assets%20-%20Briefs%2c%20EBooks%2c%20etc/The%20SRE%20Report%202026%20Catchpoint.pdf)
 * [Scientists discover recent tectonic activity on the moon](https://phys.org/news/2026-02-scientists-tectonic-moon.html)
@@ -82,9 +85,6 @@ A table of things ...
 * [A Botnet Accidentally Destroyed I2P](https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/)
 * [EDuke32 – Duke Nukem 3D (Open-Source)](https://www.eduke32.com/)
 * [I verified my LinkedIn identity. Here's what I handed over](https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/)
-* [How far back in time can you understand English?](https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english)
-* [I found a useful Git one liner buried in leaked CIA developer docs](https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html)
-* [Keep Android Open](https://f-droid.org/2026/02/20/twif.html)
 
 ### Things I'm star-ing
 
