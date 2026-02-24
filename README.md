@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The Age Verification Trap: Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification)
 * [Freemediaheckyeah](https://fmhy.net/)
 * [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html)
 * [Using the new bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Scientists discover recent tectonic activity on the moon](https://phys.org/news/2026-02-scientists-tectonic-moon.html)
 * [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
 * [A Botnet Accidentally Destroyed I2P](https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/)
-* [EDuke32 – Duke Nukem 3D (Open-Source)](https://www.eduke32.com/)
 
 ### Things I'm star-ing
 
