@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Diode – Build, program, and simulate hardware](https://www.withdiode.com/)
 * [The Age Verification Trap: Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification)
 * [Freemediaheckyeah](https://fmhy.net/)
 * [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html)
@@ -84,10 +85,11 @@ A table of things ...
 * [The SRE Report 2026](https://resources.catchpoint.com/hubfs/Website%20Assets%20-%20Briefs%2c%20EBooks%2c%20etc/The%20SRE%20Report%202026%20Catchpoint.pdf)
 * [Scientists discover recent tectonic activity on the moon](https://phys.org/news/2026-02-scientists-tectonic-moon.html)
 * [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
-* [A Botnet Accidentally Destroyed I2P](https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/)
 
 ### Things I'm star-ing
 
+* [babyshark](https://github.com/vignesh07/babyshark)
+  Flows-first PCAP TUI (case files, gorgeous UX). Do do do do.
 * [visual-explainer](https://github.com/nicobailon/visual-explainer)
   Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps
 * [sql-tap](https://github.com/mickamy/sql-tap)
@@ -106,8 +108,6 @@ A table of things ...
   Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 * [local-deep-research](https://github.com/LearningCircuit/local-deep-research)
   Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local & Encrypted.
-* [fence](https://github.com/Use-Tusk/fence)
-  Lightweight, container-free sandbox for running commands with network and filesystem restrictions
 
 ### My Blog Posts
 
