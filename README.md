@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Claude Code Remote Control](https://code.claude.com/docs/en/remote-control)
 * [Diode – Build, program, and simulate hardware](https://www.withdiode.com/)
 * [The Age Verification Trap: Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification)
 * [Freemediaheckyeah](https://fmhy.net/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)
 * [The SRE Report 2026](https://resources.catchpoint.com/hubfs/Website%20Assets%20-%20Briefs%2c%20EBooks%2c%20etc/The%20SRE%20Report%202026%20Catchpoint.pdf)
 * [Scientists discover recent tectonic activity on the moon](https://phys.org/news/2026-02-scientists-tectonic-moon.html)
-* [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
 
 ### Things I'm star-ing
 
