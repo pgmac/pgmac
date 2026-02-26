@@ -91,7 +91,7 @@ A table of things ...
 * [babyshark](https://github.com/vignesh07/babyshark)
   Flows-first PCAP TUI (case files, gorgeous UX). Do do do do.
 * [visual-explainer](https://github.com/nicobailon/visual-explainer)
-  Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps
+  Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 * [sql-tap](https://github.com/mickamy/sql-tap)
   Watch SQL traffic in real-time with a TUI
 * [data_engineering_book](https://github.com/datascale-ai/data_engineering_book)
