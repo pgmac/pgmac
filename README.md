@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
+* [Making MCP cheaper via CLI](https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html)
+* [The Om Programming Language](https://www.om-language.com/)
 * [Claude Code Remote Control](https://code.claude.com/docs/en/remote-control)
 * [Diode – Build, program, and simulate hardware](https://www.withdiode.com/)
 * [The Age Verification Trap: Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification)
@@ -82,9 +85,6 @@ A table of things ...
 * [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html)
 * [Using the new bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
 * [Open-Source Community Launches MinIO Fork](https://linuxiac.com/open-source-community-launches-minio-fork/)
-* [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)
-* [The SRE Report 2026](https://resources.catchpoint.com/hubfs/Website%20Assets%20-%20Briefs%2c%20EBooks%2c%20etc/The%20SRE%20Report%202026%20Catchpoint.pdf)
-* [Scientists discover recent tectonic activity on the moon](https://phys.org/news/2026-02-scientists-tectonic-moon.html)
 
 ### Things I'm star-ing
 
