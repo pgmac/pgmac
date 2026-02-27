@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Museum of Plugs and Sockets](https://plugsocketmuseum.nl/index.html)
+* [Show HN: Deff – Side-by-side Git diff review in your terminal](https://github.com/flamestro/deff)
+* [The RomM Project](https://romm.app/)
 * [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
 * [Making MCP cheaper via CLI](https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html)
 * [The Om Programming Language](https://www.om-language.com/)
@@ -82,9 +85,6 @@ A table of things ...
 * [Diode – Build, program, and simulate hardware](https://www.withdiode.com/)
 * [The Age Verification Trap: Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification)
 * [Freemediaheckyeah](https://fmhy.net/)
-* [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html)
-* [Using the new bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
-* [Open-Source Community Launches MinIO Fork](https://linuxiac.com/open-source-community-launches-minio-fork/)
 
 ### Things I'm star-ing
 
