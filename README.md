@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The Hunt for Dark Breakfast](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/)
 * [Museum of Plugs and Sockets](https://plugsocketmuseum.nl/index.html)
 * [Show HN: Deff – Side-by-side Git diff review in your terminal](https://github.com/flamestro/deff)
 * [The RomM Project](https://romm.app/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Claude Code Remote Control](https://code.claude.com/docs/en/remote-control)
 * [Diode – Build, program, and simulate hardware](https://www.withdiode.com/)
 * [The Age Verification Trap: Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification)
-* [Freemediaheckyeah](https://fmhy.net/)
 
 ### Things I'm star-ing
 
