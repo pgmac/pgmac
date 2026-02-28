@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Statement on the comments from Secretary of War Pete Hegseth](https://www.anthropic.com/news/statement-comments-secretary-war)
+* [Hyprland 0.54 Released As A "Massive" Update To This Wayland Compositor - Phoronix](https://www.phoronix.com/news/Hyprland-0.54-Released)
 * [Dan Simmons, author of Hyperion, has died](https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871)
 * [Leaving Google has actively improved my life](https://pseudosingleton.com/leaving-google-improved-my-life/)
 * [Get free Claude max 20x for open-source maintainers](https://claude.com/contact-sales/claude-for-oss)
@@ -83,8 +85,6 @@ A table of things ...
 * [NASA announces overhaul of Artemis program amid safety concerns, delays](https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/)
 * [The Hunt for Dark Breakfast](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/)
 * [Museum of Plugs and Sockets](https://plugsocketmuseum.nl/index.html)
-* [Show HN: Deff – Side-by-side Git diff review in your terminal](https://github.com/flamestro/deff)
-* [The RomM Project](https://romm.app/)
 
 ### Things I'm star-ing
 
