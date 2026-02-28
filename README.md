@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Dan Simmons, author of Hyperion, has died](https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871)
+* [Leaving Google has actively improved my life](https://pseudosingleton.com/leaving-google-improved-my-life/)
+* [Get free Claude max 20x for open-source maintainers](https://claude.com/contact-sales/claude-for-oss)
+* [Reading English from 1000 AD](https://lewiscampbell.tech/blog/260224.html)
+* [Rob Grant, creator of Red Dwarf, has died](https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant)
+* [NASA announces overhaul of Artemis program amid safety concerns, delays](https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/)
 * [The Hunt for Dark Breakfast](https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/)
 * [Museum of Plugs and Sockets](https://plugsocketmuseum.nl/index.html)
 * [Show HN: Deff – Side-by-side Git diff review in your terminal](https://github.com/flamestro/deff)
 * [The RomM Project](https://romm.app/)
-* [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
-* [Making MCP cheaper via CLI](https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html)
-* [The Om Programming Language](https://www.om-language.com/)
-* [Claude Code Remote Control](https://code.claude.com/docs/en/remote-control)
-* [Diode – Build, program, and simulate hardware](https://www.withdiode.com/)
-* [The Age Verification Trap: Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification)
 
 ### Things I'm star-ing
 
