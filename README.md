@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [zulip-terminal](https://github.com/zulip/zulip-terminal)
+  Official Zulip terminal client.
 * [babyshark](https://github.com/vignesh07/babyshark)
   Flows-first PCAP TUI (case files, gorgeous UX). Do do do do.
 * [visual-explainer](https://github.com/nicobailon/visual-explainer)
@@ -106,8 +108,6 @@ A table of things ...
   A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 * [openclaw](https://github.com/openclaw/openclaw)
   Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-* [local-deep-research](https://github.com/LearningCircuit/local-deep-research)
-  Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local & Encrypted.
 
 ### My Blog Posts
 
