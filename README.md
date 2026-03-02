@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Motorola announces a partnership with GrapheneOS Foundation](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
+* [/e/OS is a complete "deGoogled", mobile ecosystem](https://e.foundation/e-os/)
+* [Claude Code LSP](https://karanbansal.in/blog/claude-code-lsp/)
 * [Operational issue – Multiple services (UAE)](https://health.aws.amazon.com/health/status)
 * [Ghostty – Terminal Emulator](https://ghostty.org/docs)
 * [MCP server that reduces Claude Code context consumption by 98%](https://mksg.lu/blog/context-mode)
@@ -82,9 +85,6 @@ A table of things ...
 * [Verified Spec-Driven Development (VSDD)](https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00)
 * [Statement on the comments from Secretary of War Pete Hegseth](https://www.anthropic.com/news/statement-comments-secretary-war)
 * [Hyprland 0.54 Released As A "Massive" Update To This Wayland Compositor - Phoronix](https://www.phoronix.com/news/Hyprland-0.54-Released)
-* [Dan Simmons, author of Hyperion, has died](https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871)
-* [Leaving Google has actively improved my life](https://pseudosingleton.com/leaving-google-improved-my-life/)
-* [Get free Claude max 20x for open-source maintainers](https://claude.com/contact-sales/claude-for-oss)
 
 ### Things I'm star-ing
 
