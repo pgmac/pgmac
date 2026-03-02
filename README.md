@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Operational issue – Multiple services (UAE)](https://health.aws.amazon.com/health/status)
+* [Ghostty – Terminal Emulator](https://ghostty.org/docs)
 * [MCP server that reduces Claude Code context consumption by 98%](https://mksg.lu/blog/context-mode)
 * [Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code](https://github.com/mksglu/claude-context-mode)
 * [Verified Spec-Driven Development (VSDD)](https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00)
@@ -83,8 +85,6 @@ A table of things ...
 * [Dan Simmons, author of Hyperion, has died](https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871)
 * [Leaving Google has actively improved my life](https://pseudosingleton.com/leaving-google-improved-my-life/)
 * [Get free Claude max 20x for open-source maintainers](https://claude.com/contact-sales/claude-for-oss)
-* [Reading English from 1000 AD](https://lewiscampbell.tech/blog/260224.html)
-* [Rob Grant, creator of Red Dwarf, has died](https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant)
 
 ### Things I'm star-ing
 
