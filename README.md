@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Intent-Based Commits](https://github.com/adamveld12/ghost)
+* ['Evil Dead' Icon Bruce Campbell Reveals Cancer Diagnosis](https://www.thewrap.com/creative-content/movies/bruce-campbell-cancer-diagnosis-evil-dead/)
 * [Motorola announces a partnership with GrapheneOS Foundation](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
 * [/e/OS is a complete "deGoogled", mobile ecosystem](https://e.foundation/e-os/)
 * [Claude Code LSP](https://karanbansal.in/blog/claude-code-lsp/)
@@ -83,8 +85,6 @@ A table of things ...
 * [MCP server that reduces Claude Code context consumption by 98%](https://mksg.lu/blog/context-mode)
 * [Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code](https://github.com/mksglu/claude-context-mode)
 * [Verified Spec-Driven Development (VSDD)](https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00)
-* [Statement on the comments from Secretary of War Pete Hegseth](https://www.anthropic.com/news/statement-comments-secretary-war)
-* [Hyprland 0.54 Released As A "Massive" Update To This Wayland Compositor - Phoronix](https://www.phoronix.com/news/Hyprland-0.54-Released)
 
 ### Things I'm star-ing
 
