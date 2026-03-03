@@ -105,7 +105,7 @@ A table of things ...
 * [goose](https://github.com/block/goose)
   an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 * [nanoclaw](https://github.com/qwibitai/nanoclaw)
-  A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
+  A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 * [openclaw](https://github.com/openclaw/openclaw)
   Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
