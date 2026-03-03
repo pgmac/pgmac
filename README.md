@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The Xkcd thing, now interactive](https://editor.p5js.org/isohedral/full/vJa5RiZWs)
 * [Intent-Based Commits](https://github.com/adamveld12/ghost)
 * ['Evil Dead' Icon Bruce Campbell Reveals Cancer Diagnosis](https://www.thewrap.com/creative-content/movies/bruce-campbell-cancer-diagnosis-evil-dead/)
 * [Motorola announces a partnership with GrapheneOS Foundation](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Ghostty – Terminal Emulator](https://ghostty.org/docs)
 * [MCP server that reduces Claude Code context consumption by 98%](https://mksg.lu/blog/context-mode)
 * [Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code](https://github.com/mksglu/claude-context-mode)
-* [Verified Spec-Driven Development (VSDD)](https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00)
 
 ### Things I'm star-ing
 
