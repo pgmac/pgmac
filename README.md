@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Motorola GrapheneOS devices will be bootloader unlockable/relockable](https://grapheneos.social/@GrapheneOS/116160393783585567)
 * [The Xkcd thing, now interactive](https://editor.p5js.org/isohedral/full/vJa5RiZWs)
 * [Intent-Based Commits](https://github.com/adamveld12/ghost)
 * ['Evil Dead' Icon Bruce Campbell Reveals Cancer Diagnosis](https://www.thewrap.com/creative-content/movies/bruce-campbell-cancer-diagnosis-evil-dead/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Operational issue – Multiple services (UAE)](https://health.aws.amazon.com/health/status)
 * [Ghostty – Terminal Emulator](https://ghostty.org/docs)
 * [MCP server that reduces Claude Code context consumption by 98%](https://mksg.lu/blog/context-mode)
-* [Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code](https://github.com/mksglu/claude-context-mode)
 
 ### Things I'm star-ing
 
