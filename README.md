@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/)
 * [Wikipedia was in read-only mode following mass admin account compromise](https://www.wikimediastatus.net)
 * [A GitHub Issue Title Compromised 4k Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another)
 * [Motorola GrapheneOS devices will be bootloader unlockable/relockable](https://grapheneos.social/@GrapheneOS/116160393783585567)
@@ -84,7 +85,6 @@ A table of things ...
 * [Motorola announces a partnership with GrapheneOS Foundation](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
 * [/e/OS is a complete "deGoogled", mobile ecosystem](https://e.foundation/e-os/)
 * [Claude Code LSP](https://karanbansal.in/blog/claude-code-lsp/)
-* [Operational issue – Multiple services (UAE)](https://health.aws.amazon.com/health/status)
 
 ### Things I'm star-ing
 
