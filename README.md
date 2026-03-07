@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Helix: A post-modern text editor](https://helix-editor.com/)
+* [Galileo's handwritten notes found in ancient astronomy text](https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text)
 * [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/)
 * [Wikipedia was in read-only mode following mass admin account compromise](https://www.wikimediastatus.net)
 * [A GitHub Issue Title Compromised 4k Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another)
@@ -83,8 +85,6 @@ A table of things ...
 * [Intent-Based Commits](https://github.com/adamveld12/ghost)
 * ['Evil Dead' Icon Bruce Campbell Reveals Cancer Diagnosis](https://www.thewrap.com/creative-content/movies/bruce-campbell-cancer-diagnosis-evil-dead/)
 * [Motorola announces a partnership with GrapheneOS Foundation](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
-* [/e/OS is a complete "deGoogled", mobile ecosystem](https://e.foundation/e-os/)
-* [Claude Code LSP](https://karanbansal.in/blog/claude-code-lsp/)
 
 ### Things I'm star-ing
 
