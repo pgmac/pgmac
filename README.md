@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - peteromallet/desloppify: Agent harness to make your slop code well-engineered and beautiful. · GitHub](https://github.com/peteromallet/desloppify)
 * [Helix: A post-modern text editor](https://helix-editor.com/)
 * [Galileo's handwritten notes found in ancient astronomy text](https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text)
 * [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/)
@@ -84,10 +85,13 @@ A table of things ...
 * [The Xkcd thing, now interactive](https://editor.p5js.org/isohedral/full/vJa5RiZWs)
 * [Intent-Based Commits](https://github.com/adamveld12/ghost)
 * ['Evil Dead' Icon Bruce Campbell Reveals Cancer Diagnosis](https://www.thewrap.com/creative-content/movies/bruce-campbell-cancer-diagnosis-evil-dead/)
-* [Motorola announces a partnership with GrapheneOS Foundation](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
 
 ### Things I'm star-ing
 
+* [ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
+  Proxmox VE Helper-Scripts (Community Edition) 
+* [desloppify](https://github.com/peteromallet/desloppify)
+  Agent harness to make your slop code well-engineered and beautiful.
 * [llmfit](https://github.com/AlexsJones/llmfit)
   Hundreds of models & providers. One command to find what runs on your hardware.
 * [zulip-terminal](https://github.com/zulip/zulip-terminal)
@@ -104,10 +108,6 @@ A table of things ...
   Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
 * [agent-slack](https://github.com/stablyai/agent-slack)
   Slack automation CLI for AI agents
-* [goose](https://github.com/block/goose)
-  an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-* [nanoclaw](https://github.com/qwibitai/nanoclaw)
-  A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 
 ### My Blog Posts
 
