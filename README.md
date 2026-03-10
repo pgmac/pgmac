@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [FreeBSD 14.4-Release Announcement](https://www.freebsd.org/releases/14.4R/announce/)
+* [129 Years Later, The First-Ever Sci-Fi Film Has Finally Been Found](https://www.inverse.com/entertainment/gugusse-and-the-automaton-georges-melies-short)
 * [Before Doom, there was Dangerous Dave, and John Romero's 8-bit hero is getting a spiritual successor next week | PC Gamer](https://www.pcgamer.com/games/action/before-doom-there-was-dangerous-dave-and-john-romeros-8-bit-hero-is-getting-a-spiritual-successor-next-week/)
 * [isc.sans.edu](https://isc.sans.edu/diary/Encrypted+Client+Hello+Ready+for+Prime+Time/32778)
 * [Living human brain cells play DOOM on a CL1 [video]](https://www.youtube.com/watch?v=yRV8fSw6HaE)
@@ -83,8 +85,6 @@ A table of things ...
 * [GitHub - peteromallet/desloppify: Agent harness to make your slop code well-engineered and beautiful. · GitHub](https://github.com/peteromallet/desloppify)
 * [Helix: A post-modern text editor](https://helix-editor.com/)
 * [Galileo's handwritten notes found in ancient astronomy text](https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text)
-* [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/)
-* [Wikipedia was in read-only mode following mass admin account compromise](https://www.wikimediastatus.net)
 
 ### Things I'm star-ing
 
