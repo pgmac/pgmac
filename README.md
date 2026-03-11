@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [After outages, Amazon to make senior engineers sign off on AI-assisted changes](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
+* [SSH Secret Menu](https://twitter.com/rebane2001/status/2031037389347406054)
+* [AI Use at Work Is Causing "Brain Fry," Researchers Find, Especially Among High Performers](https://futurism.com/artificial-intelligence/ai-brain-fry)
+* [uattest.net](https://uattest.net/)
 * [FreeBSD 14.4-Release Announcement](https://www.freebsd.org/releases/14.4R/announce/)
 * [129 Years Later, The First-Ever Sci-Fi Film Has Finally Been Found](https://www.inverse.com/entertainment/gugusse-and-the-automaton-georges-melies-short)
 * [Before Doom, there was Dangerous Dave, and John Romero's 8-bit hero is getting a spiritual successor next week | PC Gamer](https://www.pcgamer.com/games/action/before-doom-there-was-dangerous-dave-and-john-romeros-8-bit-hero-is-getting-a-spiritual-successor-next-week/)
 * [isc.sans.edu](https://isc.sans.edu/diary/Encrypted+Client+Hello+Ready+for+Prime+Time/32778)
 * [Living human brain cells play DOOM on a CL1 [video]](https://www.youtube.com/watch?v=yRV8fSw6HaE)
 * [Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds](https://github.com/BigBodyCobain/Shadowbroker)
-* [These Python scripts will supercharge your Obsidian vault](https://www.xda-developers.com/these-python-scripts-will-supercharge-your-obsidian-vault/)
-* [GitHub - peteromallet/desloppify: Agent harness to make your slop code well-engineered and beautiful. · GitHub](https://github.com/peteromallet/desloppify)
-* [Helix: A post-modern text editor](https://helix-editor.com/)
-* [Galileo's handwritten notes found in ancient astronomy text](https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text)
 
 ### Things I'm star-ing
 
