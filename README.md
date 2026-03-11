@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Cloudflare crawl endpoint](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/)
 * [After outages, Amazon to make senior engineers sign off on AI-assisted changes](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
 * [SSH Secret Menu](https://twitter.com/rebane2001/status/2031037389347406054)
 * [AI Use at Work Is Causing "Brain Fry," Researchers Find, Especially Among High Performers](https://futurism.com/artificial-intelligence/ai-brain-fry)
@@ -84,7 +85,6 @@ A table of things ...
 * [Before Doom, there was Dangerous Dave, and John Romero's 8-bit hero is getting a spiritual successor next week | PC Gamer](https://www.pcgamer.com/games/action/before-doom-there-was-dangerous-dave-and-john-romeros-8-bit-hero-is-getting-a-spiritual-successor-next-week/)
 * [isc.sans.edu](https://isc.sans.edu/diary/Encrypted+Client+Hello+Ready+for+Prime+Time/32778)
 * [Living human brain cells play DOOM on a CL1 [video]](https://www.youtube.com/watch?v=yRV8fSw6HaE)
-* [Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds](https://github.com/BigBodyCobain/Shadowbroker)
 
 ### Things I'm star-ing
 
