@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Google closes deal to acquire Wiz](https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz)
+* [I was interviewed by an AI bot for a job](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
+* [Show HN: Open-source browser for AI agents](https://github.com/theredsix/agent-browser-protocol)
 * [Introducing The Anthropic Institute \ Anthropic](https://www.anthropic.com/news/the-anthropic-institute)
 * [Cloudflare crawl endpoint](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/)
 * [After outages, Amazon to make senior engineers sign off on AI-assisted changes](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
@@ -82,12 +85,11 @@ A table of things ...
 * [AI Use at Work Is Causing "Brain Fry," Researchers Find, Especially Among High Performers](https://futurism.com/artificial-intelligence/ai-brain-fry)
 * [uattest.net](https://uattest.net/)
 * [FreeBSD 14.4-Release Announcement](https://www.freebsd.org/releases/14.4R/announce/)
-* [129 Years Later, The First-Ever Sci-Fi Film Has Finally Been Found](https://www.inverse.com/entertainment/gugusse-and-the-automaton-georges-melies-short)
-* [Before Doom, there was Dangerous Dave, and John Romero's 8-bit hero is getting a spiritual successor next week | PC Gamer](https://www.pcgamer.com/games/action/before-doom-there-was-dangerous-dave-and-john-romeros-8-bit-hero-is-getting-a-spiritual-successor-next-week/)
-* [isc.sans.edu](https://isc.sans.edu/diary/Encrypted+Client+Hello+Ready+for+Prime+Time/32778)
 
 ### Things I'm star-ing
 
+* [AISVS](https://github.com/OWASP/AISVS)
+  The AI Security Verification Standard (AISVS) focuses on providing developers, architects, and security professionals with a structured checklist to verify the security of AI-driven applications.
 * [ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
   Proxmox VE Helper-Scripts (Community Edition) 
 * [desloppify](https://github.com/peteromallet/desloppify)
@@ -106,8 +108,6 @@ A table of things ...
   data engineering book
 * [cli](https://github.com/entireio/cli)
   Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
-* [agent-slack](https://github.com/stablyai/agent-slack)
-  Slack automation CLI for AI agents
 
 ### My Blog Posts
 
