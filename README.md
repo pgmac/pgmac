@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Fosi Audio S3 Balanced HiFi Streamer/DAC/Preamp](https://fosiaudio.com/pages/s3-balanced-hifi-streamer-dac-preamp)
 * [Google closes deal to acquire Wiz](https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz)
 * [I was interviewed by an AI bot for a job](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job)
 * [Show HN: Open-source browser for AI agents](https://github.com/theredsix/agent-browser-protocol)
@@ -84,7 +85,6 @@ A table of things ...
 * [SSH Secret Menu](https://twitter.com/rebane2001/status/2031037389347406054)
 * [AI Use at Work Is Causing "Brain Fry," Researchers Find, Especially Among High Performers](https://futurism.com/artificial-intelligence/ai-brain-fry)
 * [uattest.net](https://uattest.net/)
-* [FreeBSD 14.4-Release Announcement](https://www.freebsd.org/releases/14.4R/announce/)
 
 ### Things I'm star-ing
 
