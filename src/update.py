@@ -245,7 +245,7 @@ def sync_hn_favorites_to_linkace(username="pgmac", max_count=10):
 
     if not favorites:
         print("No favorites found to sync.")
-        return
+        return {"added": 0, "existed": 0, "errors": 0, "notes": 0}
 
     added_count = 0
     notes_added = 0
@@ -285,6 +285,10 @@ def sync_hn_favorites_to_linkace(username="pgmac", max_count=10):
     if errors > 0:
         print(f"  • {errors} errors occurred")
     print()
+    return {
+        "added": added_count, "existed": already_existed,
+        "errors": errors, "notes": notes_added,
+    }
 
 
 def fetch_link_ace_links(count=10, timeout=30):
@@ -452,7 +456,7 @@ def sync_youtube_playlist_to_linkace(playlist_id, tags=None, max_count=10):
 
     if not videos:
         print("No videos found to sync.")
-        return
+        return {"playlist_id": playlist_id, "added": 0, "existed": 0, "errors": 0}
 
     added_count = 0
     already_existed = 0
@@ -480,6 +484,10 @@ def sync_youtube_playlist_to_linkace(playlist_id, tags=None, max_count=10):
     if errors > 0:
         print(f"  • {errors} errors occurred")
     print()
+    return {
+        "playlist_id": playlist_id, "added": added_count,
+        "existed": already_existed, "errors": errors,
+    }
 
 
 def fetch_latest_rss_entry(feed_url):
@@ -531,7 +539,7 @@ def sync_rss_feed_to_linkace(feed_url, tags=None):
 
     if not entry:
         print("No RSS entry found to sync.")
-        return
+        return {"url": feed_url, "added": 0, "existed": 0, "errors": 1}
 
     print(f"\nProcessing: {entry['title']}")
     result = add_link_to_linkace(
@@ -546,6 +554,12 @@ def sync_rss_feed_to_linkace(feed_url, tags=None):
         print(f"  -> {status}: {entry['title']}")
     else:
         print(f"  x Failed to add: {entry['title']}")
+    return {
+        "url": feed_url,
+        "added": int(was_created),
+        "existed": int(not was_created and bool(link_id)),
+        "errors": int(not link_id),
+    }
 
 
 def format_links_section(links):
@@ -627,17 +641,63 @@ def write_file(content, filepath):
         f.write(content)
 
 
+def write_job_summary(stats):
+    """Write a GitHub Actions job summary with sync statistics.
+
+    Args:
+        stats: Dict with keys 'hn', 'youtube', 'rss', 'readme'
+    """
+    summary_path = environ.get("GITHUB_STEP_SUMMARY")
+    if not summary_path:
+        return
+    lines = [
+        "## README Update Summary\n",
+        "### Hacker News",
+        "| Added | Already existed | Errors | Notes added |",
+        "|-------|-----------------|--------|-------------|",
+        f"| {stats['hn']['added']} | {stats['hn']['existed']}"
+        f" | {stats['hn']['errors']} | {stats['hn']['notes']} |",
+        "",
+        "### YouTube Playlists",
+        "| Playlist ID | Added | Already existed | Errors |",
+        "|-------------|-------|-----------------|--------|",
+    ]
+    for p in stats["youtube"]:
+        lines.append(f"| `{p['playlist_id']}` | {p['added']} | {p['existed']} | {p['errors']} |")
+    lines += [
+        "",
+        "### RSS Feeds",
+        "| Feed URL | Added | Already existed | Errors |",
+        "|----------|-------|-----------------|--------|",
+    ]
+    for f in stats["rss"]:
+        lines.append(f"| {f['url']} | {f['added']} | {f['existed']} | {f['errors']} |")
+    lines += [
+        "",
+        "### README Sections",
+        f"- Links: {stats['readme']['links']}",
+        f"- GitHub stars: {stats['readme']['stars']}",
+        f"- Blog posts: {stats['readme']['posts']}",
+    ]
+    with open(summary_path, "a", encoding="utf-8") as fh:
+        fh.write("\n".join(lines) + "\n")
+
+
 def main():
     """Build the README.md file from various sources."""
     # First, sync HN favorites to Link Ace
-    sync_hn_favorites_to_linkace()
+    hn_stats = sync_hn_favorites_to_linkace()
 
     # Sync YouTube playlists and RSS feeds from config
     config = load_config()
-    for playlist in config.get("youtube_playlists", []):
+    youtube_stats = [
         sync_youtube_playlist_to_linkace(playlist["id"], tags=playlist.get("tags"))
-    for feed in config.get("rss_feeds", []):
+        for playlist in config.get("youtube_playlists", [])
+    ]
+    rss_stats = [
         sync_rss_feed_to_linkace(feed["url"], tags=feed.get("tags"))
+        for feed in config.get("rss_feeds", [])
+    ]
 
     sections = []
 
@@ -662,6 +722,13 @@ def main():
     # Write the README
     readme_content = "".join(sections)
     write_file(readme_content, "README.md")
+
+    write_job_summary({
+        "hn": hn_stats,
+        "youtube": youtube_stats,
+        "rss": rss_stats,
+        "readme": {"links": len(links), "stars": len(stars), "posts": len(posts)},
+    })
 
 
 if __name__ == "__main__":
