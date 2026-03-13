@@ -1,0 +1,8 @@
+{
+  "youtube_playlists": [
+    {"id": "PLWfiBYGRBPAX2TsTJLC_Fy31obsBb9ETs", "tags": ["youtube"]}
+  ],
+  "rss_feeds": [
+    {"url": "https://www.smbc-comics.com/comic/rss", "tags": ["comic"]}
+  ]
+}

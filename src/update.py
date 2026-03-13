@@ -10,11 +10,30 @@ This module automatically updates a GitHub profile README with dynamic content f
 - Blog posts from RSS feed
 """
 
+import json
+from datetime import datetime
 from os import environ
 
 import feedparser
 import requests
 from bs4 import BeautifulSoup
+
+
+def load_config(path="src/config.json"):
+    """Load configuration from a JSON file.
+
+    Args:
+        path: Path to the config file
+
+    Returns:
+        dict: Configuration dict with youtube_playlists and rss_feeds keys
+    """
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except (OSError, json.JSONDecodeError) as e:
+        print(f"Warning: could not load config {path}: {e}")
+        return {"youtube_playlists": [], "rss_feeds": []}
 
 
 def fetch_hn_favorites(username="pgmac", max_count=10, timeout=30):
@@ -108,13 +127,14 @@ def find_existing_link_by_url(url, timeout=30):
         return None
 
 
-def add_link_to_linkace(url, title, tags=None, timeout=30):
+def add_link_to_linkace(url, title, tags=None, date=None, timeout=30):
     """Add a link to Link Ace, or find existing link ID if duplicate.
 
     Args:
         url: Link URL
         title: Link title
         tags: List of tag names or IDs
+        date: ISO 8601 date string for created_at (optional)
         timeout: Request timeout in seconds
 
     Returns:
@@ -131,6 +151,9 @@ def add_link_to_linkace(url, title, tags=None, timeout=30):
 
     if tags:
         data["tags"] = tags
+
+    if date:
+        data["created_at"] = date
 
     try:
         response = requests.post(api_url, headers=headers, json=data, timeout=timeout)
@@ -414,14 +437,16 @@ def fetch_youtube_playlist(playlist_id, max_count=10):
     return videos
 
 
-def sync_youtube_playlist_to_linkace(playlist_id, tag="youtube", max_count=10):
-    """Fetch YouTube playlist videos and add them to Link Ace with specified tag.
+def sync_youtube_playlist_to_linkace(playlist_id, tags=None, max_count=10):
+    """Fetch YouTube playlist videos and add them to Link Ace with specified tags.
 
     Args:
         playlist_id: YouTube playlist ID
-        tag: Tag to apply to the links (default: "youtube")
+        tags: List of tag names to apply to the links (default: ["youtube"])
         max_count: Maximum number of videos to sync
     """
+    if tags is None:
+        tags = ["youtube"]
     print(f"\nSyncing top {max_count} videos from YouTube playlist to Link Ace...")
     videos = fetch_youtube_playlist(playlist_id, max_count)
 
@@ -436,7 +461,7 @@ def sync_youtube_playlist_to_linkace(playlist_id, tag="youtube", max_count=10):
     for video in videos:
         print(f"\nProcessing: {video['title']}")
 
-        result = add_link_to_linkace(video["url"], video["title"], tags=[tag])
+        result = add_link_to_linkace(video["url"], video["title"], tags=tags)
         link_id, was_created = (
             result if isinstance(result, tuple) else (result, result is not None)
         )
@@ -457,14 +482,14 @@ def sync_youtube_playlist_to_linkace(playlist_id, tag="youtube", max_count=10):
     print()
 
 
-def fetch_smbc_latest(feed_url="https://www.smbc-comics.com/comic/rss"):
-    """Fetch most recent comic from SMBC RSS feed.
+def fetch_latest_rss_entry(feed_url):
+    """Fetch the most recent entry from an RSS feed.
 
     Args:
-        feed_url: URL of the SMBC RSS feed
+        feed_url: URL of the RSS feed
 
     Returns:
-        dict or None: Dict with title and link, or None if unavailable
+        dict or None: Dict with title, link, and date (ISO 8601), or None if unavailable
     """
     try:
         feed = feedparser.parse(feed_url)
@@ -472,35 +497,55 @@ def fetch_smbc_latest(feed_url="https://www.smbc-comics.com/comic/rss"):
         if not entries:
             return None
         entry = entries[0]
+
+        date = None
+        parsed_time = entry.get("published_parsed") or entry.get("updated_parsed")
+        if parsed_time:
+            date = datetime(*parsed_time[:6]).isoformat()
+
         return {
-            "title": entry.get("title", "SMBC Comic"),
+            "title": entry.get("title", "Untitled"),
             "link": entry.get("link", "#"),
+            "date": date,
         }
     except Exception as e:
-        print(f"Error fetching SMBC comic: {e}")
+        print(f"Error fetching RSS feed {feed_url}: {e}")
         return None
 
 
-def sync_smbc_to_linkace():
-    """Fetch the most recent SMBC comic and add it to Link Ace with 'comic' tag."""
-    print("\nSyncing latest SMBC comic to Link Ace...")
-    comic = fetch_smbc_latest()
+def sync_rss_feed_to_linkace(feed_url, tags=None):
+    """Fetch the most recent RSS entry and add it to Link Ace.
 
-    if not comic:
-        print("No SMBC comic found to sync.")
+    The "RSS" tag is always appended regardless of what other tags are provided.
+
+    Args:
+        feed_url: URL of the RSS feed
+        tags: List of tag names to apply to the link (default: None)
+    """
+    all_tags = list(tags) if tags else []
+    if "RSS" not in all_tags:
+        all_tags.append("RSS")
+
+    print(f"\nSyncing latest RSS entry from {feed_url} to Link Ace...")
+    entry = fetch_latest_rss_entry(feed_url)
+
+    if not entry:
+        print("No RSS entry found to sync.")
         return
 
-    print(f"\nProcessing: {comic['title']}")
-    result = add_link_to_linkace(comic["link"], comic["title"], tags=["comic"])
+    print(f"\nProcessing: {entry['title']}")
+    result = add_link_to_linkace(
+        entry["link"], entry["title"], tags=all_tags, date=entry["date"]
+    )
     link_id, was_created = (
         result if isinstance(result, tuple) else (result, result is not None)
     )
 
     if link_id:
         status = "Added" if was_created else "Already exists"
-        print(f"  -> {status}: {comic['title']}")
+        print(f"  -> {status}: {entry['title']}")
     else:
-        print(f"  x Failed to add: {comic['title']}")
+        print(f"  x Failed to add: {entry['title']}")
 
 
 def format_links_section(links):
@@ -587,11 +632,12 @@ def main():
     # First, sync HN favorites to Link Ace
     sync_hn_favorites_to_linkace()
 
-    # Sync YouTube playlist to Link Ace
-    sync_youtube_playlist_to_linkace("PLWfiBYGRBPAX2TsTJLC_Fy31obsBb9ETs", tag="youtube")
-
-    # Sync latest SMBC comic to Link Ace
-    sync_smbc_to_linkace()
+    # Sync YouTube playlists and RSS feeds from config
+    config = load_config()
+    for playlist in config.get("youtube_playlists", []):
+        sync_youtube_playlist_to_linkace(playlist["id"], tags=playlist.get("tags"))
+    for feed in config.get("rss_feeds", []):
+        sync_rss_feed_to_linkace(feed["url"], tags=feed.get("tags"))
 
     sections = []
 
