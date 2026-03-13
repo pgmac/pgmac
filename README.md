@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [“This is not the computer for you”](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/)
 * [Bucketsquatting is (finally) dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead)
 * [Saturday Morning Breakfast Cereal - Sci fi](https://www.smbc-comics.com/comic/sci-fi)
 * [Willingness to look stupid](https://sharif.io/looking-stupid)
@@ -84,7 +85,6 @@ A table of things ...
 * [Show HN: Open-source browser for AI agents](https://github.com/theredsix/agent-browser-protocol)
 * [Introducing The Anthropic Institute \ Anthropic](https://www.anthropic.com/news/the-anthropic-institute)
 * [Cloudflare crawl endpoint](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/)
-* [After outages, Amazon to make senior engineers sign off on AI-assisted changes](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
 
 ### Things I'm star-ing
 
