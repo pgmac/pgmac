@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Sci fi](https://www.smbc-comics.com/comic/sci-fi)
 * [Willingness to look stupid](https://sharif.io/looking-stupid)
 * [Fosi Audio S3 Balanced HiFi Streamer/DAC/Preamp](https://fosiaudio.com/pages/s3-balanced-hifi-streamer-dac-preamp)
 * [Google closes deal to acquire Wiz](https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz)
@@ -84,7 +85,6 @@ A table of things ...
 * [Cloudflare crawl endpoint](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/)
 * [After outages, Amazon to make senior engineers sign off on AI-assisted changes](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
 * [SSH Secret Menu](https://twitter.com/rebane2001/status/2031037389347406054)
-* [AI Use at Work Is Causing "Brain Fry," Researchers Find, Especially Among High Performers](https://futurism.com/artificial-intelligence/ai-brain-fry)
 
 ### Things I'm star-ing
 
