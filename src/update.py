@@ -47,8 +47,9 @@ class Config:
     FOOTER_PATH: str = "src/FOOTER.md"
     README_PATH: str = "README.md"
 
-    # RSS feed URL
+    # RSS feed URLs
     BLOG_FEED_URL: str = "https://pgmac.net.au/feed.xml"
+    SMBC_FEED_URL: str = "https://www.smbc-comics.com/comic/rss"
 
     # Default usernames
     DEFAULT_HN_USERNAME: str = "pgmac"
@@ -346,6 +347,24 @@ class DataFetcher:
 
         return posts
 
+    def fetch_smbc_latest(
+        self, feed_url: str = Config.SMBC_FEED_URL
+    ) -> Optional[Dict[str, str]]:
+        """Fetch most recent comic from SMBC RSS feed."""
+        try:
+            feed = feedparser.parse(feed_url)
+            entries = feed.get("entries", [])
+            if not entries:
+                return None
+            entry = entries[0]
+            return {
+                "title": entry.get("title", "SMBC Comic"),
+                "link": entry.get("link", "#"),
+            }
+        except Exception as e:
+            print(f"Error fetching SMBC comic: {e}")
+            return None
+
 
 class ReadmeFormatter:
     """Formats data into README sections."""
@@ -470,6 +489,34 @@ class HnFavoritesSyncer:
         print()
 
 
+class SmbcComicSyncer:
+    """Syncs most recent SMBC comic to LinkAce."""
+
+    def __init__(self, linkace_client: LinkAceClient, data_fetcher: DataFetcher):
+        self.linkace_client = linkace_client
+        self.data_fetcher = data_fetcher
+
+    def sync(self) -> None:
+        """Sync most recent SMBC comic to LinkAce with 'comic' tag."""
+        print("\nSyncing latest SMBC comic to Link Ace...")
+        comic = self.data_fetcher.fetch_smbc_latest()
+
+        if not comic:
+            print("No SMBC comic found to sync.")
+            return
+
+        print(f"\nProcessing: {comic['title']}")
+        link_id, was_created = self.linkace_client.add_link(
+            comic["link"], comic["title"], tags=["comic"]
+        )
+
+        if link_id:
+            status = "Added" if was_created else "Already exists"
+            print(f"  -> {status}: {comic['title']}")
+        else:
+            print(f"  x Failed to add: {comic['title']}")
+
+
 def main() -> None:
     """Build the README.md file from various sources."""
     # Initialize components
@@ -481,11 +528,15 @@ def main() -> None:
     linkace_client = LinkAceClient(api_key)
     data_fetcher = DataFetcher(linkace_client)
     hn_syncer = HnFavoritesSyncer(linkace_client, data_fetcher)
+    smbc_syncer = SmbcComicSyncer(linkace_client, data_fetcher)
     formatter = ReadmeFormatter()
     file_manager = FileManager()
 
     # First, sync HN favorites to Link Ace (per project requirements)
     hn_syncer.sync()
+
+    # Sync latest SMBC comic to Link Ace
+    smbc_syncer.sync()
 
     # Build README sections
     sections = []
