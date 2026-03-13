@@ -88,6 +88,9 @@ def fetch_hn_favorites(username="pgmac", max_count=10, timeout=30):
 def find_existing_link_by_url(url, timeout=30):
     """Find an existing link in LinkAce by URL.
 
+    Uses the search endpoint to query by URL across all stored links, then
+    verifies an exact match from the results.
+
     Args:
         url: URL to search for
         timeout: Request timeout in seconds
@@ -95,24 +98,22 @@ def find_existing_link_by_url(url, timeout=30):
     Returns:
         int or None: Link ID if found, None otherwise
     """
-    api_url = "https://links.pgmac.net.au/api/v2/links"
+    search_url = "https://links.pgmac.net.au/api/v2/search/links"
     headers = {
         "Authorization": f"Bearer {environ.get('PGLINKS_KEY')}",
         "accept": "application/json",
     }
-    # Search for the existing link
-    params = {"per_page": 100, "order_by": "created_at", "order_dir": "desc"}
+    params = {"query": url, "per_page": 10}
 
     try:
         response = requests.get(
-            api_url, headers=headers, params=params, timeout=timeout
+            search_url, headers=headers, params=params, timeout=timeout
         )
         response.raise_for_status()
 
-        links_data = response.json()
-        links = links_data.get("data", [])
+        links = response.json().get("data", [])
 
-        # Find exact URL match
+        # Verify exact URL match (search uses LIKE so may return partial matches)
         for link in links:
             if link.get("url") == url:
                 link_id = link.get("id")
@@ -138,7 +139,8 @@ def add_link_to_linkace(url, title, tags=None, date=None, timeout=30):
         timeout: Request timeout in seconds
 
     Returns:
-        tuple: (link_id, was_created) where link_id is int or None, was_created is bool
+        tuple: (link_id, was_created, is_duplicate) where link_id is int or None,
+               was_created and is_duplicate are bool
     """
     api_url = "https://links.pgmac.net.au/api/v2/links"
     headers = {
@@ -164,11 +166,11 @@ def add_link_to_linkace(url, title, tags=None, date=None, timeout=30):
         link_id = link_data.get("id") or link_data.get("data", {}).get("id")
         if link_id:
             print(f"✓ Added: {title} (ID: {link_id})")
-            return (link_id, True)
+            return (link_id, True, False)
 
         print(f"✗ Link created but no ID found in response for: {title}")
         print(f"  → Response structure: {link_data}")
-        return (None, False)
+        return (None, False, False)
 
     except requests.HTTPError as e:
         # Check if it's a duplicate URL error
@@ -186,20 +188,20 @@ def add_link_to_linkace(url, title, tags=None, date=None, timeout=30):
                     print(f"- Already exists: {title}")
                     # Try to find the existing link ID
                     existing_link_id = find_existing_link_by_url(url)
-                    return (existing_link_id, False)
+                    return (existing_link_id, False, True)
 
                 print(f"✗ 422 validation error (not duplicate): {title}")
                 print(f"  → Error details: {error_data}")
-                return (None, False)
+                return (None, False, False)
             except ValueError:
                 print(f"✗ Could not parse 422 error response for: {title}")
-                return (None, False)
+                return (None, False, False)
 
         print(f"✗ HTTP Error {e.response.status_code} adding '{title}': {e}")
-        return (None, False)
+        return (None, False, False)
     except requests.RequestException as e:
         print(f"✗ Request error adding '{title}': {e}")
-        return (None, False)
+        return (None, False, False)
 
 
 def add_note_to_link(link_id, note_text, visibility=1, timeout=30):
@@ -257,26 +259,23 @@ def sync_hn_favorites_to_linkace(username="pgmac", max_count=10):
         print(f"\nProcessing: {fav['title']}")
 
         result = add_link_to_linkace(fav["url"], fav["title"], tags=["hackernews"])
-        link_id, was_created = (
-            result if isinstance(result, tuple) else (result, result is not None)
-        )
+        link_id, was_created, is_duplicate = result
 
-        if link_id:
-            if was_created:
-                added_count += 1
-            else:
-                already_existed += 1
-
-            # Add note with HN URL if available (only for newly created links)
-            if hn_url and was_created:
-                print(f"  → Adding HN note: {hn_url}")
-                success = add_note_to_link(
-                    link_id, f"[Found @ YCombinator Hacker News]({hn_url})"
-                )
-                if success:
-                    notes_added += 1
-        else:
+        if was_created and link_id:
+            added_count += 1
+        elif is_duplicate:
+            already_existed += 1
+        elif not was_created and not is_duplicate:
             errors += 1
+
+        # Add note with HN URL if available (only for newly created links)
+        if link_id and hn_url and was_created:
+            print(f"  → Adding HN note: {hn_url}")
+            success = add_note_to_link(
+                link_id, f"[Found @ YCombinator Hacker News]({hn_url})"
+            )
+            if success:
+                notes_added += 1
 
     print("\nSync complete:")
     print(f"  • {added_count} new links added")
@@ -465,16 +464,14 @@ def sync_youtube_playlist_to_linkace(playlist_id, tags=None, max_count=10):
     for video in videos:
         print(f"\nProcessing: {video['title']}")
 
-        result = add_link_to_linkace(video["url"], video["title"], tags=tags)
-        link_id, was_created = (
-            result if isinstance(result, tuple) else (result, result is not None)
+        link_id, was_created, is_duplicate = add_link_to_linkace(
+            video["url"], video["title"], tags=tags
         )
 
-        if link_id:
-            if was_created:
-                added_count += 1
-            else:
-                already_existed += 1
+        if was_created and link_id:
+            added_count += 1
+        elif is_duplicate:
+            already_existed += 1
         else:
             errors += 1
 
@@ -542,23 +539,21 @@ def sync_rss_feed_to_linkace(feed_url, tags=None):
         return {"url": feed_url, "added": 0, "existed": 0, "errors": 1}
 
     print(f"\nProcessing: {entry['title']}")
-    result = add_link_to_linkace(
+    link_id, was_created, is_duplicate = add_link_to_linkace(
         entry["link"], entry["title"], tags=all_tags, date=entry["date"]
     )
-    link_id, was_created = (
-        result if isinstance(result, tuple) else (result, result is not None)
-    )
 
-    if link_id:
-        status = "Added" if was_created else "Already exists"
-        print(f"  -> {status}: {entry['title']}")
+    if was_created and link_id:
+        print(f"  -> Added: {entry['title']}")
+    elif is_duplicate:
+        print(f"  -> Already exists: {entry['title']}")
     else:
         print(f"  x Failed to add: {entry['title']}")
     return {
         "url": feed_url,
-        "added": int(was_created),
-        "existed": int(not was_created and bool(link_id)),
-        "errors": int(not link_id),
+        "added": int(was_created and bool(link_id)),
+        "existed": int(is_duplicate),
+        "errors": int(not was_created and not is_duplicate),
     }
 
 
