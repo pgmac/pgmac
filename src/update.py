@@ -457,6 +457,52 @@ def sync_youtube_playlist_to_linkace(playlist_id, tag="youtube", max_count=10):
     print()
 
 
+def fetch_smbc_latest(feed_url="https://www.smbc-comics.com/comic/rss"):
+    """Fetch most recent comic from SMBC RSS feed.
+
+    Args:
+        feed_url: URL of the SMBC RSS feed
+
+    Returns:
+        dict or None: Dict with title and link, or None if unavailable
+    """
+    try:
+        feed = feedparser.parse(feed_url)
+        entries = feed.get("entries", [])
+        if not entries:
+            return None
+        entry = entries[0]
+        return {
+            "title": entry.get("title", "SMBC Comic"),
+            "link": entry.get("link", "#"),
+        }
+    except Exception as e:
+        print(f"Error fetching SMBC comic: {e}")
+        return None
+
+
+def sync_smbc_to_linkace():
+    """Fetch the most recent SMBC comic and add it to Link Ace with 'comic' tag."""
+    print("\nSyncing latest SMBC comic to Link Ace...")
+    comic = fetch_smbc_latest()
+
+    if not comic:
+        print("No SMBC comic found to sync.")
+        return
+
+    print(f"\nProcessing: {comic['title']}")
+    result = add_link_to_linkace(comic["link"], comic["title"], tags=["comic"])
+    link_id, was_created = (
+        result if isinstance(result, tuple) else (result, result is not None)
+    )
+
+    if link_id:
+        status = "Added" if was_created else "Already exists"
+        print(f"  -> {status}: {comic['title']}")
+    else:
+        print(f"  x Failed to add: {comic['title']}")
+
+
 def format_links_section(links):
     """Format Link Ace links as a README section.
 
@@ -543,6 +589,9 @@ def main():
 
     # Sync YouTube playlist to Link Ace
     sync_youtube_playlist_to_linkace("PLWfiBYGRBPAX2TsTJLC_Fy31obsBb9ETs", tag="youtube")
+
+    # Sync latest SMBC comic to Link Ace
+    sync_smbc_to_linkace()
 
     sections = []
 
