@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Rated](https://www.smbc-comics.com/comic/rated)
 * [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
 * [Lost Doctor Who episodes found](https://www.bbc.co.uk/news/articles/c4g7kwq1k11o)
 * [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga)
@@ -84,7 +85,6 @@ A table of things ...
 * [Can I run AI locally?](https://www.canirun.ai/)
 * [TrueNAS Deprecates Public Build Repository and Raises Transparency Concerns](https://linuxiac.com/truenas-moves-build-system-internal/)
 * [Ageless Linux — Software for Humans of Indeterminate Age](https://agelesslinux.org/)
-* [Saturday Morning Breakfast Cereal - Hmm](https://www.smbc-comics.com/comic/hmm)
 
 ### Things I'm star-ing
 
