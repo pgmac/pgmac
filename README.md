@@ -79,12 +79,12 @@ A table of things ...
 * [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga)
 * [I found 39 Algolia admin keys exposed across open source documentation sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys)
 * [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
-* [Lost 'Doctor Who episodes' from the 1960s found and restored by BBC | AP News](https://apnews.com/article/doctor-who-lost-episodes-found-daleks-6849b09faa6eca9377b2a0db45d47ff8)
 * [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv)
 * [Can I run AI locally?](https://www.canirun.ai/)
 * [TrueNAS Deprecates Public Build Repository and Raises Transparency Concerns](https://linuxiac.com/truenas-moves-build-system-internal/)
 * [Ageless Linux — Software for Humans of Indeterminate Age](https://agelesslinux.org/)
 * [Saturday Morning Breakfast Cereal - Hmm](https://www.smbc-comics.com/comic/hmm)
+* [“This is not the computer for you”](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/)
 
 ### Things I'm star-ing
 
