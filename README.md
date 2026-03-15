@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [It's time to move your docs in the repo](https://www.dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo)
+* [GitHub - mistralai/mistral-vibe: Minimal CLI coding agent by Mistral · GitHub](https://github.com/mistralai/mistral-vibe)
+* [GitHub - github/copilot-cli: GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. · GitHub](https://github.com/github/copilot-cli)
 * [Saturday Morning Breakfast Cereal - Rated](https://www.smbc-comics.com/comic/rated)
 * [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
 * [Lost Doctor Who episodes found](https://www.bbc.co.uk/news/articles/c4g7kwq1k11o)
@@ -82,12 +85,13 @@ A table of things ...
 * [I found 39 Algolia admin keys exposed across open source documentation sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys)
 * [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
 * [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv)
-* [Can I run AI locally?](https://www.canirun.ai/)
-* [TrueNAS Deprecates Public Build Repository and Raises Transparency Concerns](https://linuxiac.com/truenas-moves-build-system-internal/)
-* [Ageless Linux — Software for Humans of Indeterminate Age](https://agelesslinux.org/)
 
 ### Things I'm star-ing
 
+* [copilot-cli](https://github.com/github/copilot-cli)
+  GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
+* [mistral-vibe](https://github.com/mistralai/mistral-vibe)
+  Minimal CLI coding agent by Mistral
 * [AISVS](https://github.com/OWASP/AISVS)
   The AI Security Verification Standard (AISVS) focuses on providing developers, architects, and security professionals with a structured checklist to verify the security of AI-driven applications.
 * [ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
@@ -104,10 +108,6 @@ A table of things ...
   Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 * [sql-tap](https://github.com/mickamy/sql-tap)
   Watch SQL traffic in real-time with a TUI
-* [data_engineering_book](https://github.com/datascale-ai/data_engineering_book)
-  data engineering book
-* [cli](https://github.com/entireio/cli)
-  Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
 
 ### My Blog Posts
 
