@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Machine](https://www.smbc-comics.com/comic/machine)
 * [It's time to move your docs in the repo](https://www.dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo)
 * [GitHub - mistralai/mistral-vibe: Minimal CLI coding agent by Mistral · GitHub](https://github.com/mistralai/mistral-vibe)
 * [GitHub - github/copilot-cli: GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. · GitHub](https://github.com/github/copilot-cli)
@@ -84,7 +85,6 @@ A table of things ...
 * [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga)
 * [I found 39 Algolia admin keys exposed across open source documentation sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys)
 * [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
-* [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv)
 
 ### Things I'm star-ing
 
