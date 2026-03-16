@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The 49MB web page](https://thatshubham.com/blog/news-audit)
+* [Nathan Fillion Says 'Firefly' Animated Series In Development](https://deadline.com/2026/03/nathan-fillion-firefly-animated-series-development-1236754122/)
+* [Astronomers Just Watched Two Planets Smashing Into Each Other 11,000 Light-Years Away](https://www.zmescience.com/science/news-science/planetary-collision-gaia20ehk/)
 * [Saturday Morning Breakfast Cereal - Machine](https://www.smbc-comics.com/comic/machine)
 * [It's time to move your docs in the repo](https://www.dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo)
 * [GitHub - mistralai/mistral-vibe: Minimal CLI coding agent by Mistral · GitHub](https://github.com/mistralai/mistral-vibe)
@@ -82,9 +85,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Rated](https://www.smbc-comics.com/comic/rated)
 * [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
 * [Lost Doctor Who episodes found](https://www.bbc.co.uk/news/articles/c4g7kwq1k11o)
-* [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga)
-* [I found 39 Algolia admin keys exposed across open source documentation sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys)
-* [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
 
 ### Things I'm star-ing
 
