@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Under](https://www.smbc-comics.com/comic/under)
 * [LoKI – Local AI Assistant for Linux and WSL](https://schneider-ki.com/)
 * [Scientists discover a surprising way to quiet the anxious mind (2025)](https://www.sciencedaily.com/releases/2025/10/251027023816.htm)
 * [What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Machine](https://www.smbc-comics.com/comic/machine)
 * [It's time to move your docs in the repo](https://www.dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo)
 * [GitHub - mistralai/mistral-vibe: Minimal CLI coding agent by Mistral · GitHub](https://github.com/mistralai/mistral-vibe)
-* [GitHub - github/copilot-cli: GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. · GitHub](https://github.com/github/copilot-cli)
 
 ### Things I'm star-ing
 
