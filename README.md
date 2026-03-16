@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [LoKI – Local AI Assistant for Linux and WSL](https://schneider-ki.com/)
+* [Scientists discover a surprising way to quiet the anxious mind (2025)](https://www.sciencedaily.com/releases/2025/10/251027023816.htm)
 * [What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/)
 * [The 49MB web page](https://thatshubham.com/blog/news-audit)
 * [Nathan Fillion Says 'Firefly' Animated Series In Development](https://deadline.com/2026/03/nathan-fillion-firefly-animated-series-development-1236754122/)
@@ -83,8 +85,6 @@ A table of things ...
 * [It's time to move your docs in the repo](https://www.dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo)
 * [GitHub - mistralai/mistral-vibe: Minimal CLI coding agent by Mistral · GitHub](https://github.com/mistralai/mistral-vibe)
 * [GitHub - github/copilot-cli: GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. · GitHub](https://github.com/github/copilot-cli)
-* [Saturday Morning Breakfast Cereal - Rated](https://www.smbc-comics.com/comic/rated)
-* [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
 
 ### Things I'm star-ing
 
