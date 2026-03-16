@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/)
 * [The 49MB web page](https://thatshubham.com/blog/news-audit)
 * [Nathan Fillion Says 'Firefly' Animated Series In Development](https://deadline.com/2026/03/nathan-fillion-firefly-animated-series-development-1236754122/)
 * [Astronomers Just Watched Two Planets Smashing Into Each Other 11,000 Light-Years Away](https://www.zmescience.com/science/news-science/planetary-collision-gaia20ehk/)
@@ -84,7 +85,6 @@ A table of things ...
 * [GitHub - github/copilot-cli: GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. · GitHub](https://github.com/github/copilot-cli)
 * [Saturday Morning Breakfast Cereal - Rated](https://www.smbc-comics.com/comic/rated)
 * [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl)
-* [Lost Doctor Who episodes found](https://www.bbc.co.uk/news/articles/c4g7kwq1k11o)
 
 ### Things I'm star-ing
 
