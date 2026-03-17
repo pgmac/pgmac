@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Grace Hopper's Revenge](https://www.thefuriousopposites.com/p/grace-hoppers-revenge)
+* [VulHunt: Open-source vulnerability detection framework - Help Net Security](https://www.helpnetsecurity.com/2026/03/16/vulhunt-open-source-vulnerability-detection-framework/)
 * [Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral)
 * [opencode.ai](https://opencode.ai/)
 * [Saturday Morning Breakfast Cereal - Under](https://www.smbc-comics.com/comic/under)
@@ -83,8 +85,6 @@ A table of things ...
 * [What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/)
 * [The 49MB web page](https://thatshubham.com/blog/news-audit)
 * [Nathan Fillion Says 'Firefly' Animated Series In Development](https://deadline.com/2026/03/nathan-fillion-firefly-animated-series-development-1236754122/)
-* [Astronomers Just Watched Two Planets Smashing Into Each Other 11,000 Light-Years Away](https://www.zmescience.com/science/news-science/planetary-collision-gaia20ehk/)
-* [Saturday Morning Breakfast Cereal - Machine](https://www.smbc-comics.com/comic/machine)
 
 ### Things I'm star-ing
 
