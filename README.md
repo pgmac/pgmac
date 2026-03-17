@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Philosophy](https://www.smbc-comics.com/comic/philosophy-5)
 * [Grace Hopper's Revenge](https://www.thefuriousopposites.com/p/grace-hoppers-revenge)
 * [VulHunt: Open-source vulnerability detection framework - Help Net Security](https://www.helpnetsecurity.com/2026/03/16/vulhunt-open-source-vulnerability-detection-framework/)
 * [Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral)
@@ -84,7 +85,6 @@ A table of things ...
 * [Scientists discover a surprising way to quiet the anxious mind (2025)](https://www.sciencedaily.com/releases/2025/10/251027023816.htm)
 * [What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/)
 * [The 49MB web page](https://thatshubham.com/blog/news-audit)
-* [Nathan Fillion Says 'Firefly' Animated Series In Development](https://deadline.com/2026/03/nathan-fillion-firefly-animated-series-development-1236754122/)
 
 ### Things I'm star-ing
 
