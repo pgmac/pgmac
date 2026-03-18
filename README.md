@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Where](https://www.smbc-comics.com/comic/where-4)
 * [Siril image editor: One of the best pieces of open-source software available for astrophotographers | Space](https://www.space.com/stargazing/skywatching-kit/siril-astrophotography-software-review)
 * [Saturday Morning Breakfast Cereal - Philosophy](https://www.smbc-comics.com/comic/philosophy-5)
 * [Grace Hopper's Revenge](https://www.thefuriousopposites.com/p/grace-hoppers-revenge)
@@ -84,7 +85,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Under](https://www.smbc-comics.com/comic/under)
 * [LoKI – Local AI Assistant for Linux and WSL](https://schneider-ki.com/)
 * [Scientists discover a surprising way to quiet the anxious mind (2025)](https://www.sciencedaily.com/releases/2025/10/251027023816.htm)
-* [What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/)
 
 ### Things I'm star-ing
 
