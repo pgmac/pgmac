@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Love](https://www.smbc-comics.com/comic/love-9)
 * [OpenRocket](https://openrocket.info/)
 * [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
 * [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
@@ -84,7 +85,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Philosophy](https://www.smbc-comics.com/comic/philosophy-5)
 * [Grace Hopper's Revenge](https://www.thefuriousopposites.com/p/grace-hoppers-revenge)
 * [VulHunt: Open-source vulnerability detection framework - Help Net Security](https://www.helpnetsecurity.com/2026/03/16/vulhunt-open-source-vulnerability-detection-framework/)
-* [Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral)
 
 ### Things I'm star-ing
 
