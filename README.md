@@ -88,6 +88,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [mcp](https://github.com/awslabs/mcp)
+  Official MCP Servers for AWS
 * [copilot-cli](https://github.com/github/copilot-cli)
   GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
 * [mistral-vibe](https://github.com/mistralai/mistral-vibe)
@@ -106,8 +108,6 @@ A table of things ...
   Flows-first PCAP TUI (case files, gorgeous UX). Do do do do.
 * [visual-explainer](https://github.com/nicobailon/visual-explainer)
   Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
-* [sql-tap](https://github.com/mickamy/sql-tap)
-  Watch SQL traffic in real-time with a TUI
 
 ### My Blog Posts
 
