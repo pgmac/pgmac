@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Waiting](https://www.smbc-comics.com/comic/waiting)
 * [Drawvg Filter for FFmpeg](https://ayosec.github.io/ffmpeg-drawvg/)
 * [Astral to Join OpenAI](https://astral.sh/blog/openai)
 * [Push events into a running session with channels](https://code.claude.com/docs/en/channels)
@@ -84,10 +85,11 @@ A table of things ...
 * [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
 * [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
 * [Switzerland built an alternative to BGP. Nobody noticed • The Register](https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/)
-* [Saturday Morning Breakfast Cereal - Where](https://www.smbc-comics.com/comic/where-4)
 
 ### Things I'm star-ing
 
+* [claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+  Official, Anthropic-managed directory of high quality Claude Code Plugins.
 * [mcp](https://github.com/awslabs/mcp)
   Official MCP Servers for AWS
 * [copilot-cli](https://github.com/github/copilot-cli)
@@ -106,8 +108,6 @@ A table of things ...
   Official Zulip terminal client.
 * [babyshark](https://github.com/vignesh07/babyshark)
   Flows-first PCAP TUI (case files, gorgeous UX). Do do do do.
-* [visual-explainer](https://github.com/nicobailon/visual-explainer)
-  Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 
 ### My Blog Posts
 
