@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Drawvg Filter for FFmpeg](https://ayosec.github.io/ffmpeg-drawvg/)
 * [Astral to Join OpenAI](https://astral.sh/blog/openai)
 * [Push events into a running session with channels](https://code.claude.com/docs/en/channels)
 * [Wayland set the Linux Desktop back by 10 years?](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years)
@@ -84,7 +85,6 @@ A table of things ...
 * [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
 * [Switzerland built an alternative to BGP. Nobody noticed • The Register](https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/)
 * [Saturday Morning Breakfast Cereal - Where](https://www.smbc-comics.com/comic/where-4)
-* [Siril image editor: One of the best pieces of open-source software available for astrophotographers | Space](https://www.space.com/stargazing/skywatching-kit/siril-astrophotography-software-review)
 
 ### Things I'm star-ing
 
