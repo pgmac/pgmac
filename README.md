@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Astral to Join OpenAI](https://astral.sh/blog/openai)
+* [Push events into a running session with channels](https://code.claude.com/docs/en/channels)
+* [Wayland set the Linux Desktop back by 10 years?](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years)
 * [Saturday Morning Breakfast Cereal - Love](https://www.smbc-comics.com/comic/love-9)
 * [OpenRocket](https://openrocket.info/)
 * [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
@@ -82,9 +85,6 @@ A table of things ...
 * [Switzerland built an alternative to BGP. Nobody noticed • The Register](https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/)
 * [Saturday Morning Breakfast Cereal - Where](https://www.smbc-comics.com/comic/where-4)
 * [Siril image editor: One of the best pieces of open-source software available for astrophotographers | Space](https://www.space.com/stargazing/skywatching-kit/siril-astrophotography-software-review)
-* [Saturday Morning Breakfast Cereal - Philosophy](https://www.smbc-comics.com/comic/philosophy-5)
-* [Grace Hopper's Revenge](https://www.thefuriousopposites.com/p/grace-hoppers-revenge)
-* [VulHunt: Open-source vulnerability detection framework - Help Net Security](https://www.helpnetsecurity.com/2026/03/16/vulhunt-open-source-vulnerability-detection-framework/)
 
 ### Things I'm star-ing
 
