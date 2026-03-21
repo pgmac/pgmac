@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Congrats](https://www.smbc-comics.com/comic/congrats-2)
 * [TeamPCP deploys CanisterWorm on NPM following Trivy compromise](https://www.aikido.dev/blog/teampcp-deploys-worm-npm-trivy-compromise)
 * [Saturday Morning Breakfast Cereal - Waiting](https://www.smbc-comics.com/comic/waiting)
 * [Drawvg Filter for FFmpeg](https://ayosec.github.io/ffmpeg-drawvg/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Love](https://www.smbc-comics.com/comic/love-9)
 * [OpenRocket](https://openrocket.info/)
 * [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
-* [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
 
 ### Things I'm star-ing
 
