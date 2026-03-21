@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [TeamPCP deploys CanisterWorm on NPM following Trivy compromise](https://www.aikido.dev/blog/teampcp-deploys-worm-npm-trivy-compromise)
 * [Saturday Morning Breakfast Cereal - Waiting](https://www.smbc-comics.com/comic/waiting)
 * [Drawvg Filter for FFmpeg](https://ayosec.github.io/ffmpeg-drawvg/)
 * [Astral to Join OpenAI](https://astral.sh/blog/openai)
@@ -84,7 +85,6 @@ A table of things ...
 * [OpenRocket](https://openrocket.info/)
 * [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
 * [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
-* [Switzerland built an alternative to BGP. Nobody noticed • The Register](https://www.theregister.com/2026/03/17/switzerland_bgp_alternative/)
 
 ### Things I'm star-ing
 
