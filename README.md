@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-* [Saturday Morning Breakfast Cereal - Congrats](https://www.smbc-comics.com/comic/congrats-2)
-* [TeamPCP deploys CanisterWorm on NPM following Trivy compromise](https://www.aikido.dev/blog/teampcp-deploys-worm-npm-trivy-compromise)
-* [Saturday Morning Breakfast Cereal - Waiting](https://www.smbc-comics.com/comic/waiting)
-* [Drawvg Filter for FFmpeg](https://ayosec.github.io/ffmpeg-drawvg/)
-* [Astral to Join OpenAI](https://astral.sh/blog/openai)
-* [Push events into a running session with channels](https://code.claude.com/docs/en/channels)
-* [Wayland set the Linux Desktop back by 10 years?](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years)
-* [Saturday Morning Breakfast Cereal - Love](https://www.smbc-comics.com/comic/love-9)
-* [OpenRocket](https://openrocket.info/)
-* [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
+* [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)
+* [Attempts to post the latest Trivy security incident have been marked [dead]](https://news.ycombinator.com/from?site=github.com%2Faquasecurity)
+* [Show HN: Termcraft – terminal-first 2D sandbox survival in Rust](https://github.com/pagel-s/termcraft)
+* [Electronics for Kids, 2nd Edition](https://nostarch.com/electronics-for-kids-2e)
+* [Show HN: Atomic – Self-hosted, semantically-connected personal knowledge base](https://github.com/kenforthewin/atomic)
+* [Trivy ecosystem supply chain briefly compromised](https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23)
+* [Trivy Security incident 2026-03-19](https://github.com/aquasecurity/trivy/discussions/10425)
+* [Floci – A free, open-source local AWS emulator](https://github.com/hectorvent/floci)
+* [Welcome to the Block Universe](https://nautil.us/welcome-to-the-block-universe-1278973)
+* [Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords](https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/)
 
 ### Things I'm star-ing
 
