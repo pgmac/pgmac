@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Wait](https://www.smbc-comics.com/comic/wait-2)
 * [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)
 * [Attempts to post the latest Trivy security incident have been marked [dead]](https://news.ycombinator.com/from?site=github.com%2Faquasecurity)
 * [Show HN: Termcraft – terminal-first 2D sandbox survival in Rust](https://github.com/pagel-s/termcraft)
@@ -84,7 +85,6 @@ A table of things ...
 * [Trivy Security incident 2026-03-19](https://github.com/aquasecurity/trivy/discussions/10425)
 * [Floci – A free, open-source local AWS emulator](https://github.com/hectorvent/floci)
 * [Welcome to the Block Universe](https://nautil.us/welcome-to-the-block-universe-1278973)
-* [Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords](https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/)
 
 ### Things I'm star-ing
 
