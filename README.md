@@ -75,16 +75,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The future of version control](https://bramcohen.com/p/manyana)
+* [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us)
+* [Warp: The Agentic Development Environment](https://www.warp.dev/)
+* [I replaced GNOME with the new COSMIC, and it feels like the future of Linux](https://www.makeuseof.com/replaced-gnome-with-cosmic-on-ubuntu-feels-like-future-of-linux/)
 * [Saturday Morning Breakfast Cereal - Wait](https://www.smbc-comics.com/comic/wait-2)
 * [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)
 * [Attempts to post the latest Trivy security incident have been marked [dead]](https://news.ycombinator.com/from?site=github.com%2Faquasecurity)
 * [Show HN: Termcraft – terminal-first 2D sandbox survival in Rust](https://github.com/pagel-s/termcraft)
 * [Electronics for Kids, 2nd Edition](https://nostarch.com/electronics-for-kids-2e)
 * [Show HN: Atomic – Self-hosted, semantically-connected personal knowledge base](https://github.com/kenforthewin/atomic)
-* [Trivy ecosystem supply chain briefly compromised](https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23)
-* [Trivy Security incident 2026-03-19](https://github.com/aquasecurity/trivy/discussions/10425)
-* [Floci – A free, open-source local AWS emulator](https://github.com/hectorvent/floci)
-* [Welcome to the Block Universe](https://nautil.us/welcome-to-the-block-universe-1278973)
 
 ### Things I'm star-ing
 
