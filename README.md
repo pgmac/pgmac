@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Nature](https://www.smbc-comics.com/comic/nature-4)
 * [The future of version control](https://bramcohen.com/p/manyana)
 * [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us)
 * [Warp: The Agentic Development Environment](https://www.warp.dev/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Attempts to post the latest Trivy security incident have been marked [dead]](https://news.ycombinator.com/from?site=github.com%2Faquasecurity)
 * [Show HN: Termcraft – terminal-first 2D sandbox survival in Rust](https://github.com/pagel-s/termcraft)
 * [Electronics for Kids, 2nd Edition](https://nostarch.com/electronics-for-kids-2e)
-* [Show HN: Atomic – Self-hosted, semantically-connected personal knowledge base](https://github.com/kenforthewin/atomic)
 
 ### Things I'm star-ing
 
