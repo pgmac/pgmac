@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Phi](https://www.smbc-comics.com/comic/phi)
 * [Log File Viewer for the Terminal](https://lnav.org/)
 * [Trivy under attack again: Widespread GitHub Actions tag compromise secrets](https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise)
 * [Saturday Morning Breakfast Cereal - Nature](https://www.smbc-comics.com/comic/nature-4)
@@ -84,7 +85,6 @@ A table of things ...
 * [I replaced GNOME with the new COSMIC, and it feels like the future of Linux](https://www.makeuseof.com/replaced-gnome-with-cosmic-on-ubuntu-feels-like-future-of-linux/)
 * [Saturday Morning Breakfast Cereal - Wait](https://www.smbc-comics.com/comic/wait-2)
 * [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)
-* [Attempts to post the latest Trivy security incident have been marked [dead]](https://news.ycombinator.com/from?site=github.com%2Faquasecurity)
 
 ### Things I'm star-ing
 
