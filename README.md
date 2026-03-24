@@ -75,6 +75,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Log File Viewer for the Terminal](https://lnav.org/)
+* [Trivy under attack again: Widespread GitHub Actions tag compromise secrets](https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise)
 * [Saturday Morning Breakfast Cereal - Nature](https://www.smbc-comics.com/comic/nature-4)
 * [The future of version control](https://bramcohen.com/p/manyana)
 * [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us)
@@ -83,8 +85,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Wait](https://www.smbc-comics.com/comic/wait-2)
 * [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)
 * [Attempts to post the latest Trivy security incident have been marked [dead]](https://news.ycombinator.com/from?site=github.com%2Faquasecurity)
-* [Show HN: Termcraft – terminal-first 2D sandbox survival in Rust](https://github.com/pagel-s/termcraft)
-* [Electronics for Kids, 2nd Edition](https://nostarch.com/electronics-for-kids-2e)
 
 ### Things I'm star-ing
 
