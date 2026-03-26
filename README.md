@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Data centers are transitioning from AC to DC](https://spectrum.ieee.org/data-center-dc)
 * [Saturday Morning Breakfast Cereal - Noble](https://www.smbc-comics.com/comic/noble-2)
 * [Saturday Morning Breakfast Cereal - Phi](https://www.smbc-comics.com/comic/phi)
 * [Log File Viewer for the Terminal](https://lnav.org/)
@@ -84,7 +85,6 @@ A table of things ...
 * [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us)
 * [Warp: The Agentic Development Environment](https://www.warp.dev/)
 * [I replaced GNOME with the new COSMIC, and it feels like the future of Linux](https://www.makeuseof.com/replaced-gnome-with-cosmic-on-ubuntu-feels-like-future-of-linux/)
-* [Saturday Morning Breakfast Cereal - Wait](https://www.smbc-comics.com/comic/wait-2)
 
 ### Things I'm star-ing
 
