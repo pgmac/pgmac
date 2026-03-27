@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Shocks](https://www.smbc-comics.com/comic/shocks)
 * [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
 * [DOOM Over DNS](https://github.com/resumex/doom-over-dns)
 * [Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk)
@@ -84,7 +85,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Phi](https://www.smbc-comics.com/comic/phi)
 * [Log File Viewer for the Terminal](https://lnav.org/)
 * [Trivy under attack again: Widespread GitHub Actions tag compromise secrets](https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise)
-* [Saturday Morning Breakfast Cereal - Nature](https://www.smbc-comics.com/comic/nature-4)
 
 ### Things I'm star-ing
 
