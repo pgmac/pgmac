@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk)
 * [Saturday Morning Breakfast Cereal - Humor](https://www.smbc-comics.com/comic/humor-2)
 * [Data centers are transitioning from AC to DC](https://spectrum.ieee.org/data-center-dc)
 * [Saturday Morning Breakfast Cereal - Noble](https://www.smbc-comics.com/comic/noble-2)
@@ -84,7 +85,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Nature](https://www.smbc-comics.com/comic/nature-4)
 * [The future of version control](https://bramcohen.com/p/manyana)
 * [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us)
-* [Warp: The Agentic Development Environment](https://www.warp.dev/)
 
 ### Things I'm star-ing
 
