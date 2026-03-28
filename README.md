@@ -75,6 +75,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [ISBN Visualization](https://annas-archive.gd/isbn-visualization?)
+* [Fear and denial in Silicon Valley over social media addiction trial](https://www.bbc.com/news/articles/c86e3eglv2go)
+* [LG's new 1Hz display is the secret behind a new laptop's battery life](https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html)
 * [Saturday Morning Breakfast Cereal - Shocks](https://www.smbc-comics.com/comic/shocks)
 * [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
 * [DOOM Over DNS](https://github.com/resumex/doom-over-dns)
@@ -82,9 +85,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Humor](https://www.smbc-comics.com/comic/humor-2)
 * [Data centers are transitioning from AC to DC](https://spectrum.ieee.org/data-center-dc)
 * [Saturday Morning Breakfast Cereal - Noble](https://www.smbc-comics.com/comic/noble-2)
-* [Saturday Morning Breakfast Cereal - Phi](https://www.smbc-comics.com/comic/phi)
-* [Log File Viewer for the Terminal](https://lnav.org/)
-* [Trivy under attack again: Widespread GitHub Actions tag compromise secrets](https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise)
 
 ### Things I'm star-ing
 
