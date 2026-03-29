@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Water](https://www.smbc-comics.com/comic/water)
 * [Idealized Design, Systems Thinking, and a Model for OutlierInnovation, by Dr. Russell Ackoff - YouTube](https://www.youtube.com/watch?v=spm2HUxgI30)
 * [Parkinson's Link to Gut Bacteria Hints at Unexpectedly Simple Treatment : ScienceAlert](https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-hints-at-unexpectedly-simple-treatment)
 * [Saturday Morning Breakfast Cereal - Cure](https://www.smbc-comics.com/comic/cure-3)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Shocks](https://www.smbc-comics.com/comic/shocks)
 * [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
 * [DOOM Over DNS](https://github.com/resumex/doom-over-dns)
-* [Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk)
 
 ### Things I'm star-ing
 
