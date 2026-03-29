@@ -11,6 +11,8 @@ A table of things ...
     <tr>
         <td>
             <ul>
+                <li>Industry leading SRE practises</li>
+                <li>AI/LLM assisted reliability and development</li>
                 <li>Building and Running a Security Operations Centre</li>
                 <li><a href="https://kubernetes.io/">k8s</a></li>
                 <li><a href="https://argoproj.github.io/">ArgoCD</a></li>
@@ -21,6 +23,8 @@ A table of things ...
         </td>
         <td>
             <ul>
+                <li>Really digging into reliability experience and merging that with modern SRE practises</li>
+                <li>How AI/LLM tooling can be useful</li>
                 <li>Securing a specialised development environment</li>
                 <li><a href="https://aws.amazon.com/">AWS</a> - always AWS</li>
                 <li>Application Security</li>
@@ -75,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Idealized Design, Systems Thinking, and a Model for OutlierInnovation, by Dr. Russell Ackoff - YouTube](https://www.youtube.com/watch?v=spm2HUxgI30)
 * [Parkinson's Link to Gut Bacteria Hints at Unexpectedly Simple Treatment : ScienceAlert](https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-hints-at-unexpectedly-simple-treatment)
 * [Saturday Morning Breakfast Cereal - Cure](https://www.smbc-comics.com/comic/cure-3)
 * [ISBN Visualization](https://annas-archive.gd/isbn-visualization?)
@@ -84,7 +89,6 @@ A table of things ...
 * [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
 * [DOOM Over DNS](https://github.com/resumex/doom-over-dns)
 * [Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk)
-* [Saturday Morning Breakfast Cereal - Humor](https://www.smbc-comics.com/comic/humor-2)
 
 ### Things I'm star-ing
 
