@@ -75,6 +75,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Parkinson's Link to Gut Bacteria Hints at Unexpectedly Simple Treatment : ScienceAlert](https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-hints-at-unexpectedly-simple-treatment)
 * [Saturday Morning Breakfast Cereal - Cure](https://www.smbc-comics.com/comic/cure-3)
 * [ISBN Visualization](https://annas-archive.gd/isbn-visualization?)
 * [Fear and denial in Silicon Valley over social media addiction trial](https://www.bbc.com/news/articles/c86e3eglv2go)
@@ -84,7 +85,6 @@ A table of things ...
 * [DOOM Over DNS](https://github.com/resumex/doom-over-dns)
 * [Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk)
 * [Saturday Morning Breakfast Cereal - Humor](https://www.smbc-comics.com/comic/humor-2)
-* [Data centers are transitioning from AC to DC](https://spectrum.ieee.org/data-center-dc)
 
 ### Things I'm star-ing
 
