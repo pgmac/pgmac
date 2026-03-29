@@ -11,6 +11,8 @@ A table of things ...
     <tr>
         <td>
             <ul>
+                <li>Industry leading SRE practises</li>
+                <li>AI/LLM assisted reliability and development</li>
                 <li>Building and Running a Security Operations Centre</li>
                 <li><a href="https://kubernetes.io/">k8s</a></li>
                 <li><a href="https://argoproj.github.io/">ArgoCD</a></li>
@@ -21,6 +23,8 @@ A table of things ...
         </td>
         <td>
             <ul>
+                <li>Really digging into reliability experience and merging that with modern SRE practises</li>
+                <li>How AI/LLM tooling can be useful</li>
                 <li>Securing a specialised development environment</li>
                 <li><a href="https://aws.amazon.com/">AWS</a> - always AWS</li>
                 <li>Application Security</li>
