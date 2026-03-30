@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Humanities](https://www.smbc-comics.com/comic/humanities-2)
 * [Iran-linked hackers deliver ultimatum to Lockheed Martin staff – Australian Aviation](https://australianaviation.com.au/2026/03/iran-linked-hackers-deliver-ultimatum-to-lockheed-martin-staff/)
 * [FBI confirms hack of Director Patel's personal email inbox](https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/)
 * [Saturday Morning Breakfast Cereal - Water](https://www.smbc-comics.com/comic/water)
@@ -88,7 +89,6 @@ A table of things ...
 * [ISBN Visualization](https://annas-archive.gd/isbn-visualization?)
 * [Fear and denial in Silicon Valley over social media addiction trial](https://www.bbc.com/news/articles/c86e3eglv2go)
 * [LG's new 1Hz display is the secret behind a new laptop's battery life](https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html)
-* [Saturday Morning Breakfast Cereal - Shocks](https://www.smbc-comics.com/comic/shocks)
 
 ### Things I'm star-ing
 
