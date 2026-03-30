@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Iran-linked hackers deliver ultimatum to Lockheed Martin staff – Australian Aviation](https://australianaviation.com.au/2026/03/iran-linked-hackers-deliver-ultimatum-to-lockheed-martin-staff/)
+* [FBI confirms hack of Director Patel's personal email inbox](https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/)
 * [Saturday Morning Breakfast Cereal - Water](https://www.smbc-comics.com/comic/water)
 * [Idealized Design, Systems Thinking, and a Model for OutlierInnovation, by Dr. Russell Ackoff - YouTube](https://www.youtube.com/watch?v=spm2HUxgI30)
 * [Parkinson's Link to Gut Bacteria Hints at Unexpectedly Simple Treatment : ScienceAlert](https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-hints-at-unexpectedly-simple-treatment)
@@ -87,8 +89,6 @@ A table of things ...
 * [Fear and denial in Silicon Valley over social media addiction trial](https://www.bbc.com/news/articles/c86e3eglv2go)
 * [LG's new 1Hz display is the secret behind a new laptop's battery life](https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html)
 * [Saturday Morning Breakfast Cereal - Shocks](https://www.smbc-comics.com/comic/shocks)
-* [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
-* [DOOM Over DNS](https://github.com/resumex/doom-over-dns)
 
 ### Things I'm star-ing
 
