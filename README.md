@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - gsd-build/gsd-2: A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture · GitHub](https://github.com/gsd-build/gsd-2)
+* [GitHub - gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. · GitHub](https://github.com/gsd-build/get-shit-done)
 * [Saturday Morning Breakfast Cereal - Humanities](https://www.smbc-comics.com/comic/humanities-2)
 * [Iran-linked hackers deliver ultimatum to Lockheed Martin staff – Australian Aviation](https://australianaviation.com.au/2026/03/iran-linked-hackers-deliver-ultimatum-to-lockheed-martin-staff/)
 * [FBI confirms hack of Director Patel's personal email inbox](https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/)
@@ -87,11 +89,13 @@ A table of things ...
 * [Parkinson's Link to Gut Bacteria Hints at Unexpectedly Simple Treatment : ScienceAlert](https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-hints-at-unexpectedly-simple-treatment)
 * [Saturday Morning Breakfast Cereal - Cure](https://www.smbc-comics.com/comic/cure-3)
 * [ISBN Visualization](https://annas-archive.gd/isbn-visualization?)
-* [Fear and denial in Silicon Valley over social media addiction trial](https://www.bbc.com/news/articles/c86e3eglv2go)
-* [LG's new 1Hz display is the secret behind a new laptop's battery life](https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html)
 
 ### Things I'm star-ing
 
+* [gsd-2](https://github.com/gsd-build/gsd-2)
+  A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
+* [get-shit-done](https://github.com/gsd-build/get-shit-done)
+  A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 * [claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
   Official, Anthropic-managed directory of high quality Claude Code Plugins.
 * [mcp](https://github.com/awslabs/mcp)
@@ -108,10 +112,6 @@ A table of things ...
   Agent harness to make your slop code well-engineered and beautiful.
 * [llmfit](https://github.com/AlexsJones/llmfit)
   Hundreds of models & providers. One command to find what runs on your hardware.
-* [zulip-terminal](https://github.com/zulip/zulip-terminal)
-  Official Zulip terminal client.
-* [babyshark](https://github.com/vignesh07/babyshark)
-  Flows-first PCAP TUI (case files, gorgeous UX). Do do do do.
 
 ### My Blog Posts
 
