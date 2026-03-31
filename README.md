@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [axios@1.14.1 and axios@0.30.4 are compromised · Issue #10604 · axios/axios · GitHub](https://github.com/axios/axios/issues/10604#issuecomment-4160410930)
+* [Claude Code's Entire Source Code Was Just Leaked via npm Source Maps — Here's What's Inside - DEV Community](https://dev.to/gabrielanhaia/claude-codes-entire-source-code-was-just-leaked-via-npm-source-maps-heres-whats-inside-cjo)
 * [GitHub - gsd-build/gsd-2: A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture · GitHub](https://github.com/gsd-build/gsd-2)
 * [GitHub - gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. · GitHub](https://github.com/gsd-build/get-shit-done)
 * [Saturday Morning Breakfast Cereal - Humanities](https://www.smbc-comics.com/comic/humanities-2)
@@ -87,8 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Water](https://www.smbc-comics.com/comic/water)
 * [Idealized Design, Systems Thinking, and a Model for OutlierInnovation, by Dr. Russell Ackoff - YouTube](https://www.youtube.com/watch?v=spm2HUxgI30)
 * [Parkinson's Link to Gut Bacteria Hints at Unexpectedly Simple Treatment : ScienceAlert](https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-hints-at-unexpectedly-simple-treatment)
-* [Saturday Morning Breakfast Cereal - Cure](https://www.smbc-comics.com/comic/cure-3)
-* [ISBN Visualization](https://annas-archive.gd/isbn-visualization?)
 
 ### Things I'm star-ing
 
