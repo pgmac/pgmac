@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Copilot edited an ad into my PR](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
+* [The curious case of retro demo scene graphics](https://www.datagubbe.se/aipixels/)
+* [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/)
+* [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963)
+* [4D Doom](https://github.com/danieldugas/HYPERHELL)
+* [GitHub - awslabs/mcp: Official MCP Servers for AWS · GitHub](https://github.com/awslabs/mcp)
+* [ccleaks — Claude Code Hidden Features](https://www.ccleaks.com/)
 * [Saturday Morning Breakfast Cereal - Up](https://www.smbc-comics.com/comic/up-4)
 * [axios@1.14.1 and axios@0.30.4 are compromised · Issue #10604 · axios/axios · GitHub](https://github.com/axios/axios/issues/10604#issuecomment-4160410930)
 * [Claude Code's Entire Source Code Was Just Leaked via npm Source Maps — Here's What's Inside - DEV Community](https://dev.to/gabrielanhaia/claude-codes-entire-source-code-was-just-leaked-via-npm-source-maps-heres-whats-inside-cjo)
-* [GitHub - gsd-build/gsd-2: A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture · GitHub](https://github.com/gsd-build/gsd-2)
-* [GitHub - gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. · GitHub](https://github.com/gsd-build/get-shit-done)
-* [Saturday Morning Breakfast Cereal - Humanities](https://www.smbc-comics.com/comic/humanities-2)
-* [Iran-linked hackers deliver ultimatum to Lockheed Martin staff – Australian Aviation](https://australianaviation.com.au/2026/03/iran-linked-hackers-deliver-ultimatum-to-lockheed-martin-staff/)
-* [FBI confirms hack of Director Patel's personal email inbox](https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/)
-* [Saturday Morning Breakfast Cereal - Water](https://www.smbc-comics.com/comic/water)
-* [Idealized Design, Systems Thinking, and a Model for OutlierInnovation, by Dr. Russell Ackoff - YouTube](https://www.youtube.com/watch?v=spm2HUxgI30)
 
 ### Things I'm star-ing
 
