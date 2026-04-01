@@ -23,7 +23,7 @@ A table of things ...
         </td>
         <td>
             <ul>
-                <li>Really digging into reliability experience and merging that with modern SRE practises</li>
+                <li>Really digging into my reliability experience and merging that with modern SRE practises</li>
                 <li>How AI/LLM tooling can be useful</li>
                 <li>Securing a specialised development environment</li>
                 <li><a href="https://aws.amazon.com/">AWS</a> - always AWS</li>
@@ -79,19 +79,23 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Up](https://www.smbc-comics.com/comic/up-4)
+* [axios@1.14.1 and axios@0.30.4 are compromised · Issue #10604 · axios/axios · GitHub](https://github.com/axios/axios/issues/10604#issuecomment-4160410930)
+* [Claude Code's Entire Source Code Was Just Leaked via npm Source Maps — Here's What's Inside - DEV Community](https://dev.to/gabrielanhaia/claude-codes-entire-source-code-was-just-leaked-via-npm-source-maps-heres-whats-inside-cjo)
+* [GitHub - gsd-build/gsd-2: A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture · GitHub](https://github.com/gsd-build/gsd-2)
+* [GitHub - gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. · GitHub](https://github.com/gsd-build/get-shit-done)
+* [Saturday Morning Breakfast Cereal - Humanities](https://www.smbc-comics.com/comic/humanities-2)
+* [Iran-linked hackers deliver ultimatum to Lockheed Martin staff – Australian Aviation](https://australianaviation.com.au/2026/03/iran-linked-hackers-deliver-ultimatum-to-lockheed-martin-staff/)
+* [FBI confirms hack of Director Patel's personal email inbox](https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/)
+* [Saturday Morning Breakfast Cereal - Water](https://www.smbc-comics.com/comic/water)
 * [Idealized Design, Systems Thinking, and a Model for OutlierInnovation, by Dr. Russell Ackoff - YouTube](https://www.youtube.com/watch?v=spm2HUxgI30)
-* [Parkinson's Link to Gut Bacteria Hints at Unexpectedly Simple Treatment : ScienceAlert](https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-hints-at-unexpectedly-simple-treatment)
-* [Saturday Morning Breakfast Cereal - Cure](https://www.smbc-comics.com/comic/cure-3)
-* [ISBN Visualization](https://annas-archive.gd/isbn-visualization?)
-* [Fear and denial in Silicon Valley over social media addiction trial](https://www.bbc.com/news/articles/c86e3eglv2go)
-* [LG's new 1Hz display is the secret behind a new laptop's battery life](https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html)
-* [Saturday Morning Breakfast Cereal - Shocks](https://www.smbc-comics.com/comic/shocks)
-* [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/)
-* [DOOM Over DNS](https://github.com/resumex/doom-over-dns)
-* [Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk)
 
 ### Things I'm star-ing
 
+* [gsd-2](https://github.com/gsd-build/gsd-2)
+  A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
+* [get-shit-done](https://github.com/gsd-build/get-shit-done)
+  A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 * [claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
   Official, Anthropic-managed directory of high quality Claude Code Plugins.
 * [mcp](https://github.com/awslabs/mcp)
@@ -108,10 +112,6 @@ A table of things ...
   Agent harness to make your slop code well-engineered and beautiful.
 * [llmfit](https://github.com/AlexsJones/llmfit)
   Hundreds of models & providers. One command to find what runs on your hardware.
-* [zulip-terminal](https://github.com/zulip/zulip-terminal)
-  Official Zulip terminal client.
-* [babyshark](https://github.com/vignesh07/babyshark)
-  Flows-first PCAP TUI (case files, gorgeous UX). Do do do do.
 
 ### My Blog Posts
 
