@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [I Quit. The Clankers Won](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/)
 * [Copilot edited an ad into my PR](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
 * [The curious case of retro demo scene graphics](https://www.datagubbe.se/aipixels/)
 * [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/)
@@ -88,7 +89,6 @@ A table of things ...
 * [ccleaks — Claude Code Hidden Features](https://www.ccleaks.com/)
 * [Saturday Morning Breakfast Cereal - Up](https://www.smbc-comics.com/comic/up-4)
 * [axios@1.14.1 and axios@0.30.4 are compromised · Issue #10604 · axios/axios · GitHub](https://github.com/axios/axios/issues/10604#issuecomment-4160410930)
-* [Claude Code's Entire Source Code Was Just Leaked via npm Source Maps — Here's What's Inside - DEV Community](https://dev.to/gabrielanhaia/claude-codes-entire-source-code-was-just-leaked-via-npm-source-maps-heres-whats-inside-cjo)
 
 ### Things I'm star-ing
 
