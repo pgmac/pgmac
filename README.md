@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Loot](https://www.smbc-comics.com/comic/loot)
 * [I Quit. The Clankers Won](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/)
 * [Copilot edited an ad into my PR](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
 * [The curious case of retro demo scene graphics](https://www.datagubbe.se/aipixels/)
@@ -88,7 +89,6 @@ A table of things ...
 * [GitHub - awslabs/mcp: Official MCP Servers for AWS · GitHub](https://github.com/awslabs/mcp)
 * [ccleaks — Claude Code Hidden Features](https://www.ccleaks.com/)
 * [Saturday Morning Breakfast Cereal - Up](https://www.smbc-comics.com/comic/up-4)
-* [axios@1.14.1 and axios@0.30.4 are compromised · Issue #10604 · axios/axios · GitHub](https://github.com/axios/axios/issues/10604#issuecomment-4160410930)
 
 ### Things I'm star-ing
 
