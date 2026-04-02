@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Special](https://www.smbc-comics.com/comic/special-5)
 * [Saturday Morning Breakfast Cereal - Loot](https://www.smbc-comics.com/comic/loot)
 * [I Quit. The Clankers Won](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/)
 * [Copilot edited an ad into my PR](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
@@ -88,7 +89,6 @@ A table of things ...
 * [4D Doom](https://github.com/danieldugas/HYPERHELL)
 * [GitHub - awslabs/mcp: Official MCP Servers for AWS · GitHub](https://github.com/awslabs/mcp)
 * [ccleaks — Claude Code Hidden Features](https://www.ccleaks.com/)
-* [Saturday Morning Breakfast Cereal - Up](https://www.smbc-comics.com/comic/up-4)
 
 ### Things I'm star-ing
 
