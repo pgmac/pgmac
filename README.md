@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Bad](https://www.smbc-comics.com/comic/bad-4)
 * [Saturday Morning Breakfast Cereal - Special](https://www.smbc-comics.com/comic/special-5)
 * [Saturday Morning Breakfast Cereal - Loot](https://www.smbc-comics.com/comic/loot)
 * [I Quit. The Clankers Won](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963)
 * [4D Doom](https://github.com/danieldugas/HYPERHELL)
 * [GitHub - awslabs/mcp: Official MCP Servers for AWS · GitHub](https://github.com/awslabs/mcp)
-* [ccleaks — Claude Code Hidden Features](https://www.ccleaks.com/)
 
 ### Things I'm star-ing
 
