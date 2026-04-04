@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Artemis II crew take 'spectacular' image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o)
 * [Saturday Morning Breakfast Cereal - Bad](https://www.smbc-comics.com/comic/bad-4)
 * [Saturday Morning Breakfast Cereal - Special](https://www.smbc-comics.com/comic/special-5)
 * [Saturday Morning Breakfast Cereal - Loot](https://www.smbc-comics.com/comic/loot)
@@ -88,7 +89,6 @@ A table of things ...
 * [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/)
 * [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963)
 * [4D Doom](https://github.com/danieldugas/HYPERHELL)
-* [GitHub - awslabs/mcp: Official MCP Servers for AWS · GitHub](https://github.com/awslabs/mcp)
 
 ### Things I'm star-ing
 
