@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Iranian missile blitz takes down AWS data centers in Bahrain and Dubai — Amazon reportedly declares “hard down” status for multiple zones | Tom's Hardware](https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones)
 * [Saturday Morning Breakfast Cereal - Super](https://www.smbc-comics.com/comic/super-3)
 * [Artemis II crew take 'spectacular' image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o)
 * [Saturday Morning Breakfast Cereal - Bad](https://www.smbc-comics.com/comic/bad-4)
@@ -88,7 +89,6 @@ A table of things ...
 * [Copilot edited an ad into my PR](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
 * [The curious case of retro demo scene graphics](https://www.datagubbe.se/aipixels/)
 * [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/)
-* [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963)
 
 ### Things I'm star-ing
 
