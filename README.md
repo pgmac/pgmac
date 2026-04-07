@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [METATRON - Open-Source AI Penetration Testing Assistant Brings Local LLM Analysis to Linux](https://cybersecuritynews.com/metatron-ai-penetration-testing/)
 * [Saturday Morning Breakfast Cereal - Borax](https://www.smbc-comics.com/comic/borax)
 * [Saturday Morning Breakfast Cereal - Hi](https://www.smbc-comics.com/comic/hi)
 * [Iranian missile blitz takes down AWS data centers in Bahrain and Dubai — Amazon reportedly declares “hard down” status for multiple zones | Tom's Hardware](https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Special](https://www.smbc-comics.com/comic/special-5)
 * [Saturday Morning Breakfast Cereal - Loot](https://www.smbc-comics.com/comic/loot)
 * [I Quit. The Clankers Won](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/)
-* [Copilot edited an ad into my PR](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
 
 ### Things I'm star-ing
 
