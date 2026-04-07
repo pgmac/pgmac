@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Sc-im: Spreadsheets in your terminal](https://github.com/andmarti1424/sc-im)
+* [I won't download your app. The web version is a-ok](https://www.0xsid.com/blog/wont-download-your-app)
+* [A cryptography engineer's perspective on quantum computing timelines](https://words.filippo.io/crqc-timeline/)
+* [Are We Idiocracy Yet?](https://idiocracy.wtf/)
 * [METATRON - Open-Source AI Penetration Testing Assistant Brings Local LLM Analysis to Linux](https://cybersecuritynews.com/metatron-ai-penetration-testing/)
 * [Saturday Morning Breakfast Cereal - Borax](https://www.smbc-comics.com/comic/borax)
 * [Saturday Morning Breakfast Cereal - Hi](https://www.smbc-comics.com/comic/hi)
 * [Iranian missile blitz takes down AWS data centers in Bahrain and Dubai — Amazon reportedly declares “hard down” status for multiple zones | Tom's Hardware](https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones)
 * [Saturday Morning Breakfast Cereal - Super](https://www.smbc-comics.com/comic/super-3)
 * [Artemis II crew take 'spectacular' image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o)
-* [Saturday Morning Breakfast Cereal - Bad](https://www.smbc-comics.com/comic/bad-4)
-* [Saturday Morning Breakfast Cereal - Special](https://www.smbc-comics.com/comic/special-5)
-* [Saturday Morning Breakfast Cereal - Loot](https://www.smbc-comics.com/comic/loot)
-* [I Quit. The Clankers Won](https://dbushell.com/2026/04/01/i-quit-the-clankers-won/)
 
 ### Things I'm star-ing
 
