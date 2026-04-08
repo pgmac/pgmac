@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Mary](https://www.smbc-comics.com/comic/mary)
 * [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/)
 * [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
 * [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Will](https://www.smbc-comics.com/comic/will-2)
 * [Sc-im: Spreadsheets in your terminal](https://github.com/andmarti1424/sc-im)
 * [I won't download your app. The web version is a-ok](https://www.0xsid.com/blog/wont-download-your-app)
-* [A cryptography engineer's perspective on quantum computing timelines](https://words.filippo.io/crqc-timeline/)
 
 ### Things I'm star-ing
 
