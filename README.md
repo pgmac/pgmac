@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/)
 * [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
 * [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
 * [Bitcoin and quantum computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
@@ -88,10 +89,11 @@ A table of things ...
 * [Sc-im: Spreadsheets in your terminal](https://github.com/andmarti1424/sc-im)
 * [I won't download your app. The web version is a-ok](https://www.0xsid.com/blog/wont-download-your-app)
 * [A cryptography engineer's perspective on quantum computing timelines](https://words.filippo.io/crqc-timeline/)
-* [Are We Idiocracy Yet?](https://idiocracy.wtf/)
 
 ### Things I'm star-ing
 
+* [mempalace](https://github.com/milla-jovovich/mempalace)
+  The highest-scoring AI memory system ever benchmarked. And it's free.
 * [gsd-2](https://github.com/gsd-build/gsd-2)
   A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
 * [get-shit-done](https://github.com/gsd-build/get-shit-done)
@@ -110,8 +112,6 @@ A table of things ...
   Proxmox VE Helper-Scripts (Community Edition) 
 * [desloppify](https://github.com/peteromallet/desloppify)
   Agent harness to make your slop code well-engineered and beautiful.
-* [llmfit](https://github.com/AlexsJones/llmfit)
-  Hundreds of models & providers. One command to find what runs on your hardware.
 
 ### My Blog Posts
 
