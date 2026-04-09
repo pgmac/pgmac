@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Little Snitch for Linux: Monitor & Block App Network Connections](https://www.omgubuntu.co.uk/2026/04/little-snitch-linux)
 * [Saturday Morning Breakfast Cereal - Mary](https://www.smbc-comics.com/comic/mary)
 * [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/)
 * [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
@@ -88,7 +89,6 @@ A table of things ...
 * [Lunar Flyby](https://www.nasa.gov/gallery/lunar-flyby/)
 * [Saturday Morning Breakfast Cereal - Will](https://www.smbc-comics.com/comic/will-2)
 * [Sc-im: Spreadsheets in your terminal](https://github.com/andmarti1424/sc-im)
-* [I won't download your app. The web version is a-ok](https://www.0xsid.com/blog/wont-download-your-app)
 
 ### Things I'm star-ing
 
