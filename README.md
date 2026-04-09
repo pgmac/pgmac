@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Spheres Part 5](https://www.smbc-comics.com/comic/spheres-part-5)
+* [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral)
 * [Little Snitch for Linux: Monitor & Block App Network Connections](https://www.omgubuntu.co.uk/2026/04/little-snitch-linux)
 * [Saturday Morning Breakfast Cereal - Mary](https://www.smbc-comics.com/comic/mary)
 * [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/)
@@ -87,8 +89,6 @@ A table of things ...
 * [Bitcoin and quantum computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
 * [S3 Files](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
 * [Lunar Flyby](https://www.nasa.gov/gallery/lunar-flyby/)
-* [Saturday Morning Breakfast Cereal - Will](https://www.smbc-comics.com/comic/will-2)
-* [Sc-im: Spreadsheets in your terminal](https://github.com/andmarti1424/sc-im)
 
 ### Things I'm star-ing
 
