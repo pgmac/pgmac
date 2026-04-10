@@ -79,16 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-* [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
-* [How NASA built Artemis II’s fault-tolerant computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
-* [Saturday Morning Breakfast Cereal - Spheres Part 5](https://www.smbc-comics.com/comic/spheres-part-5)
-* [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral)
-* [Little Snitch for Linux: Monitor & Block App Network Connections](https://www.omgubuntu.co.uk/2026/04/little-snitch-linux)
-* [Saturday Morning Breakfast Cereal - Mary](https://www.smbc-comics.com/comic/mary)
-* [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/)
-* [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
-* [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
-* [Bitcoin and quantum computing](https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html)
+
 
 ### Things I'm star-ing
 
