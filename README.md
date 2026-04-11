@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Claude Mythos Preview \ red.anthropic.com](https://red.anthropic.com/2026/mythos-preview/)
 * [Saturday Morning Breakfast Cereal - Log](https://www.smbc-comics.com/comic/log)
 * [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
 * [How NASA built Artemis II’s fault-tolerant computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Mary](https://www.smbc-comics.com/comic/mary)
 * [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/)
 * [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
-* [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
 
 ### Things I'm star-ing
 
