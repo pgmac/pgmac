@@ -93,7 +93,7 @@ A table of things ...
 ### Things I'm star-ing
 
 * [foxguard](https://github.com/PwnKit-Labs/foxguard)
-  Linter-fast security scanning and policy checks for catching regressions before deploy.
+  A linter-fast, local-first security scanning tool written in rust.
 * [Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
   Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories within the license terms.
 * [mempalace](https://github.com/milla-jovovich/mempalace)
