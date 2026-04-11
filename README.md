@@ -79,10 +79,23 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-
+* [Saturday Morning Breakfast Cereal - Log](https://www.smbc-comics.com/comic/log)
+* [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
+* [How NASA built Artemis II’s fault-tolerant computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
+* [Saturday Morning Breakfast Cereal - Spheres Part 5](https://www.smbc-comics.com/comic/spheres-part-5)
+* [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral)
+* [Little Snitch for Linux: Monitor & Block App Network Connections](https://www.omgubuntu.co.uk/2026/04/little-snitch-linux)
+* [Saturday Morning Breakfast Cereal - Mary](https://www.smbc-comics.com/comic/mary)
+* [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/)
+* [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
+* [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf)
 
 ### Things I'm star-ing
 
+* [foxguard](https://github.com/PwnKit-Labs/foxguard)
+  Linter-fast security scanning and policy checks for catching regressions before deploy.
+* [Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
+  Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories within the license terms.
 * [mempalace](https://github.com/milla-jovovich/mempalace)
   The highest-scoring AI memory system ever benchmarked. And it's free.
 * [gsd-2](https://github.com/gsd-build/gsd-2)
@@ -99,10 +112,6 @@ A table of things ...
   Minimal CLI coding agent by Mistral
 * [AISVS](https://github.com/OWASP/AISVS)
   The AI Security Verification Standard (AISVS) focuses on providing developers, architects, and security professionals with a structured checklist to verify the security of AI-driven applications.
-* [ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
-  Proxmox VE Helper-Scripts (Community Edition) 
-* [desloppify](https://github.com/peteromallet/desloppify)
-  Agent harness to make your slop code well-engineered and beautiful.
 
 ### My Blog Posts
 
