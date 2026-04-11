@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Peace](https://www.smbc-comics.com/comic/peace-3)
 * [Claude Mythos Preview \ red.anthropic.com](https://red.anthropic.com/2026/mythos-preview/)
 * [Saturday Morning Breakfast Cereal - Log](https://www.smbc-comics.com/comic/log)
 * [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
@@ -88,7 +89,6 @@ A table of things ...
 * [Little Snitch for Linux: Monitor & Block App Network Connections](https://www.omgubuntu.co.uk/2026/04/little-snitch-linux)
 * [Saturday Morning Breakfast Cereal - Mary](https://www.smbc-comics.com/comic/mary)
 * [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/)
-* [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
 
 ### Things I'm star-ing
 
