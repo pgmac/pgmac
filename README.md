@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-* [Saturday Morning Breakfast Cereal - Peace](https://www.smbc-comics.com/comic/peace-3)
-* [Claude Mythos Preview \ red.anthropic.com](https://red.anthropic.com/2026/mythos-preview/)
-* [Saturday Morning Breakfast Cereal - Log](https://www.smbc-comics.com/comic/log)
-* [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
-* [How NASA built Artemis II’s fault-tolerant computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
-* [Saturday Morning Breakfast Cereal - Spheres Part 5](https://www.smbc-comics.com/comic/spheres-part-5)
-* [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral)
-* [Little Snitch for Linux: Monitor & Block App Network Connections](https://www.omgubuntu.co.uk/2026/04/little-snitch-linux)
-* [Saturday Morning Breakfast Cereal - Mary](https://www.smbc-comics.com/comic/mary)
-* [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/)
+* [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
+* [1D Chess](https://rowan441.github.io/1dchess/chess.html)
+* [A security scanner as fast as a linter – written in Rust](https://github.com/peaktwilight/foxguard)
+* [Show HN: A WYSIWYG word processor in Python](https://codeberg.org/chrisecker/miniword)
+* [Combining spicy foods with mint boosts anti-inflammatory effects 100x or more](https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/)
+* [Starfling: A one-tap endless orbital slingshot game in a single HTML file](https://playstarfling.com)
+* [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
+* [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
+* [Dark Castle](https://darkcastle.co.uk/)
+* [Pijul a FOSS distributed version control system](https://pijul.org/)
 
 ### Things I'm star-ing
 
@@ -96,7 +96,7 @@ A table of things ...
   A linter-fast, local-first security scanning tool written in rust.
 * [Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
   Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories within the license terms.
-* [mempalace](https://github.com/milla-jovovich/mempalace)
+* [mempalace](https://github.com/MemPalace/mempalace)
   The highest-scoring AI memory system ever benchmarked. And it's free.
 * [gsd-2](https://github.com/gsd-build/gsd-2)
   A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
