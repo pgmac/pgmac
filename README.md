@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Eight years of wanting, three months of building with AI - Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
 * [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
 * [1D Chess](https://rowan441.github.io/1dchess/chess.html)
 * [A security scanner as fast as a linter – written in Rust](https://github.com/peaktwilight/foxguard)
@@ -88,7 +89,6 @@ A table of things ...
 * [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
 * [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
 * [Dark Castle](https://darkcastle.co.uk/)
-* [Pijul a FOSS distributed version control system](https://pijul.org/)
 
 ### Things I'm star-ing
 
