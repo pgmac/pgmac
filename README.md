@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [See NASA’s Artemis II mission around the moon in 12 stunning photos | Scientific American](https://www.scientificamerican.com/article/see-nasas-artemis-ii-mission-around-the-moon-in-12-stunning-photos/)
 * [Saturday Morning Breakfast Cereal - Stage](https://www.smbc-comics.com/comic/stage)
 * [Eight years of wanting, three months of building with AI - Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
 * [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
@@ -88,7 +89,6 @@ A table of things ...
 * [Combining spicy foods with mint boosts anti-inflammatory effects 100x or more](https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/)
 * [Starfling: A one-tap endless orbital slingshot game in a single HTML file](https://playstarfling.com)
 * [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
-* [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
 
 ### Things I'm star-ing
 
