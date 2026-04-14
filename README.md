@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Bring Back Idiomatic Design (2023)](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design)
+* [GitHub Stacked PRs](https://github.github.com/gh-stack/)
+* [I just want simple S3](https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/)
+* [This year’s insane timeline of hacks](https://ringmast4r.substack.com/p/we-may-be-living-through-the-most)
+* [Building a CLI for all of Cloudflare](https://blog.cloudflare.com/cf-cli-local-explorer/)
 * [Saturday Morning Breakfast Cereal - Witch](https://www.smbc-comics.com/comic/witch-2)
 * [A Practical Guide to fzf: Vim Integration](https://thevaluable.dev/fzf-vim-integration/)
 * [See NASA’s Artemis II mission around the moon in 12 stunning photos | Scientific American](https://www.scientificamerican.com/article/see-nasas-artemis-ii-mission-around-the-moon-in-12-stunning-photos/)
 * [Saturday Morning Breakfast Cereal - Stage](https://www.smbc-comics.com/comic/stage)
 * [Eight years of wanting, three months of building with AI - Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
-* [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
-* [1D Chess](https://rowan441.github.io/1dchess/chess.html)
-* [A security scanner as fast as a linter – written in Rust](https://github.com/peaktwilight/foxguard)
-* [Show HN: A WYSIWYG word processor in Python](https://codeberg.org/chrisecker/miniword)
-* [Combining spicy foods with mint boosts anti-inflammatory effects 100x or more](https://scitechdaily.com/this-spice-combo-could-slash-inflammation-hundreds-of-times-more-effectively/)
 
 ### Things I'm star-ing
 
