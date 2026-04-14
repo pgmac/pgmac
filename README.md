@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Easier](https://www.smbc-comics.com/comic/easier)
 * [Bring Back Idiomatic Design (2023)](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design)
 * [GitHub Stacked PRs](https://github.github.com/gh-stack/)
 * [I just want simple S3](https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/)
@@ -88,7 +89,6 @@ A table of things ...
 * [A Practical Guide to fzf: Vim Integration](https://thevaluable.dev/fzf-vim-integration/)
 * [See NASA’s Artemis II mission around the moon in 12 stunning photos | Scientific American](https://www.scientificamerican.com/article/see-nasas-artemis-ii-mission-around-the-moon-in-12-stunning-photos/)
 * [Saturday Morning Breakfast Cereal - Stage](https://www.smbc-comics.com/comic/stage)
-* [Eight years of wanting, three months of building with AI - Lalit Maganti](https://lalitm.com/post/building-syntaqlite-ai/)
 
 ### Things I'm star-ing
 
