@@ -93,11 +93,11 @@ A table of things ...
 ### Things I'm star-ing
 
 * [foxguard](https://github.com/PwnKit-Labs/foxguard)
-  A linter-fast, local-first security scanning tool written in rust.
+  A extremely fast local code security scanning tool, written in rust.
 * [Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
   Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories within the license terms.
 * [mempalace](https://github.com/MemPalace/mempalace)
-  The highest-scoring AI memory system ever benchmarked. And it's free.
+  The best-benchmarked open-source AI memory system. And it's free.
 * [gsd-2](https://github.com/gsd-build/gsd-2)
   A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
 * [get-shit-done](https://github.com/gsd-build/get-shit-done)
