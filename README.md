@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Forbidden](https://www.smbc-comics.com/comic/forbidden)
 * [Saturday Morning Breakfast Cereal - Infinite](https://www.smbc-comics.com/comic/infinite-2)
 * [Claude Code Routines](https://code.claude.com/docs/en/routines)
 * [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)
@@ -88,7 +89,6 @@ A table of things ...
 * [GitHub Stacked PRs](https://github.github.com/gh-stack/)
 * [I just want simple S3](https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/)
 * [This year’s insane timeline of hacks](https://ringmast4r.substack.com/p/we-may-be-living-through-the-most)
-* [Building a CLI for all of Cloudflare](https://blog.cloudflare.com/cf-cli-local-explorer/)
 
 ### Things I'm star-ing
 
