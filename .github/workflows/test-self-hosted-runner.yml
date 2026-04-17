@@ -1,0 +1,15 @@
+name: Test self-hosted runner
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: self-hosted
+    steps:
+      - name: Verify runner environment
+        run: |
+          echo "Runner: $RUNNER_NAME"
+          echo "OS: $(uname -a)"
+          echo "Hostname: $(hostname)"
+          docker info --format '{{.ServerVersion}}' && echo "Docker: OK"
