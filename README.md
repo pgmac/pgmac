@@ -79,16 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-* [Saturday Morning Breakfast Cereal - Forbidden](https://www.smbc-comics.com/comic/forbidden)
-* [Saturday Morning Breakfast Cereal - Infinite](https://www.smbc-comics.com/comic/infinite-2)
-* [Claude Code Routines](https://code.claude.com/docs/en/routines)
-* [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/)
-* [Rare concert recordings are landing on the Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)
-* [Saturday Morning Breakfast Cereal - Easier](https://www.smbc-comics.com/comic/easier)
-* [Bring Back Idiomatic Design (2023)](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design)
-* [GitHub Stacked PRs](https://github.github.com/gh-stack/)
-* [I just want simple S3](https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/)
-* [This year’s insane timeline of hacks](https://ringmast4r.substack.com/p/we-may-be-living-through-the-most)
+
 
 ### Things I'm star-ing
 
