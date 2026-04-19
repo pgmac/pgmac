@@ -79,6 +79,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Dial](https://www.smbc-comics.com/comic/dial)
+* [Isaac Asimov: The Last Question (1956)](https://hex.ooo/library/last_question.html)
+* [Archive of BYTE magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09)
 * [GitHub - TheMorpheus407/RepoLens: Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastructure auditing · GitHub](https://github.com/TheMorpheus407/RepoLens)
 * [GitHub - anthropics/claude-desktop-buddy: Reference and an example for the Bluetooth API for makers in Claude Cowork & Claude Code Desktop · GitHub](https://github.com/anthropics/claude-desktop-buddy)
 * [Saturday Morning Breakfast Cereal - Dreams](https://www.smbc-comics.com/comic/dreams-2)
@@ -86,9 +89,6 @@ A table of things ...
 * [Cybersecurity looks like proof of work now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html)
 * [Anna's Archive loses $322M Spotify piracy case without a fight](https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/)
 * [RedSun: System user access on Win 11/10 and Server with the April 2026 Update](https://github.com/Nightmare-Eclipse/RedSun)
-* [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
-* [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)
-* [Put your SSH keys in your TPM chip](https://raymii.org/s/tutorials/Put_your_SSH_keys_in_your_TPM_chip.html)
 
 ### Things I'm star-ing
 
