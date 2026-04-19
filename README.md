@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - anthropics/claude-desktop-buddy: Reference and an example for the Bluetooth API for makers in Claude Cowork & Claude Code Desktop · GitHub](https://github.com/anthropics/claude-desktop-buddy)
 * [Saturday Morning Breakfast Cereal - Dreams](https://www.smbc-comics.com/comic/dreams-2)
 * [Saturday Morning Breakfast Cereal - Same](https://www.smbc-comics.com/comic/same-3)
 * [Cybersecurity looks like proof of work now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html)
@@ -88,7 +89,6 @@ A table of things ...
 * [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)
 * [Put your SSH keys in your TPM chip](https://raymii.org/s/tutorials/Put_your_SSH_keys_in_your_TPM_chip.html)
 * [Artifacts: Versioned storage that speaks Git](https://blog.cloudflare.com/artifacts-git-for-agents-beta/)
-* [Show HN: SPICE simulation → oscilloscope → verification with Claude Code](https://lucasgerads.com/blog/lecroy-mcp-spice-demo/)
 
 ### Things I'm star-ing
 
