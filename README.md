@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - TheMorpheus407/RepoLens: Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastructure auditing · GitHub](https://github.com/TheMorpheus407/RepoLens)
 * [GitHub - anthropics/claude-desktop-buddy: Reference and an example for the Bluetooth API for makers in Claude Cowork & Claude Code Desktop · GitHub](https://github.com/anthropics/claude-desktop-buddy)
 * [Saturday Morning Breakfast Cereal - Dreams](https://www.smbc-comics.com/comic/dreams-2)
 * [Saturday Morning Breakfast Cereal - Same](https://www.smbc-comics.com/comic/same-3)
@@ -88,10 +89,11 @@ A table of things ...
 * [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
 * [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)
 * [Put your SSH keys in your TPM chip](https://raymii.org/s/tutorials/Put_your_SSH_keys_in_your_TPM_chip.html)
-* [Artifacts: Versioned storage that speaks Git](https://blog.cloudflare.com/artifacts-git-for-agents-beta/)
 
 ### Things I'm star-ing
 
+* [RepoLens](https://github.com/TheMorpheus407/RepoLens)
+  Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastructure auditing
 * [foxguard](https://github.com/PwnKit-Labs/foxguard)
   A security scanner as fast as a linter, written in Rust.
 * [Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
@@ -110,8 +112,6 @@ A table of things ...
   GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
 * [mistral-vibe](https://github.com/mistralai/mistral-vibe)
   Minimal CLI coding agent by Mistral
-* [AISVS](https://github.com/OWASP/AISVS)
-  The AI Security Verification Standard (AISVS) focuses on providing developers, architects, and security professionals with a structured checklist to verify the security of AI-driven applications.
 
 ### My Blog Posts
 
