@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Nigh](https://www.smbc-comics.com/comic/nigh-2)
 * [Saturday Morning Breakfast Cereal - Dial](https://www.smbc-comics.com/comic/dial)
 * [Isaac Asimov: The Last Question (1956)](https://hex.ooo/library/last_question.html)
 * [Archive of BYTE magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Same](https://www.smbc-comics.com/comic/same-3)
 * [Cybersecurity looks like proof of work now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html)
 * [Anna's Archive loses $322M Spotify piracy case without a fight](https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/)
-* [RedSun: System user access on Win 11/10 and Server with the April 2026 Update](https://github.com/Nightmare-Eclipse/RedSun)
 
 ### Things I'm star-ing
 
