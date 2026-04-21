@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Standard](https://www.smbc-comics.com/comic/standard)
 * [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
 * [Stop trying to engineer your way out of listening to people](https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/)
 * [Monumental ship burial beneath ancient Norwegian mound predates the Viking Age](https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html)
@@ -88,7 +89,6 @@ A table of things ...
 * [Isaac Asimov: The Last Question (1956)](https://hex.ooo/library/last_question.html)
 * [Archive of BYTE magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09)
 * [GitHub - TheMorpheus407/RepoLens: Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastructure auditing · GitHub](https://github.com/TheMorpheus407/RepoLens)
-* [GitHub - anthropics/claude-desktop-buddy: Reference and an example for the Bluetooth API for makers in Claude Cowork & Claude Code Desktop · GitHub](https://github.com/anthropics/claude-desktop-buddy)
 
 ### Things I'm star-ing
 
