@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
+* [Stop trying to engineer your way out of listening to people](https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/)
+* [Monumental ship burial beneath ancient Norwegian mound predates the Viking Age](https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html)
+* [SDF Public Access Unix System](https://sdf.org/?ssh)
 * [Saturday Morning Breakfast Cereal - Nigh](https://www.smbc-comics.com/comic/nigh-2)
 * [Saturday Morning Breakfast Cereal - Dial](https://www.smbc-comics.com/comic/dial)
 * [Isaac Asimov: The Last Question (1956)](https://hex.ooo/library/last_question.html)
 * [Archive of BYTE magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09)
 * [GitHub - TheMorpheus407/RepoLens: Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastructure auditing · GitHub](https://github.com/TheMorpheus407/RepoLens)
 * [GitHub - anthropics/claude-desktop-buddy: Reference and an example for the Bluetooth API for makers in Claude Cowork & Claude Code Desktop · GitHub](https://github.com/anthropics/claude-desktop-buddy)
-* [Saturday Morning Breakfast Cereal - Dreams](https://www.smbc-comics.com/comic/dreams-2)
-* [Saturday Morning Breakfast Cereal - Same](https://www.smbc-comics.com/comic/same-3)
-* [Cybersecurity looks like proof of work now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html)
-* [Anna's Archive loses $322M Spotify piracy case without a fight](https://torrentfreak.com/annas-archive-loses-322-million-spotify-piracy-case-without-a-fight/)
 
 ### Things I'm star-ing
 
