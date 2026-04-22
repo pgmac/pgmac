@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Framework Laptop 13 Pro](https://frame.work/laptop13pro)
+* [The zero-days are numbered](https://blog.mozilla.org/en/privacy-security/ai-security-zero-day-vulnerabilities/)
 * [Saturday Morning Breakfast Cereal - Standard](https://www.smbc-comics.com/comic/standard)
 * [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
 * [Stop trying to engineer your way out of listening to people](https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/)
@@ -87,8 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Nigh](https://www.smbc-comics.com/comic/nigh-2)
 * [Saturday Morning Breakfast Cereal - Dial](https://www.smbc-comics.com/comic/dial)
 * [Isaac Asimov: The Last Question (1956)](https://hex.ooo/library/last_question.html)
-* [Archive of BYTE magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09)
-* [GitHub - TheMorpheus407/RepoLens: Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastructure auditing · GitHub](https://github.com/TheMorpheus407/RepoLens)
 
 ### Things I'm star-ing
 
