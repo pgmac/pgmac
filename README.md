@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - WaaS](https://www.smbc-comics.com/comic/waas)
 * [Framework Laptop 13 Pro](https://frame.work/laptop13pro)
 * [The zero-days are numbered](https://blog.mozilla.org/en/privacy-security/ai-security-zero-day-vulnerabilities/)
 * [Saturday Morning Breakfast Cereal - Standard](https://www.smbc-comics.com/comic/standard)
@@ -88,7 +89,6 @@ A table of things ...
 * [SDF Public Access Unix System](https://sdf.org/?ssh)
 * [Saturday Morning Breakfast Cereal - Nigh](https://www.smbc-comics.com/comic/nigh-2)
 * [Saturday Morning Breakfast Cereal - Dial](https://www.smbc-comics.com/comic/dial)
-* [Isaac Asimov: The Last Question (1956)](https://hex.ooo/library/last_question.html)
 
 ### Things I'm star-ing
 
