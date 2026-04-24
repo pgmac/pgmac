@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Slap](https://www.smbc-comics.com/comic/slap)
 * [Saturday Morning Breakfast Cereal - Happiness](https://www.smbc-comics.com/comic/happiness-6)
 * [Saturday Morning Breakfast Cereal - WaaS](https://www.smbc-comics.com/comic/waas)
 * [Framework Laptop 13 Pro](https://frame.work/laptop13pro)
@@ -88,7 +89,6 @@ A table of things ...
 * [Stop trying to engineer your way out of listening to people](https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/)
 * [Monumental ship burial beneath ancient Norwegian mound predates the Viking Age](https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html)
 * [SDF Public Access Unix System](https://sdf.org/?ssh)
-* [Saturday Morning Breakfast Cereal - Nigh](https://www.smbc-comics.com/comic/nigh-2)
 
 ### Things I'm star-ing
 
