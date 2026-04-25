@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - End](https://www.smbc-comics.com/comic/end-2)
 * [Saturday Morning Breakfast Cereal - Slap](https://www.smbc-comics.com/comic/slap)
 * [Saturday Morning Breakfast Cereal - Happiness](https://www.smbc-comics.com/comic/happiness-6)
 * [Saturday Morning Breakfast Cereal - WaaS](https://www.smbc-comics.com/comic/waas)
@@ -88,7 +89,6 @@ A table of things ...
 * [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
 * [Stop trying to engineer your way out of listening to people](https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/)
 * [Monumental ship burial beneath ancient Norwegian mound predates the Viking Age](https://phys.org/news/2026-04-monumental-ship-burial-beneath-ancient.html)
-* [SDF Public Access Unix System](https://sdf.org/?ssh)
 
 ### Things I'm star-ing
 
