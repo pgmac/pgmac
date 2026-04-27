@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Set](https://www.smbc-comics.com/comic/set)
 * [Fast16: The Cyberweapon That Predates Stuxnet by Five Years - HackingPassion.com : root@HackingPassion.com-[~]](https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/)
 * [A quote from Bryan Cantrill](https://simonwillison.net/2024/Sep/17/bryan-cantrill/)
 * [Saturday Morning Breakfast Cereal - Quantum](https://www.smbc-comics.com/comic/quantum-6)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - WaaS](https://www.smbc-comics.com/comic/waas)
 * [Framework Laptop 13 Pro](https://frame.work/laptop13pro)
 * [The zero-days are numbered](https://blog.mozilla.org/en/privacy-security/ai-security-zero-day-vulnerabilities/)
-* [Saturday Morning Breakfast Cereal - Standard](https://www.smbc-comics.com/comic/standard)
 
 ### Things I'm star-ing
 
