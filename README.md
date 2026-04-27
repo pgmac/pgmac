@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Fast16: The Cyberweapon That Predates Stuxnet by Five Years - HackingPassion.com : root@HackingPassion.com-[~]](https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/)
+* [A quote from Bryan Cantrill](https://simonwillison.net/2024/Sep/17/bryan-cantrill/)
 * [Saturday Morning Breakfast Cereal - Quantum](https://www.smbc-comics.com/comic/quantum-6)
 * [Saturday Morning Breakfast Cereal - End](https://www.smbc-comics.com/comic/end-2)
 * [Saturday Morning Breakfast Cereal - Slap](https://www.smbc-comics.com/comic/slap)
@@ -87,8 +89,6 @@ A table of things ...
 * [Framework Laptop 13 Pro](https://frame.work/laptop13pro)
 * [The zero-days are numbered](https://blog.mozilla.org/en/privacy-security/ai-security-zero-day-vulnerabilities/)
 * [Saturday Morning Breakfast Cereal - Standard](https://www.smbc-comics.com/comic/standard)
-* [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
-* [Stop trying to engineer your way out of listening to people](https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/)
 
 ### Things I'm star-ing
 
