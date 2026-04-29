@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Spoon](https://www.smbc-comics.com/comic/spoon)
 * [Saturday Morning Breakfast Cereal - Kickstarter Launch!](https://www.smbc-comics.com/comic/kickstarter-launch)
 * [Saturday Morning Breakfast Cereal - Set](https://www.smbc-comics.com/comic/set)
 * [Fast16: The Cyberweapon That Predates Stuxnet by Five Years - HackingPassion.com : root@HackingPassion.com-[~]](https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Slap](https://www.smbc-comics.com/comic/slap)
 * [Saturday Morning Breakfast Cereal - Happiness](https://www.smbc-comics.com/comic/happiness-6)
 * [Saturday Morning Breakfast Cereal - WaaS](https://www.smbc-comics.com/comic/waas)
-* [Framework Laptop 13 Pro](https://frame.work/laptop13pro)
 
 ### Things I'm star-ing
 
