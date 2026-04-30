@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-* [Saturday Morning Breakfast Cereal - Spoon](https://www.smbc-comics.com/comic/spoon)
-* [Saturday Morning Breakfast Cereal - Kickstarter Launch!](https://www.smbc-comics.com/comic/kickstarter-launch)
-* [Saturday Morning Breakfast Cereal - Set](https://www.smbc-comics.com/comic/set)
-* [Fast16: The Cyberweapon That Predates Stuxnet by Five Years - HackingPassion.com : root@HackingPassion.com-[~]](https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/)
-* [A quote from Bryan Cantrill](https://simonwillison.net/2024/Sep/17/bryan-cantrill/)
-* [Saturday Morning Breakfast Cereal - Quantum](https://www.smbc-comics.com/comic/quantum-6)
-* [Saturday Morning Breakfast Cereal - End](https://www.smbc-comics.com/comic/end-2)
-* [Saturday Morning Breakfast Cereal - Slap](https://www.smbc-comics.com/comic/slap)
-* [Saturday Morning Breakfast Cereal - Happiness](https://www.smbc-comics.com/comic/happiness-6)
-* [Saturday Morning Breakfast Cereal - WaaS](https://www.smbc-comics.com/comic/waas)
+* [Saturday Morning Breakfast Cereal - Meaning](https://www.smbc-comics.com/comic/meaning-7)
+* [Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic)
+* [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877)
+* [Show HN: Free textbook on engineering thermodynamics](https://thermodynamicsbook.com/)
+* [EvanFlow – A TDD driven feedback loop for Claude Code](https://github.com/evanklem/evanflow)
+* [An update on GitHub availability](https://github.blog/news-insights/company-news/an-update-on-github-availability/)
+* [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
+* [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
+* [GitHub RCE Vulnerability: CVE-2026-3854 Breakdown](https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854)
+* [PS5 Linux loader goes public, turning console into full Linux gaming PC](https://www.tomshardware.com/software/linux/ps5-linux-loadr-goes-public-turning-phat-consoles-into-full-linux-pcs)
 
 ### Things I'm star-ing
 
