@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Caedmon’s Hymn Discovery - News & Events | Trinity College Dublin](https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/)
 * [Saturday Morning Breakfast Cereal - Meaning](https://www.smbc-comics.com/comic/meaning-7)
 * [Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic)
 * [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877)
@@ -88,7 +89,6 @@ A table of things ...
 * [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
 * [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
 * [GitHub RCE Vulnerability: CVE-2026-3854 Breakdown](https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854)
-* [PS5 Linux loader goes public, turning console into full Linux gaming PC](https://www.tomshardware.com/software/linux/ps5-linux-loadr-goes-public-turning-phat-consoles-into-full-linux-pcs)
 
 ### Things I'm star-ing
 
