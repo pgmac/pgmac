@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Nagel](https://www.smbc-comics.com/comic/nagel)
 * [Ask.com has closed](https://www.ask.com/)
 * [On April 21, 2026, a major breakthrough in cybersecurity happened: leading standardization initiatives gathered in Washington DC and agreed to begin coordinating collectively on AI security. A… | Rob van der Veer | 28 comments](https://www.linkedin.com/posts/robvanderveer_on-april-21-2026-a-major-breakthrough-in-share-7454830488919281664-0Kja)
 * [Saturday Morning Breakfast Cereal - Tragic](https://www.smbc-comics.com/comic/tragic)
@@ -88,7 +89,6 @@ A table of things ...
 * [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877)
 * [Show HN: Free textbook on engineering thermodynamics](https://thermodynamicsbook.com/)
 * [EvanFlow – A TDD driven feedback loop for Claude Code](https://github.com/evanklem/evanflow)
-* [An update on GitHub availability](https://github.blog/news-insights/company-news/an-update-on-github-availability/)
 
 ### Things I'm star-ing
 
