@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [On April 21, 2026, a major breakthrough in cybersecurity happened: leading standardization initiatives gathered in Washington DC and agreed to begin coordinating collectively on AI security. A… | Rob van der Veer | 28 comments](https://www.linkedin.com/posts/robvanderveer_on-april-21-2026-a-major-breakthrough-in-share-7454830488919281664-0Kja)
 * [Saturday Morning Breakfast Cereal - Tragic](https://www.smbc-comics.com/comic/tragic)
 * [Caedmon’s Hymn Discovery - News & Events | Trinity College Dublin](https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/)
 * [Saturday Morning Breakfast Cereal - Meaning](https://www.smbc-comics.com/comic/meaning-7)
@@ -88,7 +89,6 @@ A table of things ...
 * [EvanFlow – A TDD driven feedback loop for Claude Code](https://github.com/evanklem/evanflow)
 * [An update on GitHub availability](https://github.blog/news-insights/company-news/an-update-on-github-availability/)
 * [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
-* [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
 
 ### Things I'm star-ing
 
