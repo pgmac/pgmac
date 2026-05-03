@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226)
+* [Do_not_track](https://donottrack.sh/)
+* [Adding the applications secrets to it's repository · GitHub](https://gist.github.com/pgmac/e6f1ddf1eb4519f5967423d52dcea30f)
+* [NetHack 5.0.0: Release Notes](https://nethack.org/v500/release.html)
+* [Copy Fail — CVE-2026-31431](https://copy.fail/)
+* [GitHub - DOS-History/Paterson-Listings: Transcription of Tim Paterson's DOS printouts. · GitHub](https://github.com/DOS-History/Paterson-Listings)
 * [Saturday Morning Breakfast Cereal - Nagel](https://www.smbc-comics.com/comic/nagel)
 * [Ask.com has closed](https://www.ask.com/)
 * [On April 21, 2026, a major breakthrough in cybersecurity happened: leading standardization initiatives gathered in Washington DC and agreed to begin coordinating collectively on AI security. A… | Rob van der Veer | 28 comments](https://www.linkedin.com/posts/robvanderveer_on-april-21-2026-a-major-breakthrough-in-share-7454830488919281664-0Kja)
 * [Saturday Morning Breakfast Cereal - Tragic](https://www.smbc-comics.com/comic/tragic)
-* [Caedmon’s Hymn Discovery - News & Events | Trinity College Dublin](https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/)
-* [Saturday Morning Breakfast Cereal - Meaning](https://www.smbc-comics.com/comic/meaning-7)
-* [Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic)
-* [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877)
-* [Show HN: Free textbook on engineering thermodynamics](https://thermodynamicsbook.com/)
-* [EvanFlow – A TDD driven feedback loop for Claude Code](https://github.com/evanklem/evanflow)
 
 ### Things I'm star-ing
 
