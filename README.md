@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [www.abc.net.au](https://www.abc.net.au/news/2026-05-02/student-rocket-launch-galah-space-industry/106543648)
 * [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226)
 * [Do_not_track](https://donottrack.sh/)
 * [Adding the applications secrets to it's repository · GitHub](https://gist.github.com/pgmac/e6f1ddf1eb4519f5967423d52dcea30f)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Nagel](https://www.smbc-comics.com/comic/nagel)
 * [Ask.com has closed](https://www.ask.com/)
 * [On April 21, 2026, a major breakthrough in cybersecurity happened: leading standardization initiatives gathered in Washington DC and agreed to begin coordinating collectively on AI security. A… | Rob van der Veer | 28 comments](https://www.linkedin.com/posts/robvanderveer_on-april-21-2026-a-major-breakthrough-in-share-7454830488919281664-0Kja)
-* [Saturday Morning Breakfast Cereal - Tragic](https://www.smbc-comics.com/comic/tragic)
 
 ### Things I'm star-ing
 
