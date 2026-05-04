@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Future](https://www.smbc-comics.com/comic/future-4)
 * [Saturday Morning Breakfast Cereal - Peace](https://www.smbc-comics.com/comic/peace-4)
 * [www.abc.net.au](https://www.abc.net.au/news/2026-05-02/student-rocket-launch-galah-space-industry/106543648)
 * [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226)
@@ -88,7 +89,6 @@ A table of things ...
 * [Copy Fail — CVE-2026-31431](https://copy.fail/)
 * [GitHub - DOS-History/Paterson-Listings: Transcription of Tim Paterson's DOS printouts. · GitHub](https://github.com/DOS-History/Paterson-Listings)
 * [Saturday Morning Breakfast Cereal - Nagel](https://www.smbc-comics.com/comic/nagel)
-* [Ask.com has closed](https://www.ask.com/)
 
 ### Things I'm star-ing
 
