@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Connection](https://www.smbc-comics.com/comic/connection-2)
 * [How did Banksy erect a statue in Central London?](https://www.bbc.co.uk/news/articles/cn4pvyw82exo)
 * [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro](https://github.com/aattaran/deepclaude)
 * [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
@@ -88,7 +89,6 @@ A table of things ...
 * [www.abc.net.au](https://www.abc.net.au/news/2026-05-02/student-rocket-launch-galah-space-industry/106543648)
 * [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226)
 * [Do_not_track](https://donottrack.sh/)
-* [Adding the applications secrets to it's repository · GitHub](https://gist.github.com/pgmac/e6f1ddf1eb4519f5967423d52dcea30f)
 
 ### Things I'm star-ing
 
