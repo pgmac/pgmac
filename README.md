@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Update on "Co-authored-by: Copilot" in commit messages](https://github.com/microsoft/vscode/issues/314311)
 * [Critical Apache HTTP Server Flaw Exposes Millions of Servers to Remote Code Execution Attacks](https://cybersecuritynews.com/apache-http-server-rce/)
 * [British Broadcasting Corporation](https://www.bbc.com/news/articles/cn4pvyw82exo)
 * [Saturday Morning Breakfast Cereal - Connection](https://www.smbc-comics.com/comic/connection-2)
@@ -88,7 +89,6 @@ A table of things ...
 * [A desktop made for one](https://isene.org/2026/05/Audience-of-One.html)
 * [Saturday Morning Breakfast Cereal - Future](https://www.smbc-comics.com/comic/future-4)
 * [Saturday Morning Breakfast Cereal - Peace](https://www.smbc-comics.com/comic/peace-4)
-* [www.abc.net.au](https://www.abc.net.au/news/2026-05-02/student-rocket-launch-galah-space-industry/106543648)
 
 ### Things I'm star-ing
 
