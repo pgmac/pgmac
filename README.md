@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Critical Apache HTTP Server Flaw Exposes Millions of Servers to Remote Code Execution Attacks](https://cybersecuritynews.com/apache-http-server-rce/)
+* [British Broadcasting Corporation](https://www.bbc.com/news/articles/cn4pvyw82exo)
 * [Saturday Morning Breakfast Cereal - Connection](https://www.smbc-comics.com/comic/connection-2)
 * [How did Banksy erect a statue in Central London?](https://www.bbc.co.uk/news/articles/cn4pvyw82exo)
 * [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro](https://github.com/aattaran/deepclaude)
@@ -87,8 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Future](https://www.smbc-comics.com/comic/future-4)
 * [Saturday Morning Breakfast Cereal - Peace](https://www.smbc-comics.com/comic/peace-4)
 * [www.abc.net.au](https://www.abc.net.au/news/2026-05-02/student-rocket-launch-galah-space-industry/106543648)
-* [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226)
-* [Do_not_track](https://donottrack.sh/)
 
 ### Things I'm star-ing
 
