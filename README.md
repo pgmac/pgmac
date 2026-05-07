@@ -79,7 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-
+* [Saturday Morning Breakfast Cereal - Shenanigans](https://www.smbc-comics.com/comic/shenanigans)
+* [Update on "Co-authored-by: Copilot" in commit messages](https://github.com/microsoft/vscode/issues/314311)
+* [Critical Apache HTTP Server Flaw Exposes Millions of Servers to Remote Code Execution Attacks](https://cybersecuritynews.com/apache-http-server-rce/)
+* [British Broadcasting Corporation](https://www.bbc.com/news/articles/cn4pvyw82exo)
+* [Saturday Morning Breakfast Cereal - Connection](https://www.smbc-comics.com/comic/connection-2)
+* [How did Banksy erect a statue in Central London?](https://www.bbc.co.uk/news/articles/cn4pvyw82exo)
+* [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro](https://github.com/aattaran/deepclaude)
+* [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
+* [A desktop made for one](https://isene.org/2026/05/Audience-of-One.html)
+* [Saturday Morning Breakfast Cereal - Future](https://www.smbc-comics.com/comic/future-4)
 
 ### Things I'm star-ing
 
