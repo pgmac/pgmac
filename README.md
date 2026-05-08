@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - V4bel/dirtyfrag · GitHub](https://github.com/V4bel/dirtyfrag)
+* [Construction Workers Digging for a New Building Unearthed a 24.5-Meter Medieval Ship Buried Beneath the Street Since the 1360s](https://dailygalaxy.com/2026/05/medieval-ship-found-buried-street-tallinn-1360s/)
 * [Saturday Morning Breakfast Cereal - Joke](https://www.smbc-comics.com/comic/joke-5)
 * [Saturday Morning Breakfast Cereal - Shenanigans](https://www.smbc-comics.com/comic/shenanigans)
 * [Update on "Co-authored-by: Copilot" in commit messages](https://github.com/microsoft/vscode/issues/314311)
@@ -87,15 +89,13 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Connection](https://www.smbc-comics.com/comic/connection-2)
 * [How did Banksy erect a statue in Central London?](https://www.bbc.co.uk/news/articles/cn4pvyw82exo)
 * [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro](https://github.com/aattaran/deepclaude)
-* [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
-* [A desktop made for one](https://isene.org/2026/05/Audience-of-One.html)
 
 ### Things I'm star-ing
 
 * [RepoLens](https://github.com/TheMorpheus407/RepoLens)
   Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastructure auditing
 * [foxguard](https://github.com/PwnKit-Labs/foxguard)
-  A security scanner as fast as a linter, written in Rust. Live in the terminal? It also comes with a TUI triage for secrets, post-quantum audits, diff-scans and more 🦊
+  A security scanner as fast as a linter, written in Rust. Batteries included, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
 * [Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
   Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories within the license terms.
 * [mempalace](https://github.com/MemPalace/mempalace)
