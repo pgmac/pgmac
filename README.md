@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Block](https://www.smbc-comics.com/comic/block)
 * [GitHub - V4bel/dirtyfrag · GitHub](https://github.com/V4bel/dirtyfrag)
 * [Construction Workers Digging for a New Building Unearthed a 24.5-Meter Medieval Ship Buried Beneath the Street Since the 1360s](https://dailygalaxy.com/2026/05/medieval-ship-found-buried-street-tallinn-1360s/)
 * [Saturday Morning Breakfast Cereal - Joke](https://www.smbc-comics.com/comic/joke-5)
@@ -88,7 +89,6 @@ A table of things ...
 * [British Broadcasting Corporation](https://www.bbc.com/news/articles/cn4pvyw82exo)
 * [Saturday Morning Breakfast Cereal - Connection](https://www.smbc-comics.com/comic/connection-2)
 * [How did Banksy erect a statue in Central London?](https://www.bbc.co.uk/news/articles/cn4pvyw82exo)
-* [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro](https://github.com/aattaran/deepclaude)
 
 ### Things I'm star-ing
 
