@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Show HN: Hallucinopedia](http://halupedia.com/)
+* [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
+* [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/)
+* [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html)
 * [Saturday Morning Breakfast Cereal - Block](https://www.smbc-comics.com/comic/block)
 * [GitHub - V4bel/dirtyfrag · GitHub](https://github.com/V4bel/dirtyfrag)
 * [Construction Workers Digging for a New Building Unearthed a 24.5-Meter Medieval Ship Buried Beneath the Street Since the 1360s](https://dailygalaxy.com/2026/05/medieval-ship-found-buried-street-tallinn-1360s/)
 * [Saturday Morning Breakfast Cereal - Joke](https://www.smbc-comics.com/comic/joke-5)
 * [Saturday Morning Breakfast Cereal - Shenanigans](https://www.smbc-comics.com/comic/shenanigans)
 * [Update on "Co-authored-by: Copilot" in commit messages](https://github.com/microsoft/vscode/issues/314311)
-* [Critical Apache HTTP Server Flaw Exposes Millions of Servers to Remote Code Execution Attacks](https://cybersecuritynews.com/apache-http-server-rce/)
-* [British Broadcasting Corporation](https://www.bbc.com/news/articles/cn4pvyw82exo)
-* [Saturday Morning Breakfast Cereal - Connection](https://www.smbc-comics.com/comic/connection-2)
-* [How did Banksy erect a statue in Central London?](https://www.bbc.co.uk/news/articles/cn4pvyw82exo)
 
 ### Things I'm star-ing
 
