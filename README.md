@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Sleep](https://www.smbc-comics.com/comic/sleep-2)
 * [Show HN: Hallucinopedia](http://halupedia.com/)
 * [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
 * [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Construction Workers Digging for a New Building Unearthed a 24.5-Meter Medieval Ship Buried Beneath the Street Since the 1360s](https://dailygalaxy.com/2026/05/medieval-ship-found-buried-street-tallinn-1360s/)
 * [Saturday Morning Breakfast Cereal - Joke](https://www.smbc-comics.com/comic/joke-5)
 * [Saturday Morning Breakfast Cereal - Shenanigans](https://www.smbc-comics.com/comic/shenanigans)
-* [Update on "Co-authored-by: Copilot" in commit messages](https://github.com/microsoft/vscode/issues/314311)
 
 ### Things I'm star-ing
 
