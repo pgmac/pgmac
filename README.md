@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Rotten Dot Com by Dena Yago](https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/)
 * [Reality Check - Deepfakes are everywhere. The godfather of digital forensics is fighting back](https://www.science.org/content/article/deepfakes-are-everywhere-godfather-digital-forensics-fighting-back)
 * [Let's Encrypt Halts Certificate Issuance After Cross-Signed Root Certificate Incident](https://cybersecuritynews.com/lets-encrypt-halts-certificate-issuance/amp/)
 * [Saturday Morning Breakfast Cereal - Sleep](https://www.smbc-comics.com/comic/sleep-2)
@@ -88,7 +89,6 @@ A table of things ...
 * [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html)
 * [Saturday Morning Breakfast Cereal - Block](https://www.smbc-comics.com/comic/block)
 * [GitHub - V4bel/dirtyfrag · GitHub](https://github.com/V4bel/dirtyfrag)
-* [Construction Workers Digging for a New Building Unearthed a 24.5-Meter Medieval Ship Buried Beneath the Street Since the 1360s](https://dailygalaxy.com/2026/05/medieval-ship-found-buried-street-tallinn-1360s/)
 
 ### Things I'm star-ing
 
