@@ -92,6 +92,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [spec-kit](https://github.com/github/spec-kit)
+  💫 Toolkit to help you get started with Spec-Driven Development
 * [RepoLens](https://github.com/TheMorpheus407/RepoLens)
   Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastructure auditing
 * [foxguard](https://github.com/PwnKit-Labs/foxguard)
@@ -110,8 +112,6 @@ A table of things ...
   Open source MCP Servers for AWS
 * [copilot-cli](https://github.com/github/copilot-cli)
   GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
-* [mistral-vibe](https://github.com/mistralai/mistral-vibe)
-  Minimal CLI coding agent by Mistral
 
 ### My Blog Posts
 
