@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Reality Check - Deepfakes are everywhere. The godfather of digital forensics is fighting back](https://www.science.org/content/article/deepfakes-are-everywhere-godfather-digital-forensics-fighting-back)
+* [Let's Encrypt Halts Certificate Issuance After Cross-Signed Root Certificate Incident](https://cybersecuritynews.com/lets-encrypt-halts-certificate-issuance/amp/)
 * [Saturday Morning Breakfast Cereal - Sleep](https://www.smbc-comics.com/comic/sleep-2)
 * [Show HN: Hallucinopedia](http://halupedia.com/)
 * [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
@@ -87,8 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Block](https://www.smbc-comics.com/comic/block)
 * [GitHub - V4bel/dirtyfrag · GitHub](https://github.com/V4bel/dirtyfrag)
 * [Construction Workers Digging for a New Building Unearthed a 24.5-Meter Medieval Ship Buried Beneath the Street Since the 1360s](https://dailygalaxy.com/2026/05/medieval-ship-found-buried-street-tallinn-1360s/)
-* [Saturday Morning Breakfast Cereal - Joke](https://www.smbc-comics.com/comic/joke-5)
-* [Saturday Morning Breakfast Cereal - Shenanigans](https://www.smbc-comics.com/comic/shenanigans)
 
 ### Things I'm star-ing
 
