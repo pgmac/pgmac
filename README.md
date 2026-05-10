@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Terminal](https://www.smbc-comics.com/comic/terminal)
 * [Rotten Dot Com by Dena Yago](https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/)
 * [Reality Check - Deepfakes are everywhere. The godfather of digital forensics is fighting back](https://www.science.org/content/article/deepfakes-are-everywhere-godfather-digital-forensics-fighting-back)
 * [Let's Encrypt Halts Certificate Issuance After Cross-Signed Root Certificate Incident](https://cybersecuritynews.com/lets-encrypt-halts-certificate-issuance/amp/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/)
 * [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html)
 * [Saturday Morning Breakfast Cereal - Block](https://www.smbc-comics.com/comic/block)
-* [GitHub - V4bel/dirtyfrag · GitHub](https://github.com/V4bel/dirtyfrag)
 
 ### Things I'm star-ing
 
