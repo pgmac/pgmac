@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Mythos finds a curl vulnerability | daniel.haxx.se](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/)
 * [Saturday Morning Breakfast Cereal - Arp](https://www.smbc-comics.com/comic/arp)
 * [Demystifying evals for AI agents \ Anthropic](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)
 * [Saturday Morning Breakfast Cereal - Terminal](https://www.smbc-comics.com/comic/terminal)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Sleep](https://www.smbc-comics.com/comic/sleep-2)
 * [Show HN: Hallucinopedia](http://halupedia.com/)
 * [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
-* [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/)
 
 ### Things I'm star-ing
 
