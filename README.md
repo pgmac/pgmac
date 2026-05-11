@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Arp](https://www.smbc-comics.com/comic/arp)
 * [Demystifying evals for AI agents \ Anthropic](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)
 * [Saturday Morning Breakfast Cereal - Terminal](https://www.smbc-comics.com/comic/terminal)
 * [Rotten Dot Com by Dena Yago](https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Show HN: Hallucinopedia](http://halupedia.com/)
 * [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
 * [Diskless Linux boot using ZFS, iSCSI and PXE](https://aniket.foo/posts/20260505-netboot/)
-* [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html)
 
 ### Things I'm star-ing
 
