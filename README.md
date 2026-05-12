@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Local privilege escalation via execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
+* [Idempotency is easy until the second request is different](https://blog.dochia.dev/blog/idempotency/)
+* [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
+* [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html)
+* [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)
+* [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
+* [Red Hot Chili Peppers ink $300M deal with Warner Music to sell catalog](https://www.hollywoodreporter.com/music/music-industry-news/wmg-acquired-red-hot-chili-peppers-catalog-for-350-million-1236589567/)
+* [Postmortem: TanStack NPM supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
+* [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws)
 * [Mythos finds a curl vulnerability | daniel.haxx.se](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/)
-* [Saturday Morning Breakfast Cereal - Arp](https://www.smbc-comics.com/comic/arp)
-* [Demystifying evals for AI agents \ Anthropic](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)
-* [Saturday Morning Breakfast Cereal - Terminal](https://www.smbc-comics.com/comic/terminal)
-* [Rotten Dot Com by Dena Yago](https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/)
-* [Reality Check - Deepfakes are everywhere. The godfather of digital forensics is fighting back](https://www.science.org/content/article/deepfakes-are-everywhere-godfather-digital-forensics-fighting-back)
-* [Let's Encrypt Halts Certificate Issuance After Cross-Signed Root Certificate Incident](https://cybersecuritynews.com/lets-encrypt-halts-certificate-issuance/amp/)
-* [Saturday Morning Breakfast Cereal - Sleep](https://www.smbc-comics.com/comic/sleep-2)
-* [Show HN: Hallucinopedia](http://halupedia.com/)
-* [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
 
 ### Things I'm star-ing
 
