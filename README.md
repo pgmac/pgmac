@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Sport](https://www.smbc-comics.com/comic/sport-2)
 * [Local privilege escalation via execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
 * [Idempotency is easy until the second request is different](https://blog.dochia.dev/blog/idempotency/)
 * [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Red Hot Chili Peppers ink $300M deal with Warner Music to sell catalog](https://www.hollywoodreporter.com/music/music-industry-news/wmg-acquired-red-hot-chili-peppers-catalog-for-350-million-1236589567/)
 * [Postmortem: TanStack NPM supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
 * [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws)
-* [Mythos finds a curl vulnerability | daniel.haxx.se](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/)
 
 ### Things I'm star-ing
 
