@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [See Artemis 2's amazing views of Earth in timelapse video taken from 12,000-photo drop | Space](https://www.space.com/space-exploration/artemis/see-artemis-2s-amazing-views-of-earth-in-timelapse-video-taken-from-12-000-photo-drop)
 * [Saturday Morning Breakfast Cereal - Sport](https://www.smbc-comics.com/comic/sport-2)
 * [Local privilege escalation via execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
 * [Idempotency is easy until the second request is different](https://blog.dochia.dev/blog/idempotency/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
 * [Red Hot Chili Peppers ink $300M deal with Warner Music to sell catalog](https://www.hollywoodreporter.com/music/music-industry-news/wmg-acquired-red-hot-chili-peppers-catalog-for-350-million-1236589567/)
 * [Postmortem: TanStack NPM supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
-* [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws)
 
 ### Things I'm star-ing
 
