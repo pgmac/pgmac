@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Casus Belli Engineering — mmagueta](https://marcosmagueta.com/blog/casus-belli-engineering/)
 * [Saturday Morning Breakfast Cereal - Tide](https://www.smbc-comics.com/comic/tide)
 * [See Artemis 2's amazing views of Earth in timelapse video taken from 12,000-photo drop | Space](https://www.space.com/space-exploration/artemis/see-artemis-2s-amazing-views-of-earth-in-timelapse-video-taken-from-12-000-photo-drop)
 * [Saturday Morning Breakfast Cereal - Sport](https://www.smbc-comics.com/comic/sport-2)
@@ -88,7 +89,6 @@ A table of things ...
 * [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html)
 * [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)
 * [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
-* [Red Hot Chili Peppers ink $300M deal with Warner Music to sell catalog](https://www.hollywoodreporter.com/music/music-industry-news/wmg-acquired-red-hot-chili-peppers-catalog-for-350-million-1236589567/)
 
 ### Things I'm star-ing
 
@@ -116,4 +116,4 @@ A table of things ...
 ### My Blog Posts
 
 * [Things I'm interested in Last Week](https://pgmac.net.au/last-week/)
-
+* [Your github activity heatmap in your zsh prompt](https://pgmac.net.au/cli/2026/05/14/zsh-github-activity.html)
