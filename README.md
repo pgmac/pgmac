@@ -92,6 +92,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [xsofy](https://github.com/nooga/xsofy)
+  Roguelike that names itself each run. WIP
 * [spec-kit](https://github.com/github/spec-kit)
   💫 Toolkit to help you get started with Spec-Driven Development
 * [RepoLens](https://github.com/TheMorpheus407/RepoLens)
@@ -110,8 +112,6 @@ A table of things ...
   Official, Anthropic-managed directory of high quality Claude Code Plugins.
 * [mcp](https://github.com/awslabs/mcp)
   Open source MCP Servers for AWS
-* [copilot-cli](https://github.com/github/copilot-cli)
-  GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
 
 ### My Blog Posts
 
