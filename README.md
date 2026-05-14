@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Hierarchy](https://www.smbc-comics.com/comic/hierarchy)
 * [Casus Belli Engineering — mmagueta](https://marcosmagueta.com/blog/casus-belli-engineering/)
 * [Saturday Morning Breakfast Cereal - Tide](https://www.smbc-comics.com/comic/tide)
 * [See Artemis 2's amazing views of Earth in timelapse video taken from 12,000-photo drop | Space](https://www.space.com/space-exploration/artemis/see-artemis-2s-amazing-views-of-earth-in-timelapse-video-taken-from-12-000-photo-drop)
@@ -88,7 +89,6 @@ A table of things ...
 * [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
 * [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html)
 * [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)
-* [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
 
 ### Things I'm star-ing
 
