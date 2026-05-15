@@ -92,6 +92,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [tolaria](https://github.com/refactoringhq/tolaria)
+  Desktop app to manage markdown knowledge bases
 * [xsofy](https://github.com/nooga/xsofy)
   Roguelike that names itself each run. WIP
 * [spec-kit](https://github.com/github/spec-kit)
@@ -110,8 +112,6 @@ A table of things ...
   A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 * [claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
   Official, Anthropic-managed directory of high quality Claude Code Plugins.
-* [mcp](https://github.com/awslabs/mcp)
-  Open source MCP Servers for AWS
 
 ### My Blog Posts
 
