@@ -100,7 +100,7 @@ A table of things ...
   💫 Toolkit to help you get started with Spec-Driven Development
 * [RepoLens](https://github.com/TheMorpheus407/RepoLens)
   Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastructure auditing
-* [foxguard](https://github.com/PwnKit-Labs/foxguard)
+* [foxguard](https://github.com/0sec-labs/foxguard)
   A security scanner as fast as a linter, written in Rust. Batteries included, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
 * [Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
   Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories within the license terms.
