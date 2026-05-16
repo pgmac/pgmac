@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-* [Saturday Morning Breakfast Cereal - Bot](https://www.smbc-comics.com/comic/bot-3)
-* [Saturday Morning Breakfast Cereal - Hierarchy](https://www.smbc-comics.com/comic/hierarchy)
-* [Casus Belli Engineering — mmagueta](https://marcosmagueta.com/blog/casus-belli-engineering/)
-* [Saturday Morning Breakfast Cereal - Tide](https://www.smbc-comics.com/comic/tide)
-* [See Artemis 2's amazing views of Earth in timelapse video taken from 12,000-photo drop | Space](https://www.space.com/space-exploration/artemis/see-artemis-2s-amazing-views-of-earth-in-timelapse-video-taken-from-12-000-photo-drop)
-* [Saturday Morning Breakfast Cereal - Sport](https://www.smbc-comics.com/comic/sport-2)
-* [Local privilege escalation via execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
-* [Idempotency is easy until the second request is different](https://blog.dochia.dev/blog/idempotency/)
-* [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
-* [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html)
+* [The Future of Obsidian Plugins](https://obsidian.md/blog/future-of-plugins/)
+* [SecurityBaseline.eu](https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/)
+* [Xs of Y – roguelike that names itself every run. Written in 4kLoC](https://github.com/nooga/xsofy)
+* [Scorched Earth 2000 – Web](http://www.scorch2000.com/web/)
+* [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
+* [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/)
+* [New Nginx Exploit](https://github.com/DepthFirstDisclosures/Nginx-Rift)
+* [Show HN: Find the best local LLM for your hardware, ranked by benchmarks](https://github.com/Andyyyy64/whichllm)
+* [Project Gutenberg – keeps getting better](https://www.gutenberg.org/)
+* [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
 
 ### Things I'm star-ing
 
