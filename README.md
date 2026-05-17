@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Experiencing](https://www.smbc-comics.com/comic/experiencing)
 * [The Future of Obsidian Plugins](https://obsidian.md/blog/future-of-plugins/)
 * [SecurityBaseline.eu](https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/)
 * [Xs of Y – roguelike that names itself every run. Written in 4kLoC](https://github.com/nooga/xsofy)
@@ -88,7 +89,6 @@ A table of things ...
 * [New Nginx Exploit](https://github.com/DepthFirstDisclosures/Nginx-Rift)
 * [Show HN: Find the best local LLM for your hardware, ranked by benchmarks](https://github.com/Andyyyy64/whichllm)
 * [Project Gutenberg – keeps getting better](https://www.gutenberg.org/)
-* [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
 
 ### Things I'm star-ing
 
