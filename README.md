@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Criminal](https://www.smbc-comics.com/comic/criminal)
+* [Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/)
 * [Saturday Morning Breakfast Cereal - Experiencing](https://www.smbc-comics.com/comic/experiencing)
 * [The Future of Obsidian Plugins](https://obsidian.md/blog/future-of-plugins/)
 * [SecurityBaseline.eu](https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/)
@@ -87,8 +89,6 @@ A table of things ...
 * [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
 * [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/)
 * [New Nginx Exploit](https://github.com/DepthFirstDisclosures/Nginx-Rift)
-* [Show HN: Find the best local LLM for your hardware, ranked by benchmarks](https://github.com/Andyyyy64/whichllm)
-* [Project Gutenberg – keeps getting better](https://www.gutenberg.org/)
 
 ### Things I'm star-ing
 
