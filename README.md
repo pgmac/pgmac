@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Sick](https://www.smbc-comics.com/comic/sick-2)
+* [CISA Admin Leaked AWS GovCloud Keys on Github – Krebs on Security](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
 * [Saturday Morning Breakfast Cereal - Criminal](https://www.smbc-comics.com/comic/criminal)
 * [Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/)
 * [Saturday Morning Breakfast Cereal - Experiencing](https://www.smbc-comics.com/comic/experiencing)
@@ -87,8 +89,6 @@ A table of things ...
 * [Xs of Y – roguelike that names itself every run. Written in 4kLoC](https://github.com/nooga/xsofy)
 * [Scorched Earth 2000 – Web](http://www.scorch2000.com/web/)
 * [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
-* [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/)
-* [New Nginx Exploit](https://github.com/DepthFirstDisclosures/Nginx-Rift)
 
 ### Things I'm star-ing
 
