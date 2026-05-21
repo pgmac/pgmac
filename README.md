@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Back](https://www.smbc-comics.com/comic/back-3)
 * [Investigating unauthorized access to GitHub-owned repositories - The GitHub Blog](https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/)
 * [Saturday Morning Breakfast Cereal - Trash](https://www.smbc-comics.com/comic/trash)
 * [Saturday Morning Breakfast Cereal - Sick](https://www.smbc-comics.com/comic/sick-2)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Experiencing](https://www.smbc-comics.com/comic/experiencing)
 * [The Future of Obsidian Plugins](https://obsidian.md/blog/future-of-plugins/)
 * [SecurityBaseline.eu](https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/)
-* [Xs of Y – roguelike that names itself every run. Written in 4kLoC](https://github.com/nooga/xsofy)
 
 ### Things I'm star-ing
 
