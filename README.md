@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Mini Shai-Hulud Strikes Again: 317 npm Packages Compromised - Real-time Open Source Software Supply Chain Security](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/)
 * [Saturday Morning Breakfast Cereal - Back](https://www.smbc-comics.com/comic/back-3)
 * [Investigating unauthorized access to GitHub-owned repositories - The GitHub Blog](https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/)
 * [Saturday Morning Breakfast Cereal - Trash](https://www.smbc-comics.com/comic/trash)
@@ -88,7 +89,6 @@ A table of things ...
 * [Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/)
 * [Saturday Morning Breakfast Cereal - Experiencing](https://www.smbc-comics.com/comic/experiencing)
 * [The Future of Obsidian Plugins](https://obsidian.md/blog/future-of-plugins/)
-* [SecurityBaseline.eu](https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/)
 
 ### Things I'm star-ing
 
