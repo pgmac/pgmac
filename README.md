@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Safe](https://www.smbc-comics.com/comic/safe)
 * [Project Glasswing: An initial update \ Anthropic](https://www.anthropic.com/research/glasswing-initial-update)
 * [Saturday Morning Breakfast Cereal - Ex](https://www.smbc-comics.com/comic/ex-3)
 * [Mini Shai-Hulud Strikes Again: 317 npm Packages Compromised - Real-time Open Source Software Supply Chain Security](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Sick](https://www.smbc-comics.com/comic/sick-2)
 * [CISA Admin Leaked AWS GovCloud Keys on Github – Krebs on Security](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
 * [Saturday Morning Breakfast Cereal - Criminal](https://www.smbc-comics.com/comic/criminal)
-* [Project Glasswing: what Mythos showed us](https://blog.cloudflare.com/cyber-frontier-models/)
 
 ### Things I'm star-ing
 
