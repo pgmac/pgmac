@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Megalodon chums the waters in 5.5K+ GitHub repo poisonings](https://www.theregister.com/security/2026/05/22/megalodon-chums-the-waters-in-55k-github-repo-poisonings/5245342)
 * [Saturday Morning Breakfast Cereal - Safe](https://www.smbc-comics.com/comic/safe)
 * [Project Glasswing: An initial update \ Anthropic](https://www.anthropic.com/research/glasswing-initial-update)
 * [Saturday Morning Breakfast Cereal - Ex](https://www.smbc-comics.com/comic/ex-3)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Trash](https://www.smbc-comics.com/comic/trash)
 * [Saturday Morning Breakfast Cereal - Sick](https://www.smbc-comics.com/comic/sick-2)
 * [CISA Admin Leaked AWS GovCloud Keys on Github – Krebs on Security](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
-* [Saturday Morning Breakfast Cereal - Criminal](https://www.smbc-comics.com/comic/criminal)
 
 ### Things I'm star-ing
 
