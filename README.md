@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Anthropic adds 28 security and compliance integrations for Claude - Help Net Security](https://www.helpnetsecurity.com/2026/05/25/anthropic-security-compliance-integrations-claude/)
 * [Saturday Morning Breakfast Cereal - Bonzo](https://www.smbc-comics.com/comic/bonzo)
 * [Saturday Morning Breakfast Cereal - Cave](https://www.smbc-comics.com/comic/cave-3)
 * [Megalodon chums the waters in 5.5K+ GitHub repo poisonings](https://www.theregister.com/security/2026/05/22/megalodon-chums-the-waters-in-55k-github-repo-poisonings/5245342)
@@ -88,7 +89,6 @@ A table of things ...
 * [Mini Shai-Hulud Strikes Again: 317 npm Packages Compromised - Real-time Open Source Software Supply Chain Security](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/)
 * [Saturday Morning Breakfast Cereal - Back](https://www.smbc-comics.com/comic/back-3)
 * [Investigating unauthorized access to GitHub-owned repositories - The GitHub Blog](https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/)
-* [Saturday Morning Breakfast Cereal - Trash](https://www.smbc-comics.com/comic/trash)
 
 ### Things I'm star-ing
 
