@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-* [Saturday Morning Breakfast Cereal - Gates](https://www.smbc-comics.com/comic/gates-2)
-* [Anthropic adds 28 security and compliance integrations for Claude - Help Net Security](https://www.helpnetsecurity.com/2026/05/25/anthropic-security-compliance-integrations-claude/)
-* [Saturday Morning Breakfast Cereal - Bonzo](https://www.smbc-comics.com/comic/bonzo)
-* [Saturday Morning Breakfast Cereal - Cave](https://www.smbc-comics.com/comic/cave-3)
-* [Megalodon chums the waters in 5.5K+ GitHub repo poisonings](https://www.theregister.com/security/2026/05/22/megalodon-chums-the-waters-in-55k-github-repo-poisonings/5245342)
-* [Saturday Morning Breakfast Cereal - Safe](https://www.smbc-comics.com/comic/safe)
-* [Project Glasswing: An initial update \ Anthropic](https://www.anthropic.com/research/glasswing-initial-update)
-* [Saturday Morning Breakfast Cereal - Ex](https://www.smbc-comics.com/comic/ex-3)
-* [Mini Shai-Hulud Strikes Again: 317 npm Packages Compromised - Real-time Open Source Software Supply Chain Security](https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/)
-* [Saturday Morning Breakfast Cereal - Back](https://www.smbc-comics.com/comic/back-3)
+* [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug)
+* [Usborne 1980s Computer Books](https://usborne.com/us/books/computer-and-coding-books)
+* [The four-day workweek in Australia: insights from early adopters of 100:80:100](https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/)
+* [LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years](https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/)
+* [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
+* [How Shamir's Secret Sharing Works](https://ente.com/blog/how-shamirs-secret-sharing-works/)
+* [Earthion: A New Mega Drive-Style Shoot-Em-Up](https://earthiongame.com/)
+* [DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD](https://dynip.dev/)
+* [I built a Git-tracked book production pipeline](https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/)
+* [The Forgotten Art of the LAN Party (2023)](https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/)
 
 ### Things I'm star-ing
 
