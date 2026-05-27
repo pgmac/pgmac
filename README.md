@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - AI](https://www.smbc-comics.com/comic/ai-17)
 * [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug)
 * [Usborne 1980s Computer Books](https://usborne.com/us/books/computer-and-coding-books)
 * [The four-day workweek in Australia: insights from early adopters of 100:80:100](https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Earthion: A New Mega Drive-Style Shoot-Em-Up](https://earthiongame.com/)
 * [DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD](https://dynip.dev/)
 * [I built a Git-tracked book production pipeline](https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/)
-* [The Forgotten Art of the LAN Party (2023)](https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/)
 
 ### Things I'm star-ing
 
