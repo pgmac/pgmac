@@ -92,6 +92,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [OpenHack](https://github.com/hadriansecurity/OpenHack)
+  
 * [tolaria](https://github.com/refactoringhq/tolaria)
   Desktop app to manage markdown knowledge bases
 * [xsofy](https://github.com/nooga/xsofy)
@@ -110,8 +112,6 @@ A table of things ...
   A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
 * [get-shit-done](https://github.com/gsd-build/get-shit-done)
   A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
-* [claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
-  Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 ### My Blog Posts
 
