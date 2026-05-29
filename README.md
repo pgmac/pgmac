@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Introducing dynamic workflows | Claude](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code)
 * [Saturday Morning Breakfast Cereal - Meaning](https://www.smbc-comics.com/comic/meaning-8)
 * [Saturday Morning Breakfast Cereal - AI](https://www.smbc-comics.com/comic/ai-17)
 * [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug)
@@ -88,7 +89,6 @@ A table of things ...
 * [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
 * [How Shamir's Secret Sharing Works](https://ente.com/blog/how-shamirs-secret-sharing-works/)
 * [Earthion: A New Mega Drive-Style Shoot-Em-Up](https://earthiongame.com/)
-* [DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD](https://dynip.dev/)
 
 ### Things I'm star-ing
 
@@ -103,7 +103,7 @@ A table of things ...
 * [RepoLens](https://github.com/TheMorpheus407/RepoLens)
   Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastructure auditing
 * [foxguard](https://github.com/0sec-labs/foxguard)
-  A security scanner as fast as a linter, written in Rust. Batteries included, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
+  A blazingly fast security scanner, written in Rust. Batteries included, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
 * [Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
   Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories within the license terms.
 * [mempalace](https://github.com/MemPalace/mempalace)
