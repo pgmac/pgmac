@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Debunking](https://www.smbc-comics.com/comic/debunking)
 * [Introducing dynamic workflows | Claude](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code)
 * [Saturday Morning Breakfast Cereal - Meaning](https://www.smbc-comics.com/comic/meaning-8)
 * [Saturday Morning Breakfast Cereal - AI](https://www.smbc-comics.com/comic/ai-17)
@@ -88,7 +89,6 @@ A table of things ...
 * [LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years](https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/)
 * [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
 * [How Shamir's Secret Sharing Works](https://ente.com/blog/how-shamirs-secret-sharing-works/)
-* [Earthion: A New Mega Drive-Style Shoot-Em-Up](https://earthiongame.com/)
 
 ### Things I'm star-ing
 
