@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Free](https://www.smbc-comics.com/comic/free-4)
 * [How we contain Claude across products \ Anthropic](https://www.anthropic.com/engineering/how-we-contain-claude)
 * [Saturday Morning Breakfast Cereal - Debunking](https://www.smbc-comics.com/comic/debunking)
 * [Introducing dynamic workflows | Claude](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code)
@@ -88,7 +89,6 @@ A table of things ...
 * [Usborne 1980s Computer Books](https://usborne.com/us/books/computer-and-coding-books)
 * [The four-day workweek in Australia: insights from early adopters of 100:80:100](https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/)
 * [LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years](https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/)
-* [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
 
 ### Things I'm star-ing
 
