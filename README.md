@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Last.fm is now independent](https://support.last.fm/t/last-fm-is-now-independent/118591)
+* [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
+* [Claude Code – Everything you can configure that the docs don't tell you](https://buildingbetter.tech/p/i-read-the-claude-code-source-code)
+* [Pandoc Templates](https://pandoc-templates.org/)
 * [Saturday Morning Breakfast Cereal - Free](https://www.smbc-comics.com/comic/free-4)
 * [How we contain Claude across products \ Anthropic](https://www.anthropic.com/engineering/how-we-contain-claude)
 * [Saturday Morning Breakfast Cereal - Debunking](https://www.smbc-comics.com/comic/debunking)
 * [Introducing dynamic workflows | Claude](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code)
 * [Saturday Morning Breakfast Cereal - Meaning](https://www.smbc-comics.com/comic/meaning-8)
 * [Saturday Morning Breakfast Cereal - AI](https://www.smbc-comics.com/comic/ai-17)
-* [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug)
-* [Usborne 1980s Computer Books](https://usborne.com/us/books/computer-and-coding-books)
-* [The four-day workweek in Australia: insights from early adopters of 100:80:100](https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/)
-* [LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years](https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/)
 
 ### Things I'm star-ing
 
