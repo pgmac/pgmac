@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Prophecy](https://www.smbc-comics.com/comic/prophecy)
 * [Last.fm is now independent](https://support.last.fm/t/last-fm-is-now-independent/118591)
 * [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
 * [Claude Code – Everything you can configure that the docs don't tell you](https://buildingbetter.tech/p/i-read-the-claude-code-source-code)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Debunking](https://www.smbc-comics.com/comic/debunking)
 * [Introducing dynamic workflows | Claude](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code)
 * [Saturday Morning Breakfast Cereal - Meaning](https://www.smbc-comics.com/comic/meaning-8)
-* [Saturday Morning Breakfast Cereal - AI](https://www.smbc-comics.com/comic/ai-17)
 
 ### Things I'm star-ing
 
