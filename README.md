@@ -92,6 +92,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [headroom](https://github.com/chopratejas/headroom)
+  Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 * [OpenHack](https://github.com/hadriansecurity/OpenHack)
   
 * [tolaria](https://github.com/refactoringhq/tolaria)
@@ -110,8 +112,6 @@ A table of things ...
   The best-benchmarked open-source AI memory system. And it's free.
 * [gsd-2](https://github.com/gsd-build/gsd-2)
   A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
-* [get-shit-done](https://github.com/gsd-build/get-shit-done)
-  A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 
 ### My Blog Posts
 
