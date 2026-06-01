@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Please Do Not Vibe Fuck Up This Software · Issue #929 · RsyncProject/rsync · GitHub](https://github.com/RsyncProject/rsync/issues/929)
+* [How playing the didgeridoo could help treat sleep apnea – ApneaSeal](https://apneaseal.com.au/how-playing-the-didgeridoo-could-help-treat-sleep-apnea/)
 * [Saturday Morning Breakfast Cereal - Prophecy](https://www.smbc-comics.com/comic/prophecy)
 * [Last.fm is now independent](https://support.last.fm/t/last-fm-is-now-independent/118591)
 * [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
@@ -87,8 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Free](https://www.smbc-comics.com/comic/free-4)
 * [How we contain Claude across products \ Anthropic](https://www.anthropic.com/engineering/how-we-contain-claude)
 * [Saturday Morning Breakfast Cereal - Debunking](https://www.smbc-comics.com/comic/debunking)
-* [Introducing dynamic workflows | Claude](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code)
-* [Saturday Morning Breakfast Cereal - Meaning](https://www.smbc-comics.com/comic/meaning-8)
 
 ### Things I'm star-ing
 
