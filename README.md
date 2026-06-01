@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Shorthand](https://www.smbc-comics.com/comic/shorthand)
 * [Please Do Not Vibe Fuck Up This Software · Issue #929 · RsyncProject/rsync · GitHub](https://github.com/RsyncProject/rsync/issues/929)
 * [How playing the didgeridoo could help treat sleep apnea – ApneaSeal](https://apneaseal.com.au/how-playing-the-didgeridoo-could-help-treat-sleep-apnea/)
 * [Saturday Morning Breakfast Cereal - Prophecy](https://www.smbc-comics.com/comic/prophecy)
@@ -88,7 +89,6 @@ A table of things ...
 * [Pandoc Templates](https://pandoc-templates.org/)
 * [Saturday Morning Breakfast Cereal - Free](https://www.smbc-comics.com/comic/free-4)
 * [How we contain Claude across products \ Anthropic](https://www.anthropic.com/engineering/how-we-contain-claude)
-* [Saturday Morning Breakfast Cereal - Debunking](https://www.smbc-comics.com/comic/debunking)
 
 ### Things I'm star-ing
 
