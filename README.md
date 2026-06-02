@@ -79,6 +79,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Pi Coding Agent](https://pi.dev/)
+* [GitHub - chopratejas/headroom: Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. · GitHub](https://github.com/chopratejas/headroom)
+* [GitHub - JuliusBrussee/caveman: 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman · GitHub](https://github.com/JuliusBrussee/caveman)
 * [Saturday Morning Breakfast Cereal - Shorthand](https://www.smbc-comics.com/comic/shorthand)
 * [Please Do Not Vibe Fuck Up This Software · Issue #929 · RsyncProject/rsync · GitHub](https://github.com/RsyncProject/rsync/issues/929)
 * [How playing the didgeridoo could help treat sleep apnea – ApneaSeal](https://apneaseal.com.au/how-playing-the-didgeridoo-could-help-treat-sleep-apnea/)
@@ -86,9 +89,6 @@ A table of things ...
 * [Last.fm is now independent](https://support.last.fm/t/last-fm-is-now-independent/118591)
 * [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
 * [Claude Code – Everything you can configure that the docs don't tell you](https://buildingbetter.tech/p/i-read-the-claude-code-source-code)
-* [Pandoc Templates](https://pandoc-templates.org/)
-* [Saturday Morning Breakfast Cereal - Free](https://www.smbc-comics.com/comic/free-4)
-* [How we contain Claude across products \ Anthropic](https://www.anthropic.com/engineering/how-we-contain-claude)
 
 ### Things I'm star-ing
 
