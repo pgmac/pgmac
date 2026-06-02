@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Marshmallow](https://www.smbc-comics.com/comic/marshmallow)
 * [Pi Coding Agent](https://pi.dev/)
 * [GitHub - chopratejas/headroom: Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. · GitHub](https://github.com/chopratejas/headroom)
 * [GitHub - JuliusBrussee/caveman: 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman · GitHub](https://github.com/JuliusBrussee/caveman)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Prophecy](https://www.smbc-comics.com/comic/prophecy)
 * [Last.fm is now independent](https://support.last.fm/t/last-fm-is-now-independent/118591)
 * [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
-* [Claude Code – Everything you can configure that the docs don't tell you](https://buildingbetter.tech/p/i-read-the-claude-code-source-code)
 
 ### Things I'm star-ing
 
