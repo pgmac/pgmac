@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development · GitHub](https://github.com/github/spec-kit)
+* [OpenSpec — A lightweight spec‑driven framework](https://openspec.dev/)
+* [The Website Specification](https://specification.website/)
+* [Tracing HTTP Requests with Go's net/http/httptrace - Blain Smith](https://blainsmith.com/articles/httptrace-with-go/)
 * [Saturday Morning Breakfast Cereal - Marshmallow](https://www.smbc-comics.com/comic/marshmallow)
 * [Pi Coding Agent](https://pi.dev/)
 * [GitHub - chopratejas/headroom: Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. · GitHub](https://github.com/chopratejas/headroom)
 * [GitHub - JuliusBrussee/caveman: 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman · GitHub](https://github.com/JuliusBrussee/caveman)
 * [Saturday Morning Breakfast Cereal - Shorthand](https://www.smbc-comics.com/comic/shorthand)
 * [Please Do Not Vibe Fuck Up This Software · Issue #929 · RsyncProject/rsync · GitHub](https://github.com/RsyncProject/rsync/issues/929)
-* [How playing the didgeridoo could help treat sleep apnea – ApneaSeal](https://apneaseal.com.au/how-playing-the-didgeridoo-could-help-treat-sleep-apnea/)
-* [Saturday Morning Breakfast Cereal - Prophecy](https://www.smbc-comics.com/comic/prophecy)
-* [Last.fm is now independent](https://support.last.fm/t/last-fm-is-now-independent/118591)
-* [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
 
 ### Things I'm star-ing
 
