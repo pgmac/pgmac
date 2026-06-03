@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Speech](https://www.smbc-comics.com/comic/speech)
 * [Schibsted's pay-or-okay system in Norway triggers formal GDPR complaint](https://ppc.land/schibsteds-pay-or-okay-system-in-norway-triggers-formal-gdpr-complaint/)
 * [GitHub - github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development · GitHub](https://github.com/github/spec-kit)
 * [OpenSpec — A lightweight spec‑driven framework](https://openspec.dev/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Pi Coding Agent](https://pi.dev/)
 * [GitHub - chopratejas/headroom: Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. · GitHub](https://github.com/chopratejas/headroom)
 * [GitHub - JuliusBrussee/caveman: 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman · GitHub](https://github.com/JuliusBrussee/caveman)
-* [Saturday Morning Breakfast Cereal - Shorthand](https://www.smbc-comics.com/comic/shorthand)
 
 ### Things I'm star-ing
 
