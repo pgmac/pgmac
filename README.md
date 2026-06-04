@@ -92,6 +92,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)
+  Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 * [headroom](https://github.com/chopratejas/headroom)
   Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 * [OpenHack](https://github.com/hadriansecurity/OpenHack)
@@ -110,8 +112,6 @@ A table of things ...
   Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories within the license terms.
 * [mempalace](https://github.com/MemPalace/mempalace)
   The best-benchmarked open-source AI memory system. And it's free.
-* [gsd-2](https://github.com/gsd-build/gsd-2)
-  A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
 
 ### My Blog Posts
 
