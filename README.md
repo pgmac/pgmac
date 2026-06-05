@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Proof](https://www.smbc-comics.com/comic/proof-5)
 * [Saturday Morning Breakfast Cereal - Gland](https://www.smbc-comics.com/comic/gland)
 * [medium.com](https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0)
 * [https://blog.calif.io/p/codex-discovered-a-hidden-http2-bomb](https://blog.calif.io/p/codex-discovered-a-hidden-http2-bomb)
@@ -88,7 +89,6 @@ A table of things ...
 * [OpenSpec — A lightweight spec‑driven framework](https://openspec.dev/)
 * [The Website Specification](https://specification.website/)
 * [Tracing HTTP Requests with Go's net/http/httptrace - Blain Smith](https://blainsmith.com/articles/httptrace-with-go/)
-* [Saturday Morning Breakfast Cereal - Marshmallow](https://www.smbc-comics.com/comic/marshmallow)
 
 ### Things I'm star-ing
 
