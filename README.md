@@ -92,6 +92,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [open-code-review](https://github.com/alibaba/open-code-review)
+  Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 * [defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)
   Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 * [headroom](https://github.com/chopratejas/headroom)
@@ -110,8 +112,6 @@ A table of things ...
   A blazingly fast security scanner, written in Rust. Batteries included, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
 * [Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
   Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories within the license terms.
-* [mempalace](https://github.com/MemPalace/mempalace)
-  The best-benchmarked open-source AI memory system. And it's free.
 
 ### My Blog Posts
 
