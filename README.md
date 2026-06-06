@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
+* [Strace-ui, Bonsai_term, and the TUI renaissance](https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/)
+* [Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness)
+* [Castor: CERN Advanced STORage Manager](https://castor.web.cern.ch/content/home.html)
+* [Open Code Review – An AI-powered code review CLI tool](https://github.com/alibaba/open-code-review)
+* [My Agent Skill for Test-Driven Development](https://www.saturnci.com/my-agent-skill-for-test-driven-development.html)
+* [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)
 * [Saturday Morning Breakfast Cereal - Proof](https://www.smbc-comics.com/comic/proof-5)
 * [Saturday Morning Breakfast Cereal - Gland](https://www.smbc-comics.com/comic/gland)
 * [medium.com](https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0)
-* [https://blog.calif.io/p/codex-discovered-a-hidden-http2-bomb](https://blog.calif.io/p/codex-discovered-a-hidden-http2-bomb)
-* [Saturday Morning Breakfast Cereal - Speech](https://www.smbc-comics.com/comic/speech)
-* [Schibsted's pay-or-okay system in Norway triggers formal GDPR complaint](https://ppc.land/schibsteds-pay-or-okay-system-in-norway-triggers-formal-gdpr-complaint/)
-* [GitHub - github/spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development · GitHub](https://github.com/github/spec-kit)
-* [OpenSpec — A lightweight spec‑driven framework](https://openspec.dev/)
-* [The Website Specification](https://specification.website/)
-* [Tracing HTTP Requests with Go's net/http/httptrace - Blain Smith](https://blainsmith.com/articles/httptrace-with-go/)
 
 ### Things I'm star-ing
 
