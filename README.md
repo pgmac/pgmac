@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Yes](https://www.smbc-comics.com/comic/yes)
 * [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
 * [Strace-ui, Bonsai_term, and the TUI renaissance](https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/)
 * [Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness)
@@ -88,7 +89,6 @@ A table of things ...
 * [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)
 * [Saturday Morning Breakfast Cereal - Proof](https://www.smbc-comics.com/comic/proof-5)
 * [Saturday Morning Breakfast Cereal - Gland](https://www.smbc-comics.com/comic/gland)
-* [medium.com](https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0)
 
 ### Things I'm star-ing
 
