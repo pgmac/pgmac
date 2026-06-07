@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Google to pay SpaceX $920 million a month for compute capacity at xAI data centers](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html)
 * [Saturday Morning Breakfast Cereal - Yes](https://www.smbc-comics.com/comic/yes)
 * [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
 * [Strace-ui, Bonsai_term, and the TUI renaissance](https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/)
@@ -88,7 +89,6 @@ A table of things ...
 * [My Agent Skill for Test-Driven Development](https://www.saturnci.com/my-agent-skill-for-test-driven-development.html)
 * [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)
 * [Saturday Morning Breakfast Cereal - Proof](https://www.smbc-comics.com/comic/proof-5)
-* [Saturday Morning Breakfast Cereal - Gland](https://www.smbc-comics.com/comic/gland)
 
 ### Things I'm star-ing
 
