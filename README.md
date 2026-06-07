@@ -93,7 +93,7 @@ A table of things ...
 ### Things I'm star-ing
 
 * [open-code-review](https://github.com/alibaba/open-code-review)
-  Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+  Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 * [defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)
   Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 * [headroom](https://github.com/chopratejas/headroom)
