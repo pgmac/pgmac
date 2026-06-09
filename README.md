@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Creative](https://www.smbc-comics.com/comic/creative-3)
 * [Saturday Morning Breakfast Cereal - Gold](https://www.smbc-comics.com/comic/gold-5)
 * [social.panic.com](https://social.panic.com/@cabel/116710623616975906)
 * [VibeOS - Fully Hallucinated Operating System - YouTube](https://www.youtube.com/watch?v=7NfyZhV1dKM)
@@ -88,7 +89,6 @@ A table of things ...
 * [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
 * [Strace-ui, Bonsai_term, and the TUI renaissance](https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/)
 * [Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness)
-* [Castor: CERN Advanced STORage Manager](https://castor.web.cern.ch/content/home.html)
 
 ### Things I'm star-ing
 
