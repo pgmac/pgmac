@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Appearing Productive in The Workplace — No One's Happy](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
 * [Saturday Morning Breakfast Cereal - Creative](https://www.smbc-comics.com/comic/creative-3)
 * [Saturday Morning Breakfast Cereal - Gold](https://www.smbc-comics.com/comic/gold-5)
 * [social.panic.com](https://social.panic.com/@cabel/116710623616975906)
@@ -88,10 +89,11 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Yes](https://www.smbc-comics.com/comic/yes)
 * [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
 * [Strace-ui, Bonsai_term, and the TUI renaissance](https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/)
-* [Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness)
 
 ### Things I'm star-ing
 
+* [mcp-server-wazuh](https://github.com/gbrigandi/mcp-server-wazuh)
+  MCP Server for Wazuh SIEM
 * [open-code-review](https://github.com/alibaba/open-code-review)
   Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 * [defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)
@@ -110,8 +112,6 @@ A table of things ...
   Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastructure auditing
 * [foxguard](https://github.com/0sec-labs/foxguard)
   A blazingly fast security scanner, written in Rust. Batteries included, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
-* [Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
-  Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories within the license terms.
 
 ### My Blog Posts
 
