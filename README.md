@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Surveil](https://www.smbc-comics.com/comic/surveil)
 * [Appearing Productive in The Workplace — No One's Happy](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
 * [Saturday Morning Breakfast Cereal - Creative](https://www.smbc-comics.com/comic/creative-3)
 * [Saturday Morning Breakfast Cereal - Gold](https://www.smbc-comics.com/comic/gold-5)
@@ -88,7 +89,6 @@ A table of things ...
 * [Google to pay SpaceX $920 million a month for compute capacity at xAI data centers](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html)
 * [Saturday Morning Breakfast Cereal - Yes](https://www.smbc-comics.com/comic/yes)
 * [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
-* [Strace-ui, Bonsai_term, and the TUI renaissance](https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/)
 
 ### Things I'm star-ing
 
