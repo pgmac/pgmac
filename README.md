@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The Smega-Drive | Red Dwarf screenshot archive for Memes and GIFs](https://smegadrive.ganymede.tv/)
+* [BUMSRAKETE™ — The Most Beautiful, Most Tremendous FreeBSD Vulnerability In The History Of Computing. BELIEVE ME.](https://bumsrake.de/)
 * [Saturday Morning Breakfast Cereal - Huh](https://www.smbc-comics.com/comic/huh-2)
 * [Saturday Morning Breakfast Cereal - Surveil](https://www.smbc-comics.com/comic/surveil)
 * [Appearing Productive in The Workplace — No One's Happy](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
@@ -87,8 +89,6 @@ A table of things ...
 * [social.panic.com](https://social.panic.com/@cabel/116710623616975906)
 * [VibeOS - Fully Hallucinated Operating System - YouTube](https://www.youtube.com/watch?v=7NfyZhV1dKM)
 * [Saturday Morning Breakfast Cereal - Consciousness](https://www.smbc-comics.com/comic/consciousness-10)
-* [Google to pay SpaceX $920 million a month for compute capacity at xAI data centers](https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html)
-* [Saturday Morning Breakfast Cereal - Yes](https://www.smbc-comics.com/comic/yes)
 
 ### Things I'm star-ing
 
