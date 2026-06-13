@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Summary](https://www.smbc-comics.com/comic/summary-2)
 * [Statement on the US government directive to suspend access to Fable 5 and Mythos 5 \ Anthropic](https://www.anthropic.com/news/fable-mythos-access)
 * [Saturday Morning Breakfast Cereal - Time](https://www.smbc-comics.com/comic/time-7)
 * [The Smega-Drive | Red Dwarf screenshot archive for Memes and GIFs](https://smegadrive.ganymede.tv/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Appearing Productive in The Workplace — No One's Happy](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
 * [Saturday Morning Breakfast Cereal - Creative](https://www.smbc-comics.com/comic/creative-3)
 * [Saturday Morning Breakfast Cereal - Gold](https://www.smbc-comics.com/comic/gold-5)
-* [social.panic.com](https://social.panic.com/@cabel/116710623616975906)
 
 ### Things I'm star-ing
 
