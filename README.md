@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Proof](https://www.smbc-comics.com/comic/proof-6)
+* [garrit.xyz](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)
+* [Shepherd's Dog: A Game by the World's Most Dangerous AI | Koen van Gilst](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
+* [Scientists Discover a Strange Global Pattern in The Way Humans Walk : ScienceAlert](https://www.sciencealert.com/scientists-discover-a-strange-global-pattern-in-the-way-humans-walk)
 * [How formal verification makes AWS Nitro the first formally verified cloud hypervisor - Amazon Science](https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation)
 * [AWS rolls the dice for faster, more efficient networking](https://www.theregister.com/networks/2026/06/13/aws-rolls-the-dice-for-faster-more-efficient-networking/5253248)
 * [Saturday Morning Breakfast Cereal - Upcoming Book Signings](https://www.smbc-comics.com/comic/upcoming-book-signings)
 * [Saturday Morning Breakfast Cereal - Summary](https://www.smbc-comics.com/comic/summary-2)
 * [Statement on the US government directive to suspend access to Fable 5 and Mythos 5 \ Anthropic](https://www.anthropic.com/news/fable-mythos-access)
 * [Saturday Morning Breakfast Cereal - Time](https://www.smbc-comics.com/comic/time-7)
-* [The Smega-Drive | Red Dwarf screenshot archive for Memes and GIFs](https://smegadrive.ganymede.tv/)
-* [BUMSRAKETE™ — The Most Beautiful, Most Tremendous FreeBSD Vulnerability In The History Of Computing. BELIEVE ME.](https://bumsrake.de/)
-* [Saturday Morning Breakfast Cereal - Huh](https://www.smbc-comics.com/comic/huh-2)
-* [Saturday Morning Breakfast Cereal - Surveil](https://www.smbc-comics.com/comic/surveil)
 
 ### Things I'm star-ing
 
