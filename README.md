@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [How formal verification makes AWS Nitro the first formally verified cloud hypervisor - Amazon Science](https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation)
+* [AWS rolls the dice for faster, more efficient networking](https://www.theregister.com/networks/2026/06/13/aws-rolls-the-dice-for-faster-more-efficient-networking/5253248)
 * [Saturday Morning Breakfast Cereal - Upcoming Book Signings](https://www.smbc-comics.com/comic/upcoming-book-signings)
 * [Saturday Morning Breakfast Cereal - Summary](https://www.smbc-comics.com/comic/summary-2)
 * [Statement on the US government directive to suspend access to Fable 5 and Mythos 5 \ Anthropic](https://www.anthropic.com/news/fable-mythos-access)
@@ -87,8 +89,6 @@ A table of things ...
 * [BUMSRAKETE™ — The Most Beautiful, Most Tremendous FreeBSD Vulnerability In The History Of Computing. BELIEVE ME.](https://bumsrake.de/)
 * [Saturday Morning Breakfast Cereal - Huh](https://www.smbc-comics.com/comic/huh-2)
 * [Saturday Morning Breakfast Cereal - Surveil](https://www.smbc-comics.com/comic/surveil)
-* [Appearing Productive in The Workplace — No One's Happy](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
-* [Saturday Morning Breakfast Cereal - Creative](https://www.smbc-comics.com/comic/creative-3)
 
 ### Things I'm star-ing
 
