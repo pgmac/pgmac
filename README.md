@@ -79,6 +79,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [BugHunter - Bug Bounty Toolkit Powered by Claude and Free AI Providers](https://cybersecuritynews.com/bughunter-bug-bounty-toolkit/)
+* [Yserver Is a New X11 Server for Linux Written from Scratch in Rust](https://linuxiac.com/yserver-is-a-new-x11-server-for-linux-written-from-scratch-in-rust/)
+* [Arch Linux AUR Hit By Another Wave Of Now More Sophisticated Malware Attack - Phoronix](https://www.phoronix.com/news/Arch-Linux-AUR-More-Malware)
 * [Saturday Morning Breakfast Cereal - Proof](https://www.smbc-comics.com/comic/proof-6)
 * [garrit.xyz](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)
 * [Shepherd's Dog: A Game by the World's Most Dangerous AI | Koen van Gilst](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
@@ -86,9 +89,6 @@ A table of things ...
 * [How formal verification makes AWS Nitro the first formally verified cloud hypervisor - Amazon Science](https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation)
 * [AWS rolls the dice for faster, more efficient networking](https://www.theregister.com/networks/2026/06/13/aws-rolls-the-dice-for-faster-more-efficient-networking/5253248)
 * [Saturday Morning Breakfast Cereal - Upcoming Book Signings](https://www.smbc-comics.com/comic/upcoming-book-signings)
-* [Saturday Morning Breakfast Cereal - Summary](https://www.smbc-comics.com/comic/summary-2)
-* [Statement on the US government directive to suspend access to Fable 5 and Mythos 5 \ Anthropic](https://www.anthropic.com/news/fable-mythos-access)
-* [Saturday Morning Breakfast Cereal - Time](https://www.smbc-comics.com/comic/time-7)
 
 ### Things I'm star-ing
 
