@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Iroh 1.0 - Dial Keys, not IPs - Iroh](https://www.iroh.computer/blog/v1)
+* [Stuff The British Stole: How Captain Cook went from being celebrated to slain in Hawaii](https://www.abc.net.au/news/2026-06-16/captain-cook-death-hawaii-stuff-the-british-stole/106779490)
 * [Saturday Morning Breakfast Cereal - Duck](https://www.smbc-comics.com/comic/duck-2)
 * [BugHunter - Bug Bounty Toolkit Powered by Claude and Free AI Providers](https://cybersecuritynews.com/bughunter-bug-bounty-toolkit/)
 * [Yserver Is a New X11 Server for Linux Written from Scratch in Rust](https://linuxiac.com/yserver-is-a-new-x11-server-for-linux-written-from-scratch-in-rust/)
@@ -87,11 +89,11 @@ A table of things ...
 * [garrit.xyz](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)
 * [Shepherd's Dog: A Game by the World's Most Dangerous AI | Koen van Gilst](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
 * [Scientists Discover a Strange Global Pattern in The Way Humans Walk : ScienceAlert](https://www.sciencealert.com/scientists-discover-a-strange-global-pattern-in-the-way-humans-walk)
-* [How formal verification makes AWS Nitro the first formally verified cloud hypervisor - Amazon Science](https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation)
-* [AWS rolls the dice for faster, more efficient networking](https://www.theregister.com/networks/2026/06/13/aws-rolls-the-dice-for-faster-more-efficient-networking/5253248)
 
 ### Things I'm star-ing
 
+* [iroh](https://github.com/n0-computer/iroh)
+  IP addresses break, dial keys instead. Modular networking stack in Rust.
 * [wrangle](https://github.com/TomHennen/wrangle)
   
 * [mcp-server-wazuh](https://github.com/gbrigandi/mcp-server-wazuh)
@@ -110,8 +112,6 @@ A table of things ...
   Roguelike that names itself each run. WIP
 * [spec-kit](https://github.com/github/spec-kit)
   💫 Toolkit to help you get started with Spec-Driven Development
-* [RepoLens](https://github.com/TheMorpheus407/RepoLens)
-  Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastructure auditing
 
 ### My Blog Posts
 
