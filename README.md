@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Duck](https://www.smbc-comics.com/comic/duck-2)
 * [BugHunter - Bug Bounty Toolkit Powered by Claude and Free AI Providers](https://cybersecuritynews.com/bughunter-bug-bounty-toolkit/)
 * [Yserver Is a New X11 Server for Linux Written from Scratch in Rust](https://linuxiac.com/yserver-is-a-new-x11-server-for-linux-written-from-scratch-in-rust/)
 * [Arch Linux AUR Hit By Another Wave Of Now More Sophisticated Malware Attack - Phoronix](https://www.phoronix.com/news/Arch-Linux-AUR-More-Malware)
@@ -88,7 +89,6 @@ A table of things ...
 * [Scientists Discover a Strange Global Pattern in The Way Humans Walk : ScienceAlert](https://www.sciencealert.com/scientists-discover-a-strange-global-pattern-in-the-way-humans-walk)
 * [How formal verification makes AWS Nitro the first formally verified cloud hypervisor - Amazon Science](https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation)
 * [AWS rolls the dice for faster, more efficient networking](https://www.theregister.com/networks/2026/06/13/aws-rolls-the-dice-for-faster-more-efficient-networking/5253248)
-* [Saturday Morning Breakfast Cereal - Upcoming Book Signings](https://www.smbc-comics.com/comic/upcoming-book-signings)
 
 ### Things I'm star-ing
 
