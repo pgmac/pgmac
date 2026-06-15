@@ -92,6 +92,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [wrangle](https://github.com/TomHennen/wrangle)
+  
 * [mcp-server-wazuh](https://github.com/gbrigandi/mcp-server-wazuh)
   MCP Server for Wazuh SIEM
 * [open-code-review](https://github.com/alibaba/open-code-review)
@@ -110,8 +112,6 @@ A table of things ...
   💫 Toolkit to help you get started with Spec-Driven Development
 * [RepoLens](https://github.com/TheMorpheus407/RepoLens)
   Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastructure auditing
-* [foxguard](https://github.com/0sec-labs/foxguard)
-  A blazingly fast security scanner, written in Rust. Batteries included, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
 
 ### My Blog Posts
 
