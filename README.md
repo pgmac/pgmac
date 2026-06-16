@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Sawyer](https://www.smbc-comics.com/comic/sawyer)
 * [Iroh 1.0 - Dial Keys, not IPs - Iroh](https://www.iroh.computer/blog/v1)
 * [Stuff The British Stole: How Captain Cook went from being celebrated to slain in Hawaii](https://www.abc.net.au/news/2026-06-16/captain-cook-death-hawaii-stuff-the-british-stole/106779490)
 * [Saturday Morning Breakfast Cereal - Duck](https://www.smbc-comics.com/comic/duck-2)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Proof](https://www.smbc-comics.com/comic/proof-6)
 * [garrit.xyz](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)
 * [Shepherd's Dog: A Game by the World's Most Dangerous AI | Koen van Gilst](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
-* [Scientists Discover a Strange Global Pattern in The Way Humans Walk : ScienceAlert](https://www.sciencealert.com/scientists-discover-a-strange-global-pattern-in-the-way-humans-walk)
 
 ### Things I'm star-ing
 
