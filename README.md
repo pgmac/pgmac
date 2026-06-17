@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Deal](https://www.smbc-comics.com/comic/deal)
 * [Saturday Morning Breakfast Cereal - Sawyer](https://www.smbc-comics.com/comic/sawyer)
 * [Iroh 1.0 - Dial Keys, not IPs - Iroh](https://www.iroh.computer/blog/v1)
 * [Stuff The British Stole: How Captain Cook went from being celebrated to slain in Hawaii](https://www.abc.net.au/news/2026-06-16/captain-cook-death-hawaii-stuff-the-british-stole/106779490)
@@ -88,7 +89,6 @@ A table of things ...
 * [Arch Linux AUR Hit By Another Wave Of Now More Sophisticated Malware Attack - Phoronix](https://www.phoronix.com/news/Arch-Linux-AUR-More-Malware)
 * [Saturday Morning Breakfast Cereal - Proof](https://www.smbc-comics.com/comic/proof-6)
 * [garrit.xyz](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)
-* [Shepherd's Dog: A Game by the World's Most Dangerous AI | Koen van Gilst](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
 
 ### Things I'm star-ing
 
