@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Spooky](https://www.smbc-comics.com/comic/spooky-3)
 * [Saturday Morning Breakfast Cereal - Deal](https://www.smbc-comics.com/comic/deal)
 * [Saturday Morning Breakfast Cereal - Sawyer](https://www.smbc-comics.com/comic/sawyer)
 * [Iroh 1.0 - Dial Keys, not IPs - Iroh](https://www.iroh.computer/blog/v1)
@@ -88,7 +89,6 @@ A table of things ...
 * [Yserver Is a New X11 Server for Linux Written from Scratch in Rust](https://linuxiac.com/yserver-is-a-new-x11-server-for-linux-written-from-scratch-in-rust/)
 * [Arch Linux AUR Hit By Another Wave Of Now More Sophisticated Malware Attack - Phoronix](https://www.phoronix.com/news/Arch-Linux-AUR-More-Malware)
 * [Saturday Morning Breakfast Cereal - Proof](https://www.smbc-comics.com/comic/proof-6)
-* [garrit.xyz](https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost)
 
 ### Things I'm star-ing
 
