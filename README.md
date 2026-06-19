@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - GWAS](https://www.smbc-comics.com/comic/gwas)
 * [GitHub - TechSquidTV/Cliparr: Create clips from media on your personal media server · GitHub](https://github.com/TechSquidTV/Cliparr)
 * [Saturday Morning Breakfast Cereal - Spooky](https://www.smbc-comics.com/comic/spooky-3)
 * [Saturday Morning Breakfast Cereal - Deal](https://www.smbc-comics.com/comic/deal)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Duck](https://www.smbc-comics.com/comic/duck-2)
 * [BugHunter - Bug Bounty Toolkit Powered by Claude and Free AI Providers](https://cybersecuritynews.com/bughunter-bug-bounty-toolkit/)
 * [Yserver Is a New X11 Server for Linux Written from Scratch in Rust](https://linuxiac.com/yserver-is-a-new-x11-server-for-linux-written-from-scratch-in-rust/)
-* [Arch Linux AUR Hit By Another Wave Of Now More Sophisticated Malware Attack - Phoronix](https://www.phoronix.com/news/Arch-Linux-AUR-More-Malware)
 
 ### Things I'm star-ing
 
