@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - TechSquidTV/Cliparr: Create clips from media on your personal media server · GitHub](https://github.com/TechSquidTV/Cliparr)
 * [Saturday Morning Breakfast Cereal - Spooky](https://www.smbc-comics.com/comic/spooky-3)
 * [Saturday Morning Breakfast Cereal - Deal](https://www.smbc-comics.com/comic/deal)
 * [Saturday Morning Breakfast Cereal - Sawyer](https://www.smbc-comics.com/comic/sawyer)
@@ -88,10 +89,11 @@ A table of things ...
 * [BugHunter - Bug Bounty Toolkit Powered by Claude and Free AI Providers](https://cybersecuritynews.com/bughunter-bug-bounty-toolkit/)
 * [Yserver Is a New X11 Server for Linux Written from Scratch in Rust](https://linuxiac.com/yserver-is-a-new-x11-server-for-linux-written-from-scratch-in-rust/)
 * [Arch Linux AUR Hit By Another Wave Of Now More Sophisticated Malware Attack - Phoronix](https://www.phoronix.com/news/Arch-Linux-AUR-More-Malware)
-* [Saturday Morning Breakfast Cereal - Proof](https://www.smbc-comics.com/comic/proof-6)
 
 ### Things I'm star-ing
 
+* [Cliparr](https://github.com/TechSquidTV/Cliparr)
+  Create clips from media on your personal media server
 * [iroh](https://github.com/n0-computer/iroh)
   IP addresses break, dial keys instead. Modular networking stack in Rust.
 * [wrangle](https://github.com/TomHennen/wrangle)
@@ -110,8 +112,6 @@ A table of things ...
   Desktop app to manage markdown knowledge bases
 * [xsofy](https://github.com/nooga/xsofy)
   Roguelike that names itself each run. WIP
-* [spec-kit](https://github.com/github/spec-kit)
-  💫 Toolkit to help you get started with Spec-Driven Development
 
 ### My Blog Posts
 
