@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Ginge](https://www.smbc-comics.com/comic/ginge)
 * [Saturday Morning Breakfast Cereal - UBI](https://www.smbc-comics.com/comic/ubi)
 * [Saturday Morning Breakfast Cereal - GWAS](https://www.smbc-comics.com/comic/gwas)
 * [GitHub - TechSquidTV/Cliparr: Create clips from media on your personal media server · GitHub](https://github.com/TechSquidTV/Cliparr)
@@ -88,7 +89,6 @@ A table of things ...
 * [Iroh 1.0 - Dial Keys, not IPs - Iroh](https://www.iroh.computer/blog/v1)
 * [Stuff The British Stole: How Captain Cook went from being celebrated to slain in Hawaii](https://www.abc.net.au/news/2026-06-16/captain-cook-death-hawaii-stuff-the-british-stole/106779490)
 * [Saturday Morning Breakfast Cereal - Duck](https://www.smbc-comics.com/comic/duck-2)
-* [BugHunter - Bug Bounty Toolkit Powered by Claude and Free AI Providers](https://cybersecuritynews.com/bughunter-bug-bounty-toolkit/)
 
 ### Things I'm star-ing
 
