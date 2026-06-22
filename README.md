@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - She](https://www.smbc-comics.com/comic/she)
 * [HELLO.md , written by Claude Opus 4.6 when asked to be free in a directory on my computer · GitHub](https://gist.github.com/karpathy/fb64880bf1f99d58d6c759c966616922)
 * [Saturday Morning Breakfast Cereal - Ginge](https://www.smbc-comics.com/comic/ginge)
 * [Saturday Morning Breakfast Cereal - UBI](https://www.smbc-comics.com/comic/ubi)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Deal](https://www.smbc-comics.com/comic/deal)
 * [Saturday Morning Breakfast Cereal - Sawyer](https://www.smbc-comics.com/comic/sawyer)
 * [Iroh 1.0 - Dial Keys, not IPs - Iroh](https://www.iroh.computer/blog/v1)
-* [Stuff The British Stole: How Captain Cook went from being celebrated to slain in Hawaii](https://www.abc.net.au/news/2026-06-16/captain-cook-death-hawaii-stuff-the-british-stole/106779490)
 
 ### Things I'm star-ing
 
