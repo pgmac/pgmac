@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [HELLO.md , written by Claude Opus 4.6 when asked to be free in a directory on my computer · GitHub](https://gist.github.com/karpathy/fb64880bf1f99d58d6c759c966616922)
 * [Saturday Morning Breakfast Cereal - Ginge](https://www.smbc-comics.com/comic/ginge)
 * [Saturday Morning Breakfast Cereal - UBI](https://www.smbc-comics.com/comic/ubi)
 * [Saturday Morning Breakfast Cereal - GWAS](https://www.smbc-comics.com/comic/gwas)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Sawyer](https://www.smbc-comics.com/comic/sawyer)
 * [Iroh 1.0 - Dial Keys, not IPs - Iroh](https://www.iroh.computer/blog/v1)
 * [Stuff The British Stole: How Captain Cook went from being celebrated to slain in Hawaii](https://www.abc.net.au/news/2026-06-16/captain-cook-death-hawaii-stuff-the-british-stole/106779490)
-* [Saturday Morning Breakfast Cereal - Duck](https://www.smbc-comics.com/comic/duck-2)
 
 ### Things I'm star-ing
 
@@ -104,7 +104,7 @@ A table of things ...
   Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 * [defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)
   Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
-* [headroom](https://github.com/chopratejas/headroom)
+* [headroom](https://github.com/headroomlabs-ai/headroom)
   Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 * [OpenHack](https://github.com/hadriansecurity/OpenHack)
   Lightweight, file-based workspace for source-guided whitebox security review.
