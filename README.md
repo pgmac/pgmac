@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Spiraling](https://www.smbc-comics.com/comic/spiraling)
 * [Saturday Morning Breakfast Cereal - She](https://www.smbc-comics.com/comic/she)
 * [HELLO.md , written by Claude Opus 4.6 when asked to be free in a directory on my computer · GitHub](https://gist.github.com/karpathy/fb64880bf1f99d58d6c759c966616922)
 * [Saturday Morning Breakfast Cereal - Ginge](https://www.smbc-comics.com/comic/ginge)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Spooky](https://www.smbc-comics.com/comic/spooky-3)
 * [Saturday Morning Breakfast Cereal - Deal](https://www.smbc-comics.com/comic/deal)
 * [Saturday Morning Breakfast Cereal - Sawyer](https://www.smbc-comics.com/comic/sawyer)
-* [Iroh 1.0 - Dial Keys, not IPs - Iroh](https://www.iroh.computer/blog/v1)
 
 ### Things I'm star-ing
 
