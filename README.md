@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Introducing Claude Tag \ Anthropic](https://www.anthropic.com/news/introducing-claude-tag)
 * [OpenAI Releases GPT‑5.5‑Cyber With Full Automation for Vulnerability Detection and Patching](https://cybersecuritynews.com/gpt-5-5-cyber/)
 * [www.abc.net.au](https://www.abc.net.au/news/2026-06-24/worlds-oldest-asteroid-crater-pilbara-confirmed/106818546)
 * [Saturday Morning Breakfast Cereal - Spiraling](https://www.smbc-comics.com/comic/spiraling)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - UBI](https://www.smbc-comics.com/comic/ubi)
 * [Saturday Morning Breakfast Cereal - GWAS](https://www.smbc-comics.com/comic/gwas)
 * [GitHub - TechSquidTV/Cliparr: Create clips from media on your personal media server · GitHub](https://github.com/TechSquidTV/Cliparr)
-* [Saturday Morning Breakfast Cereal - Spooky](https://www.smbc-comics.com/comic/spooky-3)
 
 ### Things I'm star-ing
 
