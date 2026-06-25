@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [ASD to retire Essential Eight cyber security framework within next two years - iTnews](https://www.itnews.com.au/news/asd-to-retire-essential-eight-cyber-security-framework-within-next-two-years-626851)
 * [Saturday Morning Breakfast Cereal - Comedy](https://www.smbc-comics.com/comic/comedy-2)
 * [Room 1](https://inventwithpython.com/mazewebsite/room1.html)
 * [Introducing Claude Tag \ Anthropic](https://www.anthropic.com/news/introducing-claude-tag)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - She](https://www.smbc-comics.com/comic/she)
 * [HELLO.md , written by Claude Opus 4.6 when asked to be free in a directory on my computer · GitHub](https://gist.github.com/karpathy/fb64880bf1f99d58d6c759c966616922)
 * [Saturday Morning Breakfast Cereal - Ginge](https://www.smbc-comics.com/comic/ginge)
-* [Saturday Morning Breakfast Cereal - UBI](https://www.smbc-comics.com/comic/ubi)
 
 ### Things I'm star-ing
 
