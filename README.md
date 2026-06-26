@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Milgram](https://www.smbc-comics.com/comic/milgram)
 * [Saturday Morning Breakfast Cereal - Agency](https://www.smbc-comics.com/comic/agency)
 * [ASD to retire Essential Eight cyber security framework within next two years - iTnews](https://www.itnews.com.au/news/asd-to-retire-essential-eight-cyber-security-framework-within-next-two-years-626851)
 * [Saturday Morning Breakfast Cereal - Comedy](https://www.smbc-comics.com/comic/comedy-2)
@@ -88,7 +89,6 @@ A table of things ...
 * [www.abc.net.au](https://www.abc.net.au/news/2026-06-24/worlds-oldest-asteroid-crater-pilbara-confirmed/106818546)
 * [Saturday Morning Breakfast Cereal - Spiraling](https://www.smbc-comics.com/comic/spiraling)
 * [Saturday Morning Breakfast Cereal - She](https://www.smbc-comics.com/comic/she)
-* [HELLO.md , written by Claude Opus 4.6 when asked to be free in a directory on my computer · GitHub](https://gist.github.com/karpathy/fb64880bf1f99d58d6c759c966616922)
 
 ### Things I'm star-ing
 
