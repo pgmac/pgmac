@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Nasa rover detects potential signatures of ancient microbial life on Mars | Mars | The Guardian](https://www.theguardian.com/science/2026/jun/24/nasa-rover-detects-potential-signatures-ancient-microbial-life-mars)
 * [Saturday Morning Breakfast Cereal - Milgram](https://www.smbc-comics.com/comic/milgram)
 * [Saturday Morning Breakfast Cereal - Agency](https://www.smbc-comics.com/comic/agency)
 * [ASD to retire Essential Eight cyber security framework within next two years - iTnews](https://www.itnews.com.au/news/asd-to-retire-essential-eight-cyber-security-framework-within-next-two-years-626851)
@@ -88,7 +89,6 @@ A table of things ...
 * [OpenAI Releases GPT‑5.5‑Cyber With Full Automation for Vulnerability Detection and Patching](https://cybersecuritynews.com/gpt-5-5-cyber/)
 * [www.abc.net.au](https://www.abc.net.au/news/2026-06-24/worlds-oldest-asteroid-crater-pilbara-confirmed/106818546)
 * [Saturday Morning Breakfast Cereal - Spiraling](https://www.smbc-comics.com/comic/spiraling)
-* [Saturday Morning Breakfast Cereal - She](https://www.smbc-comics.com/comic/she)
 
 ### Things I'm star-ing
 
