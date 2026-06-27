@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - CopilotKit/OpenTag: OpenTag · GitHub](https://github.com/CopilotKit/OpenTag)
 * [Nasa rover detects potential signatures of ancient microbial life on Mars | Mars | The Guardian](https://www.theguardian.com/science/2026/jun/24/nasa-rover-detects-potential-signatures-ancient-microbial-life-mars)
 * [Saturday Morning Breakfast Cereal - Milgram](https://www.smbc-comics.com/comic/milgram)
 * [Saturday Morning Breakfast Cereal - Agency](https://www.smbc-comics.com/comic/agency)
@@ -88,10 +89,11 @@ A table of things ...
 * [Introducing Claude Tag \ Anthropic](https://www.anthropic.com/news/introducing-claude-tag)
 * [OpenAI Releases GPT‑5.5‑Cyber With Full Automation for Vulnerability Detection and Patching](https://cybersecuritynews.com/gpt-5-5-cyber/)
 * [www.abc.net.au](https://www.abc.net.au/news/2026-06-24/worlds-oldest-asteroid-crater-pilbara-confirmed/106818546)
-* [Saturday Morning Breakfast Cereal - Spiraling](https://www.smbc-comics.com/comic/spiraling)
 
 ### Things I'm star-ing
 
+* [OpenTag](https://github.com/CopilotKit/OpenTag)
+  OpenTag
 * [Cliparr](https://github.com/TechSquidTV/Cliparr)
   Create clips from media on your personal media server
 * [iroh](https://github.com/n0-computer/iroh)
@@ -110,8 +112,6 @@ A table of things ...
   Lightweight, file-based workspace for source-guided whitebox security review.
 * [tolaria](https://github.com/refactoringhq/tolaria)
   Desktop app to manage markdown knowledge bases
-* [xsofy](https://github.com/nooga/xsofy)
-  Roguelike that names itself each run. WIP
 
 ### My Blog Posts
 
