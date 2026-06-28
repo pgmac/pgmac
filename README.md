@@ -92,6 +92,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [wayfinder-router](https://github.com/itsthelore/wayfinder-router)
+  Simple CLI tool for deterministic routing of queries between local and hosted LLM models
 * [OpenTag](https://github.com/CopilotKit/OpenTag)
   OpenTag
 * [Cliparr](https://github.com/TechSquidTV/Cliparr)
@@ -110,8 +112,6 @@ A table of things ...
   Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 * [OpenHack](https://github.com/hadriansecurity/OpenHack)
   Lightweight, file-based workspace for source-guided whitebox security review.
-* [tolaria](https://github.com/refactoringhq/tolaria)
-  Desktop app to manage markdown knowledge bases
 
 ### My Blog Posts
 
