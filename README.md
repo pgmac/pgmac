@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Protocol](https://www.smbc-comics.com/comic/protocol-2)
 * [Saturday Morning Breakfast Cereal - Mission](https://www.smbc-comics.com/comic/mission)
 * [GitHub - CopilotKit/OpenTag: OpenTag · GitHub](https://github.com/CopilotKit/OpenTag)
 * [Nasa rover detects potential signatures of ancient microbial life on Mars | Mars | The Guardian](https://www.theguardian.com/science/2026/jun/24/nasa-rover-detects-potential-signatures-ancient-microbial-life-mars)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Comedy](https://www.smbc-comics.com/comic/comedy-2)
 * [Room 1](https://inventwithpython.com/mazewebsite/room1.html)
 * [Introducing Claude Tag \ Anthropic](https://www.anthropic.com/news/introducing-claude-tag)
-* [OpenAI Releases GPT‑5.5‑Cyber With Full Automation for Vulnerability Detection and Patching](https://cybersecuritynews.com/gpt-5-5-cyber/)
 
 ### Things I'm star-ing
 
