@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Minos](https://www.smbc-comics.com/comic/minos)
 * [GitHub - inkeep/open-knowledge: Beautiful, AI-native markdown editor and LLM Wiki · GitHub](https://github.com/inkeep/open-knowledge)
 * [Saturday Morning Breakfast Cereal - Protocol](https://www.smbc-comics.com/comic/protocol-2)
 * [Saturday Morning Breakfast Cereal - Mission](https://www.smbc-comics.com/comic/mission)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Agency](https://www.smbc-comics.com/comic/agency)
 * [ASD to retire Essential Eight cyber security framework within next two years - iTnews](https://www.itnews.com.au/news/asd-to-retire-essential-eight-cyber-security-framework-within-next-two-years-626851)
 * [Saturday Morning Breakfast Cereal - Comedy](https://www.smbc-comics.com/comic/comedy-2)
-* [Room 1](https://inventwithpython.com/mazewebsite/room1.html)
 
 ### Things I'm star-ing
 
