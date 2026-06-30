@@ -99,7 +99,7 @@ A table of things ...
 * [Cliparr](https://github.com/TechSquidTV/Cliparr)
   Create clips from media on your personal media server
 * [iroh](https://github.com/n0-computer/iroh)
-  IP addresses break, dial keys instead. Modular networking stack in Rust.
+  IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 * [wrangle](https://github.com/TomHennen/wrangle)
   
 * [mcp-server-wazuh](https://github.com/gbrigandi/mcp-server-wazuh)
