@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Uncanny](https://www.smbc-comics.com/comic/uncanny-3)
 * [Saturday Morning Breakfast Cereal - Minos](https://www.smbc-comics.com/comic/minos)
 * [GitHub - inkeep/open-knowledge: Beautiful, AI-native markdown editor and LLM Wiki · GitHub](https://github.com/inkeep/open-knowledge)
 * [Saturday Morning Breakfast Cereal - Protocol](https://www.smbc-comics.com/comic/protocol-2)
@@ -88,10 +89,11 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Milgram](https://www.smbc-comics.com/comic/milgram)
 * [Saturday Morning Breakfast Cereal - Agency](https://www.smbc-comics.com/comic/agency)
 * [ASD to retire Essential Eight cyber security framework within next two years - iTnews](https://www.itnews.com.au/news/asd-to-retire-essential-eight-cyber-security-framework-within-next-two-years-626851)
-* [Saturday Morning Breakfast Cereal - Comedy](https://www.smbc-comics.com/comic/comedy-2)
 
 ### Things I'm star-ing
 
+* [Dark-Moon](https://github.com/ASCIT31/Dark-Moon)
+  Autonomous AI pentesting engine performing continuous offensive security across web, cloud, AD and Kubernetes. Uses agentic reasoning, real exploit execution and attack path analysis to deliver proof-based vulnerabilities.
 * [wayfinder-router](https://github.com/itsthelore/wayfinder-router)
   Simple CLI tool for deterministic routing of queries between local and hosted LLM models
 * [OpenTag](https://github.com/CopilotKit/OpenTag)
@@ -110,8 +112,6 @@ A table of things ...
   Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 * [headroom](https://github.com/headroomlabs-ai/headroom)
   Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-* [OpenHack](https://github.com/hadriansecurity/OpenHack)
-  Lightweight, file-based workspace for source-guided whitebox security review.
 
 ### My Blog Posts
 
