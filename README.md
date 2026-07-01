@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - App](https://www.smbc-comics.com/comic/app-6)
 * [GitHub - MikeyBeez/Ollama_Agents: Build an AI Agent from Libraries of Functions -- My most advanced agent framework · GitHub](https://github.com/MikeyBeez/Ollama_Agents)
 * [GitHub - aquantumofdonuts/mixarr: Self-hosted music discovery companion for Lidarr. Connect Spotify, TIDAL, Last.fm, Deezer, Plex & more. Docker-ready. · GitHub](https://github.com/aquantumofdonuts/mixarr)
 * [The forge we deserve | Tao Bojlén](https://btao.org/posts/2026-05-09-the-forge-we-deserve/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Minos](https://www.smbc-comics.com/comic/minos)
 * [GitHub - inkeep/open-knowledge: Beautiful, AI-native markdown editor and LLM Wiki · GitHub](https://github.com/inkeep/open-knowledge)
 * [Saturday Morning Breakfast Cereal - Protocol](https://www.smbc-comics.com/comic/protocol-2)
-* [Saturday Morning Breakfast Cereal - Mission](https://www.smbc-comics.com/comic/mission)
 
 ### Things I'm star-ing
 
