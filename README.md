@@ -79,19 +79,25 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - MikeyBeez/Ollama_Agents: Build an AI Agent from Libraries of Functions -- My most advanced agent framework · GitHub](https://github.com/MikeyBeez/Ollama_Agents)
+* [GitHub - aquantumofdonuts/mixarr: Self-hosted music discovery companion for Lidarr. Connect Spotify, TIDAL, Last.fm, Deezer, Plex & more. Docker-ready. · GitHub](https://github.com/aquantumofdonuts/mixarr)
+* [The forge we deserve | Tao Bojlén](https://btao.org/posts/2026-05-09-the-forge-we-deserve/)
+* [How to burst the AI bubble: Strike at its roots - Ars Technica](https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/)
+* [Claude Desktop on Linux (beta) - Claude Code Docs](https://code.claude.com/docs/en/desktop-linux)
 * [Saturday Morning Breakfast Cereal - Uncanny](https://www.smbc-comics.com/comic/uncanny-3)
 * [Saturday Morning Breakfast Cereal - Minos](https://www.smbc-comics.com/comic/minos)
 * [GitHub - inkeep/open-knowledge: Beautiful, AI-native markdown editor and LLM Wiki · GitHub](https://github.com/inkeep/open-knowledge)
 * [Saturday Morning Breakfast Cereal - Protocol](https://www.smbc-comics.com/comic/protocol-2)
 * [Saturday Morning Breakfast Cereal - Mission](https://www.smbc-comics.com/comic/mission)
-* [GitHub - CopilotKit/OpenTag: OpenTag · GitHub](https://github.com/CopilotKit/OpenTag)
-* [Nasa rover detects potential signatures of ancient microbial life on Mars | Mars | The Guardian](https://www.theguardian.com/science/2026/jun/24/nasa-rover-detects-potential-signatures-ancient-microbial-life-mars)
-* [Saturday Morning Breakfast Cereal - Milgram](https://www.smbc-comics.com/comic/milgram)
-* [Saturday Morning Breakfast Cereal - Agency](https://www.smbc-comics.com/comic/agency)
-* [ASD to retire Essential Eight cyber security framework within next two years - iTnews](https://www.itnews.com.au/news/asd-to-retire-essential-eight-cyber-security-framework-within-next-two-years-626851)
 
 ### Things I'm star-ing
 
+* [mixarr](https://github.com/aquantumofdonuts/mixarr)
+  Self-hosted music discovery companion for Lidarr. Connect Spotify, TIDAL, Last.fm, Deezer, Plex & more. Docker-ready.
+* [atomic](https://github.com/kenforthewin/atomic)
+  Self-hosted, semantically-connected personal knowledge base
+* [skills](https://github.com/mattpocock/skills)
+  Skills for Real Engineers. Straight from my .claude directory.
 * [Dark-Moon](https://github.com/ASCIT31/Dark-Moon)
   Autonomous AI pentesting engine performing continuous offensive security across web, cloud, AD and Kubernetes. Uses agentic reasoning, real exploit execution and attack path analysis to deliver proof-based vulnerabilities.
 * [wayfinder-router](https://github.com/itsthelore/wayfinder-router)
@@ -106,12 +112,6 @@ A table of things ...
   
 * [mcp-server-wazuh](https://github.com/gbrigandi/mcp-server-wazuh)
   MCP Server for Wazuh SIEM
-* [open-code-review](https://github.com/alibaba/open-code-review)
-  Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-* [defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)
-  Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
-* [headroom](https://github.com/headroomlabs-ai/headroom)
-  Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 
 ### My Blog Posts
 
