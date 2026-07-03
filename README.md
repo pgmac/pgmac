@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Percent](https://www.smbc-comics.com/comic/percent-2)
 * [Saturday Morning Breakfast Cereal - Adult](https://www.smbc-comics.com/comic/adult-3)
 * [Saturday Morning Breakfast Cereal - App](https://www.smbc-comics.com/comic/app-6)
 * [GitHub - MikeyBeez/Ollama_Agents: Build an AI Agent from Libraries of Functions -- My most advanced agent framework · GitHub](https://github.com/MikeyBeez/Ollama_Agents)
@@ -88,10 +89,11 @@ A table of things ...
 * [Claude Desktop on Linux (beta) - Claude Code Docs](https://code.claude.com/docs/en/desktop-linux)
 * [Saturday Morning Breakfast Cereal - Uncanny](https://www.smbc-comics.com/comic/uncanny-3)
 * [Saturday Morning Breakfast Cereal - Minos](https://www.smbc-comics.com/comic/minos)
-* [GitHub - inkeep/open-knowledge: Beautiful, AI-native markdown editor and LLM Wiki · GitHub](https://github.com/inkeep/open-knowledge)
 
 ### Things I'm star-ing
 
+* [nft-blocklist](https://github.com/dannysheehan/nft-blocklist)
+  Atomic nftables IP blocklist manager in Go — curated threat feeds, allowlist protection, shrink guard, systemd timers, fail2ban-friendly dynamic sets, pluggable notifications. Successor to the iptables/ipset blacklists script.
 * [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
   A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 * [mixarr](https://github.com/aquantumofdonuts/mixarr)
@@ -110,8 +112,6 @@ A table of things ...
   Create clips from media on your personal media server
 * [iroh](https://github.com/n0-computer/iroh)
   IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
-* [wrangle](https://github.com/TomHennen/wrangle)
-  
 
 ### My Blog Posts
 
