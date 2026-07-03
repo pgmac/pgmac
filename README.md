@@ -92,6 +92,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
+  A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 * [mixarr](https://github.com/aquantumofdonuts/mixarr)
   Self-hosted music discovery companion for Lidarr. Connect Spotify, TIDAL, Last.fm, Deezer, Plex & more. Docker-ready.
 * [atomic](https://github.com/kenforthewin/atomic)
@@ -110,8 +112,6 @@ A table of things ...
   IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 * [wrangle](https://github.com/TomHennen/wrangle)
   
-* [mcp-server-wazuh](https://github.com/gbrigandi/mcp-server-wazuh)
-  MCP Server for Wazuh SIEM
 
 ### My Blog Posts
 
