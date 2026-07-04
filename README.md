@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Apple Container 1.0 Released as a Native Docker Alternative for macOS](https://linuxiac.com/apple-container-1-0-released-as-a-native-docker-alternative-for-macos/)
 * [More details on Fable 5’s cyber safeguards and our jailbreak framework \ Anthropic](https://www.anthropic.com/news/fable-safeguards-jailbreak-framework)
 * [Saturday Morning Breakfast Cereal - Percent](https://www.smbc-comics.com/comic/percent-2)
 * [Saturday Morning Breakfast Cereal - Adult](https://www.smbc-comics.com/comic/adult-3)
@@ -88,7 +89,6 @@ A table of things ...
 * [The forge we deserve | Tao Bojlén](https://btao.org/posts/2026-05-09-the-forge-we-deserve/)
 * [How to burst the AI bubble: Strike at its roots - Ars Technica](https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/)
 * [Claude Desktop on Linux (beta) - Claude Code Docs](https://code.claude.com/docs/en/desktop-linux)
-* [Saturday Morning Breakfast Cereal - Uncanny](https://www.smbc-comics.com/comic/uncanny-3)
 
 ### Things I'm star-ing
 
