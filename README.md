@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [More details on Fable 5’s cyber safeguards and our jailbreak framework \ Anthropic](https://www.anthropic.com/news/fable-safeguards-jailbreak-framework)
 * [Saturday Morning Breakfast Cereal - Percent](https://www.smbc-comics.com/comic/percent-2)
 * [Saturday Morning Breakfast Cereal - Adult](https://www.smbc-comics.com/comic/adult-3)
 * [Saturday Morning Breakfast Cereal - App](https://www.smbc-comics.com/comic/app-6)
@@ -88,7 +89,6 @@ A table of things ...
 * [How to burst the AI bubble: Strike at its roots - Ars Technica](https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/)
 * [Claude Desktop on Linux (beta) - Claude Code Docs](https://code.claude.com/docs/en/desktop-linux)
 * [Saturday Morning Breakfast Cereal - Uncanny](https://www.smbc-comics.com/comic/uncanny-3)
-* [Saturday Morning Breakfast Cereal - Minos](https://www.smbc-comics.com/comic/minos)
 
 ### Things I'm star-ing
 
