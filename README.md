@@ -104,7 +104,7 @@ A table of things ...
   Skills for Real Engineers. Straight from my .claude directory.
 * [Dark-Moon](https://github.com/ASCIT31/Dark-Moon)
   Autonomous AI pentesting engine performing continuous offensive security across web, cloud, AD and Kubernetes. Uses agentic reasoning, real exploit execution and attack path analysis to deliver proof-based vulnerabilities.
-* [wayfinder-router](https://github.com/itsthelore/wayfinder-router)
+* [WayfinderRouter](https://github.com/itsthelore/WayfinderRouter)
   Simple CLI tool for deterministic routing of queries between local and hosted LLM models
 * [OpenTag](https://github.com/CopilotKit/OpenTag)
   OpenTag
