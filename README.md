@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Zod](https://www.smbc-comics.com/comic/zod)
 * [Saturday Morning Breakfast Cereal - Four](https://www.smbc-comics.com/comic/four-3)
 * [Saturday Morning Breakfast Cereal - Turing](https://www.smbc-comics.com/comic/turing)
 * [Saturday Morning Breakfast Cereal - Memory](https://www.smbc-comics.com/comic/memory-4)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Percent](https://www.smbc-comics.com/comic/percent-2)
 * [Saturday Morning Breakfast Cereal - Adult](https://www.smbc-comics.com/comic/adult-3)
 * [Saturday Morning Breakfast Cereal - App](https://www.smbc-comics.com/comic/app-6)
-* [GitHub - MikeyBeez/Ollama_Agents: Build an AI Agent from Libraries of Functions -- My most advanced agent framework · GitHub](https://github.com/MikeyBeez/Ollama_Agents)
 
 ### Things I'm star-ing
 
