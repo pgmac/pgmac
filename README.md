@@ -103,7 +103,7 @@ A table of things ...
 * [skills](https://github.com/mattpocock/skills)
   Skills for Real Engineers. Straight from my .claude directory.
 * [Dark-Moon](https://github.com/ASCIT31/Dark-Moon)
-  Autonomous AI pentesting engine performing continuous offensive security across web, cloud, AD and Kubernetes. Uses agentic reasoning, real exploit execution and attack path analysis to deliver proof-based vulnerabilities.
+  Autonomous AI pentesting engine, continuous offensive security across web, cloud, AD & Kubernetes. Agentic reasoning + real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts, creds or paths (deterministic placeholders rehydrated locally), nothing leaves your perimeter.
 * [WayfinderRouter](https://github.com/itsthelore/WayfinderRouter)
   Simple CLI tool for deterministic routing of queries between local and hosted LLM models
 * [OpenTag](https://github.com/CopilotKit/OpenTag)
