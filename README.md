@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Final](https://www.smbc-comics.com/comic/final)
 * [Saturday Morning Breakfast Cereal - Zod](https://www.smbc-comics.com/comic/zod)
 * [Saturday Morning Breakfast Cereal - Four](https://www.smbc-comics.com/comic/four-3)
 * [Saturday Morning Breakfast Cereal - Turing](https://www.smbc-comics.com/comic/turing)
@@ -88,7 +89,6 @@ A table of things ...
 * [More details on Fable 5’s cyber safeguards and our jailbreak framework \ Anthropic](https://www.anthropic.com/news/fable-safeguards-jailbreak-framework)
 * [Saturday Morning Breakfast Cereal - Percent](https://www.smbc-comics.com/comic/percent-2)
 * [Saturday Morning Breakfast Cereal - Adult](https://www.smbc-comics.com/comic/adult-3)
-* [Saturday Morning Breakfast Cereal - App](https://www.smbc-comics.com/comic/app-6)
 
 ### Things I'm star-ing
 
