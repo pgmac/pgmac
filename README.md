@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Dadalus](https://www.smbc-comics.com/comic/dadalus)
 * [Saturday Morning Breakfast Cereal - Final](https://www.smbc-comics.com/comic/final)
 * [Saturday Morning Breakfast Cereal - Zod](https://www.smbc-comics.com/comic/zod)
 * [Saturday Morning Breakfast Cereal - Four](https://www.smbc-comics.com/comic/four-3)
@@ -88,7 +89,6 @@ A table of things ...
 * [Apple Container 1.0 Released as a Native Docker Alternative for macOS](https://linuxiac.com/apple-container-1-0-released-as-a-native-docker-alternative-for-macos/)
 * [More details on Fable 5’s cyber safeguards and our jailbreak framework \ Anthropic](https://www.anthropic.com/news/fable-safeguards-jailbreak-framework)
 * [Saturday Morning Breakfast Cereal - Percent](https://www.smbc-comics.com/comic/percent-2)
-* [Saturday Morning Breakfast Cereal - Adult](https://www.smbc-comics.com/comic/adult-3)
 
 ### Things I'm star-ing
 
