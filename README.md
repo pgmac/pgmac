@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Old](https://www.smbc-comics.com/comic/old-2)
 * [Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats – Akrites](https://akrites.org/linux-foundation-and-industry-leaders-launch-akrites-to-defend-critical-open-source-software-against-ai-enabled-cyber-threats/)
 * [Saturday Morning Breakfast Cereal - Dadalus](https://www.smbc-comics.com/comic/dadalus)
 * [Saturday Morning Breakfast Cereal - Final](https://www.smbc-comics.com/comic/final)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Memory](https://www.smbc-comics.com/comic/memory-4)
 * [Saturday Morning Breakfast Cereal - Typical](https://www.smbc-comics.com/comic/typical)
 * [Apple Container 1.0 Released as a Native Docker Alternative for macOS](https://linuxiac.com/apple-container-1-0-released-as-a-native-docker-alternative-for-macos/)
-* [More details on Fable 5’s cyber safeguards and our jailbreak framework \ Anthropic](https://www.anthropic.com/news/fable-safeguards-jailbreak-framework)
 
 ### Things I'm star-ing
 
