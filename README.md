@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Evolution](https://www.smbc-comics.com/comic/evolution-10)
 * [Saturday Morning Breakfast Cereal - Old](https://www.smbc-comics.com/comic/old-2)
 * [Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats – Akrites](https://akrites.org/linux-foundation-and-industry-leaders-launch-akrites-to-defend-critical-open-source-software-against-ai-enabled-cyber-threats/)
 * [Saturday Morning Breakfast Cereal - Dadalus](https://www.smbc-comics.com/comic/dadalus)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Turing](https://www.smbc-comics.com/comic/turing)
 * [Saturday Morning Breakfast Cereal - Memory](https://www.smbc-comics.com/comic/memory-4)
 * [Saturday Morning Breakfast Cereal - Typical](https://www.smbc-comics.com/comic/typical)
-* [Apple Container 1.0 Released as a Native Docker Alternative for macOS](https://linuxiac.com/apple-container-1-0-released-as-a-native-docker-alternative-for-macos/)
 
 ### Things I'm star-ing
 
