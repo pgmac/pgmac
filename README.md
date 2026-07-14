@@ -92,6 +92,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [claude-meseeks](https://github.com/thephw/claude-meseeks)
+  Claude Code plugin that plays a Mr. Meeseeks voice line whenever Claude is waiting for you.
 * [nft-blocklist](https://github.com/dannysheehan/nft-blocklist)
   Atomic nftables IP blocklist manager in Go — curated threat feeds, allowlist protection, shrink guard, systemd timers, fail2ban-friendly dynamic sets, pluggable notifications. Successor to the iptables/ipset blacklists script.
 * [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
@@ -110,8 +112,6 @@ A table of things ...
   OpenTag
 * [Cliparr](https://github.com/TechSquidTV/Cliparr)
   Create clips from media on your personal media server
-* [iroh](https://github.com/n0-computer/iroh)
-  IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 
 ### My Blog Posts
 
