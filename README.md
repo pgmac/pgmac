@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Pac](https://www.smbc-comics.com/comic/pac)
 * [AI in Australia's interests | Prime Minister of Australia](https://www.pm.gov.au/media/ai-australias-interests-0)
 * [Saturday Morning Breakfast Cereal - Communication](https://www.smbc-comics.com/comic/communication-2)
 * [Saturday Morning Breakfast Cereal - Evolution](https://www.smbc-comics.com/comic/evolution-10)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Final](https://www.smbc-comics.com/comic/final)
 * [Saturday Morning Breakfast Cereal - Zod](https://www.smbc-comics.com/comic/zod)
 * [Saturday Morning Breakfast Cereal - Four](https://www.smbc-comics.com/comic/four-3)
-* [Saturday Morning Breakfast Cereal - Turing](https://www.smbc-comics.com/comic/turing)
 
 ### Things I'm star-ing
 
