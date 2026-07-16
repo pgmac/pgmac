@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Lockheed's SR-72 Hypersonic Successor To The Blackbird Still Hasn't Flown & Here's Why](https://simpleflying.com/lockheed-sr-72-hypersonic-succesor-blackbird-still-hasnt-flown-why/)
+* [Linus Torvalds tells AI haters to fork off](https://www.theregister.com/ai-and-ml/2026/07/15/linus-torvalds-tells-ai-haters-to-fork-off/5271894)
 * [Saturday Morning Breakfast Cereal - Pac](https://www.smbc-comics.com/comic/pac)
 * [AI in Australia's interests | Prime Minister of Australia](https://www.pm.gov.au/media/ai-australias-interests-0)
 * [Saturday Morning Breakfast Cereal - Communication](https://www.smbc-comics.com/comic/communication-2)
@@ -87,8 +89,6 @@ A table of things ...
 * [Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats – Akrites](https://akrites.org/linux-foundation-and-industry-leaders-launch-akrites-to-defend-critical-open-source-software-against-ai-enabled-cyber-threats/)
 * [Saturday Morning Breakfast Cereal - Dadalus](https://www.smbc-comics.com/comic/dadalus)
 * [Saturday Morning Breakfast Cereal - Final](https://www.smbc-comics.com/comic/final)
-* [Saturday Morning Breakfast Cereal - Zod](https://www.smbc-comics.com/comic/zod)
-* [Saturday Morning Breakfast Cereal - Four](https://www.smbc-comics.com/comic/four-3)
 
 ### Things I'm star-ing
 
