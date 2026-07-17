@@ -105,7 +105,7 @@ A table of things ...
 * [atomic](https://github.com/kenforthewin/atomic)
   Self-hosted, semantically-connected personal knowledge base
 * [skills](https://github.com/mattpocock/skills)
-  Skills for Real Engineers. Straight from my .claude directory.
+  Skills for Real Engineers. Straight from my .agents directory.
 * [Dark-Moon](https://github.com/ASCIT31/Dark-Moon)
   Autonomous AI pentesting engine, continuous offensive security across web, cloud, AD & Kubernetes. Agentic reasoning + real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts, creds or paths (deterministic placeholders rehydrated locally), nothing leaves your perimeter.
 * [WayfinderRouter](https://github.com/itsthelore/WayfinderRouter)
