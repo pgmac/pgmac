@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Investigators release preliminary report on LEGO 747 and Space Shuttle crash | Flightradar24 Blog](https://www.flightradar24.com/blog/flight-tracking-news/just-for-fun/investigators-release-preliminary-report-on-lego-747-and-space-shuttle-crash/)
 * [Saturday Morning Breakfast Cereal - Misery](https://www.smbc-comics.com/comic/misery)
 * [Lockheed's SR-72 Hypersonic Successor To The Blackbird Still Hasn't Flown & Here's Why](https://simpleflying.com/lockheed-sr-72-hypersonic-succesor-blackbird-still-hasnt-flown-why/)
 * [Linus Torvalds tells AI haters to fork off](https://www.theregister.com/ai-and-ml/2026/07/15/linus-torvalds-tells-ai-haters-to-fork-off/5271894)
@@ -88,10 +89,11 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Evolution](https://www.smbc-comics.com/comic/evolution-10)
 * [Saturday Morning Breakfast Cereal - Old](https://www.smbc-comics.com/comic/old-2)
 * [Linux Foundation and Industry Leaders Launch Akrites to Defend Critical Open Source Software Against AI-Enabled Cyber Threats – Akrites](https://akrites.org/linux-foundation-and-industry-leaders-launch-akrites-to-defend-critical-open-source-software-against-ai-enabled-cyber-threats/)
-* [Saturday Morning Breakfast Cereal - Dadalus](https://www.smbc-comics.com/comic/dadalus)
 
 ### Things I'm star-ing
 
+* [superpowers](https://github.com/obra/superpowers)
+  An agentic skills framework & software development methodology that works.
 * [claude-meseeks](https://github.com/thephw/claude-meseeks)
   Claude Code plugin that plays a Mr. Meeseeks voice line whenever Claude is waiting for you.
 * [nft-blocklist](https://github.com/dannysheehan/nft-blocklist)
@@ -110,8 +112,6 @@ A table of things ...
   Simple CLI tool for deterministic routing of queries between local and hosted LLM models
 * [OpenTag](https://github.com/CopilotKit/OpenTag)
   OpenTag
-* [Cliparr](https://github.com/TechSquidTV/Cliparr)
-  Create clips from media on your personal media server
 
 ### My Blog Posts
 
