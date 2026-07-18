@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - List](https://www.smbc-comics.com/comic/list-2)
 * [Saturday Morning Breakfast Cereal - Subjective](https://www.smbc-comics.com/comic/subjective)
 * [Investigators release preliminary report on LEGO 747 and Space Shuttle crash | Flightradar24 Blog](https://www.flightradar24.com/blog/flight-tracking-news/just-for-fun/investigators-release-preliminary-report-on-lego-747-and-space-shuttle-crash/)
 * [Saturday Morning Breakfast Cereal - Misery](https://www.smbc-comics.com/comic/misery)
@@ -88,7 +89,6 @@ A table of things ...
 * [AI in Australia's interests | Prime Minister of Australia](https://www.pm.gov.au/media/ai-australias-interests-0)
 * [Saturday Morning Breakfast Cereal - Communication](https://www.smbc-comics.com/comic/communication-2)
 * [Saturday Morning Breakfast Cereal - Evolution](https://www.smbc-comics.com/comic/evolution-10)
-* [Saturday Morning Breakfast Cereal - Old](https://www.smbc-comics.com/comic/old-2)
 
 ### Things I'm star-ing
 
