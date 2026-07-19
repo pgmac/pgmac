@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Poof](https://www.smbc-comics.com/comic/poof)
 * [Christopher Nolan's The Odyssey Officially Sets All-Time Rotten Tomatoes Record](https://screenrant.com/christopher-nolan-the-odyssey-rotten-tomatoes-score-record/)
 * [AddyOsmani.com - Loop Engineering](https://addyosmani.com/blog/loop-engineering/)
 * [Saturday Morning Breakfast Cereal - List](https://www.smbc-comics.com/comic/list-2)
@@ -88,7 +89,6 @@ A table of things ...
 * [Lockheed's SR-72 Hypersonic Successor To The Blackbird Still Hasn't Flown & Here's Why](https://simpleflying.com/lockheed-sr-72-hypersonic-succesor-blackbird-still-hasnt-flown-why/)
 * [Linus Torvalds tells AI haters to fork off](https://www.theregister.com/ai-and-ml/2026/07/15/linus-torvalds-tells-ai-haters-to-fork-off/5271894)
 * [Saturday Morning Breakfast Cereal - Pac](https://www.smbc-comics.com/comic/pac)
-* [AI in Australia's interests | Prime Minister of Australia](https://www.pm.gov.au/media/ai-australias-interests-0)
 
 ### Things I'm star-ing
 
@@ -116,4 +116,4 @@ A table of things ...
 ### My Blog Posts
 
 * [Things I'm interested in Last Week](https://pgmac.net.au/last-week/)
-* [Your github activity heatmap in your zsh prompt](https://pgmac.net.au/cli/2026/05/14/zsh-github-activity.html)
+
