@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Christopher Nolan's The Odyssey Officially Sets All-Time Rotten Tomatoes Record](https://screenrant.com/christopher-nolan-the-odyssey-rotten-tomatoes-score-record/)
+* [AddyOsmani.com - Loop Engineering](https://addyosmani.com/blog/loop-engineering/)
 * [Saturday Morning Breakfast Cereal - List](https://www.smbc-comics.com/comic/list-2)
 * [Saturday Morning Breakfast Cereal - Subjective](https://www.smbc-comics.com/comic/subjective)
 * [Investigators release preliminary report on LEGO 747 and Space Shuttle crash | Flightradar24 Blog](https://www.flightradar24.com/blog/flight-tracking-news/just-for-fun/investigators-release-preliminary-report-on-lego-747-and-space-shuttle-crash/)
@@ -87,11 +89,13 @@ A table of things ...
 * [Linus Torvalds tells AI haters to fork off](https://www.theregister.com/ai-and-ml/2026/07/15/linus-torvalds-tells-ai-haters-to-fork-off/5271894)
 * [Saturday Morning Breakfast Cereal - Pac](https://www.smbc-comics.com/comic/pac)
 * [AI in Australia's interests | Prime Minister of Australia](https://www.pm.gov.au/media/ai-australias-interests-0)
-* [Saturday Morning Breakfast Cereal - Communication](https://www.smbc-comics.com/comic/communication-2)
-* [Saturday Morning Breakfast Cereal - Evolution](https://www.smbc-comics.com/comic/evolution-10)
 
 ### Things I'm star-ing
 
+* [loop-engineering](https://github.com/cobusgreyling/loop-engineering)
+  Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
+* [OpenSpec](https://github.com/Fission-AI/OpenSpec)
+  Spec-driven development (SDD) for AI coding assistants.
 * [superpowers](https://github.com/obra/superpowers)
   An agentic skills framework & software development methodology that works.
 * [claude-meseeks](https://github.com/thephw/claude-meseeks)
@@ -108,10 +112,6 @@ A table of things ...
   Skills for Real Engineers. Straight from my .agents directory.
 * [Dark-Moon](https://github.com/ASCIT31/Dark-Moon)
   Autonomous AI pentesting engine, continuous offensive security across web, cloud, AD & Kubernetes. Agentic reasoning + real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts, creds or paths (deterministic placeholders rehydrated locally), nothing leaves your perimeter.
-* [WayfinderRouter](https://github.com/itsthelore/WayfinderRouter)
-  Simple CLI tool for deterministic routing of queries between local and hosted LLM models
-* [OpenTag](https://github.com/CopilotKit/OpenTag)
-  OpenTag
 
 ### My Blog Posts
 
