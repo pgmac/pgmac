@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Sword](https://www.smbc-comics.com/comic/sword-3)
+* [Hugging Face discloses breach linked to autonomous AI agent](https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/)
 * [Saturday Morning Breakfast Cereal - Poof](https://www.smbc-comics.com/comic/poof)
 * [Christopher Nolan's The Odyssey Officially Sets All-Time Rotten Tomatoes Record](https://screenrant.com/christopher-nolan-the-odyssey-rotten-tomatoes-score-record/)
 * [AddyOsmani.com - Loop Engineering](https://addyosmani.com/blog/loop-engineering/)
@@ -87,8 +89,6 @@ A table of things ...
 * [Investigators release preliminary report on LEGO 747 and Space Shuttle crash | Flightradar24 Blog](https://www.flightradar24.com/blog/flight-tracking-news/just-for-fun/investigators-release-preliminary-report-on-lego-747-and-space-shuttle-crash/)
 * [Saturday Morning Breakfast Cereal - Misery](https://www.smbc-comics.com/comic/misery)
 * [Lockheed's SR-72 Hypersonic Successor To The Blackbird Still Hasn't Flown & Here's Why](https://simpleflying.com/lockheed-sr-72-hypersonic-succesor-blackbird-still-hasnt-flown-why/)
-* [Linus Torvalds tells AI haters to fork off](https://www.theregister.com/ai-and-ml/2026/07/15/linus-torvalds-tells-ai-haters-to-fork-off/5271894)
-* [Saturday Morning Breakfast Cereal - Pac](https://www.smbc-comics.com/comic/pac)
 
 ### Things I'm star-ing
 
