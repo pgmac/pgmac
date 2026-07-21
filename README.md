@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GitHub - OpenBMB/StaffDeck: Enterprise Digital Employee Platform · GitHub](https://github.com/OpenBMB/StaffDeck)
 * [Saturday Morning Breakfast Cereal - Sword](https://www.smbc-comics.com/comic/sword-3)
 * [Hugging Face discloses breach linked to autonomous AI agent](https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/)
 * [Saturday Morning Breakfast Cereal - Poof](https://www.smbc-comics.com/comic/poof)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Subjective](https://www.smbc-comics.com/comic/subjective)
 * [Investigators release preliminary report on LEGO 747 and Space Shuttle crash | Flightradar24 Blog](https://www.flightradar24.com/blog/flight-tracking-news/just-for-fun/investigators-release-preliminary-report-on-lego-747-and-space-shuttle-crash/)
 * [Saturday Morning Breakfast Cereal - Misery](https://www.smbc-comics.com/comic/misery)
-* [Lockheed's SR-72 Hypersonic Successor To The Blackbird Still Hasn't Flown & Here's Why](https://simpleflying.com/lockheed-sr-72-hypersonic-succesor-blackbird-still-hasnt-flown-why/)
 
 ### Things I'm star-ing
 
