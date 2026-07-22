@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Bully](https://www.smbc-comics.com/comic/bully-2)
 * [Saturday Morning Breakfast Cereal - Crawl](https://www.smbc-comics.com/comic/crawl)
 * [GitHub - OpenBMB/StaffDeck: Enterprise Digital Employee Platform · GitHub](https://github.com/OpenBMB/StaffDeck)
 * [Saturday Morning Breakfast Cereal - Sword](https://www.smbc-comics.com/comic/sword-3)
@@ -88,7 +89,6 @@ A table of things ...
 * [AddyOsmani.com - Loop Engineering](https://addyosmani.com/blog/loop-engineering/)
 * [Saturday Morning Breakfast Cereal - List](https://www.smbc-comics.com/comic/list-2)
 * [Saturday Morning Breakfast Cereal - Subjective](https://www.smbc-comics.com/comic/subjective)
-* [Investigators release preliminary report on LEGO 747 and Space Shuttle crash | Flightradar24 Blog](https://www.flightradar24.com/blog/flight-tracking-news/just-for-fun/investigators-release-preliminary-report-on-lego-747-and-space-shuttle-crash/)
 
 ### Things I'm star-ing
 
