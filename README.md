@@ -79,19 +79,21 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Alignment](https://www.smbc-comics.com/comic/alignment)
+* [Anthropic ordered to pay largest copyright class action settlement in history | Mashable](https://mashable.com/tech/judge-approves-1-5-billion-anthropic-copyright-settlement)
+* [Building verification loops in Claude Code with skills | Claude by Anthropic](https://claude.com/blog/building-verification-loops-in-claude-code-with-skills)
+* [GitHub - block/buzz: A hive mind communication platform · GitHub](https://github.com/block/buzz)
 * [AI Code Reviews | CodeRabbit | Try for Free.](https://www.coderabbit.ai/)
 * [Superset - Run 10+ parallel coding agents on your machine](https://superset.sh/)
 * [GitHub - kenn-io/middleman: Local-first GitHub dashboard for maintainers to triage, review, and merge PRs and issues across repos without needing GitHub's built-in notification emails or dashboard · GitHub](https://github.com/kenn-io/middleman)
 * [AgentsView - AgentsView](https://www.agentsview.io/)
 * [Kata - Product family for coding agents](https://kata.sh/)
 * [roborev - roborev](https://www.roborev.io/)
-* [GitHub - obra/superpowers: An agentic skills framework & software development methodology that works. · GitHub](https://github.com/obra/superpowers)
-* [Saturday Morning Breakfast Cereal - Bully](https://www.smbc-comics.com/comic/bully-2)
-* [Saturday Morning Breakfast Cereal - Crawl](https://www.smbc-comics.com/comic/crawl)
-* [GitHub - OpenBMB/StaffDeck: Enterprise Digital Employee Platform · GitHub](https://github.com/OpenBMB/StaffDeck)
 
 ### Things I'm star-ing
 
+* [buzz](https://github.com/block/buzz)
+  A hive mind communication platform
 * [loop-engineering](https://github.com/cobusgreyling/loop-engineering)
   Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
 * [OpenSpec](https://github.com/Fission-AI/OpenSpec)
@@ -110,8 +112,6 @@ A table of things ...
   Self-hosted, semantically-connected personal knowledge base
 * [skills](https://github.com/mattpocock/skills)
   Skills for Real Engineers. Straight from my .agents directory.
-* [Dark-Moon](https://github.com/ASCIT31/Dark-Moon)
-  Autonomous AI pentesting engine, continuous offensive security across web, cloud, AD & Kubernetes. Agentic reasoning + real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts, creds or paths (deterministic placeholders rehydrated locally), nothing leaves your perimeter.
 
 ### My Blog Posts
 
