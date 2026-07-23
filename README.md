@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
+* [In-toto: A framework to secure the integrity of software supply chains](https://in-toto.io/)
+* [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
+* [HomeLab #1: MikroTik as a Home Router](https://justsomebody.dev/blog/mikrotik-home-router)
+* [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
+* [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+* [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
+* [Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
+* [Everyone should know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
 * [Saturday Morning Breakfast Cereal - Alignment](https://www.smbc-comics.com/comic/alignment)
-* [Anthropic ordered to pay largest copyright class action settlement in history | Mashable](https://mashable.com/tech/judge-approves-1-5-billion-anthropic-copyright-settlement)
-* [Building verification loops in Claude Code with skills | Claude by Anthropic](https://claude.com/blog/building-verification-loops-in-claude-code-with-skills)
-* [GitHub - block/buzz: A hive mind communication platform · GitHub](https://github.com/block/buzz)
-* [AI Code Reviews | CodeRabbit | Try for Free.](https://www.coderabbit.ai/)
-* [Superset - Run 10+ parallel coding agents on your machine](https://superset.sh/)
-* [GitHub - kenn-io/middleman: Local-first GitHub dashboard for maintainers to triage, review, and merge PRs and issues across repos without needing GitHub's built-in notification emails or dashboard · GitHub](https://github.com/kenn-io/middleman)
-* [AgentsView - AgentsView](https://www.agentsview.io/)
-* [Kata - Product family for coding agents](https://kata.sh/)
-* [roborev - roborev](https://www.roborev.io/)
 
 ### Things I'm star-ing
 
