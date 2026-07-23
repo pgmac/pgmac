@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [AI Code Reviews | CodeRabbit | Try for Free.](https://www.coderabbit.ai/)
+* [Superset - Run 10+ parallel coding agents on your machine](https://superset.sh/)
+* [GitHub - kenn-io/middleman: Local-first GitHub dashboard for maintainers to triage, review, and merge PRs and issues across repos without needing GitHub's built-in notification emails or dashboard · GitHub](https://github.com/kenn-io/middleman)
+* [AgentsView - AgentsView](https://www.agentsview.io/)
+* [Kata - Product family for coding agents](https://kata.sh/)
+* [roborev - roborev](https://www.roborev.io/)
+* [GitHub - obra/superpowers: An agentic skills framework & software development methodology that works. · GitHub](https://github.com/obra/superpowers)
 * [Saturday Morning Breakfast Cereal - Bully](https://www.smbc-comics.com/comic/bully-2)
 * [Saturday Morning Breakfast Cereal - Crawl](https://www.smbc-comics.com/comic/crawl)
 * [GitHub - OpenBMB/StaffDeck: Enterprise Digital Employee Platform · GitHub](https://github.com/OpenBMB/StaffDeck)
-* [Saturday Morning Breakfast Cereal - Sword](https://www.smbc-comics.com/comic/sword-3)
-* [Hugging Face discloses breach linked to autonomous AI agent](https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/)
-* [Saturday Morning Breakfast Cereal - Poof](https://www.smbc-comics.com/comic/poof)
-* [Christopher Nolan's The Odyssey Officially Sets All-Time Rotten Tomatoes Record](https://screenrant.com/christopher-nolan-the-odyssey-rotten-tomatoes-score-record/)
-* [AddyOsmani.com - Loop Engineering](https://addyosmani.com/blog/loop-engineering/)
-* [Saturday Morning Breakfast Cereal - List](https://www.smbc-comics.com/comic/list-2)
-* [Saturday Morning Breakfast Cereal - Subjective](https://www.smbc-comics.com/comic/subjective)
 
 ### Things I'm star-ing
 
