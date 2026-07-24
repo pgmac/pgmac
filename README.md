@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Linux kernel team publishes 432 CVEs in two days](https://www.theregister.com/security/2026/07/22/linux-kernel-team-publishes-432-cves-in-two-days/5276497)
 * [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
 * [In-toto: A framework to secure the integrity of software supply chains](https://in-toto.io/)
 * [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
 * [Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
 * [Everyone should know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
-* [Saturday Morning Breakfast Cereal - Alignment](https://www.smbc-comics.com/comic/alignment)
 
 ### Things I'm star-ing
 
