@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The new rules of context engineering for Claude 5 generation models | Claude by Anthropic](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
 * [Saturday Morning Breakfast Cereal - Legos](https://www.smbc-comics.com/comic/legos)
 * [Linux kernel team publishes 432 CVEs in two days](https://www.theregister.com/security/2026/07/22/linux-kernel-team-publishes-432-cves-in-two-days/5276497)
 * [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
@@ -88,7 +89,6 @@ A table of things ...
 * [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
 * [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
 * [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
-* [Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
 
 ### Things I'm star-ing
 
