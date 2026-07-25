@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Data](https://www.smbc-comics.com/comic/data-2)
 * [The new rules of context engineering for Claude 5 generation models | Claude by Anthropic](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
 * [Saturday Morning Breakfast Cereal - Legos](https://www.smbc-comics.com/comic/legos)
 * [Linux kernel team publishes 432 CVEs in two days](https://www.theregister.com/security/2026/07/22/linux-kernel-team-publishes-432-cves-in-two-days/5276497)
@@ -88,7 +89,6 @@ A table of things ...
 * [HomeLab #1: MikroTik as a Home Router](https://justsomebody.dev/blog/mikrotik-home-router)
 * [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
 * [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
-* [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git)
 
 ### Things I'm star-ing
 
