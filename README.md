@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Dance](https://www.smbc-comics.com/comic/dance-4)
 * [Saturday Morning Breakfast Cereal - Data](https://www.smbc-comics.com/comic/data-2)
 * [The new rules of context engineering for Claude 5 generation models | Claude by Anthropic](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
 * [Saturday Morning Breakfast Cereal - Legos](https://www.smbc-comics.com/comic/legos)
@@ -88,7 +89,6 @@ A table of things ...
 * [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
 * [HomeLab #1: MikroTik as a Home Router](https://justsomebody.dev/blog/mikrotik-home-router)
 * [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
-* [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
 
 ### Things I'm star-ing
 
