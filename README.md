@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Taxonomy](https://www.smbc-comics.com/comic/taxonomy-2)
+* [An abandoned SpaceX rocket is about to crash into the Moon. The real problem comes next](https://theconversation.com/an-abandoned-spacex-rocket-is-about-to-crash-into-the-moon-the-real-problem-comes-next-288287)
 * [Saturday Morning Breakfast Cereal - Dance](https://www.smbc-comics.com/comic/dance-4)
 * [Saturday Morning Breakfast Cereal - Data](https://www.smbc-comics.com/comic/data-2)
 * [The new rules of context engineering for Claude 5 generation models | Claude by Anthropic](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
@@ -87,8 +89,6 @@ A table of things ...
 * [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
 * [In-toto: A framework to secure the integrity of software supply chains](https://in-toto.io/)
 * [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
-* [HomeLab #1: MikroTik as a Home Router](https://justsomebody.dev/blog/mikrotik-home-router)
-* [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
 
 ### Things I'm star-ing
 
