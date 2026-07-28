@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Codebase](https://www.smbc-comics.com/comic/codebase)
 * [The Computer That Helped Win World War II - IEEE Spectrum](https://spectrum.ieee.org/colossus-computer-ieee-milestone)
 * [Saturday Morning Breakfast Cereal - Taxonomy](https://www.smbc-comics.com/comic/taxonomy-2)
 * [An abandoned SpaceX rocket is about to crash into the Moon. The real problem comes next](https://theconversation.com/an-abandoned-spacex-rocket-is-about-to-crash-into-the-moon-the-real-problem-comes-next-288287)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Legos](https://www.smbc-comics.com/comic/legos)
 * [Linux kernel team publishes 432 CVEs in two days](https://www.theregister.com/security/2026/07/22/linux-kernel-team-publishes-432-cves-in-two-days/5276497)
 * [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
-* [In-toto: A framework to secure the integrity of software supply chains](https://in-toto.io/)
 
 ### Things I'm star-ing
 
