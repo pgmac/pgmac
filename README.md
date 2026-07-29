@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The Corporate Creep of Plex: Why it may be time to move to Jellyfin](https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/)
+* [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
+* [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html)
+* [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
+* [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in)
+* [A Discord Alternative – Echoed](https://echoed.gg/)
+* [MAI-Cyber-1-Flash inside MDASH](https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/)
+* [Configure cloud environments - Claude Code Docs](https://code.claude.com/docs/en/cloud-environments)
 * [Saturday Morning Breakfast Cereal - Codebase](https://www.smbc-comics.com/comic/codebase)
 * [The Computer That Helped Win World War II - IEEE Spectrum](https://spectrum.ieee.org/colossus-computer-ieee-milestone)
-* [Saturday Morning Breakfast Cereal - Taxonomy](https://www.smbc-comics.com/comic/taxonomy-2)
-* [An abandoned SpaceX rocket is about to crash into the Moon. The real problem comes next](https://theconversation.com/an-abandoned-spacex-rocket-is-about-to-crash-into-the-moon-the-real-problem-comes-next-288287)
-* [Saturday Morning Breakfast Cereal - Dance](https://www.smbc-comics.com/comic/dance-4)
-* [Saturday Morning Breakfast Cereal - Data](https://www.smbc-comics.com/comic/data-2)
-* [The new rules of context engineering for Claude 5 generation models | Claude by Anthropic](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
-* [Saturday Morning Breakfast Cereal - Legos](https://www.smbc-comics.com/comic/legos)
-* [Linux kernel team publishes 432 CVEs in two days](https://www.theregister.com/security/2026/07/22/linux-kernel-team-publishes-432-cves-in-two-days/5276497)
-* [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
 
 ### Things I'm star-ing
 
