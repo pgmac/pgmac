@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Hashtag](https://www.smbc-comics.com/comic/hashtag)
 * [The Corporate Creep of Plex: Why it may be time to move to Jellyfin](https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/)
 * [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
 * [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html)
@@ -88,7 +89,6 @@ A table of things ...
 * [MAI-Cyber-1-Flash inside MDASH](https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/)
 * [Configure cloud environments - Claude Code Docs](https://code.claude.com/docs/en/cloud-environments)
 * [Saturday Morning Breakfast Cereal - Codebase](https://www.smbc-comics.com/comic/codebase)
-* [The Computer That Helped Win World War II - IEEE Spectrum](https://spectrum.ieee.org/colossus-computer-ieee-milestone)
 
 ### Things I'm star-ing
 
