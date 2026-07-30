@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Crank](https://www.smbc-comics.com/comic/crank)
+* ['It took our breath away' – Mars rover finds strange polygon features in the Red Planet's rusty dirt | BBC Sky at Night Magazine](https://www.skyatnightmagazine.com/news/mars-rover-polygon-features)
 * [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline)
 * [Saturday Morning Breakfast Cereal - Hashtag](https://www.smbc-comics.com/comic/hashtag)
 * [The Corporate Creep of Plex: Why it may be time to move to Jellyfin](https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/)
@@ -87,8 +89,6 @@ A table of things ...
 * [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
 * [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in)
 * [A Discord Alternative – Echoed](https://echoed.gg/)
-* [MAI-Cyber-1-Flash inside MDASH](https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/)
-* [Configure cloud environments - Claude Code Docs](https://code.claude.com/docs/en/cloud-environments)
 
 ### Things I'm star-ing
 
