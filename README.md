@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline)
 * [Saturday Morning Breakfast Cereal - Hashtag](https://www.smbc-comics.com/comic/hashtag)
 * [The Corporate Creep of Plex: Why it may be time to move to Jellyfin](https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/)
 * [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
@@ -88,7 +89,6 @@ A table of things ...
 * [A Discord Alternative – Echoed](https://echoed.gg/)
 * [MAI-Cyber-1-Flash inside MDASH](https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/)
 * [Configure cloud environments - Claude Code Docs](https://code.claude.com/docs/en/cloud-environments)
-* [Saturday Morning Breakfast Cereal - Codebase](https://www.smbc-comics.com/comic/codebase)
 
 ### Things I'm star-ing
 
