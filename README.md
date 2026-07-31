@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - EV](https://www.smbc-comics.com/comic/ev-2)
 * [Saturday Morning Breakfast Cereal - Crank](https://www.smbc-comics.com/comic/crank)
 * ['It took our breath away' – Mars rover finds strange polygon features in the Red Planet's rusty dirt | BBC Sky at Night Magazine](https://www.skyatnightmagazine.com/news/mars-rover-polygon-features)
 * [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline)
@@ -88,7 +89,6 @@ A table of things ...
 * [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html)
 * [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
 * [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in)
-* [A Discord Alternative – Echoed](https://echoed.gg/)
 
 ### Things I'm star-ing
 
