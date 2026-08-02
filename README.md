@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Prompt](https://www.smbc-comics.com/comic/prompt-2)
 * [Saturday Morning Breakfast Cereal - Doc](https://www.smbc-comics.com/comic/doc)
 * [Saturday Morning Breakfast Cereal - EV](https://www.smbc-comics.com/comic/ev-2)
 * [Saturday Morning Breakfast Cereal - Crank](https://www.smbc-comics.com/comic/crank)
@@ -88,7 +89,6 @@ A table of things ...
 * [The Corporate Creep of Plex: Why it may be time to move to Jellyfin](https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/)
 * [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
 * [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html)
-* [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
 
 ### Things I'm star-ing
 
