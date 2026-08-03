@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Proof](https://www.smbc-comics.com/comic/proof-7)
+* [Friends Don't Let Friends Use Ollama | Sleeping Robots](https://sleepingrobots.com/dreams/stop-using-ollama/)
 * [Saturday Morning Breakfast Cereal - Prompt](https://www.smbc-comics.com/comic/prompt-2)
 * [Saturday Morning Breakfast Cereal - Doc](https://www.smbc-comics.com/comic/doc)
 * [Saturday Morning Breakfast Cereal - EV](https://www.smbc-comics.com/comic/ev-2)
@@ -87,11 +89,11 @@ A table of things ...
 * [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline)
 * [Saturday Morning Breakfast Cereal - Hashtag](https://www.smbc-comics.com/comic/hashtag)
 * [The Corporate Creep of Plex: Why it may be time to move to Jellyfin](https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/)
-* [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
-* [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html)
 
 ### Things I'm star-ing
 
+* [llama.cpp](https://github.com/ggml-org/llama.cpp)
+  LLM inference in C/C++
 * [buzz](https://github.com/block/buzz)
   A hive mind communication platform
 * [loop-engineering](https://github.com/cobusgreyling/loop-engineering)
@@ -110,8 +112,6 @@ A table of things ...
   Self-hosted music discovery for Lidarr
 * [atomic](https://github.com/kenforthewin/atomic)
   Self-hosted, semantically-connected personal knowledge base
-* [skills](https://github.com/mattpocock/skills)
-  Skills for Real Engineers. Straight from my .agents directory.
 
 ### My Blog Posts
 
