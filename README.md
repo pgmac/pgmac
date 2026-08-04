@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Wants](https://www.smbc-comics.com/comic/wants-2)
 * [Saturday Morning Breakfast Cereal - Proof](https://www.smbc-comics.com/comic/proof-7)
 * [Friends Don't Let Friends Use Ollama | Sleeping Robots](https://sleepingrobots.com/dreams/stop-using-ollama/)
 * [Saturday Morning Breakfast Cereal - Prompt](https://www.smbc-comics.com/comic/prompt-2)
@@ -88,7 +89,6 @@ A table of things ...
 * ['It took our breath away' – Mars rover finds strange polygon features in the Red Planet's rusty dirt | BBC Sky at Night Magazine](https://www.skyatnightmagazine.com/news/mars-rover-polygon-features)
 * [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline)
 * [Saturday Morning Breakfast Cereal - Hashtag](https://www.smbc-comics.com/comic/hashtag)
-* [The Corporate Creep of Plex: Why it may be time to move to Jellyfin](https://reprodev.com/the-corporate-creep-of-plex-why-it-may-be-time-to-move-to-jellyfin-and-the-open-source-reality/)
 
 ### Things I'm star-ing
 
