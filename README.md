@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Diátaxis](https://diataxis.fr/)
+* [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/)
 * [Saturday Morning Breakfast Cereal - Drunken](https://www.smbc-comics.com/comic/drunken)
 * [The Beggar Barons](https://zedshaw.com/blog/2022-02-05-the-beggar-barons/)
 * [Saturday Morning Breakfast Cereal - Wants](https://www.smbc-comics.com/comic/wants-2)
@@ -87,8 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Prompt](https://www.smbc-comics.com/comic/prompt-2)
 * [Saturday Morning Breakfast Cereal - Doc](https://www.smbc-comics.com/comic/doc)
 * [Saturday Morning Breakfast Cereal - EV](https://www.smbc-comics.com/comic/ev-2)
-* [Saturday Morning Breakfast Cereal - Crank](https://www.smbc-comics.com/comic/crank)
-* ['It took our breath away' – Mars rover finds strange polygon features in the Red Planet's rusty dirt | BBC Sky at Night Magazine](https://www.skyatnightmagazine.com/news/mars-rover-polygon-features)
 
 ### Things I'm star-ing
 
