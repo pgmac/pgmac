@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [The Beggar Barons](https://zedshaw.com/blog/2022-02-05-the-beggar-barons/)
 * [Saturday Morning Breakfast Cereal - Wants](https://www.smbc-comics.com/comic/wants-2)
 * [Saturday Morning Breakfast Cereal - Proof](https://www.smbc-comics.com/comic/proof-7)
 * [Friends Don't Let Friends Use Ollama | Sleeping Robots](https://sleepingrobots.com/dreams/stop-using-ollama/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Crank](https://www.smbc-comics.com/comic/crank)
 * ['It took our breath away' – Mars rover finds strange polygon features in the Red Planet's rusty dirt | BBC Sky at Night Magazine](https://www.skyatnightmagazine.com/news/mars-rover-polygon-features)
 * [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline)
-* [Saturday Morning Breakfast Cereal - Hashtag](https://www.smbc-comics.com/comic/hashtag)
 
 ### Things I'm star-ing
 
