@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Paracosm](https://www.smbc-comics.com/comic/paracosm)
 * [Low Danube water levels in Bulgaria expose Roman-era bridge | eKathimerini.com](https://www.ekathimerini.com/culture/1311793/low-danube-water-levels-in-bulgaria-expose-roman-era-bridge/)
 * [Saturday Morning Breakfast Cereal - Butling](https://www.smbc-comics.com/comic/butling)
 * [Diátaxis](https://diataxis.fr/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Wants](https://www.smbc-comics.com/comic/wants-2)
 * [Saturday Morning Breakfast Cereal - Proof](https://www.smbc-comics.com/comic/proof-7)
 * [Friends Don't Let Friends Use Ollama | Sleeping Robots](https://sleepingrobots.com/dreams/stop-using-ollama/)
-* [Saturday Morning Breakfast Cereal - Prompt](https://www.smbc-comics.com/comic/prompt-2)
 
 ### Things I'm star-ing
 
