@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Butling](https://www.smbc-comics.com/comic/butling)
 * [Diátaxis](https://diataxis.fr/)
 * [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/)
 * [Saturday Morning Breakfast Cereal - Drunken](https://www.smbc-comics.com/comic/drunken)
@@ -88,7 +89,6 @@ A table of things ...
 * [Friends Don't Let Friends Use Ollama | Sleeping Robots](https://sleepingrobots.com/dreams/stop-using-ollama/)
 * [Saturday Morning Breakfast Cereal - Prompt](https://www.smbc-comics.com/comic/prompt-2)
 * [Saturday Morning Breakfast Cereal - Doc](https://www.smbc-comics.com/comic/doc)
-* [Saturday Morning Breakfast Cereal - EV](https://www.smbc-comics.com/comic/ev-2)
 
 ### Things I'm star-ing
 
