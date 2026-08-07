@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Low Danube water levels in Bulgaria expose Roman-era bridge | eKathimerini.com](https://www.ekathimerini.com/culture/1311793/low-danube-water-levels-in-bulgaria-expose-roman-era-bridge/)
 * [Saturday Morning Breakfast Cereal - Butling](https://www.smbc-comics.com/comic/butling)
 * [Diátaxis](https://diataxis.fr/)
 * [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Proof](https://www.smbc-comics.com/comic/proof-7)
 * [Friends Don't Let Friends Use Ollama | Sleeping Robots](https://sleepingrobots.com/dreams/stop-using-ollama/)
 * [Saturday Morning Breakfast Cereal - Prompt](https://www.smbc-comics.com/comic/prompt-2)
-* [Saturday Morning Breakfast Cereal - Doc](https://www.smbc-comics.com/comic/doc)
 
 ### Things I'm star-ing
 
