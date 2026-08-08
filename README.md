@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Fur](https://www.smbc-comics.com/comic/fur)
 * [Elk River cave explorers](https://www.abc.net.au/news/2026-08-08/elk-river-cave-explorers-buchan-victoria-odyssey/106696438)
 * [Saturday Morning Breakfast Cereal - Paracosm](https://www.smbc-comics.com/comic/paracosm)
 * [Low Danube water levels in Bulgaria expose Roman-era bridge | eKathimerini.com](https://www.ekathimerini.com/culture/1311793/low-danube-water-levels-in-bulgaria-expose-roman-era-bridge/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Drunken](https://www.smbc-comics.com/comic/drunken)
 * [The Beggar Barons](https://zedshaw.com/blog/2022-02-05-the-beggar-barons/)
 * [Saturday Morning Breakfast Cereal - Wants](https://www.smbc-comics.com/comic/wants-2)
-* [Saturday Morning Breakfast Cereal - Proof](https://www.smbc-comics.com/comic/proof-7)
 
 ### Things I'm star-ing
 
