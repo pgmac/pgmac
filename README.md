@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Simulation](https://www.smbc-comics.com/comic/simulation-6)
 * [I'm leaving OpenAI to build Jurassic Park](https://taylor.town/leaving-openai)
 * [Saturday Morning Breakfast Cereal - Fur](https://www.smbc-comics.com/comic/fur)
 * [Elk River cave explorers](https://www.abc.net.au/news/2026-08-08/elk-river-cave-explorers-buchan-victoria-odyssey/106696438)
@@ -88,7 +89,6 @@ A table of things ...
 * [Diátaxis](https://diataxis.fr/)
 * [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/)
 * [Saturday Morning Breakfast Cereal - Drunken](https://www.smbc-comics.com/comic/drunken)
-* [The Beggar Barons](https://zedshaw.com/blog/2022-02-05-the-beggar-barons/)
 
 ### Things I'm star-ing
 
