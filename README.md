@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [This 'adversarial' pattern can prevent surveillance cameras from detecting you | TechCrunch](https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/)
 * [Saturday Morning Breakfast Cereal - Simulation](https://www.smbc-comics.com/comic/simulation-6)
 * [I'm leaving OpenAI to build Jurassic Park](https://taylor.town/leaving-openai)
 * [Saturday Morning Breakfast Cereal - Fur](https://www.smbc-comics.com/comic/fur)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Butling](https://www.smbc-comics.com/comic/butling)
 * [Diátaxis](https://diataxis.fr/)
 * [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/)
-* [Saturday Morning Breakfast Cereal - Drunken](https://www.smbc-comics.com/comic/drunken)
 
 ### Things I'm star-ing
 
