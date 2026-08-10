@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Quantum](https://www.smbc-comics.com/comic/quantum-7)
 * [This 'adversarial' pattern can prevent surveillance cameras from detecting you | TechCrunch](https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/)
 * [Saturday Morning Breakfast Cereal - Simulation](https://www.smbc-comics.com/comic/simulation-6)
 * [I'm leaving OpenAI to build Jurassic Park](https://taylor.town/leaving-openai)
@@ -88,7 +89,6 @@ A table of things ...
 * [Low Danube water levels in Bulgaria expose Roman-era bridge | eKathimerini.com](https://www.ekathimerini.com/culture/1311793/low-danube-water-levels-in-bulgaria-expose-roman-era-bridge/)
 * [Saturday Morning Breakfast Cereal - Butling](https://www.smbc-comics.com/comic/butling)
 * [Diátaxis](https://diataxis.fr/)
-* [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/)
 
 ### Things I'm star-ing
 
