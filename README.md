@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Beyond All Reason ★ RTS](https://www.beyondallreason.info/)
 * [Saturday Morning Breakfast Cereal - Scale](https://www.smbc-comics.com/comic/scale)
 * [Saturday Morning Breakfast Cereal - Priority](https://www.smbc-comics.com/comic/priority-2)
 * [Saturday Morning Breakfast Cereal - Brave](https://www.smbc-comics.com/comic/brave)
@@ -88,7 +89,6 @@ A table of things ...
 * [I'm leaving OpenAI to build Jurassic Park](https://taylor.town/leaving-openai)
 * [Saturday Morning Breakfast Cereal - Fur](https://www.smbc-comics.com/comic/fur)
 * [Elk River cave explorers](https://www.abc.net.au/news/2026-08-08/elk-river-cave-explorers-buchan-victoria-odyssey/106696438)
-* [Saturday Morning Breakfast Cereal - Paracosm](https://www.smbc-comics.com/comic/paracosm)
 
 ### Things I'm star-ing
 
