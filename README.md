@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Genie](https://www.smbc-comics.com/comic/genie-4)
 * [Saturday Morning Breakfast Cereal - Eulogy](https://www.smbc-comics.com/comic/eulogy-2)
 * [Saturday Morning Breakfast Cereal - Gathered](https://www.smbc-comics.com/comic/gathered)
 * [Saturday Morning Breakfast Cereal - R](https://www.smbc-comics.com/comic/r)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Priority](https://www.smbc-comics.com/comic/priority-2)
 * [Saturday Morning Breakfast Cereal - Brave](https://www.smbc-comics.com/comic/brave)
 * [Saturday Morning Breakfast Cereal - Quantum](https://www.smbc-comics.com/comic/quantum-7)
-* [This 'adversarial' pattern can prevent surveillance cameras from detecting you | TechCrunch](https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/)
 
 ### Things I'm star-ing
 
