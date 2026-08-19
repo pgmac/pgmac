@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Me](https://www.smbc-comics.com/comic/me)
 * [Saturday Morning Breakfast Cereal - Genie](https://www.smbc-comics.com/comic/genie-4)
 * [Saturday Morning Breakfast Cereal - Eulogy](https://www.smbc-comics.com/comic/eulogy-2)
 * [Saturday Morning Breakfast Cereal - Gathered](https://www.smbc-comics.com/comic/gathered)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Scale](https://www.smbc-comics.com/comic/scale)
 * [Saturday Morning Breakfast Cereal - Priority](https://www.smbc-comics.com/comic/priority-2)
 * [Saturday Morning Breakfast Cereal - Brave](https://www.smbc-comics.com/comic/brave)
-* [Saturday Morning Breakfast Cereal - Quantum](https://www.smbc-comics.com/comic/quantum-7)
 
 ### Things I'm star-ing
 
