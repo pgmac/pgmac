@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Service](https://www.smbc-comics.com/comic/service-2)
 * [Les Claypool talks new Primus music and Angine de Poitrine comparisons: “There is a new life in this band”](https://www.nme.com/news/music/les-claypool-interview-new-primus-sean-ono-lennon-ai-3961041)
 * [Saturday Morning Breakfast Cereal - Me](https://www.smbc-comics.com/comic/me)
 * [Saturday Morning Breakfast Cereal - Genie](https://www.smbc-comics.com/comic/genie-4)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Case](https://www.smbc-comics.com/comic/case)
 * [Beyond All Reason ★ RTS](https://www.beyondallreason.info/)
 * [Saturday Morning Breakfast Cereal - Scale](https://www.smbc-comics.com/comic/scale)
-* [Saturday Morning Breakfast Cereal - Priority](https://www.smbc-comics.com/comic/priority-2)
 
 ### Things I'm star-ing
 
