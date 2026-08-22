@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Chromo](https://www.smbc-comics.com/comic/chromo)
 * [Saturday Morning Breakfast Cereal - Classic](https://www.smbc-comics.com/comic/classic)
 * [omp — a coding agent with the IDE wired in](https://omp.sh/)
 * [Saturday Morning Breakfast Cereal - Service](https://www.smbc-comics.com/comic/service-2)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Eulogy](https://www.smbc-comics.com/comic/eulogy-2)
 * [Saturday Morning Breakfast Cereal - Gathered](https://www.smbc-comics.com/comic/gathered)
 * [Saturday Morning Breakfast Cereal - R](https://www.smbc-comics.com/comic/r)
-* [Saturday Morning Breakfast Cereal - Case](https://www.smbc-comics.com/comic/case)
 
 ### Things I'm star-ing
 
