@@ -92,6 +92,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [kept](https://github.com/ericerkz/kept)
+  A self-hosted, Google Keep style notes app.
 * [llama.cpp](https://github.com/ggml-org/llama.cpp)
   LLM inference in C/C++
 * [buzz](https://github.com/block/buzz)
@@ -110,8 +112,6 @@ A table of things ...
   A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 * [mixarr](https://github.com/aquantumofdonuts/mixarr)
   Self-hosted music discovery for Lidarr
-* [atomic](https://github.com/kenforthewin/atomic)
-  Self-hosted, semantically-connected personal knowledge base
 
 ### My Blog Posts
 
