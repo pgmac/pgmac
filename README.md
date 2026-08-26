@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [This Linux PC-phone hybrid could be the future of Linux smartphones](https://www.howtogeek.com/i-cant-wait-to-get-my-hands-on-this-linux-pc-phone-hybrid/)
 * [Saturday Morning Breakfast Cereal - Jedi](https://www.smbc-comics.com/comic/jedi)
 * [Saturday Morning Breakfast Cereal - Demon](https://www.smbc-comics.com/comic/demon)
 * [Saturday Morning Breakfast Cereal - Beyond](https://www.smbc-comics.com/comic/beyond-2)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Service](https://www.smbc-comics.com/comic/service-2)
 * [Les Claypool talks new Primus music and Angine de Poitrine comparisons: “There is a new life in this band”](https://www.nme.com/news/music/les-claypool-interview-new-primus-sean-ono-lennon-ai-3961041)
 * [Saturday Morning Breakfast Cereal - Me](https://www.smbc-comics.com/comic/me)
-* [Saturday Morning Breakfast Cereal - Genie](https://www.smbc-comics.com/comic/genie-4)
 
 ### Things I'm star-ing
 
