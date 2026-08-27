@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Satan](https://www.smbc-comics.com/comic/satan-2)
 * [Saturday Morning Breakfast Cereal - Psy](https://www.smbc-comics.com/comic/psy)
 * [The AI-Native SDLC playbook | Claude by Anthropic](https://claude.com/blog/the-ai-native-sdlc-playbook)
 * [This Linux PC-phone hybrid could be the future of Linux smartphones](https://www.howtogeek.com/i-cant-wait-to-get-my-hands-on-this-linux-pc-phone-hybrid/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Chromo](https://www.smbc-comics.com/comic/chromo)
 * [Saturday Morning Breakfast Cereal - Classic](https://www.smbc-comics.com/comic/classic)
 * [omp — a coding agent with the IDE wired in](https://omp.sh/)
-* [Saturday Morning Breakfast Cereal - Service](https://www.smbc-comics.com/comic/service-2)
 
 ### Things I'm star-ing
 
