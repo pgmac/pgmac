@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Secret](https://www.smbc-comics.com/comic/secret)
 * [Saturday Morning Breakfast Cereal - Echo](https://www.smbc-comics.com/comic/echo)
 * [Saturday Morning Breakfast Cereal - Experience](https://www.smbc-comics.com/comic/experience-7)
 * [Saturday Morning Breakfast Cereal - Satan](https://www.smbc-comics.com/comic/satan-2)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Jedi](https://www.smbc-comics.com/comic/jedi)
 * [Saturday Morning Breakfast Cereal - Demon](https://www.smbc-comics.com/comic/demon)
 * [Saturday Morning Breakfast Cereal - Beyond](https://www.smbc-comics.com/comic/beyond-2)
-* [Saturday Morning Breakfast Cereal - Chromo](https://www.smbc-comics.com/comic/chromo)
 
 ### Things I'm star-ing
 
