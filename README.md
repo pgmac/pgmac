@@ -92,6 +92,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [vllm](https://github.com/vllm-project/vllm)
+  A high-throughput and memory-efficient inference and serving engine for LLMs
 * [kept](https://github.com/ericerkz/kept)
   A self-hosted, Google Keep style notes app.
 * [llama.cpp](https://github.com/ggml-org/llama.cpp)
@@ -110,8 +112,6 @@ A table of things ...
   Atomic nftables IP blocklist manager in Go — curated threat feeds, allowlist protection, shrink guard, systemd timers, fail2ban-friendly dynamic sets, pluggable notifications. Successor to the iptables/ipset blacklists script.
 * [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
   A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
-* [mixarr](https://github.com/aquantumofdonuts/mixarr)
-  Self-hosted music discovery for Lidarr
 
 ### My Blog Posts
 
