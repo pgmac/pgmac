@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Royal](https://www.smbc-comics.com/comic/royal)
 * [Saturday Morning Breakfast Cereal - Secret](https://www.smbc-comics.com/comic/secret)
 * [Saturday Morning Breakfast Cereal - Echo](https://www.smbc-comics.com/comic/echo)
 * [Saturday Morning Breakfast Cereal - Experience](https://www.smbc-comics.com/comic/experience-7)
@@ -88,7 +89,6 @@ A table of things ...
 * [This Linux PC-phone hybrid could be the future of Linux smartphones](https://www.howtogeek.com/i-cant-wait-to-get-my-hands-on-this-linux-pc-phone-hybrid/)
 * [Saturday Morning Breakfast Cereal - Jedi](https://www.smbc-comics.com/comic/jedi)
 * [Saturday Morning Breakfast Cereal - Demon](https://www.smbc-comics.com/comic/demon)
-* [Saturday Morning Breakfast Cereal - Beyond](https://www.smbc-comics.com/comic/beyond-2)
 
 ### Things I'm star-ing
 
