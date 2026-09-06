@@ -92,6 +92,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [wordstar](https://github.com/nampara-ai/wordstar)
+  The original, unmodified MicroPro WordStar Professional Release 4 from 1987. Desktop version consists of original binaries wrapped in DOSBox staging to run on any modern computer. WebAssembly version runs in any browser.
 * [vllm](https://github.com/vllm-project/vllm)
   A high-throughput and memory-efficient inference and serving engine for LLMs
 * [kept](https://github.com/ericerkz/kept)
@@ -110,8 +112,6 @@ A table of things ...
   Claude Code plugin that plays a Mr. Meeseeks voice line whenever Claude is waiting for you.
 * [nft-blocklist](https://github.com/dannysheehan/nft-blocklist)
   Atomic nftables IP blocklist manager in Go — curated threat feeds, allowlist protection, shrink guard, systemd timers, fail2ban-friendly dynamic sets, pluggable notifications. Successor to the iptables/ipset blacklists script.
-* [HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
-  A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 
 ### My Blog Posts
 
