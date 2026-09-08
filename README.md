@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Major](https://www.smbc-comics.com/comic/major)
 * [Saturday Morning Breakfast Cereal - Conscious](https://www.smbc-comics.com/comic/conscious-9)
 * [Saturday Morning Breakfast Cereal - Seized](https://www.smbc-comics.com/comic/seized)
 * [Saturday Morning Breakfast Cereal - Imagine](https://www.smbc-comics.com/comic/imagine-2)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Philosophy](https://www.smbc-comics.com/comic/philosophy-6)
 * [Saturday Morning Breakfast Cereal - Royal](https://www.smbc-comics.com/comic/royal)
 * [Saturday Morning Breakfast Cereal - Secret](https://www.smbc-comics.com/comic/secret)
-* [Saturday Morning Breakfast Cereal - Echo](https://www.smbc-comics.com/comic/echo)
 
 ### Things I'm star-ing
 
