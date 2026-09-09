@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-* [Saturday Morning Breakfast Cereal - Major](https://www.smbc-comics.com/comic/major)
-* [Saturday Morning Breakfast Cereal - Conscious](https://www.smbc-comics.com/comic/conscious-9)
-* [Saturday Morning Breakfast Cereal - Seized](https://www.smbc-comics.com/comic/seized)
-* [Saturday Morning Breakfast Cereal - Imagine](https://www.smbc-comics.com/comic/imagine-2)
-* [Saturday Morning Breakfast Cereal - Money](https://www.smbc-comics.com/comic/money)
-* [Saturday Morning Breakfast Cereal - Meaning](https://www.smbc-comics.com/comic/meaning-9)
-* [Saturday Morning Breakfast Cereal - Dilemma](https://www.smbc-comics.com/comic/dilemma-5)
-* [Saturday Morning Breakfast Cereal - Philosophy](https://www.smbc-comics.com/comic/philosophy-6)
-* [Saturday Morning Breakfast Cereal - Royal](https://www.smbc-comics.com/comic/royal)
-* [Saturday Morning Breakfast Cereal - Secret](https://www.smbc-comics.com/comic/secret)
+* [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox)
+* [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
+* [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
+* [Six curl CVEs after OpenAI and Anthropic came back with zero](https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero)
+* [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
+* [Shutting down our public encrypted DNS](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead)
+* [An open DNS recursive service for free security and high privacy](https://quad9.net/)
+* [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
+* [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet)
+* [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)
 
 ### Things I'm star-ing
 
