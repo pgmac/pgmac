@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [www.abc.net.au](https://www.abc.net.au/news/2026-09-11/how-openai-agents-hacked-hugging-face-messages-revealed/107125126)
 * [Saturday Morning Breakfast Cereal - Shilling](https://www.smbc-comics.com/comic/shilling)
 * [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
 * [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html)
@@ -88,7 +89,6 @@ A table of things ...
 * [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
 * [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
 * [Six curl CVEs after OpenAI and Anthropic came back with zero](https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero)
-* [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
 
 ### Things I'm star-ing
 
