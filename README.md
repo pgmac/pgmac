@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
+* [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html)
 * [Saturday Morning Breakfast Cereal - Club](https://www.smbc-comics.com/comic/club-2)
 * [If Dr. Seuss Was a Technical Writer - Water Cooler - Spiceworks Community](https://community.spiceworks.com/t/if-dr-seuss-was-a-technical-writer/306500)
 * [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox)
@@ -87,8 +89,6 @@ A table of things ...
 * [Six curl CVEs after OpenAI and Anthropic came back with zero](https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero)
 * [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
 * [Shutting down our public encrypted DNS](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead)
-* [An open DNS recursive service for free security and high privacy](https://quad9.net/)
-* [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
 
 ### Things I'm star-ing
 
