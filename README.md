@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
 * [www.abc.net.au](https://www.abc.net.au/news/2026-09-11/how-openai-agents-hacked-hugging-face-messages-revealed/107125126)
 * [Saturday Morning Breakfast Cereal - Shilling](https://www.smbc-comics.com/comic/shilling)
 * [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
@@ -88,10 +89,11 @@ A table of things ...
 * [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox)
 * [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
 * [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
-* [Six curl CVEs after OpenAI and Anthropic came back with zero](https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero)
 
 ### Things I'm star-ing
 
+* [sbom-tools](https://github.com/sbom-tool/sbom-tools)
+  Semantic SBOM/CBOM/AI-BOM diff, quality scoring, and compliance validation for CycloneDX/SPDX — component, license, and vulnerability change analysis, cryptographic inventory grading, PQC readiness (CNSA 2.0, NIST IR 8547), and regulatory gates for NTIA, FDA, EU CRA, BSI TR-03183, EUCC, SSDF, EO 14028, and the EU AI Act.
 * [wordstar](https://github.com/nampara-ai/wordstar)
   The original, unmodified MicroPro WordStar Professional Release 4 from 1987. Desktop version consists of original binaries wrapped in DOSBox staging to run on any modern computer. WebAssembly version runs in any browser.
 * [vllm](https://github.com/vllm-project/vllm)
@@ -110,8 +112,6 @@ A table of things ...
   An agentic skills framework & software development methodology that works.
 * [claude-meseeks](https://github.com/thephw/claude-meseeks)
   Claude Code plugin that plays a Mr. Meeseeks voice line whenever Claude is waiting for you.
-* [nft-blocklist](https://github.com/dannysheehan/nft-blocklist)
-  Atomic nftables IP blocklist manager in Go — curated threat feeds, allowlist protection, shrink guard, systemd timers, fail2ban-friendly dynamic sets, pluggable notifications. Successor to the iptables/ipset blacklists script.
 
 ### My Blog Posts
 
