@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Time](https://www.smbc-comics.com/comic/time-8)
 * [Saturday Morning Breakfast Cereal - Transporter](https://www.smbc-comics.com/comic/transporter-3)
 * [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
 * [www.abc.net.au](https://www.abc.net.au/news/2026-09-11/how-openai-agents-hacked-hugging-face-messages-revealed/107125126)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Club](https://www.smbc-comics.com/comic/club-2)
 * [If Dr. Seuss Was a Technical Writer - Water Cooler - Spiceworks Community](https://community.spiceworks.com/t/if-dr-seuss-was-a-technical-writer/306500)
 * [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox)
-* [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
 
 ### Things I'm star-ing
 
