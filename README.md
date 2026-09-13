@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Defrag98: Windows 98 Disk Defrag Simulator, Free Online](https://defrag98.com/)
 * [Saturday Morning Breakfast Cereal - Time](https://www.smbc-comics.com/comic/time-8)
 * [Saturday Morning Breakfast Cereal - Transporter](https://www.smbc-comics.com/comic/transporter-3)
 * [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
@@ -88,7 +89,6 @@ A table of things ...
 * [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html)
 * [Saturday Morning Breakfast Cereal - Club](https://www.smbc-comics.com/comic/club-2)
 * [If Dr. Seuss Was a Technical Writer - Water Cooler - Spiceworks Community](https://community.spiceworks.com/t/if-dr-seuss-was-a-technical-writer/306500)
-* [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox)
 
 ### Things I'm star-ing
 
