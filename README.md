@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Balance](https://www.smbc-comics.com/comic/balance)
 * [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/)
 * [Saturday Morning Breakfast Cereal - Scratchpad](https://www.smbc-comics.com/comic/scratchpad)
 * [Defrag98: Windows 98 Disk Defrag Simulator, Free Online](https://defrag98.com/)
@@ -88,7 +89,6 @@ A table of things ...
 * [www.abc.net.au](https://www.abc.net.au/news/2026-09-11/how-openai-agents-hacked-hugging-face-messages-revealed/107125126)
 * [Saturday Morning Breakfast Cereal - Shilling](https://www.smbc-comics.com/comic/shilling)
 * [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
-* [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html)
 
 ### Things I'm star-ing
 
