@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Gates](https://www.smbc-comics.com/comic/gates-3)
+* [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
 * [Ubuntu 26.10 completes transition to Rust-based coreutils - OMG! Ubuntu](https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete)
 * [The 250-year-old company that survived by refusing to lay people off - Big Think](https://bigthink.com/the-long-game/the-250-year-old-company-that-survived-by-refusing-to-lay-people-off/)
 * [Home](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
@@ -87,8 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Scratchpad](https://www.smbc-comics.com/comic/scratchpad)
 * [Defrag98: Windows 98 Disk Defrag Simulator, Free Online](https://defrag98.com/)
 * [Saturday Morning Breakfast Cereal - Time](https://www.smbc-comics.com/comic/time-8)
-* [Saturday Morning Breakfast Cereal - Transporter](https://www.smbc-comics.com/comic/transporter-3)
-* [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
 
 ### Things I'm star-ing
 
