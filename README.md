@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Motorists Realise They've Entered Rural Queensland When The Servo Hotbox Does Not Muck Around](https://www.betootaadvocate.com/motorists-realise-theyve-entered-rural-queensland-when-the-servo-hotbox-does-not-muck-around/)
 * [Saturday Morning Breakfast Cereal - Gates](https://www.smbc-comics.com/comic/gates-3)
 * [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
 * [Ubuntu 26.10 completes transition to Rust-based coreutils - OMG! Ubuntu](https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete)
@@ -88,7 +89,6 @@ A table of things ...
 * [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/)
 * [Saturday Morning Breakfast Cereal - Scratchpad](https://www.smbc-comics.com/comic/scratchpad)
 * [Defrag98: Windows 98 Disk Defrag Simulator, Free Online](https://defrag98.com/)
-* [Saturday Morning Breakfast Cereal - Time](https://www.smbc-comics.com/comic/time-8)
 
 ### Things I'm star-ing
 
