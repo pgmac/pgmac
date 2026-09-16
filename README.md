@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Lake](https://www.smbc-comics.com/comic/lake)
 * [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
 * [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
 * [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)
@@ -88,7 +89,6 @@ A table of things ...
 * [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
 * [Ubuntu 26.10 completes transition to Rust-based coreutils - OMG! Ubuntu](https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete)
 * [The 250-year-old company that survived by refusing to lay people off - Big Think](https://bigthink.com/the-long-game/the-250-year-old-company-that-survived-by-refusing-to-lay-people-off/)
-* [Home](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
 
 ### Things I'm star-ing
 
