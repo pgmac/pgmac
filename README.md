@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
+* [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+* [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)
+* [Douglas Adams and the exterminated Doctor Who adventure](https://www.bbc.co.uk/news/articles/c8jdp38z4jgo)
 * [Motorists Realise They've Entered Rural Queensland When The Servo Hotbox Does Not Muck Around](https://www.betootaadvocate.com/motorists-realise-theyve-entered-rural-queensland-when-the-servo-hotbox-does-not-muck-around/)
 * [Saturday Morning Breakfast Cereal - Gates](https://www.smbc-comics.com/comic/gates-3)
 * [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
 * [Ubuntu 26.10 completes transition to Rust-based coreutils - OMG! Ubuntu](https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete)
 * [The 250-year-old company that survived by refusing to lay people off - Big Think](https://bigthink.com/the-long-game/the-250-year-old-company-that-survived-by-refusing-to-lay-people-off/)
 * [Home](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
-* [Saturday Morning Breakfast Cereal - Balance](https://www.smbc-comics.com/comic/balance)
-* [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/)
-* [Saturday Morning Breakfast Cereal - Scratchpad](https://www.smbc-comics.com/comic/scratchpad)
-* [Defrag98: Windows 98 Disk Defrag Simulator, Free Online](https://defrag98.com/)
 
 ### Things I'm star-ing
 
