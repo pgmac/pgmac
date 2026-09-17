@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Cloudflare/Security-Audit-Skill](https://github.com/cloudflare/security-audit-skill)
 * [Saturday Morning Breakfast Cereal - Lake](https://www.smbc-comics.com/comic/lake)
 * [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
 * [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
@@ -88,10 +89,11 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Gates](https://www.smbc-comics.com/comic/gates-3)
 * [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
 * [Ubuntu 26.10 completes transition to Rust-based coreutils - OMG! Ubuntu](https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete)
-* [The 250-year-old company that survived by refusing to lay people off - Big Think](https://bigthink.com/the-long-game/the-250-year-old-company-that-survived-by-refusing-to-lay-people-off/)
 
 ### Things I'm star-ing
 
+* [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+  A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 * [sbom-tools](https://github.com/sbom-tool/sbom-tools)
   Semantic SBOM/CBOM/AI-BOM diff, quality scoring, and compliance validation for CycloneDX/SPDX — component, license, and vulnerability change analysis, cryptographic inventory grading, PQC readiness (CNSA 2.0, NIST IR 8547), and regulatory gates for NTIA, FDA, EU CRA, BSI TR-03183, EUCC, SSDF, EO 14028, and the EU AI Act.
 * [wordstar](https://github.com/nampara-ai/wordstar)
@@ -110,8 +112,6 @@ A table of things ...
   Spec-driven development (SDD) for AI coding assistants.
 * [superpowers](https://github.com/obra/superpowers)
   An agentic skills framework & software development methodology that works.
-* [claude-meseeks](https://github.com/thephw/claude-meseeks)
-  Claude Code plugin that plays a Mr. Meeseeks voice line whenever Claude is waiting for you.
 
 ### My Blog Posts
 
