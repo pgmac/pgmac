@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [OpenJev](https://openjev.com/)
+* [Cloudflare Quick Tunnels](https://try.cloudflare.com/)
 * [Saturday Morning Breakfast Cereal - Citation](https://www.smbc-comics.com/comic/citation-2)
 * [Saturday Morning Breakfast Cereal - Waste](https://www.smbc-comics.com/comic/waste-2)
 * [Cloudflare/Security-Audit-Skill](https://github.com/cloudflare/security-audit-skill)
@@ -87,8 +89,6 @@ A table of things ...
 * [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
 * [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)
 * [Douglas Adams and the exterminated Doctor Who adventure](https://www.bbc.co.uk/news/articles/c8jdp38z4jgo)
-* [Motorists Realise They've Entered Rural Queensland When The Servo Hotbox Does Not Muck Around](https://www.betootaadvocate.com/motorists-realise-theyve-entered-rural-queensland-when-the-servo-hotbox-does-not-muck-around/)
-* [Saturday Morning Breakfast Cereal - Gates](https://www.smbc-comics.com/comic/gates-3)
 
 ### Things I'm star-ing
 
