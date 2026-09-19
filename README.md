@@ -92,6 +92,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [skills](https://github.com/typesafe-ai/skills)
+  Agent skills for building with TypeSafe's System One API
 * [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
   A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 * [sbom-tools](https://github.com/sbom-tool/sbom-tools)
@@ -110,8 +112,6 @@ A table of things ...
   Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
 * [OpenSpec](https://github.com/Fission-AI/OpenSpec)
   Spec-driven development (SDD) for AI coding assistants.
-* [superpowers](https://github.com/obra/superpowers)
-  An agentic skills framework & software development methodology that works.
 
 ### My Blog Posts
 
