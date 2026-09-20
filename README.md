@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Civilization](https://www.smbc-comics.com/comic/civilization-2)
 * [Saturday Morning Breakfast Cereal - Roach](https://www.smbc-comics.com/comic/roach-2)
 * [OpenJev](https://openjev.com/)
 * [Cloudflare Quick Tunnels](https://try.cloudflare.com/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Lake](https://www.smbc-comics.com/comic/lake)
 * [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
 * [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
-* [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)
 
 ### Things I'm star-ing
 
