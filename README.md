@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - In](https://www.smbc-comics.com/comic/in)
 * [Saturday Morning Breakfast Cereal - Civilization](https://www.smbc-comics.com/comic/civilization-2)
 * [Saturday Morning Breakfast Cereal - Roach](https://www.smbc-comics.com/comic/roach-2)
 * [OpenJev](https://openjev.com/)
@@ -88,12 +89,11 @@ A table of things ...
 * [Cloudflare/Security-Audit-Skill](https://github.com/cloudflare/security-audit-skill)
 * [Saturday Morning Breakfast Cereal - Lake](https://www.smbc-comics.com/comic/lake)
 * [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
-* [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
 
 ### Things I'm star-ing
 
 * [ax](https://github.com/google/ax)
-  Google's open agentic orchestrator
+  Google's open agentic orchestration runtime
 * [skills](https://github.com/typesafe-ai/skills)
   Agent skills for building with TypeSafe's System One API
 * [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
