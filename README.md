@@ -92,6 +92,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [ax](https://github.com/google/ax)
+  Google's open agentic orchestrator
 * [skills](https://github.com/typesafe-ai/skills)
   Agent skills for building with TypeSafe's System One API
 * [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
@@ -110,8 +112,6 @@ A table of things ...
   A hive mind communication platform
 * [loop-engineering](https://github.com/cobusgreyling/loop-engineering)
   Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
-* [OpenSpec](https://github.com/Fission-AI/OpenSpec)
-  Spec-driven development (SDD) for AI coding assistants.
 
 ### My Blog Posts
 
