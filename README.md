@@ -79,6 +79,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Two parallel neural ectoderm progenitors contribute to the developing brain](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
+* [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
+* [Attention is all you have](https://alicegg.tech/2026/09/21/attention)
 * [Saturday Morning Breakfast Cereal - In](https://www.smbc-comics.com/comic/in)
 * [Saturday Morning Breakfast Cereal - Civilization](https://www.smbc-comics.com/comic/civilization-2)
 * [Saturday Morning Breakfast Cereal - Roach](https://www.smbc-comics.com/comic/roach-2)
@@ -86,9 +89,6 @@ A table of things ...
 * [Cloudflare Quick Tunnels](https://try.cloudflare.com/)
 * [Saturday Morning Breakfast Cereal - Citation](https://www.smbc-comics.com/comic/citation-2)
 * [Saturday Morning Breakfast Cereal - Waste](https://www.smbc-comics.com/comic/waste-2)
-* [Cloudflare/Security-Audit-Skill](https://github.com/cloudflare/security-audit-skill)
-* [Saturday Morning Breakfast Cereal - Lake](https://www.smbc-comics.com/comic/lake)
-* [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
 
 ### Things I'm star-ing
 
