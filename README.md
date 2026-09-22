@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Taken](https://www.smbc-comics.com/comic/taken)
 * [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
 * [Two parallel neural ectoderm progenitors contribute to the developing brain](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
 * [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Roach](https://www.smbc-comics.com/comic/roach-2)
 * [OpenJev](https://openjev.com/)
 * [Cloudflare Quick Tunnels](https://try.cloudflare.com/)
-* [Saturday Morning Breakfast Cereal - Citation](https://www.smbc-comics.com/comic/citation-2)
 
 ### Things I'm star-ing
 
