@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
 * [Two parallel neural ectoderm progenitors contribute to the developing brain](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
 * [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
 * [Attention is all you have](https://alicegg.tech/2026/09/21/attention)
@@ -88,7 +89,6 @@ A table of things ...
 * [OpenJev](https://openjev.com/)
 * [Cloudflare Quick Tunnels](https://try.cloudflare.com/)
 * [Saturday Morning Breakfast Cereal - Citation](https://www.smbc-comics.com/comic/citation-2)
-* [Saturday Morning Breakfast Cereal - Waste](https://www.smbc-comics.com/comic/waste-2)
 
 ### Things I'm star-ing
 
