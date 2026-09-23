@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Wolf](https://www.smbc-comics.com/comic/wolf-5)
 * [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
 * [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
 * [Saturday Morning Breakfast Cereal - Taken](https://www.smbc-comics.com/comic/taken)
@@ -88,7 +89,6 @@ A table of things ...
 * [Attention is all you have](https://alicegg.tech/2026/09/21/attention)
 * [Saturday Morning Breakfast Cereal - In](https://www.smbc-comics.com/comic/in)
 * [Saturday Morning Breakfast Cereal - Civilization](https://www.smbc-comics.com/comic/civilization-2)
-* [Saturday Morning Breakfast Cereal - Roach](https://www.smbc-comics.com/comic/roach-2)
 
 ### Things I'm star-ing
 
