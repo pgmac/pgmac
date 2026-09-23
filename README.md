@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
+* [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
 * [Saturday Morning Breakfast Cereal - Taken](https://www.smbc-comics.com/comic/taken)
 * [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
 * [Two parallel neural ectoderm progenitors contribute to the developing brain](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
@@ -87,8 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - In](https://www.smbc-comics.com/comic/in)
 * [Saturday Morning Breakfast Cereal - Civilization](https://www.smbc-comics.com/comic/civilization-2)
 * [Saturday Morning Breakfast Cereal - Roach](https://www.smbc-comics.com/comic/roach-2)
-* [OpenJev](https://openjev.com/)
-* [Cloudflare Quick Tunnels](https://try.cloudflare.com/)
 
 ### Things I'm star-ing
 
