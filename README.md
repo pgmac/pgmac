@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)
 * [Saturday Morning Breakfast Cereal - Identity](https://www.smbc-comics.com/comic/identity-3)
 * [Saturday Morning Breakfast Cereal - Wolf](https://www.smbc-comics.com/comic/wolf-5)
 * [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
@@ -88,7 +89,6 @@ A table of things ...
 * [Two parallel neural ectoderm progenitors contribute to the developing brain](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
 * [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
 * [Attention is all you have](https://alicegg.tech/2026/09/21/attention)
-* [Saturday Morning Breakfast Cereal - In](https://www.smbc-comics.com/comic/in)
 
 ### Things I'm star-ing
 
