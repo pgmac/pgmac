@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Suit](https://www.smbc-comics.com/comic/suit-2)
 * [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)
 * [Saturday Morning Breakfast Cereal - Identity](https://www.smbc-comics.com/comic/identity-3)
 * [Saturday Morning Breakfast Cereal - Wolf](https://www.smbc-comics.com/comic/wolf-5)
@@ -88,7 +89,6 @@ A table of things ...
 * [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
 * [Two parallel neural ectoderm progenitors contribute to the developing brain](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
 * [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
-* [Attention is all you have](https://alicegg.tech/2026/09/21/attention)
 
 ### Things I'm star-ing
 
