@@ -79,16 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-* [Saturday Morning Breakfast Cereal - Suit](https://www.smbc-comics.com/comic/suit-2)
-* [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)
-* [Saturday Morning Breakfast Cereal - Identity](https://www.smbc-comics.com/comic/identity-3)
-* [Saturday Morning Breakfast Cereal - Wolf](https://www.smbc-comics.com/comic/wolf-5)
-* [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
-* [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
-* [Saturday Morning Breakfast Cereal - Taken](https://www.smbc-comics.com/comic/taken)
-* [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
-* [Two parallel neural ectoderm progenitors contribute to the developing brain](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
-* [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
+
 
 ### Things I'm star-ing
 
