@@ -79,7 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-
+* [Saturday Morning Breakfast Cereal - Paradox](https://www.smbc-comics.com/comic/paradox-3)
+* [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
+* [There are no "rogue" AI agents](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)
+* [Thinking fast and slow in AI: The role of metacognition (2021)](https://arxiv.org/abs/2110.01834)
+* [Saturday Morning Breakfast Cereal - Suit](https://www.smbc-comics.com/comic/suit-2)
+* [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)
+* [Saturday Morning Breakfast Cereal - Identity](https://www.smbc-comics.com/comic/identity-3)
+* [Saturday Morning Breakfast Cereal - Wolf](https://www.smbc-comics.com/comic/wolf-5)
+* [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
+* [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
 
 ### Things I'm star-ing
 
