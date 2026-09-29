@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5)
+* [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/)
 * [Saturday Morning Breakfast Cereal - Gift](https://www.smbc-comics.com/comic/gift)
 * [Saturday Morning Breakfast Cereal - Paradox](https://www.smbc-comics.com/comic/paradox-3)
 * [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
@@ -87,8 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Suit](https://www.smbc-comics.com/comic/suit-2)
 * [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)
 * [Saturday Morning Breakfast Cereal - Identity](https://www.smbc-comics.com/comic/identity-3)
-* [Saturday Morning Breakfast Cereal - Wolf](https://www.smbc-comics.com/comic/wolf-5)
-* [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
 
 ### Things I'm star-ing
 
