@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Free](https://www.smbc-comics.com/comic/free-5)
 * [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5)
 * [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/)
 * [Saturday Morning Breakfast Cereal - Gift](https://www.smbc-comics.com/comic/gift)
@@ -88,7 +89,6 @@ A table of things ...
 * [Thinking fast and slow in AI: The role of metacognition (2021)](https://arxiv.org/abs/2110.01834)
 * [Saturday Morning Breakfast Cereal - Suit](https://www.smbc-comics.com/comic/suit-2)
 * [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)
-* [Saturday Morning Breakfast Cereal - Identity](https://www.smbc-comics.com/comic/identity-3)
 
 ### Things I'm star-ing
 
