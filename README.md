@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GLM-5.3 and the spread of advanced cyber capabilities \ Anthropic](https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities)
 * [Saturday Morning Breakfast Cereal - Free](https://www.smbc-comics.com/comic/free-5)
 * [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5)
 * [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/)
@@ -88,7 +89,6 @@ A table of things ...
 * [There are no "rogue" AI agents](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)
 * [Thinking fast and slow in AI: The role of metacognition (2021)](https://arxiv.org/abs/2110.01834)
 * [Saturday Morning Breakfast Cereal - Suit](https://www.smbc-comics.com/comic/suit-2)
-* [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)
 
 ### Things I'm star-ing
 
