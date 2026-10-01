@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Equations](https://www.smbc-comics.com/comic/equations)
 * [Saturday Morning Breakfast Cereal - Scripture](https://www.smbc-comics.com/comic/scripture-2)
 * [GLM-5.3 and the spread of advanced cyber capabilities \ Anthropic](https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities)
 * [Saturday Morning Breakfast Cereal - Free](https://www.smbc-comics.com/comic/free-5)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Paradox](https://www.smbc-comics.com/comic/paradox-3)
 * [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
 * [There are no "rogue" AI agents](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents)
-* [Thinking fast and slow in AI: The role of metacognition (2021)](https://arxiv.org/abs/2110.01834)
 
 ### Things I'm star-ing
 
