@@ -79,16 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
-* [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
-* [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
-* [Saturday Morning Breakfast Cereal - Equations](https://www.smbc-comics.com/comic/equations)
-* [Saturday Morning Breakfast Cereal - Scripture](https://www.smbc-comics.com/comic/scripture-2)
-* [GLM-5.3 and the spread of advanced cyber capabilities \ Anthropic](https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities)
-* [Saturday Morning Breakfast Cereal - Free](https://www.smbc-comics.com/comic/free-5)
-* [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5)
-* [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/)
-* [Saturday Morning Breakfast Cereal - Gift](https://www.smbc-comics.com/comic/gift)
-* [Saturday Morning Breakfast Cereal - Paradox](https://www.smbc-comics.com/comic/paradox-3)
+
 
 ### Things I'm star-ing
 
