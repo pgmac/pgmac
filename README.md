@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Specify](https://www.smbc-comics.com/comic/specify)
+* [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
+* [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f)
+* [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)
+* [The first packet sent via RFC1149 avian carrier is up for auction at Christie's](https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216)
+* [Show HN: Pyxel – A Python retro game engine with built-in art and sound editors](https://github.com/kitao/pyxel)
 * [Saturday Morning Breakfast Cereal - Interesting](https://www.smbc-comics.com/comic/interesting-5)
 * [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
 * [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
 * [Saturday Morning Breakfast Cereal - Equations](https://www.smbc-comics.com/comic/equations)
-* [Saturday Morning Breakfast Cereal - Scripture](https://www.smbc-comics.com/comic/scripture-2)
-* [GLM-5.3 and the spread of advanced cyber capabilities \ Anthropic](https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities)
-* [Saturday Morning Breakfast Cereal - Free](https://www.smbc-comics.com/comic/free-5)
-* [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5)
-* [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/)
-* [Saturday Morning Breakfast Cereal - Gift](https://www.smbc-comics.com/comic/gift)
 
 ### Things I'm star-ing
 
