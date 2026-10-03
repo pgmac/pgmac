@@ -92,6 +92,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [ldraw-nova](https://github.com/anteloc/ldraw-nova)
+  Agent tooling for generative LEGO models building, built with Astra and Opus 5.5, powered by Jev
 * [ax](https://github.com/google/ax)
   Google's open agentic orchestration runtime
 * [skills](https://github.com/typesafe-ai/skills)
@@ -110,8 +112,6 @@ A table of things ...
   LLM inference in C/C++
 * [buzz](https://github.com/block/buzz)
   A hive mind communication platform
-* [loop-engineering](https://github.com/cobusgreyling/loop-engineering)
-  Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
 
 ### My Blog Posts
 
