@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [www.abc.net.au](https://www.abc.net.au/news/2026-10-04/love-story-tim-judy-sharp-laser-beak-man/107070292)
 * [Saturday Morning Breakfast Cereal - Specify](https://www.smbc-comics.com/comic/specify)
 * [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
 * [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Interesting](https://www.smbc-comics.com/comic/interesting-5)
 * [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
 * [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
-* [Saturday Morning Breakfast Cereal - Equations](https://www.smbc-comics.com/comic/equations)
 
 ### Things I'm star-ing
 
