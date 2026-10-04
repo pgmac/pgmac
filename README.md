@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - A](https://www.smbc-comics.com/comic/a-2)
 * [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
 * [www.abc.net.au](https://www.abc.net.au/news/2026-10-04/love-story-tim-judy-sharp-laser-beak-man/107070292)
 * [Saturday Morning Breakfast Cereal - Specify](https://www.smbc-comics.com/comic/specify)
@@ -88,7 +89,6 @@ A table of things ...
 * [The first packet sent via RFC1149 avian carrier is up for auction at Christie's](https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216)
 * [Show HN: Pyxel – A Python retro game engine with built-in art and sound editors](https://github.com/kitao/pyxel)
 * [Saturday Morning Breakfast Cereal - Interesting](https://www.smbc-comics.com/comic/interesting-5)
-* [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
 
 ### Things I'm star-ing
 
