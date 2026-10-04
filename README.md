@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Is artificial intelligence a new lifeform](https://www.abc.net.au/news/2026-10-05/is-artificial-intelligence-a-new-lifeform/107226762)
 * [Saturday Morning Breakfast Cereal - A](https://www.smbc-comics.com/comic/a-2)
 * [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
-* [www.abc.net.au](https://www.abc.net.au/news/2026-10-04/love-story-tim-judy-sharp-laser-beak-man/107070292)
+* [Love Story: Tim and Judy Sharp Laser Beak Man](https://www.abc.net.au/news/2026-10-04/love-story-tim-judy-sharp-laser-beak-man/107070292)
 * [Saturday Morning Breakfast Cereal - Specify](https://www.smbc-comics.com/comic/specify)
 * [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
 * [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f)
 * [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)
 * [The first packet sent via RFC1149 avian carrier is up for auction at Christie's](https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216)
 * [Show HN: Pyxel – A Python retro game engine with built-in art and sound editors](https://github.com/kitao/pyxel)
-* [Saturday Morning Breakfast Cereal - Interesting](https://www.smbc-comics.com/comic/interesting-5)
 
 ### Things I'm star-ing
 
