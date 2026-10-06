@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Cardamom](https://www.smbc-comics.com/comic/cardamom)
 * [We ported the original Doom to SQL](https://cedardb.com/blog/sqldoom/)
 * [Saturday Morning Breakfast Cereal - Birds](https://www.smbc-comics.com/comic/birds)
 * [Is artificial intelligence a new lifeform](https://www.abc.net.au/news/2026-10-05/is-artificial-intelligence-a-new-lifeform/107226762)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Specify](https://www.smbc-comics.com/comic/specify)
 * [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
 * [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f)
-* [Show HN: Made an open-source Lego AI generator](https://github.com/anteloc/ldraw-nova)
 
 ### Things I'm star-ing
 
