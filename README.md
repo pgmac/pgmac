@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Woops](https://www.smbc-comics.com/comic/woops)
 * [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
 * [TrueForge: Open-Source Agent Harness | Vendor-Neutral AI](https://www.truefoundry.com/trueforge)
 * [Penguin Mail – open-source Rust email client for Linux with AI](https://penguin-mail.com/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Is artificial intelligence a new lifeform](https://www.abc.net.au/news/2026-10-05/is-artificial-intelligence-a-new-lifeform/107226762)
 * [Saturday Morning Breakfast Cereal - A](https://www.smbc-comics.com/comic/a-2)
 * [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
-* [Love Story: Tim and Judy Sharp Laser Beak Man](https://www.abc.net.au/news/2026-10-04/love-story-tim-judy-sharp-laser-beak-man/107070292)
 
 ### Things I'm star-ing
 
