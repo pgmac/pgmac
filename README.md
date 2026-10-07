@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
+* [TrueForge: Open-Source Agent Harness | Vendor-Neutral AI](https://www.truefoundry.com/trueforge)
 * [Penguin Mail – open-source Rust email client for Linux with AI](https://penguin-mail.com/)
 * [Saturday Morning Breakfast Cereal - Cardamom](https://www.smbc-comics.com/comic/cardamom)
 * [We ported the original Doom to SQL](https://cedardb.com/blog/sqldoom/)
@@ -87,11 +89,11 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - A](https://www.smbc-comics.com/comic/a-2)
 * [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
 * [Love Story: Tim and Judy Sharp Laser Beak Man](https://www.abc.net.au/news/2026-10-04/love-story-tim-judy-sharp-laser-beak-man/107070292)
-* [Saturday Morning Breakfast Cereal - Specify](https://www.smbc-comics.com/comic/specify)
-* [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
 
 ### Things I'm star-ing
 
+* [c64-keyboard-font](https://github.com/szabadkai/c64-keyboard-font)
+  Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.
 * [ldraw-nova](https://github.com/anteloc/ldraw-nova)
   Agent tooling for generative LEGO models building, built with Astra and Opus 5.5, powered by Jev
 * [ax](https://github.com/google/ax)
@@ -110,8 +112,6 @@ A table of things ...
   A self-hosted, Google Keep style notes app.
 * [llama.cpp](https://github.com/ggml-org/llama.cpp)
   LLM inference in C/C++
-* [buzz](https://github.com/block/buzz)
-  A hive mind communication platform
 
 ### My Blog Posts
 
