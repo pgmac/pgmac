@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Prompt](https://www.smbc-comics.com/comic/prompt-3)
 * [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
 * [Saturday Morning Breakfast Cereal - Woops](https://www.smbc-comics.com/comic/woops)
 * [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
@@ -88,7 +89,6 @@ A table of things ...
 * [We ported the original Doom to SQL](https://cedardb.com/blog/sqldoom/)
 * [Saturday Morning Breakfast Cereal - Birds](https://www.smbc-comics.com/comic/birds)
 * [Is artificial intelligence a new lifeform](https://www.abc.net.au/news/2026-10-05/is-artificial-intelligence-a-new-lifeform/107226762)
-* [Saturday Morning Breakfast Cereal - A](https://www.smbc-comics.com/comic/a-2)
 
 ### Things I'm star-ing
 
