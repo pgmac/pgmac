@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Bet](https://www.smbc-comics.com/comic/bet-2)
 * [ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)
 * [Saturday Morning Breakfast Cereal - Prompt](https://www.smbc-comics.com/comic/prompt-3)
 * [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
@@ -88,7 +89,6 @@ A table of things ...
 * [Penguin Mail – open-source Rust email client for Linux with AI](https://penguin-mail.com/)
 * [Saturday Morning Breakfast Cereal - Cardamom](https://www.smbc-comics.com/comic/cardamom)
 * [We ported the original Doom to SQL](https://cedardb.com/blog/sqldoom/)
-* [Saturday Morning Breakfast Cereal - Birds](https://www.smbc-comics.com/comic/birds)
 
 ### Things I'm star-ing
 
