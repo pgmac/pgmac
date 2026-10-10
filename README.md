@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Relative](https://www.smbc-comics.com/comic/relative)
 * [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
 * [Saturday Morning Breakfast Cereal - Bet](https://www.smbc-comics.com/comic/bet-2)
 * [ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)
@@ -88,7 +89,6 @@ A table of things ...
 * [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
 * [TrueForge: Open-Source Agent Harness | Vendor-Neutral AI](https://www.truefoundry.com/trueforge)
 * [Penguin Mail – open-source Rust email client for Linux with AI](https://penguin-mail.com/)
-* [Saturday Morning Breakfast Cereal - Cardamom](https://www.smbc-comics.com/comic/cardamom)
 
 ### Things I'm star-ing
 
