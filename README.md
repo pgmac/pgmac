@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Blog](https://www.smbc-comics.com/comic/blog)
+* [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
 * [Saturday Morning Breakfast Cereal - Relative](https://www.smbc-comics.com/comic/relative)
 * [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
 * [Saturday Morning Breakfast Cereal - Bet](https://www.smbc-comics.com/comic/bet-2)
@@ -87,11 +89,11 @@ A table of things ...
 * [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
 * [Saturday Morning Breakfast Cereal - Woops](https://www.smbc-comics.com/comic/woops)
 * [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
-* [TrueForge: Open-Source Agent Harness | Vendor-Neutral AI](https://www.truefoundry.com/trueforge)
-* [Penguin Mail – open-source Rust email client for Linux with AI](https://penguin-mail.com/)
 
 ### Things I'm star-ing
 
+* [talorys](https://github.com/rociiu/talorys)
+  Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.
 * [c64-keyboard-font](https://github.com/szabadkai/c64-keyboard-font)
   Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen.
 * [ldraw-nova](https://github.com/anteloc/ldraw-nova)
@@ -110,8 +112,6 @@ A table of things ...
   A high-throughput and memory-efficient inference and serving engine for LLMs
 * [kept](https://github.com/ericerkz/kept)
   A self-hosted, Google Keep style notes app.
-* [llama.cpp](https://github.com/ggml-org/llama.cpp)
-  LLM inference in C/C++
 
 ### My Blog Posts
 
