@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
 * [Saturday Morning Breakfast Cereal - Blog](https://www.smbc-comics.com/comic/blog)
 * [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
 * [Saturday Morning Breakfast Cereal - Relative](https://www.smbc-comics.com/comic/relative)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Prompt](https://www.smbc-comics.com/comic/prompt-3)
 * [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
 * [Saturday Morning Breakfast Cereal - Woops](https://www.smbc-comics.com/comic/woops)
-* [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
 
 ### Things I'm star-ing
 
