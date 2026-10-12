@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Random](https://www.smbc-comics.com/comic/random)
+* [diskprices.com](https://diskprices.com/?locale=au)
 * [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
 * [Saturday Morning Breakfast Cereal - Blog](https://www.smbc-comics.com/comic/blog)
 * [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
@@ -87,11 +89,11 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Bet](https://www.smbc-comics.com/comic/bet-2)
 * [ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)
 * [Saturday Morning Breakfast Cereal - Prompt](https://www.smbc-comics.com/comic/prompt-3)
-* [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
-* [Saturday Morning Breakfast Cereal - Woops](https://www.smbc-comics.com/comic/woops)
 
 ### Things I'm star-ing
 
+* [proxhawk-tui](https://github.com/Mrdindon/proxhawk-tui)
+  A text console for Proxmox VE
 * [talorys](https://github.com/rociiu/talorys)
   Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.
 * [c64-keyboard-font](https://github.com/szabadkai/c64-keyboard-font)
@@ -110,8 +112,6 @@ A table of things ...
   The original, unmodified MicroPro WordStar Professional Release 4 from 1987. Desktop version consists of original binaries wrapped in DOSBox staging to run on any modern computer. WebAssembly version runs in any browser.
 * [vllm](https://github.com/vllm-project/vllm)
   A high-throughput and memory-efficient inference and serving engine for LLMs
-* [kept](https://github.com/ericerkz/kept)
-  A self-hosted, Google Keep style notes app.
 
 ### My Blog Posts
 
