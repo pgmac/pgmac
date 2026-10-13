@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Long](https://www.smbc-comics.com/comic/long-2)
 * [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
 * [Saturday Morning Breakfast Cereal - Random](https://www.smbc-comics.com/comic/random)
 * [diskprices.com](https://diskprices.com/?locale=au)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Relative](https://www.smbc-comics.com/comic/relative)
 * [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
 * [Saturday Morning Breakfast Cereal - Bet](https://www.smbc-comics.com/comic/bet-2)
-* [ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)
 
 ### Things I'm star-ing
 
