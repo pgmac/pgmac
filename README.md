@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Break](https://www.smbc-comics.com/comic/break)
 * [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
 * [Saturday Morning Breakfast Cereal - Long](https://www.smbc-comics.com/comic/long-2)
 * [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Blog](https://www.smbc-comics.com/comic/blog)
 * [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
 * [Saturday Morning Breakfast Cereal - Relative](https://www.smbc-comics.com/comic/relative)
-* [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
 
 ### Things I'm star-ing
 
