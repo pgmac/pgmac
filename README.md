@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Hun](https://www.smbc-comics.com/comic/hun)
 * [Jev meets the Trolley Problem](https://zachlandes.com/trolley-problem/)
 * [Saturday Morning Breakfast Cereal - Toad](https://www.smbc-comics.com/comic/toad)
 * [Saturday Morning Breakfast Cereal - Break](https://www.smbc-comics.com/comic/break)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Random](https://www.smbc-comics.com/comic/random)
 * [diskprices.com](https://diskprices.com/?locale=au)
 * [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
-* [Saturday Morning Breakfast Cereal - Blog](https://www.smbc-comics.com/comic/blog)
 
 ### Things I'm star-ing
 
