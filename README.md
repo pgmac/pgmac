@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
+* [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](https://words.filippo.io/seeds-solved/)
 * [Saturday Morning Breakfast Cereal - Hun](https://www.smbc-comics.com/comic/hun)
 * [Jev meets the Trolley Problem](https://zachlandes.com/trolley-problem/)
 * [Saturday Morning Breakfast Cereal - Toad](https://www.smbc-comics.com/comic/toad)
@@ -87,8 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Long](https://www.smbc-comics.com/comic/long-2)
 * [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
 * [Saturday Morning Breakfast Cereal - Random](https://www.smbc-comics.com/comic/random)
-* [diskprices.com](https://diskprices.com/?locale=au)
-* [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
 
 ### Things I'm star-ing
 
