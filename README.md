@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
 * [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
 * [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](https://words.filippo.io/seeds-solved/)
 * [Saturday Morning Breakfast Cereal - Hun](https://www.smbc-comics.com/comic/hun)
@@ -88,7 +89,6 @@ A table of things ...
 * [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
 * [Saturday Morning Breakfast Cereal - Long](https://www.smbc-comics.com/comic/long-2)
 * [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
-* [Saturday Morning Breakfast Cereal - Random](https://www.smbc-comics.com/comic/random)
 
 ### Things I'm star-ing
 
