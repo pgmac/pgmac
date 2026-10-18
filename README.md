@@ -101,7 +101,7 @@ A table of things ...
 * [ldraw-nova](https://github.com/anteloc/ldraw-nova)
   Agent tooling for generative LEGO models building, built with Astra and Opus 5.5, powered by Jev
 * [ax](https://github.com/google/ax)
-  Google's open agentic orchestration runtime
+  Agent Executor (AX) is Google's open agentic orchestration runtime
 * [skills](https://github.com/typesafe-ai/skills)
   Agent skills for building with TypeSafe's System One API
 * [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
