@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Pele – Mermaid diagrams as themeable SVG](https://pele.run/)
 * [Making chicken transparent using Dorito dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
 * [Saturday Morning Breakfast Cereal - Chip](https://www.smbc-comics.com/comic/chip)
 * [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
@@ -88,7 +89,6 @@ A table of things ...
 * [Jev meets the Trolley Problem](https://zachlandes.com/trolley-problem/)
 * [Saturday Morning Breakfast Cereal - Toad](https://www.smbc-comics.com/comic/toad)
 * [Saturday Morning Breakfast Cereal - Break](https://www.smbc-comics.com/comic/break)
-* [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
 
 ### Things I'm star-ing
 
