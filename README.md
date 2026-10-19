@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Cells](https://www.smbc-comics.com/comic/cells)
 * [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
 * [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
 * [The DNS Museum](https://dns.museum)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Chip](https://www.smbc-comics.com/comic/chip)
 * [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
 * [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
-* [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](https://words.filippo.io/seeds-solved/)
 
 ### Things I'm star-ing
 
