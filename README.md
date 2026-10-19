@@ -79,6 +79,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
+* [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
+* [The DNS Museum](https://dns.museum)
 * [Saturday Morning Breakfast Cereal - Reactions](https://www.smbc-comics.com/comic/reactions)
 * [Pele – Mermaid diagrams as themeable SVG](https://pele.run/)
 * [Making chicken transparent using Dorito dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
@@ -86,9 +89,6 @@ A table of things ...
 * [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
 * [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
 * [The NIST Elliptic Curves Seeds Bounty Has Been Claimed](https://words.filippo.io/seeds-solved/)
-* [Saturday Morning Breakfast Cereal - Hun](https://www.smbc-comics.com/comic/hun)
-* [Jev meets the Trolley Problem](https://zachlandes.com/trolley-problem/)
-* [Saturday Morning Breakfast Cereal - Toad](https://www.smbc-comics.com/comic/toad)
 
 ### Things I'm star-ing
 
