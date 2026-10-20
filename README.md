@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Perplexity has an open-source alternative now, and I'm hooked](https://www.makeuseof.com/perplexity-has-an-open-source-alternative-now-and-im-hooked/)
 * [Saturday Morning Breakfast Cereal - Cells](https://www.smbc-comics.com/comic/cells)
 * [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
 * [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Making chicken transparent using Dorito dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
 * [Saturday Morning Breakfast Cereal - Chip](https://www.smbc-comics.com/comic/chip)
 * [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
-* [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
 
 ### Things I'm star-ing
 
