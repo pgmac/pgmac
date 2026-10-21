@@ -79,6 +79,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [eMudhra intermediate CA compromise](https://emudhra.we-have-a-problem.com/)
+* ['Der Viener Schlinger': The meat cannon that launched 20k hot dogs](https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/)
+* [PHP session.upload_progress heap UAF (CVE-2026-109618 / -109619)](https://jackalsyn.com/posts/php-up-2026.html)
 * [Saturday Morning Breakfast Cereal - Funeral](https://www.smbc-comics.com/comic/funeral)
 * [Perplexity has an open-source alternative now, and I'm hooked](https://www.makeuseof.com/perplexity-has-an-open-source-alternative-now-and-im-hooked/)
 * [Saturday Morning Breakfast Cereal - Cells](https://www.smbc-comics.com/comic/cells)
@@ -86,9 +89,6 @@ A table of things ...
 * [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
 * [The DNS Museum](https://dns.museum)
 * [Saturday Morning Breakfast Cereal - Reactions](https://www.smbc-comics.com/comic/reactions)
-* [Pele – Mermaid diagrams as themeable SVG](https://pele.run/)
-* [Making chicken transparent using Dorito dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
-* [Saturday Morning Breakfast Cereal - Chip](https://www.smbc-comics.com/comic/chip)
 
 ### Things I'm star-ing
 
