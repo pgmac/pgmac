@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
 * [Saturday Morning Breakfast Cereal - Future](https://www.smbc-comics.com/comic/future-5)
 * [eMudhra intermediate CA compromise](https://emudhra.we-have-a-problem.com/)
 * ['Der Viener Schlinger': The meat cannon that launched 20k hot dogs](https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Cells](https://www.smbc-comics.com/comic/cells)
 * [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
 * [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
-* [The DNS Museum](https://dns.museum)
 
 ### Things I'm star-ing
 
