@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Revenge](https://www.smbc-comics.com/comic/revenge)
 * [opencode.ai](https://opencode.ai/go)
 * [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
 * [Saturday Morning Breakfast Cereal - Future](https://www.smbc-comics.com/comic/future-5)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Funeral](https://www.smbc-comics.com/comic/funeral)
 * [Perplexity has an open-source alternative now, and I'm hooked](https://www.makeuseof.com/perplexity-has-an-open-source-alternative-now-and-im-hooked/)
 * [Saturday Morning Breakfast Cereal - Cells](https://www.smbc-comics.com/comic/cells)
-* [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
 
 ### Things I'm star-ing
 
