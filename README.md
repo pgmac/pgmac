@@ -79,6 +79,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
+* [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell)
+* [Mortality Among People with Attention-Deficit/Hyperactivity Disorder](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472)
 * [Saturday Morning Breakfast Cereal - Revenge](https://www.smbc-comics.com/comic/revenge)
 * [opencode.ai](https://opencode.ai/go)
 * [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
@@ -86,9 +89,6 @@ A table of things ...
 * [eMudhra intermediate CA compromise](https://emudhra.we-have-a-problem.com/)
 * ['Der Viener Schlinger': The meat cannon that launched 20k hot dogs](https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/)
 * [PHP session.upload_progress heap UAF (CVE-2026-109618 / -109619)](https://jackalsyn.com/posts/php-up-2026.html)
-* [Saturday Morning Breakfast Cereal - Funeral](https://www.smbc-comics.com/comic/funeral)
-* [Perplexity has an open-source alternative now, and I'm hooked](https://www.makeuseof.com/perplexity-has-an-open-source-alternative-now-and-im-hooked/)
-* [Saturday Morning Breakfast Cereal - Cells](https://www.smbc-comics.com/comic/cells)
 
 ### Things I'm star-ing
 
