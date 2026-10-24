@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
 * [CVE Tracker](https://cve.0xosprey.com/)
 * [Evolving Threat: http2shell is an RCE in Node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
 * [Saturday Morning Breakfast Cereal - Alignment](https://www.smbc-comics.com/comic/alignment-2)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Revenge](https://www.smbc-comics.com/comic/revenge)
 * [opencode.ai](https://opencode.ai/go)
 * [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
-* [Saturday Morning Breakfast Cereal - Future](https://www.smbc-comics.com/comic/future-5)
 
 ### Things I'm star-ing
 
