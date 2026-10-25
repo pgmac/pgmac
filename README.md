@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - XXL](https://www.smbc-comics.com/comic/xxl)
+* [Picasa Photo Viewer Rebuilt for Linux, Project Named Licasa](https://github.com/sanxchep/licasa)
 * [Saturday Morning Breakfast Cereal - Watch](https://www.smbc-comics.com/comic/watch-2)
 * [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
 * [CVE Tracker](https://cve.0xosprey.com/)
@@ -87,8 +89,6 @@ A table of things ...
 * [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
 * [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell)
 * [Mortality Among People with Attention-Deficit/Hyperactivity Disorder](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472)
-* [Saturday Morning Breakfast Cereal - Revenge](https://www.smbc-comics.com/comic/revenge)
-* [opencode.ai](https://opencode.ai/go)
 
 ### Things I'm star-ing
 
