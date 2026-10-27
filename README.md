@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Clankor](https://www.smbc-comics.com/comic/clankor)
 * [Saturday Morning Breakfast Cereal - Order](https://www.smbc-comics.com/comic/order-3)
 * [Tasks as Code: Move Your Tickets into the Repository](https://typemill.net/knowledge-hub/tasks-as-code)
 * [Saturday Morning Breakfast Cereal - XXL](https://www.smbc-comics.com/comic/xxl)
@@ -88,7 +89,6 @@ A table of things ...
 * [CVE Tracker](https://cve.0xosprey.com/)
 * [Evolving Threat: http2shell is an RCE in Node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
 * [Saturday Morning Breakfast Cereal - Alignment](https://www.smbc-comics.com/comic/alignment-2)
-* [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
 
 ### Things I'm star-ing
 
