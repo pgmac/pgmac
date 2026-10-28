@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Signal](https://www.smbc-comics.com/comic/signal-5)
 * [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
 * [Saturday Morning Breakfast Cereal - Clankor](https://www.smbc-comics.com/comic/clankor)
 * [Saturday Morning Breakfast Cereal - Order](https://www.smbc-comics.com/comic/order-3)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Watch](https://www.smbc-comics.com/comic/watch-2)
 * [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
 * [CVE Tracker](https://cve.0xosprey.com/)
-* [Evolving Threat: http2shell is an RCE in Node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
 
 ### Things I'm star-ing
 
