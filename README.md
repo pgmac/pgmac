@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Eyes](https://www.smbc-comics.com/comic/eyes)
 * [Saturday Morning Breakfast Cereal - Signal](https://www.smbc-comics.com/comic/signal-5)
 * [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
 * [Saturday Morning Breakfast Cereal - Clankor](https://www.smbc-comics.com/comic/clankor)
@@ -88,7 +89,6 @@ A table of things ...
 * [Picasa Photo Viewer Rebuilt for Linux, Project Named Licasa](https://github.com/sanxchep/licasa)
 * [Saturday Morning Breakfast Cereal - Watch](https://www.smbc-comics.com/comic/watch-2)
 * [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
-* [CVE Tracker](https://cve.0xosprey.com/)
 
 ### Things I'm star-ing
 
