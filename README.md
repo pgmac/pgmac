@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Dead](https://www.smbc-comics.com/comic/dead-3)
 * [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 * [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
 * [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Clankor](https://www.smbc-comics.com/comic/clankor)
 * [Saturday Morning Breakfast Cereal - Order](https://www.smbc-comics.com/comic/order-3)
 * [Tasks as Code: Move Your Tickets into the Repository](https://typemill.net/knowledge-hub/tasks-as-code)
-* [Saturday Morning Breakfast Cereal - XXL](https://www.smbc-comics.com/comic/xxl)
 
 ### Things I'm star-ing
 
