@@ -79,6 +79,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
+* [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
+* [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm)
 * [Saturday Morning Breakfast Cereal - Eyes](https://www.smbc-comics.com/comic/eyes)
 * [Saturday Morning Breakfast Cereal - Signal](https://www.smbc-comics.com/comic/signal-5)
 * [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
@@ -86,12 +89,11 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Order](https://www.smbc-comics.com/comic/order-3)
 * [Tasks as Code: Move Your Tickets into the Repository](https://typemill.net/knowledge-hub/tasks-as-code)
 * [Saturday Morning Breakfast Cereal - XXL](https://www.smbc-comics.com/comic/xxl)
-* [Picasa Photo Viewer Rebuilt for Linux, Project Named Licasa](https://github.com/sanxchep/licasa)
-* [Saturday Morning Breakfast Cereal - Watch](https://www.smbc-comics.com/comic/watch-2)
-* [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration)
 
 ### Things I'm star-ing
 
+* [astroterm](https://github.com/da-luce/astroterm)
+  A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 * [proxhawk-tui](https://github.com/Mrdindon/proxhawk-tui)
   A text console for Proxmox VE
 * [talorys](https://github.com/rociiu/talorys)
@@ -110,8 +112,6 @@ A table of things ...
   Semantic SBOM/CBOM/AI-BOM diff, quality scoring, and compliance validation for CycloneDX/SPDX — component, license, and vulnerability change analysis, cryptographic inventory grading, PQC readiness (CNSA 2.0, NIST IR 8547), and regulatory gates for NTIA, FDA, EU CRA, BSI TR-03183, EUCC, SSDF, EO 14028, and the EU AI Act.
 * [wordstar](https://github.com/nampara-ai/wordstar)
   The original, unmodified MicroPro WordStar Professional Release 4 from 1987. Desktop version consists of original binaries wrapped in DOSBox staging to run on any modern computer. WebAssembly version runs in any browser.
-* [vllm](https://github.com/vllm-project/vllm)
-  A high-throughput and memory-efficient inference and serving engine for LLMs
 
 ### My Blog Posts
 
