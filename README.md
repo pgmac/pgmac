@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Help](https://www.smbc-comics.com/comic/help-4)
+* [Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/)
+* [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
+* [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
 * [Saturday Morning Breakfast Cereal - Dead](https://www.smbc-comics.com/comic/dead-3)
 * [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 * [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
 * [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm)
 * [Saturday Morning Breakfast Cereal - Eyes](https://www.smbc-comics.com/comic/eyes)
 * [Saturday Morning Breakfast Cereal - Signal](https://www.smbc-comics.com/comic/signal-5)
-* [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
-* [Saturday Morning Breakfast Cereal - Clankor](https://www.smbc-comics.com/comic/clankor)
-* [Saturday Morning Breakfast Cereal - Order](https://www.smbc-comics.com/comic/order-3)
-* [Tasks as Code: Move Your Tickets into the Repository](https://typemill.net/knowledge-hub/tasks-as-code)
 
 ### Things I'm star-ing
 
