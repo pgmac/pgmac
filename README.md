@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Burnout](https://www.smbc-comics.com/comic/burnout)
 * [Saturday Morning Breakfast Cereal - Help](https://www.smbc-comics.com/comic/help-4)
 * [Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/)
 * [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
@@ -88,7 +89,6 @@ A table of things ...
 * [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
 * [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm)
 * [Saturday Morning Breakfast Cereal - Eyes](https://www.smbc-comics.com/comic/eyes)
-* [Saturday Morning Breakfast Cereal - Signal](https://www.smbc-comics.com/comic/signal-5)
 
 ### Things I'm star-ing
 
