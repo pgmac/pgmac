@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector](https://github.com/4yk5/Ghostman)
+* [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)
 * [Saturday Morning Breakfast Cereal - Burnout](https://www.smbc-comics.com/comic/burnout)
 * [Saturday Morning Breakfast Cereal - Help](https://www.smbc-comics.com/comic/help-4)
 * [Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/)
@@ -87,8 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Dead](https://www.smbc-comics.com/comic/dead-3)
 * [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 * [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
-* [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm)
-* [Saturday Morning Breakfast Cereal - Eyes](https://www.smbc-comics.com/comic/eyes)
 
 ### Things I'm star-ing
 
