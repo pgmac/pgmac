@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
 * [Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector](https://github.com/4yk5/Ghostman)
 * [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)
 * [Saturday Morning Breakfast Cereal - Burnout](https://www.smbc-comics.com/comic/burnout)
@@ -88,7 +89,6 @@ A table of things ...
 * [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
 * [Saturday Morning Breakfast Cereal - Dead](https://www.smbc-comics.com/comic/dead-3)
 * [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
-* [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
 
 ### Things I'm star-ing
 
