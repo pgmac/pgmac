@@ -79,6 +79,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Light](https://www.smbc-comics.com/comic/light)
+* [Told to reboot a server, it destroyed systemd, destroyed containers, ran random](https://github.com/openai/codex/issues/59060)
+* [Milkman – The Better Alternative to Postman](https://milkman.dev/)
 * [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos)
 * [Saturday Morning Breakfast Cereal - Trial](https://www.smbc-comics.com/comic/trial)
 * [Saturday Morning Breakfast Cereal - Borated](https://www.smbc-comics.com/comic/borated)
@@ -86,9 +89,6 @@ A table of things ...
 * [Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector](https://github.com/4yk5/Ghostman)
 * [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)
 * [Saturday Morning Breakfast Cereal - Burnout](https://www.smbc-comics.com/comic/burnout)
-* [Saturday Morning Breakfast Cereal - Help](https://www.smbc-comics.com/comic/help-4)
-* [Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/)
-* [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
 
 ### Things I'm star-ing
 
