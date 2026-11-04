@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos)
 * [Saturday Morning Breakfast Cereal - Trial](https://www.smbc-comics.com/comic/trial)
 * [Saturday Morning Breakfast Cereal - Borated](https://www.smbc-comics.com/comic/borated)
 * [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Help](https://www.smbc-comics.com/comic/help-4)
 * [Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/)
 * [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
-* [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
 
 ### Things I'm star-ing
 
