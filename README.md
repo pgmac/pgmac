@@ -79,6 +79,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Index](https://www.smbc-comics.com/comic/index)
+* [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
+* [sshole](https://sshhole.com)
 * [Saturday Morning Breakfast Cereal - Light](https://www.smbc-comics.com/comic/light)
 * [Told to reboot a server, it destroyed systemd, destroyed containers, ran random](https://github.com/openai/codex/issues/59060)
 * [Milkman – The Better Alternative to Postman](https://milkman.dev/)
@@ -86,9 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Trial](https://www.smbc-comics.com/comic/trial)
 * [Saturday Morning Breakfast Cereal - Borated](https://www.smbc-comics.com/comic/borated)
 * [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
-* [Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector](https://github.com/4yk5/Ghostman)
-* [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)
-* [Saturday Morning Breakfast Cereal - Burnout](https://www.smbc-comics.com/comic/burnout)
 
 ### Things I'm star-ing
 
