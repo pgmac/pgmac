@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Sat](https://www.smbc-comics.com/comic/sat)
+* [Search for everyone](https://kagi.com/changelog#11820)
+* [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
+* [Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
+* [Pwn.college](https://pwn.college/)
 * [Saturday Morning Breakfast Cereal - Index](https://www.smbc-comics.com/comic/index)
 * [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
 * [sshole](https://sshhole.com)
 * [Saturday Morning Breakfast Cereal - Light](https://www.smbc-comics.com/comic/light)
 * [Told to reboot a server, it destroyed systemd, destroyed containers, ran random](https://github.com/openai/codex/issues/59060)
-* [Milkman – The Better Alternative to Postman](https://milkman.dev/)
-* [Show HN: Kairos – Open-source risk and fraud decisioning platform](https://github.com/finic-ai/kairos)
-* [Saturday Morning Breakfast Cereal - Trial](https://www.smbc-comics.com/comic/trial)
-* [Saturday Morning Breakfast Cereal - Borated](https://www.smbc-comics.com/comic/borated)
-* [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
 
 ### Things I'm star-ing
 
