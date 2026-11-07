@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
+* [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
 * [Saturday Morning Breakfast Cereal - Sat](https://www.smbc-comics.com/comic/sat)
 * [Search for everyone](https://kagi.com/changelog#11820)
 * [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
@@ -87,8 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Index](https://www.smbc-comics.com/comic/index)
 * [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
 * [sshole](https://sshhole.com)
-* [Saturday Morning Breakfast Cereal - Light](https://www.smbc-comics.com/comic/light)
-* [Told to reboot a server, it destroyed systemd, destroyed containers, ran random](https://github.com/openai/codex/issues/59060)
 
 ### Things I'm star-ing
 
