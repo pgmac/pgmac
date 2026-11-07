@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Theodicy](https://www.smbc-comics.com/comic/theodicy-6)
 * [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
 * [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
 * [Saturday Morning Breakfast Cereal - Sat](https://www.smbc-comics.com/comic/sat)
@@ -88,7 +89,6 @@ A table of things ...
 * [Pwn.college](https://pwn.college/)
 * [Saturday Morning Breakfast Cereal - Index](https://www.smbc-comics.com/comic/index)
 * [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
-* [sshole](https://sshhole.com)
 
 ### Things I'm star-ing
 
