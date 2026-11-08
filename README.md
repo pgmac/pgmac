@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Friendship](https://www.smbc-comics.com/comic/friendship-2)
 * [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)
 * [Saturday Morning Breakfast Cereal - Theodicy](https://www.smbc-comics.com/comic/theodicy-6)
 * [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
@@ -88,7 +89,6 @@ A table of things ...
 * [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
 * [Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
 * [Pwn.college](https://pwn.college/)
-* [Saturday Morning Breakfast Cereal - Index](https://www.smbc-comics.com/comic/index)
 
 ### Things I'm star-ing
 
