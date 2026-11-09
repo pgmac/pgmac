@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
 * [Saturday Morning Breakfast Cereal - Friendship](https://www.smbc-comics.com/comic/friendship-2)
 * [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)
 * [Saturday Morning Breakfast Cereal - Theodicy](https://www.smbc-comics.com/comic/theodicy-6)
@@ -88,7 +89,6 @@ A table of things ...
 * [Search for everyone](https://kagi.com/changelog#11820)
 * [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
 * [Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
-* [Pwn.college](https://pwn.college/)
 
 ### Things I'm star-ing
 
