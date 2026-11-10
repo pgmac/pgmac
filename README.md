@@ -79,6 +79,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [ssh2RCE](https://ssh2rce.com/)
+* [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com/)
+* [Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com)
 * [Saturday Morning Breakfast Cereal - Learn](https://www.smbc-comics.com/comic/learn-3)
 * [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
 * [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
@@ -86,9 +89,6 @@ A table of things ...
 * [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)
 * [Saturday Morning Breakfast Cereal - Theodicy](https://www.smbc-comics.com/comic/theodicy-6)
 * [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
-* [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
-* [Saturday Morning Breakfast Cereal - Sat](https://www.smbc-comics.com/comic/sat)
-* [Search for everyone](https://kagi.com/changelog#11820)
 
 ### Things I'm star-ing
 
