@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Mega](https://www.smbc-comics.com/comic/mega)
 * [ssh2RCE](https://ssh2rce.com/)
 * [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com/)
 * [Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Friendship](https://www.smbc-comics.com/comic/friendship-2)
 * [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)
 * [Saturday Morning Breakfast Cereal - Theodicy](https://www.smbc-comics.com/comic/theodicy-6)
-* [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
 
 ### Things I'm star-ing
 
