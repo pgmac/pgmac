@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Please](https://www.smbc-comics.com/comic/please)
 * [I deleted all my SSH keys](https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/)
 * [rVPN – stealth VPN with end-to-end encryption](https://rvpn.org/)
 * [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
@@ -88,10 +89,11 @@ A table of things ...
 * [Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com)
 * [Saturday Morning Breakfast Cereal - Learn](https://www.smbc-comics.com/comic/learn-3)
 * [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
-* [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
 
 ### Things I'm star-ing
 
+* [aws-emulator](https://github.com/aws/aws-emulator)
+  AWS Emulator is a local emulator of the AWS APIs.
 * [astroterm](https://github.com/da-luce/astroterm)
   A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 * [proxhawk-tui](https://github.com/Mrdindon/proxhawk-tui)
@@ -110,8 +112,6 @@ A table of things ...
   A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 * [sbom-tools](https://github.com/sbom-tool/sbom-tools)
   Semantic SBOM/CBOM/AI-BOM diff, quality scoring, and compliance validation for CycloneDX/SPDX — component, license, and vulnerability change analysis, cryptographic inventory grading, PQC readiness (CNSA 2.0, NIST IR 8547), and regulatory gates for NTIA, FDA, EU CRA, BSI TR-03183, EUCC, SSDF, EO 14028, and the EU AI Act.
-* [wordstar](https://github.com/nampara-ai/wordstar)
-  The original, unmodified MicroPro WordStar Professional Release 4 from 1987. Desktop version consists of original binaries wrapped in DOSBox staging to run on any modern computer. WebAssembly version runs in any browser.
 
 ### My Blog Posts
 
