@@ -79,6 +79,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [I deleted all my SSH keys](https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/)
+* [rVPN – stealth VPN with end-to-end encryption](https://rvpn.org/)
+* [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
 * [Saturday Morning Breakfast Cereal - Mega](https://www.smbc-comics.com/comic/mega)
 * [ssh2RCE](https://ssh2rce.com/)
 * [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com/)
@@ -86,9 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Learn](https://www.smbc-comics.com/comic/learn-3)
 * [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
 * [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
-* [Saturday Morning Breakfast Cereal - Friendship](https://www.smbc-comics.com/comic/friendship-2)
-* [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)
-* [Saturday Morning Breakfast Cereal - Theodicy](https://www.smbc-comics.com/comic/theodicy-6)
 
 ### Things I'm star-ing
 
