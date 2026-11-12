@@ -79,6 +79,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
+* [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
+* [thehackernews.com](https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html?m=1)
 * [Saturday Morning Breakfast Cereal - Please](https://www.smbc-comics.com/comic/please)
 * [I deleted all my SSH keys](https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/)
 * [rVPN – stealth VPN with end-to-end encryption](https://rvpn.org/)
@@ -86,9 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Mega](https://www.smbc-comics.com/comic/mega)
 * [ssh2RCE](https://ssh2rce.com/)
 * [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com/)
-* [Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com)
-* [Saturday Morning Breakfast Cereal - Learn](https://www.smbc-comics.com/comic/learn-3)
-* [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
 
 ### Things I'm star-ing
 
