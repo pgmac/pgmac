@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - History](https://www.smbc-comics.com/comic/history-6)
 * [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
 * [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
 * [thehackernews.com](https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html?m=1)
@@ -88,7 +89,6 @@ A table of things ...
 * [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
 * [Saturday Morning Breakfast Cereal - Mega](https://www.smbc-comics.com/comic/mega)
 * [ssh2RCE](https://ssh2rce.com/)
-* [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com/)
 
 ### Things I'm star-ing
 
