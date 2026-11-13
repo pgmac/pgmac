@@ -79,6 +79,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
+* [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
+* [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
 * [Saturday Morning Breakfast Cereal - History](https://www.smbc-comics.com/comic/history-6)
 * [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
 * [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
@@ -86,9 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Please](https://www.smbc-comics.com/comic/please)
 * [I deleted all my SSH keys](https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/)
 * [rVPN – stealth VPN with end-to-end encryption](https://rvpn.org/)
-* [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
-* [Saturday Morning Breakfast Cereal - Mega](https://www.smbc-comics.com/comic/mega)
-* [ssh2RCE](https://ssh2rce.com/)
 
 ### Things I'm star-ing
 
