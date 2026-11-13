@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - AI](https://www.smbc-comics.com/comic/ai-18)
 * [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
 * [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
 * [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
@@ -88,7 +89,6 @@ A table of things ...
 * [thehackernews.com](https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html?m=1)
 * [Saturday Morning Breakfast Cereal - Please](https://www.smbc-comics.com/comic/please)
 * [I deleted all my SSH keys](https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/)
-* [rVPN – stealth VPN with end-to-end encryption](https://rvpn.org/)
 
 ### Things I'm star-ing
 
