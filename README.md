@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
 * [Saturday Morning Breakfast Cereal - AI](https://www.smbc-comics.com/comic/ai-18)
 * [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
 * [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
@@ -88,7 +89,6 @@ A table of things ...
 * [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
 * [thehackernews.com](https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html?m=1)
 * [Saturday Morning Breakfast Cereal - Please](https://www.smbc-comics.com/comic/please)
-* [I deleted all my SSH keys](https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/)
 
 ### Things I'm star-ing
 
