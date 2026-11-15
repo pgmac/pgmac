@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Valhalla](https://www.smbc-comics.com/comic/valhalla)
 * [Saturday Morning Breakfast Cereal - Field](https://www.smbc-comics.com/comic/field)
 * [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
 * [Saturday Morning Breakfast Cereal - AI](https://www.smbc-comics.com/comic/ai-18)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - History](https://www.smbc-comics.com/comic/history-6)
 * [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
 * [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
-* [thehackernews.com](https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html?m=1)
 
 ### Things I'm star-ing
 
