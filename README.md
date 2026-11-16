@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Cats](https://www.smbc-comics.com/comic/cats-2)
 * [Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/)
 * [Saturday Morning Breakfast Cereal - Valhalla](https://www.smbc-comics.com/comic/valhalla)
 * [Saturday Morning Breakfast Cereal - Field](https://www.smbc-comics.com/comic/field)
@@ -88,7 +89,6 @@ A table of things ...
 * [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
 * [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
 * [Saturday Morning Breakfast Cereal - History](https://www.smbc-comics.com/comic/history-6)
-* [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
 
 ### Things I'm star-ing
 
