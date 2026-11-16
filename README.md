@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/)
 * [Saturday Morning Breakfast Cereal - Valhalla](https://www.smbc-comics.com/comic/valhalla)
 * [Saturday Morning Breakfast Cereal - Field](https://www.smbc-comics.com/comic/field)
 * [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
 * [Saturday Morning Breakfast Cereal - History](https://www.smbc-comics.com/comic/history-6)
 * [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
-* [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
 
 ### Things I'm star-ing
 
