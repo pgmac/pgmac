@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
+* [Windows 11 is collecting data on which coding agents and developer tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
 * [Saturday Morning Breakfast Cereal - Cats](https://www.smbc-comics.com/comic/cats-2)
 * [Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/)
 * [Saturday Morning Breakfast Cereal - Valhalla](https://www.smbc-comics.com/comic/valhalla)
@@ -87,8 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - AI](https://www.smbc-comics.com/comic/ai-18)
 * [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
 * [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
-* [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
-* [Saturday Morning Breakfast Cereal - History](https://www.smbc-comics.com/comic/history-6)
 
 ### Things I'm star-ing
 
