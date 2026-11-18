@@ -92,6 +92,8 @@ A table of things ...
 
 ### Things I'm star-ing
 
+* [OpenSLO](https://github.com/OpenSLO/OpenSLO)
+  Open specification for defining and expressing service level objectives (SLO)
 * [aws-emulator](https://github.com/aws/aws-emulator)
   AWS Emulator is a local emulator of the AWS APIs.
 * [astroterm](https://github.com/da-luce/astroterm)
@@ -110,8 +112,6 @@ A table of things ...
   Agent skills for building with TypeSafe's System One API
 * [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
   A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-* [sbom-tools](https://github.com/sbom-tool/sbom-tools)
-  Semantic SBOM/CBOM/AI-BOM diff, quality scoring, and compliance validation for CycloneDX/SPDX — component, license, and vulnerability change analysis, cryptographic inventory grading, PQC readiness (CNSA 2.0, NIST IR 8547), and regulatory gates for NTIA, FDA, EU CRA, BSI TR-03183, EUCC, SSDF, EO 14028, and the EU AI Act.
 
 ### My Blog Posts
 
