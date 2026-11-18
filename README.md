@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Formal](https://www.smbc-comics.com/comic/formal)
 * [Saturday Morning Breakfast Cereal - Butt](https://www.smbc-comics.com/comic/butt)
 * [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
 * [Windows 11 is collecting data on which coding agents and developer tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Field](https://www.smbc-comics.com/comic/field)
 * [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
 * [Saturday Morning Breakfast Cereal - AI](https://www.smbc-comics.com/comic/ai-18)
-* [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
 
 ### Things I'm star-ing
 
