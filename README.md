@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Juice](https://www.smbc-comics.com/comic/juice-3)
 * [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
 * [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
 * [Codeberg.org Not Reachable](https://social.anoxinon.de/@codebergstatus/117636437840688845)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Formal](https://www.smbc-comics.com/comic/formal)
 * [Saturday Morning Breakfast Cereal - Butt](https://www.smbc-comics.com/comic/butt)
 * [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
-* [Windows 11 is collecting data on which coding agents and developer tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
 
 ### Things I'm star-ing
 
