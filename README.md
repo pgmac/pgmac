@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
+* [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
+* [Codeberg.org Not Reachable](https://social.anoxinon.de/@codebergstatus/117636437840688845)
+* [Australia's full national topographic library at your fingertips](https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips)
+* [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
+* [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
 * [Saturday Morning Breakfast Cereal - Formal](https://www.smbc-comics.com/comic/formal)
 * [Saturday Morning Breakfast Cereal - Butt](https://www.smbc-comics.com/comic/butt)
 * [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
 * [Windows 11 is collecting data on which coding agents and developer tools you use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
-* [Saturday Morning Breakfast Cereal - Cats](https://www.smbc-comics.com/comic/cats-2)
-* [Coles hit by a cybersecurity incident](https://www.colesgroup.com.au/updates/)
-* [Saturday Morning Breakfast Cereal - Valhalla](https://www.smbc-comics.com/comic/valhalla)
-* [Saturday Morning Breakfast Cereal - Field](https://www.smbc-comics.com/comic/field)
-* [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
-* [Saturday Morning Breakfast Cereal - AI](https://www.smbc-comics.com/comic/ai-18)
 
 ### Things I'm star-ing
 
