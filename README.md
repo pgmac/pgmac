@@ -79,6 +79,9 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Fable](https://www.smbc-comics.com/comic/fable-2)
+* [www.berryaudio.org](https://www.berryaudio.org/)
+* [gitleaks.io](https://gitleaks.io/)
 * [Saturday Morning Breakfast Cereal - Ed](https://www.smbc-comics.com/comic/ed)
 * [Saturday Morning Breakfast Cereal - Juice](https://www.smbc-comics.com/comic/juice-3)
 * [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
@@ -86,9 +89,6 @@ A table of things ...
 * [Codeberg.org Not Reachable](https://social.anoxinon.de/@codebergstatus/117636437840688845)
 * [Australia's full national topographic library at your fingertips](https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips)
 * [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
-* [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
-* [Saturday Morning Breakfast Cereal - Formal](https://www.smbc-comics.com/comic/formal)
-* [Saturday Morning Breakfast Cereal - Butt](https://www.smbc-comics.com/comic/butt)
 
 ### Things I'm star-ing
 
