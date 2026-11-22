@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
+* [GnuPG Security Advisory for GPGME](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
 * [Saturday Morning Breakfast Cereal - Fable](https://www.smbc-comics.com/comic/fable-2)
 * [www.berryaudio.org](https://www.berryaudio.org/)
 * [gitleaks.io](https://gitleaks.io/)
@@ -87,11 +89,11 @@ A table of things ...
 * [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
 * [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
 * [Codeberg.org Not Reachable](https://social.anoxinon.de/@codebergstatus/117636437840688845)
-* [Australia's full national topographic library at your fingertips](https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips)
-* [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
 
 ### Things I'm star-ing
 
+* [PcapAnalyzer](https://github.com/sebaandrada-cell/PcapAnalyzer)
+  Free, self-hosted pcap analyzer with 27 problem detectors and AI investigation
 * [OpenSLO](https://github.com/OpenSLO/OpenSLO)
   Open specification for defining and expressing service level objectives (SLO)
 * [aws-emulator](https://github.com/aws/aws-emulator)
@@ -110,8 +112,6 @@ A table of things ...
   Agent Executor (AX) is Google's open agentic orchestration runtime
 * [skills](https://github.com/typesafe-ai/skills)
   Agent skills for building with TypeSafe's System One API
-* [security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-  A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
 ### My Blog Posts
 
