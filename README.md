@@ -79,16 +79,16 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
+* [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
+* [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
+* [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
 * [Saturday Morning Breakfast Cereal - See](https://www.smbc-comics.com/comic/see-2)
 * [Saturday Morning Breakfast Cereal - Order](https://www.smbc-comics.com/comic/order-4)
 * [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
 * [GnuPG Security Advisory for GPGME](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
 * [Saturday Morning Breakfast Cereal - Fable](https://www.smbc-comics.com/comic/fable-2)
 * [www.berryaudio.org](https://www.berryaudio.org/)
-* [gitleaks.io](https://gitleaks.io/)
-* [Saturday Morning Breakfast Cereal - Ed](https://www.smbc-comics.com/comic/ed)
-* [Saturday Morning Breakfast Cereal - Juice](https://www.smbc-comics.com/comic/juice-3)
-* [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
 
 ### Things I'm star-ing
 
