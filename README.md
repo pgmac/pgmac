@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - See](https://www.smbc-comics.com/comic/see-2)
 * [Saturday Morning Breakfast Cereal - Order](https://www.smbc-comics.com/comic/order-4)
 * [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
 * [GnuPG Security Advisory for GPGME](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Ed](https://www.smbc-comics.com/comic/ed)
 * [Saturday Morning Breakfast Cereal - Juice](https://www.smbc-comics.com/comic/juice-3)
 * [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
-* [Highly classified US national security communications network goes down](https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down)
 
 ### Things I'm star-ing
 
