@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Vintage](https://www.smbc-comics.com/comic/vintage-2)
+* [Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
 * [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
 * [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
 * [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
@@ -87,8 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - Order](https://www.smbc-comics.com/comic/order-4)
 * [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
 * [GnuPG Security Advisory for GPGME](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
-* [Saturday Morning Breakfast Cereal - Fable](https://www.smbc-comics.com/comic/fable-2)
-* [www.berryaudio.org](https://www.berryaudio.org/)
 
 ### Things I'm star-ing
 
