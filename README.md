@@ -79,6 +79,7 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Wowww](https://www.smbc-comics.com/comic/wowww)
 * [Saturday Morning Breakfast Cereal - Vintage](https://www.smbc-comics.com/comic/vintage-2)
 * [Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
 * [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
@@ -88,7 +89,6 @@ A table of things ...
 * [Saturday Morning Breakfast Cereal - See](https://www.smbc-comics.com/comic/see-2)
 * [Saturday Morning Breakfast Cereal - Order](https://www.smbc-comics.com/comic/order-4)
 * [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
-* [GnuPG Security Advisory for GPGME](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
 
 ### Things I'm star-ing
 
