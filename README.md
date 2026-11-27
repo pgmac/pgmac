@@ -79,6 +79,8 @@ A table of things ...
 
 ### Articles I've added to my [Link Ace](https://links.pgmac.net.au/) list
 
+* [Saturday Morning Breakfast Cereal - Breed](https://www.smbc-comics.com/comic/breed)
+* [Company Culture = Slack Emoji ÷ √Headcount](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
 * [Saturday Morning Breakfast Cereal - Staring](https://www.smbc-comics.com/comic/staring)
 * [Jev is probably Qwen3.5-35B-A3B](https://modaic.dev/blog/latency-doesnt-lie)
 * [Saturday Morning Breakfast Cereal - Wowww](https://www.smbc-comics.com/comic/wowww)
@@ -87,8 +89,6 @@ A table of things ...
 * [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
 * [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
 * [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
-* [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
-* [Saturday Morning Breakfast Cereal - See](https://www.smbc-comics.com/comic/see-2)
 
 ### Things I'm star-ing
 
